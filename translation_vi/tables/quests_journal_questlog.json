@@ -1,0 +1,3831 @@
+[
+  {
+    "id": "journal.header.HOENN",
+    "source": "journal.header",
+    "original_en": "Hoenn - Next objective:",
+    "translation_vi": ""
+  },
+  {
+    "id": "journal.header.POST",
+    "source": "journal.header",
+    "original_en": "Post-game - Next objective:",
+    "translation_vi": ""
+  },
+  {
+    "id": "journal.header.SINNOH",
+    "source": "journal.header",
+    "original_en": "Sinnoh - Next objective:",
+    "translation_vi": ""
+  },
+  {
+    "id": "journal.header.LOST",
+    "source": "journal.header",
+    "original_en": "Lost Artifacts - Next objective:",
+    "translation_vi": ""
+  },
+  {
+    "id": "journal.step.000",
+    "source": "journal.step",
+    "original_en": "Go north of Littleroot Town to Route 101 and help Prof. Birch. You will get your first Pokémon.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.001",
+    "source": "journal.step",
+    "original_en": "Find Birch's kid on Route 103, north of Oldale Town, then return to the lab in Littleroot for your Pokédex.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.002",
+    "source": "journal.step",
+    "original_en": "Go through Petalburg Woods to Rustboro City and beat Roxanne, the Gym Leader.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.003",
+    "source": "journal.step",
+    "original_en": "A Team Aqua grunt stole the Devon Goods! Chase him east of Rustboro into Rusturf Tunnel and get them back.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.004",
+    "source": "journal.step",
+    "original_en": "Take the Devon Goods back to Devon Corp. in Rustboro. The President has a letter and a delivery for you.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.005",
+    "source": "journal.step",
+    "original_en": "Ask Mr. Briney, in his cottage on Route 104, to sail you to Dewford Town. Deliver the letter to Steven deep in Granite Cave.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.006",
+    "source": "journal.step",
+    "original_en": "Beat Brawly, the Gym Leader of Dewford Town.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.007",
+    "source": "journal.step",
+    "original_en": "Sail on to Slateport City and deliver the Devon Goods to Capt. Stern at the Oceanic Museum.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.008",
+    "source": "journal.step",
+    "original_en": "Go north along Route 110 to Mauville City and beat Wattson, the Gym Leader.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.009",
+    "source": "journal.step",
+    "original_en": "Chase Team Magma: from Route 111 go through the Fiery Path to Fallarbor Town and Meteor Falls, then ride the Route 112 cable car up Mt. Chimney.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.010",
+    "source": "journal.step",
+    "original_en": "Walk down Jagged Pass to Lavaridge Town and beat Flannery, the Gym Leader.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.011",
+    "source": "journal.step",
+    "original_en": "Go home to Petalburg City and beat your father Norman, the Gym Leader.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.012",
+    "source": "journal.step",
+    "original_en": "Surf east from Route 118 and go north up Route 119: Team Aqua has taken over the Weather Institute.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.013",
+    "source": "journal.step",
+    "original_en": "Beat Winona, the Gym Leader of Fortree City. If something invisible blocks the way, Steven's Devon Scope on Route 120 reveals it.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.014",
+    "source": "journal.step",
+    "original_en": "Head east toward Lilycove City. Teams Magma and Aqua are after the orbs on Mt. Pyre (Route 122): climb to the summit.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.015",
+    "source": "journal.step",
+    "original_en": "Take the Magma Emblem from Mt. Pyre to Jagged Pass. It opens Team Magma's hideout: stop Maxie inside.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.016",
+    "source": "journal.step",
+    "original_en": "Raid Team Aqua's Hideout on the coast east of Lilycove City before Archie gets away.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.017",
+    "source": "journal.step",
+    "original_en": "Team Plasma is blocking Mossdeep's Gym. Find them in the icy room of Shoal Cave, north of Mossdeep City, and drive them off.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.018",
+    "source": "journal.step",
+    "original_en": "Beat Tate & Liza, the Gym Leaders of Mossdeep City.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.019",
+    "source": "journal.step",
+    "original_en": "Team Magma is attacking the Mossdeep Space Center! Stop them, then talk to Steven.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.020",
+    "source": "journal.step",
+    "original_en": "Dive on Route 128 to reach the Seafloor Cavern and stop Team Aqua.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.021",
+    "source": "journal.step",
+    "original_en": "Groudon and Kyogre are clashing over Sootopolis City. Help Wallace: wake Rayquaza at the Sky Pillar (Route 131). He gives you HM Waterfall after.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.022",
+    "source": "journal.step",
+    "original_en": "Beat Juan, the Gym Leader of Sootopolis City.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.023",
+    "source": "journal.step",
+    "original_en": "Surf to Ever Grande City, cross Victory Road and beat the Elite Four and the Champion.",
+    "translation_vi": "",
+    "context": "Hoenn - Next objective:"
+  },
+  {
+    "id": "journal.step.024",
+    "source": "journal.step",
+    "original_en": "Go home to Littleroot Town: Interpol agents Nanu and Anabel are waiting for the new Champion.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.025",
+    "source": "journal.step",
+    "original_en": "In Ever Grande City the guard now lets you through. Follow the passage to Steven's Island, where Interpol waits.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.026",
+    "source": "journal.step",
+    "original_en": "Wally called from Petalburg City. Hurry: someone is trying to steal his Mega Bracelet!",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.027",
+    "source": "journal.step",
+    "original_en": "Steven called with an emergency. Go to Devon Corp. in Rustboro City.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.028",
+    "source": "journal.step",
+    "original_en": "Find a meteorite fragment in Granite Cave, near Dewford Town. Zinnia is there too.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.029",
+    "source": "journal.step",
+    "original_en": "Bring the meteorite to Prof. Cozmo at the Mossdeep Space Center.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.030",
+    "source": "journal.step",
+    "original_en": "Team Magma took your Mega Bracelet. Go to Meteor Falls and stop them.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.031",
+    "source": "journal.step",
+    "original_en": "Beat Zinnia in Meteor Falls to get your Mega Bracelet back.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.032",
+    "source": "journal.step",
+    "original_en": "Climb the Sky Pillar (Route 131) and face Rayquaza.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.033",
+    "source": "journal.step",
+    "original_en": "Ride Rayquaza into space to stop the meteor. Something is waiting beyond the sky.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.034",
+    "source": "journal.step",
+    "original_en": "Back on the ground, talk to Wallace in Mossdeep City.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.035",
+    "source": "journal.step",
+    "original_en": "Return to Steven's Island. Anabel reports trouble deep inside Meteor Falls: find Steven there.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.036",
+    "source": "journal.step",
+    "original_en": "Anabel found a new Ultra Wormhole near Pacifidlog Town. Go through it.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.037",
+    "source": "journal.step",
+    "original_en": "Report to Anabel on Steven's Island.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.038",
+    "source": "journal.step",
+    "original_en": "Gladion needs you at the Secret Base on Route 111: defeat the Totem Pokémon.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.039",
+    "source": "journal.step",
+    "original_en": "Nanu found strange islands. Pass the four Tapus' trials with the Island Kahunas.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.group_label.039",
+    "source": "journal.group_label",
+    "original_en": "Tapus that know you:",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.group_member.039.00",
+    "source": "journal.group_member",
+    "original_en": "Tapu Bulu: talk to Nanu on Steven's Island.",
+    "translation_vi": "",
+    "context": "Tapus that know you:"
+  },
+  {
+    "id": "journal.group_member.039.01",
+    "source": "journal.group_member",
+    "original_en": "Tapu Koko: find Hala in Dewford Town.",
+    "translation_vi": "",
+    "context": "Tapus that know you:"
+  },
+  {
+    "id": "journal.group_member.039.02",
+    "source": "journal.group_member",
+    "original_en": "Tapu Fini: find Hapu in Slateport City.",
+    "translation_vi": "",
+    "context": "Tapus that know you:"
+  },
+  {
+    "id": "journal.group_member.039.03",
+    "source": "journal.group_member",
+    "original_en": "Tapu Lele: find Olivia in Mossdeep City.",
+    "translation_vi": "",
+    "context": "Tapus that know you:"
+  },
+  {
+    "id": "journal.step.040",
+    "source": "journal.step",
+    "original_en": "All four Tapus recognise you. Report to Nanu on Steven's Island.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.041",
+    "source": "journal.step",
+    "original_en": "Talk to the Devon Scout on Steven's Island: he has news about Faba. The Ultra Wormhole Faba used will not let you in before his report.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.042",
+    "source": "journal.step",
+    "original_en": "The Devon Scout tracked Faba to the Ultra Wormhole in the Scorched Slab (Route 120). Follow him, and bring a way past whirlpools.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.043",
+    "source": "journal.step",
+    "original_en": "Report to Anabel on Steven's Island.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.044",
+    "source": "journal.step",
+    "original_en": "Anabel says Steven and the former Champions are waiting in the lobby. Train with them.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.045",
+    "source": "journal.step",
+    "original_en": "Report to Anabel on Steven's Island.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.046",
+    "source": "journal.step",
+    "original_en": "The Devon Scout says the Ultra Wormhole fluctuations follow abnormal weather. Find the drought (Terra Cave) or the downpour (Marine Cave).",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.047",
+    "source": "journal.step",
+    "original_en": "Report to Anabel on Steven's Island.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.048",
+    "source": "journal.step",
+    "original_en": "The Devon Scout detected an Ultra Wormhole at the top of Mt. Pyre. Go through it.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.049",
+    "source": "journal.step",
+    "original_en": "Report to Anabel on Steven's Island.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.050",
+    "source": "journal.step",
+    "original_en": "Next fluctuation: the icy room of Shoal Cave, where Team Plasma was. Go through the Ultra Wormhole there.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.051",
+    "source": "journal.step",
+    "original_en": "Report to Anabel on Steven's Island.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.052",
+    "source": "journal.step",
+    "original_en": "Next fluctuation: the Ultra Wormhole on Route 116.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.053",
+    "source": "journal.step",
+    "original_en": "Report to Anabel on Steven's Island.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.054",
+    "source": "journal.step",
+    "original_en": "Faba was seen alone near the Mirage Tower in the Route 111 desert. Go and catch him.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.055",
+    "source": "journal.step",
+    "original_en": "Report to Anabel on Steven's Island.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.056",
+    "source": "journal.step",
+    "original_en": "Find Red. The last Ultra Wormholes are deep in Meteor Falls and Granite Cave.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.057",
+    "source": "journal.step",
+    "original_en": "Report to Anabel on Steven's Island.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.058",
+    "source": "journal.step",
+    "original_en": "Collect all 18 Z-Crystals, then go to Pacifidlog Town. The crystals open the way to Team Rainbow Rocket's castle.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.059",
+    "source": "journal.step",
+    "original_en": "Storm Team Rainbow Rocket's castle and defeat them at the Mountain Top.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.060",
+    "source": "journal.step",
+    "original_en": "Return to Steven's Island: Steven is waiting.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.061",
+    "source": "journal.step",
+    "original_en": "Earn a Silver Symbol at the Battle Frontier - for one, beat Salon Maiden Anabel, the 35th battle of a Battle Tower Singles streak. Then see Scott in his Frontier house for a ferry ticket to the World Championships.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.062",
+    "source": "journal.step",
+    "original_en": "Take the ferry from Lilycove City to Champion Island for the World Championships. Familiar faces are waiting.",
+    "translation_vi": "",
+    "context": "Post-game - Next objective:"
+  },
+  {
+    "id": "journal.step.063",
+    "source": "journal.step",
+    "original_en": "Show Waji's boat ticket to the sailor at Lilycove City's harbor and sail to Canalave City in Sinnoh.",
+    "translation_vi": "",
+    "context": "Sinnoh - Next objective:"
+  },
+  {
+    "id": "journal.step.064",
+    "source": "journal.step",
+    "original_en": "Earn the eight Sinnoh Gym Badges. Still to beat:",
+    "translation_vi": "",
+    "context": "Sinnoh - Next objective:"
+  },
+  {
+    "id": "journal.group_label.064",
+    "source": "journal.group_label",
+    "original_en": "Sinnoh Badges:",
+    "translation_vi": "",
+    "context": "Sinnoh - Next objective:"
+  },
+  {
+    "id": "journal.group_member.064.00",
+    "source": "journal.group_member",
+    "original_en": "Roark - Oreburgh City",
+    "translation_vi": "",
+    "context": "Sinnoh Badges:"
+  },
+  {
+    "id": "journal.group_member.064.01",
+    "source": "journal.group_member",
+    "original_en": "Gardenia - Eterna City",
+    "translation_vi": "",
+    "context": "Sinnoh Badges:"
+  },
+  {
+    "id": "journal.group_member.064.02",
+    "source": "journal.group_member",
+    "original_en": "Maylene - Veilstone City",
+    "translation_vi": "",
+    "context": "Sinnoh Badges:"
+  },
+  {
+    "id": "journal.group_member.064.03",
+    "source": "journal.group_member",
+    "original_en": "Crasher Wake - Pastoria City",
+    "translation_vi": "",
+    "context": "Sinnoh Badges:"
+  },
+  {
+    "id": "journal.group_member.064.04",
+    "source": "journal.group_member",
+    "original_en": "Fantina - Hearthome City",
+    "translation_vi": "",
+    "context": "Sinnoh Badges:"
+  },
+  {
+    "id": "journal.group_member.064.05",
+    "source": "journal.group_member",
+    "original_en": "Byron - Canalave City",
+    "translation_vi": "",
+    "context": "Sinnoh Badges:"
+  },
+  {
+    "id": "journal.group_member.064.06",
+    "source": "journal.group_member",
+    "original_en": "Candice - Snowpoint City",
+    "translation_vi": "",
+    "context": "Sinnoh Badges:"
+  },
+  {
+    "id": "journal.group_member.064.07",
+    "source": "journal.group_member",
+    "original_en": "Volkner - Sunyshore City",
+    "translation_vi": "",
+    "context": "Sinnoh Badges:"
+  },
+  {
+    "id": "journal.step.065",
+    "source": "journal.step",
+    "original_en": "Take Victory Road to the Sinnoh League and beat the Elite Four and Cynthia.",
+    "translation_vi": "",
+    "context": "Sinnoh - Next objective:"
+  },
+  {
+    "id": "journal.step.066",
+    "source": "journal.step",
+    "original_en": "Collect the 17 Plates hidden in Hoenn and Sinnoh. Waji, at the Spear Pillar on top of Mt. Coronet, gives hints.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.group_label.066",
+    "source": "journal.group_label",
+    "original_en": "Plates found:",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.group_member.066.00",
+    "source": "journal.group_member",
+    "original_en": "Fist Plate: the Sealed Chamber, the ruin under the sea of Route 134 (Dive).",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.01",
+    "source": "journal.group_member",
+    "original_en": "Sky Plate: the house full of Wingull on Route 119.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.02",
+    "source": "journal.group_member",
+    "original_en": "Toxic Plate: a little hill in the marsh on Route 212, toward Pastoria City.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.03",
+    "source": "journal.group_member",
+    "original_en": "Earth Plate: Granite Cave near Dewford, in the room at the back of the first floor.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.04",
+    "source": "journal.group_member",
+    "original_en": "Stone Plate: Oreburgh Mine, next to Oreburgh City.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.05",
+    "source": "journal.group_member",
+    "original_en": "Insect Plate: the Solaceon Ruins, in one of the large chambers.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.06",
+    "source": "journal.group_member",
+    "original_en": "Spooky Plate: the Lost Tower on Route 209, near the Solaceon Ruins.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.07",
+    "source": "journal.group_member",
+    "original_en": "Iron and Dread Plates: the Team Rocket hideout under the Mauville Game Corner.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.08",
+    "source": "journal.group_member",
+    "original_en": "Flame Plate: the summit of Mt. Chimney.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.09",
+    "source": "journal.group_member",
+    "original_en": "Splash Plate: underwater on Route 126, around Sootopolis (Dive).",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.10",
+    "source": "journal.group_member",
+    "original_en": "Meadow Plate: in the shade of the trees on rainy Route 120.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.11",
+    "source": "journal.group_member",
+    "original_en": "Zap Plate: a hidden corner of New Mauville.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.12",
+    "source": "journal.group_member",
+    "original_en": "Mind Plate: the Solaceon Ruins, away from the Insect Plate.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.13",
+    "source": "journal.group_member",
+    "original_en": "Icicle Plate: the mountain man's hut on snowy Route 217. He gives it to you.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.14",
+    "source": "journal.group_member",
+    "original_en": "Draco Plate: the Meteor Temple, reached from Meteor Falls.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.group_member.066.15",
+    "source": "journal.group_member",
+    "original_en": "Pixie Plate: deep inside Mt. Coronet.",
+    "translation_vi": "",
+    "context": "Plates found:"
+  },
+  {
+    "id": "journal.step.067",
+    "source": "journal.step",
+    "original_en": "Step onto the altar at the Spear Pillar with all 17 Plates. The rift that opens will test everything you have.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.068",
+    "source": "journal.step",
+    "original_en": "Waji senses the rift's energy in Celestic Town. Visit its ruins with Dialga and Palkia both caught to open a way into the Distortion World, or go in from the islet on Route 129.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.069",
+    "source": "journal.step",
+    "original_en": "Enter the Distortion World and face the ruler of the reverse world. Ways in: the new passage at the Spear Pillar or Sendoff Spring, or the islet on Route 129 in Hoenn.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.070",
+    "source": "journal.step",
+    "original_en": "Keep all 17 Plates in your Bag and return to the Mountain Top above Team Rainbow Rocket's castle. The Plates' true owner is waiting.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.071",
+    "source": "journal.step",
+    "original_en": "Arceus sent you to Hearthome City. Find Cogita in a house on the west side of town, with all 17 Plates in your Bag.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.072",
+    "source": "journal.step",
+    "original_en": "Step through the space-time rift in Cogita's house. It leads to the Hisui region.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.073",
+    "source": "journal.step",
+    "original_en": "Find Cogita in Hisui. Rei (Mingyao) at the Deertrack Heights base camp flies you around: look on Firespit Island.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.074",
+    "source": "journal.step",
+    "original_en": "Visit the clan leaders at the hot spring in the Alabaster Icelands.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.group_label.074",
+    "source": "journal.group_label",
+    "original_en": "Clan leaders met:",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.group_member.074.00",
+    "source": "journal.group_member",
+    "original_en": "Adaman, Diamond Clan",
+    "translation_vi": "",
+    "context": "Clan leaders met:"
+  },
+  {
+    "id": "journal.group_member.074.01",
+    "source": "journal.group_member",
+    "original_en": "Irida, Pearl Clan",
+    "translation_vi": "",
+    "context": "Clan leaders met:"
+  },
+  {
+    "id": "journal.step.075",
+    "source": "journal.step",
+    "original_en": "Diamond and Pearl point to the foot of Mt. Coronet. Enter the Primeval Cave: whoever is behind the rifts is inside.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.076",
+    "source": "journal.step",
+    "original_en": "Volo is beaten. Return to base camp in Hisui: Rei and Cogita have news.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.077",
+    "source": "journal.step",
+    "original_en": "In Solaceon Town in Sinnoh, a woman has slept in a nightmare since her offerings at the Lost Tower. Hear her husband out.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.078",
+    "source": "journal.step",
+    "original_en": "Bring the Lunar Wing to the sleeping woman in Solaceon Town and wake her.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.079",
+    "source": "journal.step",
+    "original_en": "The oppressive presence in the Lost Tower has lifted. Something pitch-black stirs deep inside: face the phantom of nightmares.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.080",
+    "source": "journal.step",
+    "original_en": "Catch Tornadus, Thundurus and Landorus, then show Cogita on Firespit Island in Hisui. She has one more legend to tell.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.081",
+    "source": "journal.step",
+    "original_en": "Kitty in the three-floor house on Steven's Island wants dried fish. Find the Dried Fish on Prelude Beach in Hisui and bring it to her for a nameless stone.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.082",
+    "source": "journal.step",
+    "original_en": "With Kitty's nameless stone in your Bag, climb toward the Sacred Temple in Hisui's highlands. A dread of unknown origin hangs over the summit.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "journal.step.083",
+    "source": "journal.step",
+    "original_en": "Cogita waits on Champion Island with more to tell.",
+    "translation_vi": "",
+    "context": "Lost Artifacts - Next objective:"
+  },
+  {
+    "id": "questlog.legend_hint.0144",
+    "source": "questlog.legend_hint",
+    "original_en": "A legendary bird nests on a sacred island far from Hoenn's shores.",
+    "translation_vi": "",
+    "context": "Articuno"
+  },
+  {
+    "id": "questlog.legend_where.0144",
+    "source": "questlog.legend_where",
+    "original_en": "Navel Rock, Lv50, with the other two legendary birds. The three also appear together on Route 128 (Lv40).",
+    "translation_vi": "",
+    "context": "Articuno"
+  },
+  {
+    "id": "questlog.legend_hint.0145",
+    "source": "questlog.legend_hint",
+    "original_en": "A legendary bird nests on a sacred island far from Hoenn's shores.",
+    "translation_vi": "",
+    "context": "Zapdos"
+  },
+  {
+    "id": "questlog.legend_where.0145",
+    "source": "questlog.legend_where",
+    "original_en": "Navel Rock, Lv50, with the other two legendary birds. The three also appear together on Route 128 (Lv40).",
+    "translation_vi": "",
+    "context": "Zapdos"
+  },
+  {
+    "id": "questlog.legend_hint.0146",
+    "source": "questlog.legend_hint",
+    "original_en": "A legendary bird nests on a sacred island far from Hoenn's shores.",
+    "translation_vi": "",
+    "context": "Moltres"
+  },
+  {
+    "id": "questlog.legend_where.0146",
+    "source": "questlog.legend_where",
+    "original_en": "Navel Rock, Lv50, with the other two legendary birds. The three also appear together on Route 128 (Lv40).",
+    "translation_vi": "",
+    "context": "Moltres"
+  },
+  {
+    "id": "questlog.legend_hint.0150",
+    "source": "questlog.legend_hint",
+    "original_en": "Deep in a cave of Kanto, past the ones who guard it.",
+    "translation_vi": "",
+    "context": "Mewtwo"
+  },
+  {
+    "id": "questlog.legend_where.0150",
+    "source": "questlog.legend_where",
+    "original_en": "Cerulean Cave, Lv50, at the far end past the Team Rocket executives.",
+    "translation_vi": "",
+    "context": "Mewtwo"
+  },
+  {
+    "id": "questlog.legend_hint.0151",
+    "source": "questlog.legend_hint",
+    "original_en": "An island that is on no map. An old sea chart shows the way.",
+    "translation_vi": "",
+    "context": "Mew"
+  },
+  {
+    "id": "questlog.legend_where.0151",
+    "source": "questlog.legend_where",
+    "original_en": "Faraway Island, Lv30. Sail there from Lilycove City with the Old Sea Map.",
+    "translation_vi": "",
+    "context": "Mew"
+  },
+  {
+    "id": "questlog.legend_hint.0243",
+    "source": "questlog.legend_hint",
+    "original_en": "Johto: the ruins of a burned tower.",
+    "translation_vi": "",
+    "context": "Raikou"
+  },
+  {
+    "id": "questlog.legend_where.0243",
+    "source": "questlog.legend_where",
+    "original_en": "The Bell Tower Ruins in Johto, Lv50, with Entei and Suicune. Also met at Navel Rock.",
+    "translation_vi": "",
+    "context": "Raikou"
+  },
+  {
+    "id": "questlog.legend_hint.0244",
+    "source": "questlog.legend_hint",
+    "original_en": "Johto: the ruins of a burned tower.",
+    "translation_vi": "",
+    "context": "Entei"
+  },
+  {
+    "id": "questlog.legend_where.0244",
+    "source": "questlog.legend_where",
+    "original_en": "The Bell Tower Ruins in Johto, Lv50, with Raikou and Suicune. Also met at Navel Rock.",
+    "translation_vi": "",
+    "context": "Entei"
+  },
+  {
+    "id": "questlog.legend_hint.0245",
+    "source": "questlog.legend_hint",
+    "original_en": "Johto: the ruins of a burned tower.",
+    "translation_vi": "",
+    "context": "Suicune"
+  },
+  {
+    "id": "questlog.legend_where.0245",
+    "source": "questlog.legend_where",
+    "original_en": "The Bell Tower Ruins in Johto, Lv50, with Raikou and Entei.",
+    "translation_vi": "",
+    "context": "Suicune"
+  },
+  {
+    "id": "questlog.legend_hint.0249",
+    "source": "questlog.legend_hint",
+    "original_en": "Johto: deep inside a group of islands in a whirling sea.",
+    "translation_vi": "",
+    "context": "Lugia"
+  },
+  {
+    "id": "questlog.legend_where.0249",
+    "source": "questlog.legend_where",
+    "original_en": "The depths of the Whirl Islands in Johto. Dark Lugia (Lv70), met on the Abandoned Ship, also counts.",
+    "translation_vi": "",
+    "context": "Lugia"
+  },
+  {
+    "id": "questlog.legend_hint.0250",
+    "source": "questlog.legend_hint",
+    "original_en": "Johto: the top of a tall bell-ringing tower.",
+    "translation_vi": "",
+    "context": "Ho-Oh"
+  },
+  {
+    "id": "questlog.legend_where.0250",
+    "source": "questlog.legend_where",
+    "original_en": "The summit of the Bell Tower in Johto, after the legendary birds. It also appears at Navel Rock.",
+    "translation_vi": "",
+    "context": "Ho-Oh"
+  },
+  {
+    "id": "questlog.legend_hint.0251",
+    "source": "questlog.legend_hint",
+    "original_en": "A forest where time does not flow as it should.",
+    "translation_vi": "",
+    "context": "Celebi"
+  },
+  {
+    "id": "questlog.legend_where.0251",
+    "source": "questlog.legend_where",
+    "original_en": "Timeless Woods, Lv30.",
+    "translation_vi": "",
+    "context": "Celebi"
+  },
+  {
+    "id": "questlog.legend_hint.0377",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: ancient ruins in the desert, sealed by an old puzzle.",
+    "translation_vi": "",
+    "context": "Regirock"
+  },
+  {
+    "id": "questlog.legend_where.0377",
+    "source": "questlog.legend_where",
+    "original_en": "Desert Ruins (Route 111), Lv40, once the Sealed Chamber's Braille puzzle is solved.",
+    "translation_vi": "",
+    "context": "Regirock"
+  },
+  {
+    "id": "questlog.legend_hint.0378",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: a cave on a small island, sealed by an old puzzle.",
+    "translation_vi": "",
+    "context": "Regice"
+  },
+  {
+    "id": "questlog.legend_where.0378",
+    "source": "questlog.legend_where",
+    "original_en": "Island Cave (Route 105), Lv40, once the Sealed Chamber's Braille puzzle is solved.",
+    "translation_vi": "",
+    "context": "Regice"
+  },
+  {
+    "id": "questlog.legend_hint.0379",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: an ancient tomb on a route, sealed by an old puzzle.",
+    "translation_vi": "",
+    "context": "Registeel"
+  },
+  {
+    "id": "questlog.legend_where.0379",
+    "source": "questlog.legend_where",
+    "original_en": "Ancient Tomb (Route 120), Lv40, once the Sealed Chamber's Braille puzzle is solved.",
+    "translation_vi": "",
+    "context": "Registeel"
+  },
+  {
+    "id": "questlog.legend_hint.0380",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: a small southern island. It visits in dreams.",
+    "translation_vi": "",
+    "context": "Latias"
+  },
+  {
+    "id": "questlog.legend_where.0380",
+    "source": "questlog.legend_where",
+    "original_en": "Southern Island, where the stone reads \"All dreams are but another reality\".",
+    "translation_vi": "",
+    "context": "Latias"
+  },
+  {
+    "id": "questlog.legend_hint.0381",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: a small southern island. It visits in dreams.",
+    "translation_vi": "",
+    "context": "Latios"
+  },
+  {
+    "id": "questlog.legend_where.0381",
+    "source": "questlog.legend_where",
+    "original_en": "Southern Island, where the stone reads \"All dreams are but another reality\".",
+    "translation_vi": "",
+    "context": "Latios"
+  },
+  {
+    "id": "questlog.legend_hint.0382",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: a cave beneath the sea that opens only in heavy rain.",
+    "translation_vi": "",
+    "context": "Kyogre"
+  },
+  {
+    "id": "questlog.legend_where.0382",
+    "source": "questlog.legend_where",
+    "original_en": "Marine Cave, Lv70, under the sea around Route 125.",
+    "translation_vi": "",
+    "context": "Kyogre"
+  },
+  {
+    "id": "questlog.legend_hint.0383",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: a cave that opens only under harsh sunlight.",
+    "translation_vi": "",
+    "context": "Groudon"
+  },
+  {
+    "id": "questlog.legend_where.0383",
+    "source": "questlog.legend_where",
+    "original_en": "Terra Cave, Lv70, off Route 115.",
+    "translation_vi": "",
+    "context": "Groudon"
+  },
+  {
+    "id": "questlog.legend_hint.0384",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: the top of a tower rising from the sea.",
+    "translation_vi": "",
+    "context": "Rayquaza"
+  },
+  {
+    "id": "questlog.legend_where.0384",
+    "source": "questlog.legend_where",
+    "original_en": "Sky Pillar, Lv50, at the top (the Delta Episode; a Mach Bike is needed inside).",
+    "translation_vi": "",
+    "context": "Rayquaza"
+  },
+  {
+    "id": "questlog.legend_hint.0385",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: the deepest cave of the Battle Frontier's coast.",
+    "translation_vi": "",
+    "context": "Jirachi"
+  },
+  {
+    "id": "questlog.legend_where.0385",
+    "source": "questlog.legend_where",
+    "original_en": "Artisan Cave, Lv30. The same event is also set up in Mossdeep City.",
+    "translation_vi": "",
+    "context": "Jirachi"
+  },
+  {
+    "id": "questlog.legend_hint.0386",
+    "source": "questlog.legend_hint",
+    "original_en": "An island out beyond the sea, with a triangle-shaped puzzle.",
+    "translation_vi": "",
+    "context": "Deoxys"
+  },
+  {
+    "id": "questlog.legend_where.0386",
+    "source": "questlog.legend_where",
+    "original_en": "Birth Island (the map is named Outer Space), Lv50.",
+    "translation_vi": "",
+    "context": "Deoxys"
+  },
+  {
+    "id": "questlog.legend_hint.0480",
+    "source": "questlog.legend_hint",
+    "original_en": "Sinnoh: the lake in the snowy north.",
+    "translation_vi": "",
+    "context": "Uxie"
+  },
+  {
+    "id": "questlog.legend_where.0480",
+    "source": "questlog.legend_where",
+    "original_en": "Lake Acuity, Lv50. Also in the Test of Heart caves.",
+    "translation_vi": "",
+    "context": "Uxie"
+  },
+  {
+    "id": "questlog.legend_hint.0481",
+    "source": "questlog.legend_hint",
+    "original_en": "Sinnoh: the lake near where the journey there begins.",
+    "translation_vi": "",
+    "context": "Mesprit"
+  },
+  {
+    "id": "questlog.legend_where.0481",
+    "source": "questlog.legend_where",
+    "original_en": "Lake Verity, Lv50. Also in the Test of Heart caves.",
+    "translation_vi": "",
+    "context": "Mesprit"
+  },
+  {
+    "id": "questlog.legend_hint.0482",
+    "source": "questlog.legend_hint",
+    "original_en": "Sinnoh: the lake in the east.",
+    "translation_vi": "",
+    "context": "Azelf"
+  },
+  {
+    "id": "questlog.legend_where.0482",
+    "source": "questlog.legend_where",
+    "original_en": "Lake Valor, Lv50. Also in the Test of Heart caves and the Whirl Islands.",
+    "translation_vi": "",
+    "context": "Azelf"
+  },
+  {
+    "id": "questlog.legend_hint.0483",
+    "source": "questlog.legend_hint",
+    "original_en": "Sinnoh: the Lost Artifacts, where time and space began.",
+    "translation_vi": "",
+    "context": "Dialga"
+  },
+  {
+    "id": "questlog.legend_where.0483",
+    "source": "questlog.legend_where",
+    "original_en": "Celestic Town during the Lost Artifacts, Lv80 (Dialga or Palkia). The other can be met in the Unown Ruins.",
+    "translation_vi": "",
+    "context": "Dialga"
+  },
+  {
+    "id": "questlog.legend_hint.0484",
+    "source": "questlog.legend_hint",
+    "original_en": "Sinnoh: the Lost Artifacts, where time and space began.",
+    "translation_vi": "",
+    "context": "Palkia"
+  },
+  {
+    "id": "questlog.legend_where.0484",
+    "source": "questlog.legend_where",
+    "original_en": "Celestic Town during the Lost Artifacts, Lv80 (Dialga or Palkia). The other can be met in the Unown Ruins.",
+    "translation_vi": "",
+    "context": "Palkia"
+  },
+  {
+    "id": "questlog.legend_hint.0485",
+    "source": "questlog.legend_hint",
+    "original_en": "Sinnoh: a hot chamber inside the great mountain.",
+    "translation_vi": "",
+    "context": "Heatran"
+  },
+  {
+    "id": "questlog.legend_where.0485",
+    "source": "questlog.legend_where",
+    "original_en": "Mt. Coronet, Lv30, in the chamber opened from Snowpoint's side via Route 216, after the Sinnoh League.",
+    "translation_vi": "",
+    "context": "Heatran"
+  },
+  {
+    "id": "questlog.legend_hint.0486",
+    "source": "questlog.legend_hint",
+    "original_en": "Sinnoh: a temple at the foot of the northern mountains.",
+    "translation_vi": "",
+    "context": "Regigigas"
+  },
+  {
+    "id": "questlog.legend_where.0486",
+    "source": "questlog.legend_where",
+    "original_en": "Regigigas Temple, Lv60.",
+    "translation_vi": "",
+    "context": "Regigigas"
+  },
+  {
+    "id": "questlog.legend_hint.0487",
+    "source": "questlog.legend_hint",
+    "original_en": "A world where everything is reversed.",
+    "translation_vi": "",
+    "context": "Giratina"
+  },
+  {
+    "id": "questlog.legend_where.0487",
+    "source": "questlog.legend_where",
+    "original_en": "The Distortion World, Lv80. Also one of the four choices in Littleroot when you return the Mega Bracelet.",
+    "translation_vi": "",
+    "context": "Giratina"
+  },
+  {
+    "id": "questlog.legend_hint.0488",
+    "source": "questlog.legend_hint",
+    "original_en": "It brings good dreams. Look where the moon shines on an island.",
+    "translation_vi": "",
+    "context": "Cresselia"
+  },
+  {
+    "id": "questlog.legend_where.0488",
+    "source": "questlog.legend_where",
+    "original_en": "Crescent Isle, Lv50. Also met through the Ultra Wormhole on Mt. Pyre.",
+    "translation_vi": "",
+    "context": "Cresselia"
+  },
+  {
+    "id": "questlog.legend_hint.0489",
+    "source": "questlog.legend_hint",
+    "original_en": "It is never met in the wild. Something must be born.",
+    "translation_vi": "",
+    "context": "Phione"
+  },
+  {
+    "id": "questlog.legend_where.0489",
+    "source": "questlog.legend_where",
+    "original_en": "Hatch it from an Egg: leave Manaphy at the Day Care.",
+    "translation_vi": "",
+    "context": "Phione"
+  },
+  {
+    "id": "questlog.legend_hint.0490",
+    "source": "questlog.legend_hint",
+    "original_en": "The deep sea, far below where divers go.",
+    "translation_vi": "",
+    "context": "Manaphy"
+  },
+  {
+    "id": "questlog.legend_where.0490",
+    "source": "questlog.legend_where",
+    "original_en": "Deep Sea, Lv30 (Dive there).",
+    "translation_vi": "",
+    "context": "Manaphy"
+  },
+  {
+    "id": "questlog.legend_hint.0491",
+    "source": "questlog.legend_hint",
+    "original_en": "A tower where the dead are honored, full of a dark presence.",
+    "translation_vi": "",
+    "context": "Darkrai"
+  },
+  {
+    "id": "questlog.legend_where.0491",
+    "source": "questlog.legend_where",
+    "original_en": "The Lost Tower in Sinnoh, Lv50, once the nightmare quest in Solaceon Town is done.",
+    "translation_vi": "",
+    "context": "Darkrai"
+  },
+  {
+    "id": "questlog.legend_hint.0492",
+    "source": "questlog.legend_hint",
+    "original_en": "A paradise of flowers, far from any route.",
+    "translation_vi": "",
+    "context": "Shaymin"
+  },
+  {
+    "id": "questlog.legend_where.0492",
+    "source": "questlog.legend_where",
+    "original_en": "Flower Paradise, Lv30.",
+    "translation_vi": "",
+    "context": "Shaymin"
+  },
+  {
+    "id": "questlog.legend_hint.0493",
+    "source": "questlog.legend_hint",
+    "original_en": "The end of the Lost Artifacts, above the clouds.",
+    "translation_vi": "",
+    "context": "Arceus"
+  },
+  {
+    "id": "questlog.legend_where.0493",
+    "source": "questlog.legend_where",
+    "original_en": "Mountain Top, Lv80, with all 17 Plates in your Bag.",
+    "translation_vi": "",
+    "context": "Arceus"
+  },
+  {
+    "id": "questlog.legend_hint.0494",
+    "source": "questlog.legend_hint",
+    "original_en": "A city in a crater: the one that brings victory.",
+    "translation_vi": "",
+    "context": "Victini"
+  },
+  {
+    "id": "questlog.legend_where.0494",
+    "source": "questlog.legend_where",
+    "original_en": "Sootopolis City, Lv30.",
+    "translation_vi": "",
+    "context": "Victini"
+  },
+  {
+    "id": "questlog.legend_hint.0638",
+    "source": "questlog.legend_hint",
+    "original_en": "A cave road where champions are tested: three swordsmen train there.",
+    "translation_vi": "",
+    "context": "Cobalion"
+  },
+  {
+    "id": "questlog.legend_where.0638",
+    "source": "questlog.legend_where",
+    "original_en": "Victory Road, Lv70, with Terrakion and Virizion (Blake brought them there to train).",
+    "translation_vi": "",
+    "context": "Cobalion"
+  },
+  {
+    "id": "questlog.legend_hint.0639",
+    "source": "questlog.legend_hint",
+    "original_en": "A cave road where champions are tested: three swordsmen train there.",
+    "translation_vi": "",
+    "context": "Terrakion"
+  },
+  {
+    "id": "questlog.legend_where.0639",
+    "source": "questlog.legend_where",
+    "original_en": "Victory Road, Lv70, with Cobalion and Virizion (Blake brought them there to train).",
+    "translation_vi": "",
+    "context": "Terrakion"
+  },
+  {
+    "id": "questlog.legend_hint.0640",
+    "source": "questlog.legend_hint",
+    "original_en": "A cave road where champions are tested: three swordsmen train there.",
+    "translation_vi": "",
+    "context": "Virizion"
+  },
+  {
+    "id": "questlog.legend_where.0640",
+    "source": "questlog.legend_where",
+    "original_en": "Victory Road, Lv70, with Cobalion and Terrakion (Blake brought them there to train).",
+    "translation_vi": "",
+    "context": "Virizion"
+  },
+  {
+    "id": "questlog.legend_hint.0641",
+    "source": "questlog.legend_hint",
+    "original_en": "A storm spirit. Someone at a Sinnoh wind farm tracks strange weather.",
+    "translation_vi": "",
+    "context": "Tornadus"
+  },
+  {
+    "id": "questlog.legend_where.0641",
+    "source": "questlog.legend_where",
+    "original_en": "Talk to the researcher at the Valley Windworks in Sinnoh and follow the storm reports.",
+    "translation_vi": "",
+    "context": "Tornadus"
+  },
+  {
+    "id": "questlog.legend_hint.0642",
+    "source": "questlog.legend_hint",
+    "original_en": "A storm spirit. Someone at a Sinnoh wind farm tracks strange weather.",
+    "translation_vi": "",
+    "context": "Thundurus"
+  },
+  {
+    "id": "questlog.legend_where.0642",
+    "source": "questlog.legend_where",
+    "original_en": "Talk to the researcher at the Valley Windworks in Sinnoh and follow the storm reports.",
+    "translation_vi": "",
+    "context": "Thundurus"
+  },
+  {
+    "id": "questlog.legend_hint.0643",
+    "source": "questlog.legend_hint",
+    "original_en": "Unova: a tower of dragons, reached through a cold town.",
+    "translation_vi": "",
+    "context": "Reshiram"
+  },
+  {
+    "id": "questlog.legend_where.0643",
+    "source": "questlog.legend_where",
+    "original_en": "Dragonspiral Tower, Lv50, reached through Icirrus Town.",
+    "translation_vi": "",
+    "context": "Reshiram"
+  },
+  {
+    "id": "questlog.legend_hint.0644",
+    "source": "questlog.legend_hint",
+    "original_en": "Unova: a tower of dragons, reached through a cold town.",
+    "translation_vi": "",
+    "context": "Zekrom"
+  },
+  {
+    "id": "questlog.legend_where.0644",
+    "source": "questlog.legend_where",
+    "original_en": "Dragonspiral Tower, Lv50, reached through Icirrus Town.",
+    "translation_vi": "",
+    "context": "Zekrom"
+  },
+  {
+    "id": "questlog.legend_hint.0645",
+    "source": "questlog.legend_hint",
+    "original_en": "A shrine in an ancient Sinnoh town, once both storm spirits are yours.",
+    "translation_vi": "",
+    "context": "Landorus"
+  },
+  {
+    "id": "questlog.legend_where.0645",
+    "source": "questlog.legend_where",
+    "original_en": "Celestic Town's shrine, Lv45, with Tornadus and Thundurus in your party.",
+    "translation_vi": "",
+    "context": "Landorus"
+  },
+  {
+    "id": "questlog.legend_hint.0646",
+    "source": "questlog.legend_hint",
+    "original_en": "Unova: an ice-cold chasm.",
+    "translation_vi": "",
+    "context": "Kyurem"
+  },
+  {
+    "id": "questlog.legend_where.0646",
+    "source": "questlog.legend_where",
+    "original_en": "Giant Chasm, Lv50. Also one of the four choices in Littleroot when you return the Mega Bracelet.",
+    "translation_vi": "",
+    "context": "Kyurem"
+  },
+  {
+    "id": "questlog.legend_hint.0647",
+    "source": "questlog.legend_hint",
+    "original_en": "A cave road where champions are tested.",
+    "translation_vi": "",
+    "context": "Keldeo"
+  },
+  {
+    "id": "questlog.legend_where.0647",
+    "source": "questlog.legend_where",
+    "original_en": "Victory Road, Lv30. A tutor teaches it Secret Sword.",
+    "translation_vi": "",
+    "context": "Keldeo"
+  },
+  {
+    "id": "questlog.legend_hint.0648",
+    "source": "questlog.legend_hint",
+    "original_en": "Sinnoh: a stage in the city of hearts.",
+    "translation_vi": "",
+    "context": "Meloetta"
+  },
+  {
+    "id": "questlog.legend_where.0648",
+    "source": "questlog.legend_where",
+    "original_en": "Hearthome City: it joins you after its performance, Lv50.",
+    "translation_vi": "",
+    "context": "Meloetta"
+  },
+  {
+    "id": "questlog.legend_hint.0649",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: a power plant hidden underground.",
+    "translation_vi": "",
+    "context": "Genesect"
+  },
+  {
+    "id": "questlog.legend_where.0649",
+    "source": "questlog.legend_where",
+    "original_en": "New Mauville, Lv50.",
+    "translation_vi": "",
+    "context": "Genesect"
+  },
+  {
+    "id": "questlog.legend_hint.0716",
+    "source": "questlog.legend_hint",
+    "original_en": "Kalos: a forest of life.",
+    "translation_vi": "",
+    "context": "Xerneas"
+  },
+  {
+    "id": "questlog.legend_where.0716",
+    "source": "questlog.legend_where",
+    "original_en": "Allearth Forest, Lv50. Also one of the four choices in Littleroot when you return the Mega Bracelet.",
+    "translation_vi": "",
+    "context": "Xerneas"
+  },
+  {
+    "id": "questlog.legend_hint.0717",
+    "source": "questlog.legend_hint",
+    "original_en": "Kalos: a lake beside a forest.",
+    "translation_vi": "",
+    "context": "Yveltal"
+  },
+  {
+    "id": "questlog.legend_where.0717",
+    "source": "questlog.legend_where",
+    "original_en": "Allearth Lake, Lv50. Also one of the four choices in Littleroot when you return the Mega Bracelet.",
+    "translation_vi": "",
+    "context": "Yveltal"
+  },
+  {
+    "id": "questlog.legend_hint.0718",
+    "source": "questlog.legend_hint",
+    "original_en": "Kalos: a cave at the end of the line.",
+    "translation_vi": "",
+    "context": "Zygarde"
+  },
+  {
+    "id": "questlog.legend_where.0718",
+    "source": "questlog.legend_where",
+    "original_en": "Terminus Cave, Lv70. Zygarde Cells and Prof. Sycamore handle its forms.",
+    "translation_vi": "",
+    "context": "Zygarde"
+  },
+  {
+    "id": "questlog.legend_hint.0719",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: an underpass a fossil lover dug himself.",
+    "translation_vi": "",
+    "context": "Diancie"
+  },
+  {
+    "id": "questlog.legend_where.0719",
+    "source": "questlog.legend_where",
+    "original_en": "Desert Underpass, Lv30.",
+    "translation_vi": "",
+    "context": "Diancie"
+  },
+  {
+    "id": "questlog.legend_hint.0720",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: the deepest part of a wrecked ship.",
+    "translation_vi": "",
+    "context": "Hoopa"
+  },
+  {
+    "id": "questlog.legend_where.0720",
+    "source": "questlog.legend_where",
+    "original_en": "The depths of the Abandoned Ship, Lv50.",
+    "translation_vi": "",
+    "context": "Hoopa"
+  },
+  {
+    "id": "questlog.legend_hint.0721",
+    "source": "questlog.legend_hint",
+    "original_en": "A steaming cave beyond an Ultra Wormhole.",
+    "translation_vi": "",
+    "context": "Volcanion"
+  },
+  {
+    "id": "questlog.legend_where.0721",
+    "source": "questlog.legend_where",
+    "original_en": "Nebel Cave, Lv50, through the Route 116 wormhole.",
+    "translation_vi": "",
+    "context": "Volcanion"
+  },
+  {
+    "id": "questlog.legend_hint.0772",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: a hidden basement lab in a company's building.",
+    "translation_vi": "",
+    "context": "Type: Null"
+  },
+  {
+    "id": "questlog.legend_where.0772",
+    "source": "questlog.legend_where",
+    "original_en": "The basement lab under Devon Corp. in Rustboro, Lv50 (behind the receptionist).",
+    "translation_vi": "",
+    "context": "Type: Null"
+  },
+  {
+    "id": "questlog.legend_hint.0773",
+    "source": "questlog.legend_hint",
+    "original_en": "It is never met in the wild. It needs a bond to grow.",
+    "translation_vi": "",
+    "context": "Silvally"
+  },
+  {
+    "id": "questlog.legend_where.0773",
+    "source": "questlog.legend_where",
+    "original_en": "Evolve Type: Null with high friendship.",
+    "translation_vi": "",
+    "context": "Silvally"
+  },
+  {
+    "id": "questlog.legend_hint.0785",
+    "source": "questlog.legend_hint",
+    "original_en": "One of four island guardians: the trials of the Kahunas.",
+    "translation_vi": "",
+    "context": "Tapu Koko"
+  },
+  {
+    "id": "questlog.legend_where.0785",
+    "source": "questlog.legend_where",
+    "original_en": "Strange Island, Lv50, in the Tapu trials.",
+    "translation_vi": "",
+    "context": "Tapu Koko"
+  },
+  {
+    "id": "questlog.legend_hint.0786",
+    "source": "questlog.legend_hint",
+    "original_en": "One of four island guardians: the trials of the Kahunas.",
+    "translation_vi": "",
+    "context": "Tapu Lele"
+  },
+  {
+    "id": "questlog.legend_where.0786",
+    "source": "questlog.legend_where",
+    "original_en": "Strange Island, Lv50, in the Tapu trials. Also in the Safari Zone.",
+    "translation_vi": "",
+    "context": "Tapu Lele"
+  },
+  {
+    "id": "questlog.legend_hint.0787",
+    "source": "questlog.legend_hint",
+    "original_en": "One of four island guardians: the trials of the Kahunas.",
+    "translation_vi": "",
+    "context": "Tapu Bulu"
+  },
+  {
+    "id": "questlog.legend_where.0787",
+    "source": "questlog.legend_where",
+    "original_en": "Strange Island, Lv50, in the Tapu trials.",
+    "translation_vi": "",
+    "context": "Tapu Bulu"
+  },
+  {
+    "id": "questlog.legend_hint.0788",
+    "source": "questlog.legend_hint",
+    "original_en": "One of four island guardians: the trials of the Kahunas.",
+    "translation_vi": "",
+    "context": "Tapu Fini"
+  },
+  {
+    "id": "questlog.legend_where.0788",
+    "source": "questlog.legend_where",
+    "original_en": "Strange Island, Lv50, in the Tapu trials.",
+    "translation_vi": "",
+    "context": "Tapu Fini"
+  },
+  {
+    "id": "questlog.legend_hint.0789",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: a cave of the dragon clan, and a tower that comes and goes.",
+    "translation_vi": "",
+    "context": "Cosmog"
+  },
+  {
+    "id": "questlog.legend_where.0789",
+    "source": "questlog.legend_where",
+    "original_en": "Meteor Falls (the Draconid cave) and Mirage Tower, Lv15.",
+    "translation_vi": "",
+    "context": "Cosmog"
+  },
+  {
+    "id": "questlog.legend_hint.0790",
+    "source": "questlog.legend_hint",
+    "original_en": "It is never met in the wild. Something small must grow.",
+    "translation_vi": "",
+    "context": "Cosmoem"
+  },
+  {
+    "id": "questlog.legend_where.0790",
+    "source": "questlog.legend_where",
+    "original_en": "Evolve Cosmog.",
+    "translation_vi": "",
+    "context": "Cosmoem"
+  },
+  {
+    "id": "questlog.legend_hint.0791",
+    "source": "questlog.legend_hint",
+    "original_en": "It is never met in the wild. It grows under the sun.",
+    "translation_vi": "",
+    "context": "Solgaleo"
+  },
+  {
+    "id": "questlog.legend_where.0791",
+    "source": "questlog.legend_where",
+    "original_en": "Evolve Cosmoem during the day.",
+    "translation_vi": "",
+    "context": "Solgaleo"
+  },
+  {
+    "id": "questlog.legend_hint.0792",
+    "source": "questlog.legend_hint",
+    "original_en": "It is never met in the wild. It grows under the moon.",
+    "translation_vi": "",
+    "context": "Lunala"
+  },
+  {
+    "id": "questlog.legend_where.0792",
+    "source": "questlog.legend_where",
+    "original_en": "Evolve Cosmoem at night.",
+    "translation_vi": "",
+    "context": "Lunala"
+  },
+  {
+    "id": "questlog.legend_hint.0793",
+    "source": "questlog.legend_hint",
+    "original_en": "Beyond the first Ultra Wormhole, near a town built on the sea.",
+    "translation_vi": "",
+    "context": "Nihilego"
+  },
+  {
+    "id": "questlog.legend_where.0793",
+    "source": "questlog.legend_where",
+    "original_en": "EV Training Cave, through the Ultra Wormhole near Pacifidlog Town, Lv50. It also appears at Rainbow Castle.",
+    "translation_vi": "",
+    "context": "Nihilego"
+  },
+  {
+    "id": "questlog.legend_hint.0794",
+    "source": "questlog.legend_hint",
+    "original_en": "Beyond an Ultra Wormhole in a tower that comes and goes.",
+    "translation_vi": "",
+    "context": "Buzzwole"
+  },
+  {
+    "id": "questlog.legend_where.0794",
+    "source": "questlog.legend_where",
+    "original_en": "Ultra Space, through the wormhole in Mirage Tower (also opened from Icirrus Town), Lv50.",
+    "translation_vi": "",
+    "context": "Buzzwole"
+  },
+  {
+    "id": "questlog.legend_hint.0795",
+    "source": "questlog.legend_hint",
+    "original_en": "Beyond an Ultra Wormhole on a mountain of graves.",
+    "translation_vi": "",
+    "context": "Pheromosa"
+  },
+  {
+    "id": "questlog.legend_where.0795",
+    "source": "questlog.legend_where",
+    "original_en": "Ultra Space, through the wormhole on Mt. Pyre (also Crescent Isle, Desert Ruins, Route 210), Lv50.",
+    "translation_vi": "",
+    "context": "Pheromosa"
+  },
+  {
+    "id": "questlog.legend_hint.0796",
+    "source": "questlog.legend_hint",
+    "original_en": "Beyond an Ultra Wormhole in a power plant hidden underground.",
+    "translation_vi": "",
+    "context": "Xurkitree"
+  },
+  {
+    "id": "questlog.legend_where.0796",
+    "source": "questlog.legend_where",
+    "original_en": "Ultra Space, through the wormhole in New Mauville (also the Deep Sea, Remote Island, Cerulean Cave), Lv50.",
+    "translation_vi": "",
+    "context": "Xurkitree"
+  },
+  {
+    "id": "questlog.legend_hint.0797",
+    "source": "questlog.legend_hint",
+    "original_en": "Beyond an Ultra Wormhole in an icy cave of the tides.",
+    "translation_vi": "",
+    "context": "Celesteela"
+  },
+  {
+    "id": "questlog.legend_where.0797",
+    "source": "questlog.legend_where",
+    "original_en": "Ultra Space, through the wormhole in Shoal Cave (also New Mauville, Giant Chasm, Devon's basement), Lv50.",
+    "translation_vi": "",
+    "context": "Celesteela"
+  },
+  {
+    "id": "questlog.legend_hint.0798",
+    "source": "questlog.legend_hint",
+    "original_en": "Beyond an Ultra Wormhole on a route near Rustboro City.",
+    "translation_vi": "",
+    "context": "Kartana"
+  },
+  {
+    "id": "questlog.legend_where.0798",
+    "source": "questlog.legend_where",
+    "original_en": "Ultra Space, through the wormhole on Route 116 (also Allearth Forest, Faraway Island), Lv50.",
+    "translation_vi": "",
+    "context": "Kartana"
+  },
+  {
+    "id": "questlog.legend_hint.0799",
+    "source": "questlog.legend_hint",
+    "original_en": "Beyond an Ultra Wormhole in a dark cave near Dewford.",
+    "translation_vi": "",
+    "context": "Guzzlord"
+  },
+  {
+    "id": "questlog.legend_where.0799",
+    "source": "questlog.legend_where",
+    "original_en": "Ultra Space, through the wormhole in Granite Cave (also Terminus Cave), Lv50.",
+    "translation_vi": "",
+    "context": "Guzzlord"
+  },
+  {
+    "id": "questlog.legend_hint.0800",
+    "source": "questlog.legend_hint",
+    "original_en": "The far side of an Ultra Wormhole, after gathering many crystals.",
+    "translation_vi": "",
+    "context": "Necrozma"
+  },
+  {
+    "id": "questlog.legend_where.0800",
+    "source": "questlog.legend_where",
+    "original_en": "Ultra Space Zero, Lv50, after the 18 Z-Crystals and Faba.",
+    "translation_vi": "",
+    "context": "Necrozma"
+  },
+  {
+    "id": "questlog.legend_hint.0801",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: a hidden basement lab in a company's building.",
+    "translation_vi": "",
+    "context": "Magearna"
+  },
+  {
+    "id": "questlog.legend_where.0801",
+    "source": "questlog.legend_where",
+    "original_en": "The basement lab under Devon Corp. in Rustboro, Lv30 or Lv50.",
+    "translation_vi": "",
+    "context": "Magearna"
+  },
+  {
+    "id": "questlog.legend_hint.0802",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: a cave whose Pokemon keep changing.",
+    "translation_vi": "",
+    "context": "Marshadow"
+  },
+  {
+    "id": "questlog.legend_where.0802",
+    "source": "questlog.legend_where",
+    "original_en": "Altering Cave, Lv30.",
+    "translation_vi": "",
+    "context": "Marshadow"
+  },
+  {
+    "id": "questlog.legend_hint.0803",
+    "source": "questlog.legend_hint",
+    "original_en": "Beyond an Ultra Wormhole on a mountain of graves: a gift.",
+    "translation_vi": "",
+    "context": "Poipole"
+  },
+  {
+    "id": "questlog.legend_where.0803",
+    "source": "questlog.legend_where",
+    "original_en": "A gift in Ultra Space, through the wormhole on Mt. Pyre, Lv5.",
+    "translation_vi": "",
+    "context": "Poipole"
+  },
+  {
+    "id": "questlog.legend_hint.0804",
+    "source": "questlog.legend_hint",
+    "original_en": "It is never met in the wild. Something small must grow.",
+    "translation_vi": "",
+    "context": "Naganadel"
+  },
+  {
+    "id": "questlog.legend_where.0804",
+    "source": "questlog.legend_where",
+    "original_en": "Evolve Poipole.",
+    "translation_vi": "",
+    "context": "Naganadel"
+  },
+  {
+    "id": "questlog.legend_hint.0805",
+    "source": "questlog.legend_hint",
+    "original_en": "Beyond an Ultra Wormhole in a cave of the dragon clan.",
+    "translation_vi": "",
+    "context": "Stakataka"
+  },
+  {
+    "id": "questlog.legend_where.0805",
+    "source": "questlog.legend_where",
+    "original_en": "Ultra Space, through the wormhole in Meteor Falls (also Mt. Silver), Lv70.",
+    "translation_vi": "",
+    "context": "Stakataka"
+  },
+  {
+    "id": "questlog.legend_hint.0807",
+    "source": "questlog.legend_hint",
+    "original_en": "Lightning in a Sinnoh city, and in a castle of rainbows.",
+    "translation_vi": "",
+    "context": "Zeraora"
+  },
+  {
+    "id": "questlog.legend_where.0807",
+    "source": "questlog.legend_where",
+    "original_en": "Eterna City, Lv50. Also met in Rainbow Castle.",
+    "translation_vi": "",
+    "context": "Zeraora"
+  },
+  {
+    "id": "questlog.legend_hint.0808",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: someone in a seaside city has a small metal gift.",
+    "translation_vi": "",
+    "context": "Meltan"
+  },
+  {
+    "id": "questlog.legend_where.0808",
+    "source": "questlog.legend_where",
+    "original_en": "A gift in Lilycove City, Lv5.",
+    "translation_vi": "",
+    "context": "Meltan"
+  },
+  {
+    "id": "questlog.legend_hint.0809",
+    "source": "questlog.legend_hint",
+    "original_en": "It is never met in the wild. Something small must grow.",
+    "translation_vi": "",
+    "context": "Melmetal"
+  },
+  {
+    "id": "questlog.legend_where.0809",
+    "source": "questlog.legend_where",
+    "original_en": "Evolve Meltan.",
+    "translation_vi": "",
+    "context": "Melmetal"
+  },
+  {
+    "id": "questlog.legend_hint.0888",
+    "source": "questlog.legend_hint",
+    "original_en": "Sinnoh: an island of iron, where heroes of a far land rest.",
+    "translation_vi": "",
+    "context": "Zacian"
+  },
+  {
+    "id": "questlog.legend_where.0888",
+    "source": "questlog.legend_where",
+    "original_en": "Iron Island, Lv50.",
+    "translation_vi": "",
+    "context": "Zacian"
+  },
+  {
+    "id": "questlog.legend_hint.0889",
+    "source": "questlog.legend_hint",
+    "original_en": "Sinnoh: an island of iron, where heroes of a far land rest.",
+    "translation_vi": "",
+    "context": "Zamazenta"
+  },
+  {
+    "id": "questlog.legend_where.0889",
+    "source": "questlog.legend_where",
+    "original_en": "Iron Island, Lv50.",
+    "translation_vi": "",
+    "context": "Zamazenta"
+  },
+  {
+    "id": "questlog.legend_hint.0890",
+    "source": "questlog.legend_hint",
+    "original_en": "The far side of an Ultra Wormhole.",
+    "translation_vi": "",
+    "context": "Eternatus"
+  },
+  {
+    "id": "questlog.legend_where.0890",
+    "source": "questlog.legend_where",
+    "original_en": "Ultra Space, Lv50.",
+    "translation_vi": "",
+    "context": "Eternatus"
+  },
+  {
+    "id": "questlog.legend_hint.0891",
+    "source": "questlog.legend_hint",
+    "original_en": "Hoenn: a gift where the strongest battle.",
+    "translation_vi": "",
+    "context": "Kubfu"
+  },
+  {
+    "id": "questlog.legend_where.0891",
+    "source": "questlog.legend_where",
+    "original_en": "A gift at the Battle Frontier, Lv5 (Kubfu or Rockruff).",
+    "translation_vi": "",
+    "context": "Kubfu"
+  },
+  {
+    "id": "questlog.legend_hint.0892",
+    "source": "questlog.legend_hint",
+    "original_en": "It is never met in the wild. Something small must train.",
+    "translation_vi": "",
+    "context": "Urshifu"
+  },
+  {
+    "id": "questlog.legend_where.0892",
+    "source": "questlog.legend_where",
+    "original_en": "Evolve Kubfu.",
+    "translation_vi": "",
+    "context": "Urshifu"
+  },
+  {
+    "id": "questlog.legend_hint.0893",
+    "source": "questlog.legend_hint",
+    "original_en": "Sinnoh: a town of flowers.",
+    "translation_vi": "",
+    "context": "Zarude"
+  },
+  {
+    "id": "questlog.legend_where.0893",
+    "source": "questlog.legend_where",
+    "original_en": "Floaroma Town, Lv50.",
+    "translation_vi": "",
+    "context": "Zarude"
+  },
+  {
+    "id": "questlog.legend_hint.0894",
+    "source": "questlog.legend_hint",
+    "original_en": "Ruins where one of two choices must be made.",
+    "translation_vi": "",
+    "context": "Regieleki"
+  },
+  {
+    "id": "questlog.legend_where.0894",
+    "source": "questlog.legend_where",
+    "original_en": "Ruins of Decision, Lv50.",
+    "translation_vi": "",
+    "context": "Regieleki"
+  },
+  {
+    "id": "questlog.legend_hint.0895",
+    "source": "questlog.legend_hint",
+    "original_en": "Ruins where one of two choices must be made.",
+    "translation_vi": "",
+    "context": "Regidrago"
+  },
+  {
+    "id": "questlog.legend_where.0895",
+    "source": "questlog.legend_where",
+    "original_en": "Ruins of Decision, Lv50.",
+    "translation_vi": "",
+    "context": "Regidrago"
+  },
+  {
+    "id": "questlog.legend_hint.0896",
+    "source": "questlog.legend_hint",
+    "original_en": "A shrine of a crowned king.",
+    "translation_vi": "",
+    "context": "Glastrier"
+  },
+  {
+    "id": "questlog.legend_where.0896",
+    "source": "questlog.legend_where",
+    "original_en": "Crown Shrine, Lv50. Also a gift choice in Lilycove City (Lv15).",
+    "translation_vi": "",
+    "context": "Glastrier"
+  },
+  {
+    "id": "questlog.legend_hint.0897",
+    "source": "questlog.legend_hint",
+    "original_en": "A shrine of a crowned king.",
+    "translation_vi": "",
+    "context": "Spectrier"
+  },
+  {
+    "id": "questlog.legend_where.0897",
+    "source": "questlog.legend_where",
+    "original_en": "Crown Shrine, Lv50. Also a gift choice in Lilycove City (Lv15).",
+    "translation_vi": "",
+    "context": "Spectrier"
+  },
+  {
+    "id": "questlog.legend_hint.0898",
+    "source": "questlog.legend_hint",
+    "original_en": "A shrine of a crowned king.",
+    "translation_vi": "",
+    "context": "Calyrex"
+  },
+  {
+    "id": "questlog.legend_where.0898",
+    "source": "questlog.legend_where",
+    "original_en": "Crown Shrine, Lv50.",
+    "translation_vi": "",
+    "context": "Calyrex"
+  },
+  {
+    "id": "questlog.legend_hint.0905",
+    "source": "questlog.legend_hint",
+    "original_en": "Hisui: a legend Cogita tells, once the storm spirits are yours.",
+    "translation_vi": "",
+    "context": "Enamorus"
+  },
+  {
+    "id": "questlog.legend_where.0905",
+    "source": "questlog.legend_where",
+    "original_en": "Hisui, Lv50, after showing Cogita Tornadus, Thundurus and Landorus. The God of Forms waits at the Moonbow Dome (Lv70).",
+    "translation_vi": "",
+    "context": "Enamorus"
+  },
+  {
+    "id": "questlog.keyitem_hint.363",
+    "source": "questlog.keyitem_hint",
+    "original_en": "It finds you on its own, at the start of your journey.",
+    "translation_vi": "",
+    "context": "Journal"
+  },
+  {
+    "id": "questlog.keyitem_where.363",
+    "source": "questlog.keyitem_where",
+    "original_en": "Handed to you automatically. Use it (or R in the Start menu) for this Quest Log.",
+    "translation_vi": "",
+    "context": "Journal"
+  },
+  {
+    "id": "questlog.keyitem_hint.361",
+    "source": "questlog.keyitem_hint",
+    "original_en": "It finds you on its own, at the start of your journey.",
+    "translation_vi": "",
+    "context": "Sinnoh Map"
+  },
+  {
+    "id": "questlog.keyitem_where.361",
+    "source": "questlog.keyitem_where",
+    "original_en": "Handed to you automatically. A on a town you have reached flies you there.",
+    "translation_vi": "",
+    "context": "Sinnoh Map"
+  },
+  {
+    "id": "questlog.keyitem_hint.269",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Something stolen near Rustboro City.",
+    "translation_vi": "",
+    "context": "Devon Goods"
+  },
+  {
+    "id": "questlog.keyitem_where.269",
+    "source": "questlog.keyitem_where",
+    "original_en": "Taken back from the Team Aqua grunt in Rusturf Tunnel, then delivered to Capt. Stern in Slateport City.",
+    "translation_vi": "",
+    "context": "Devon Goods"
+  },
+  {
+    "id": "questlog.keyitem_hint.274",
+    "source": "questlog.keyitem_hint",
+    "original_en": "The president of a Rustboro company needs a favour.",
+    "translation_vi": "",
+    "context": "Letter"
+  },
+  {
+    "id": "questlog.keyitem_where.274",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Mr. Stone at Devon Corp., Rustboro City, for Steven in Granite Cave.",
+    "translation_vi": "",
+    "context": "Letter"
+  },
+  {
+    "id": "questlog.keyitem_hint.262",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A fisherman in a small island town.",
+    "translation_vi": "",
+    "context": "Old Rod"
+  },
+  {
+    "id": "questlog.keyitem_where.262",
+    "source": "questlog.keyitem_where",
+    "original_en": "From the fisherman in Dewford Town.",
+    "translation_vi": "",
+    "context": "Old Rod"
+  },
+  {
+    "id": "questlog.keyitem_hint.120",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A trainer who loves rare stones, on a route east of Mauville.",
+    "translation_vi": "",
+    "context": "Mega Bracelet"
+  },
+  {
+    "id": "questlog.keyitem_where.120",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Steven on Route 118. (Zinnia borrows it later and gives it back.)",
+    "translation_vi": "",
+    "context": "Mega Bracelet"
+  },
+  {
+    "id": "questlog.keyitem_hint.271",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A Gym Leader in Mauville City needs a favour.",
+    "translation_vi": "",
+    "context": "Basement Key"
+  },
+  {
+    "id": "questlog.keyitem_where.271",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Wattson in Mauville City, for New Mauville.",
+    "translation_vi": "",
+    "context": "Basement Key"
+  },
+  {
+    "id": "questlog.keyitem_hint.259",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A cycle shop in Mauville City.",
+    "translation_vi": "",
+    "context": "Mach Bike"
+  },
+  {
+    "id": "questlog.keyitem_where.259",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Rydel at the cycle shop in Mauville City. This game gives both bikes.",
+    "translation_vi": "",
+    "context": "Mach Bike"
+  },
+  {
+    "id": "questlog.keyitem_hint.272",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A cycle shop in Mauville City.",
+    "translation_vi": "",
+    "context": "Acro Bike"
+  },
+  {
+    "id": "questlog.keyitem_where.272",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Rydel at the cycle shop in Mauville City. This game gives both bikes.",
+    "translation_vi": "",
+    "context": "Acro Bike"
+  },
+  {
+    "id": "questlog.keyitem_hint.260",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Someone in Mauville City wants a certain kind of mail.",
+    "translation_vi": "",
+    "context": "Coin Case"
+  },
+  {
+    "id": "questlog.keyitem_where.260",
+    "source": "questlog.keyitem_where",
+    "original_en": "Traded for Harbor Mail in a house in Mauville City.",
+    "translation_vi": "",
+    "context": "Coin Case"
+  },
+  {
+    "id": "questlog.keyitem_hint.268",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A flower shop on a route near Petalburg Woods.",
+    "translation_vi": "",
+    "context": "Wailmer Pail"
+  },
+  {
+    "id": "questlog.keyitem_where.268",
+    "source": "questlog.keyitem_where",
+    "original_en": "From the Pretty Petal flower shop on Route 104.",
+    "translation_vi": "",
+    "context": "Wailmer Pail"
+  },
+  {
+    "id": "questlog.keyitem_hint.261",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Your rival, after a battle on a route with a cycling road.",
+    "translation_vi": "",
+    "context": "Itemfinder"
+  },
+  {
+    "id": "questlog.keyitem_where.261",
+    "source": "questlog.keyitem_where",
+    "original_en": "From your rival after your battle on Route 110.",
+    "translation_vi": "",
+    "context": "Itemfinder"
+  },
+  {
+    "id": "questlog.keyitem_hint.279",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Your rival, in a hot-spring town.",
+    "translation_vi": "",
+    "context": "Go-Goggles"
+  },
+  {
+    "id": "questlog.keyitem_where.279",
+    "source": "questlog.keyitem_where",
+    "original_en": "From your rival in Lavaridge Town, after the Lavaridge Gym.",
+    "translation_vi": "",
+    "context": "Go-Goggles"
+  },
+  {
+    "id": "questlog.keyitem_hint.270",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A glassworker on an ash-covered route.",
+    "translation_vi": "",
+    "context": "Soot Sack"
+  },
+  {
+    "id": "questlog.keyitem_where.270",
+    "source": "questlog.keyitem_where",
+    "original_en": "From the glassworker's house on Route 113.",
+    "translation_vi": "",
+    "context": "Soot Sack"
+  },
+  {
+    "id": "questlog.keyitem_hint.263",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A fisherman on a route east of Mauville.",
+    "translation_vi": "",
+    "context": "Good Rod"
+  },
+  {
+    "id": "questlog.keyitem_where.263",
+    "source": "questlog.keyitem_where",
+    "original_en": "From the fisherman on Route 118.",
+    "translation_vi": "",
+    "context": "Good Rod"
+  },
+  {
+    "id": "questlog.keyitem_hint.734",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Your rival, on a long rainy route.",
+    "translation_vi": "",
+    "context": "Ride Pager"
+  },
+  {
+    "id": "questlog.keyitem_where.734",
+    "source": "questlog.keyitem_where",
+    "original_en": "From your rival after your battle on Route 119. It replaces Fly.",
+    "translation_vi": "",
+    "context": "Ride Pager"
+  },
+  {
+    "id": "questlog.keyitem_hint.288",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A trainer who loves rare stones, near Fortree City.",
+    "translation_vi": "",
+    "context": "Devon Scope"
+  },
+  {
+    "id": "questlog.keyitem_where.288",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Steven on Route 120, where something invisible blocks the way.",
+    "translation_vi": "",
+    "context": "Devon Scope"
+  },
+  {
+    "id": "questlog.keyitem_hint.280",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A machine on top of a volcano.",
+    "translation_vi": "",
+    "context": "Meteorite"
+  },
+  {
+    "id": "questlog.keyitem_where.280",
+    "source": "questlog.keyitem_where",
+    "original_en": "Taken off Team Magma's machine on Mt. Chimney.",
+    "translation_vi": "",
+    "context": "Meteorite"
+  },
+  {
+    "id": "questlog.keyitem_hint.375",
+    "source": "questlog.keyitem_hint",
+    "original_en": "The summit of a mountain of graves, after the teams have been.",
+    "translation_vi": "",
+    "context": "Magma Emblem"
+  },
+  {
+    "id": "questlog.keyitem_where.375",
+    "source": "questlog.keyitem_where",
+    "original_en": "From the old woman at the summit of Mt. Pyre.",
+    "translation_vi": "",
+    "context": "Magma Emblem"
+  },
+  {
+    "id": "questlog.keyitem_hint.273",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A contest hall in a seaside city.",
+    "translation_vi": "",
+    "context": "Pokéblock Case"
+  },
+  {
+    "id": "questlog.keyitem_where.273",
+    "source": "questlog.keyitem_where",
+    "original_en": "From the Contest Hall reception in Lilycove City.",
+    "translation_vi": "",
+    "context": "Pokéblock Case"
+  },
+  {
+    "id": "questlog.keyitem_hint.372",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Someone in a port city talks about Berries and medicine.",
+    "translation_vi": "",
+    "context": "Powder Jar"
+  },
+  {
+    "id": "questlog.keyitem_where.372",
+    "source": "questlog.keyitem_where",
+    "original_en": "From the man in Slateport City who talks about Berry Powder.",
+    "translation_vi": "",
+    "context": "Powder Jar"
+  },
+  {
+    "id": "questlog.keyitem_hint.264",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A fisherman in a city by the space center.",
+    "translation_vi": "",
+    "context": "Super Rod"
+  },
+  {
+    "id": "questlog.keyitem_where.264",
+    "source": "questlog.keyitem_where",
+    "original_en": "From the fisherman in Mossdeep City.",
+    "translation_vi": "",
+    "context": "Super Rod"
+  },
+  {
+    "id": "questlog.keyitem_hint.285",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Deep inside a wrecked ship.",
+    "translation_vi": "",
+    "context": "Storage Key"
+  },
+  {
+    "id": "questlog.keyitem_where.285",
+    "source": "questlog.keyitem_where",
+    "original_en": "Lying in the Abandoned Ship. It opens the storage room, and stays in the door.",
+    "translation_vi": "",
+    "context": "Storage Key"
+  },
+  {
+    "id": "questlog.keyitem_hint.278",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Deep inside a wrecked ship, by a strange stone pillar.",
+    "translation_vi": "",
+    "context": "Scanner"
+  },
+  {
+    "id": "questlog.keyitem_where.278",
+    "source": "questlog.keyitem_where",
+    "original_en": "The strange stone pillar in the Abandoned Ship.",
+    "translation_vi": "",
+    "context": "Scanner"
+  },
+  {
+    "id": "questlog.keyitem_hint.695",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Two TV reporters looking for strong trainers.",
+    "translation_vi": "",
+    "context": "News Tracker"
+  },
+  {
+    "id": "questlog.keyitem_where.695",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Gabby and Ty, who wait on Routes 111, 118 and 120.",
+    "translation_vi": "",
+    "context": "News Tracker"
+  },
+  {
+    "id": "questlog.keyitem_hint.119",
+    "source": "questlog.keyitem_hint",
+    "original_en": "It lies somewhere on a route east of Mauville.",
+    "translation_vi": "",
+    "context": "Shiny Charm"
+  },
+  {
+    "id": "questlog.keyitem_where.119",
+    "source": "questlog.keyitem_where",
+    "original_en": "Lying on the west side of Route 118.",
+    "translation_vi": "",
+    "context": "Shiny Charm"
+  },
+  {
+    "id": "questlog.keyitem_hint.265",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Home, after you have become Champion.",
+    "translation_vi": "",
+    "context": "S.S. Ticket"
+  },
+  {
+    "id": "questlog.keyitem_where.265",
+    "source": "questlog.keyitem_where",
+    "original_en": "From your Dad at home in Littleroot Town after the Pokémon League.",
+    "translation_vi": "",
+    "context": "S.S. Ticket"
+  },
+  {
+    "id": "questlog.keyitem_hint.275",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A ticket for Lilycove's port, from the Mystery Gift counter.",
+    "translation_vi": "",
+    "context": "Eon Ticket"
+  },
+  {
+    "id": "questlog.keyitem_where.275",
+    "source": "questlog.keyitem_where",
+    "original_en": "From the Mystery Gift attendant upstairs in a Pokémon Center, or Mr. Steven's aide on Steven's Island.",
+    "translation_vi": "",
+    "context": "Eon Ticket"
+  },
+  {
+    "id": "questlog.keyitem_hint.376",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Mr. Steven leaves something for you on his island.",
+    "translation_vi": "",
+    "context": "Old Sea Map"
+  },
+  {
+    "id": "questlog.keyitem_where.376",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Mr. Steven's aide on Steven's Island, with the Eon Ticket.",
+    "translation_vi": "",
+    "context": "Old Sea Map"
+  },
+  {
+    "id": "questlog.keyitem_hint.694",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A visitor from Ultra Space on Steven's Island.",
+    "translation_vi": "",
+    "context": "Ultimate Book"
+  },
+  {
+    "id": "questlog.keyitem_where.694",
+    "source": "questlog.keyitem_where",
+    "original_en": "From the Ultimate Investigator on Steven's Island. It records where the Ultra Wormholes open.",
+    "translation_vi": "",
+    "context": "Ultimate Book"
+  },
+  {
+    "id": "questlog.keyitem_hint.696",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A visitor from Ultra Space on Steven's Island.",
+    "translation_vi": "",
+    "context": "Travel Suit"
+  },
+  {
+    "id": "questlog.keyitem_where.696",
+    "source": "questlog.keyitem_where",
+    "original_en": "From the Ultimate Investigator on Steven's Island, for travelling through wormholes.",
+    "translation_vi": "",
+    "context": "Travel Suit"
+  },
+  {
+    "id": "questlog.keyitem_hint.622",
+    "source": "questlog.keyitem_hint",
+    "original_en": "An island trial with a Kahuna.",
+    "translation_vi": "",
+    "context": "Z-Power Ring"
+  },
+  {
+    "id": "questlog.keyitem_where.622",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Nanu on Strange Island, after Tapu Bulu's trial.",
+    "translation_vi": "",
+    "context": "Z-Power Ring"
+  },
+  {
+    "id": "questlog.keyitem_hint.247",
+    "source": "questlog.keyitem_hint",
+    "original_en": "An island lost in time and space.",
+    "translation_vi": "",
+    "context": "Special Gem"
+  },
+  {
+    "id": "questlog.keyitem_where.247",
+    "source": "questlog.keyitem_where",
+    "original_en": "Lying on Remote Island.",
+    "translation_vi": "",
+    "context": "Special Gem"
+  },
+  {
+    "id": "questlog.keyitem_hint.641",
+    "source": "questlog.keyitem_hint",
+    "original_en": "The far side of an Ultra Wormhole, where the light was stolen.",
+    "translation_vi": "",
+    "context": "N-Solarizer"
+  },
+  {
+    "id": "questlog.keyitem_where.641",
+    "source": "questlog.keyitem_where",
+    "original_en": "Lying in Ultra Space Zero. Faba also hands the pair over at Rainbow Castle.",
+    "translation_vi": "",
+    "context": "N-Solarizer"
+  },
+  {
+    "id": "questlog.keyitem_hint.642",
+    "source": "questlog.keyitem_hint",
+    "original_en": "The far side of an Ultra Wormhole, where the light was stolen.",
+    "translation_vi": "",
+    "context": "N-Lunarizer"
+  },
+  {
+    "id": "questlog.keyitem_where.642",
+    "source": "questlog.keyitem_where",
+    "original_en": "Lying in Ultra Space Zero. Faba also hands the pair over at Rainbow Castle.",
+    "translation_vi": "",
+    "context": "N-Lunarizer"
+  },
+  {
+    "id": "questlog.keyitem_hint.621",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A Kalos cave.",
+    "translation_vi": "",
+    "context": "Zygarde Cube"
+  },
+  {
+    "id": "questlog.keyitem_where.621",
+    "source": "questlog.keyitem_where",
+    "original_en": "Lying in Terminus Cave.",
+    "translation_vi": "",
+    "context": "Zygarde Cube"
+  },
+  {
+    "id": "questlog.keyitem_hint.616",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Hoenn: a power plant hidden underground.",
+    "translation_vi": "",
+    "context": "Rotom Catalog"
+  },
+  {
+    "id": "questlog.keyitem_where.616",
+    "source": "questlog.keyitem_where",
+    "original_en": "In New Mauville.",
+    "translation_vi": "",
+    "context": "Rotom Catalog"
+  },
+  {
+    "id": "questlog.keyitem_hint.671",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Unova: an ice-cold chasm.",
+    "translation_vi": "",
+    "context": "DNA Splicers"
+  },
+  {
+    "id": "questlog.keyitem_where.671",
+    "source": "questlog.keyitem_where",
+    "original_en": "In Giant Chasm, after Ghetsis.",
+    "translation_vi": "",
+    "context": "DNA Splicers"
+  },
+  {
+    "id": "questlog.keyitem_hint.672",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A paradise of flowers.",
+    "translation_vi": "",
+    "context": "Gracidea"
+  },
+  {
+    "id": "questlog.keyitem_where.672",
+    "source": "questlog.keyitem_where",
+    "original_en": "In Flower Paradise.",
+    "translation_vi": "",
+    "context": "Gracidea"
+  },
+  {
+    "id": "questlog.keyitem_hint.673",
+    "source": "questlog.keyitem_hint",
+    "original_en": "The deepest part of a wrecked ship.",
+    "translation_vi": "",
+    "context": "Prison Bottle"
+  },
+  {
+    "id": "questlog.keyitem_where.673",
+    "source": "questlog.keyitem_where",
+    "original_en": "In the depths of the Abandoned Ship.",
+    "translation_vi": "",
+    "context": "Prison Bottle"
+  },
+  {
+    "id": "questlog.keyitem_hint.543",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A temple of the people who came from the stars.",
+    "translation_vi": "",
+    "context": "Deoxys Meteor"
+  },
+  {
+    "id": "questlog.keyitem_where.543",
+    "source": "questlog.keyitem_where",
+    "original_en": "At the Meteor Temple.",
+    "translation_vi": "",
+    "context": "Deoxys Meteor"
+  },
+  {
+    "id": "questlog.keyitem_hint.650",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Your own PC, from the very start.",
+    "translation_vi": "",
+    "context": "EV-IV Display"
+  },
+  {
+    "id": "questlog.keyitem_where.650",
+    "source": "questlog.keyitem_where",
+    "original_en": "In your PC from the start: Item Storage, then Withdraw Item.",
+    "translation_vi": "",
+    "context": "EV-IV Display"
+  },
+  {
+    "id": "questlog.keyitem_hint.54",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A Battle Tower leader from Sinnoh visits the Battle Frontier.",
+    "translation_vi": "",
+    "context": "Dark Scroll"
+  },
+  {
+    "id": "questlog.keyitem_where.54",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Palmer at the Battle Frontier, after 35 wins in a row at the Battle Tower (Dark or Water Scroll).",
+    "translation_vi": "",
+    "context": "Dark Scroll"
+  },
+  {
+    "id": "questlog.keyitem_hint.55",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A Battle Tower leader from Sinnoh visits the Battle Frontier.",
+    "translation_vi": "",
+    "context": "Water Scroll"
+  },
+  {
+    "id": "questlog.keyitem_where.55",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Palmer at the Battle Frontier, after 35 wins in a row at the Battle Tower (Dark or Water Scroll).",
+    "translation_vi": "",
+    "context": "Water Scroll"
+  },
+  {
+    "id": "questlog.keyitem_hint.371",
+    "source": "questlog.keyitem_hint",
+    "original_en": "The Battle Frontier's owner, once you earn a Silver Symbol.",
+    "translation_vi": "",
+    "context": "AuroraTicket"
+  },
+  {
+    "id": "questlog.keyitem_where.371",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Scott in his Battle Frontier house, with your first Silver Symbol - e.g. the Ability Symbol from Salon Maiden Anabel at the Battle Tower. It takes you to Champion Island.",
+    "translation_vi": "",
+    "context": "AuroraTicket"
+  },
+  {
+    "id": "questlog.keyitem_hint.699",
+    "source": "questlog.keyitem_hint",
+    "original_en": "The Battle Frontier's owner, once you earn a Silver Symbol.",
+    "translation_vi": "",
+    "context": "Endorsement"
+  },
+  {
+    "id": "questlog.keyitem_where.699",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Scott in his Battle Frontier house, with your first Silver Symbol - e.g. the Ability Symbol from Salon Maiden Anabel at the Battle Tower.",
+    "translation_vi": "",
+    "context": "Endorsement"
+  },
+  {
+    "id": "questlog.keyitem_hint.370",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A girl from Johto, lost in Hoenn.",
+    "translation_vi": "",
+    "context": "MysticTicket"
+  },
+  {
+    "id": "questlog.keyitem_where.370",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Lyra once you give her directions (Route 102, later the Bell Tower).",
+    "translation_vi": "",
+    "context": "MysticTicket"
+  },
+  {
+    "id": "questlog.keyitem_hint.701",
+    "source": "questlog.keyitem_hint",
+    "original_en": "An island where the world's best trainers meet.",
+    "translation_vi": "",
+    "context": "Dynamax Band"
+  },
+  {
+    "id": "questlog.keyitem_where.701",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Leon's friend on Champion Island. (Yanshan also lends one, then takes it back.)",
+    "translation_vi": "",
+    "context": "Dynamax Band"
+  },
+  {
+    "id": "questlog.keyitem_hint.742",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A shrine of a crowned king.",
+    "translation_vi": "",
+    "context": "Unity Reins"
+  },
+  {
+    "id": "questlog.keyitem_where.742",
+    "source": "questlog.keyitem_where",
+    "original_en": "From the attendant at the Crown Shrine.",
+    "translation_vi": "",
+    "context": "Unity Reins"
+  },
+  {
+    "id": "questlog.keyitem_hint.182",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Watch a vision of the end of the world.",
+    "translation_vi": "",
+    "context": "Exp. Share"
+  },
+  {
+    "id": "questlog.keyitem_where.182",
+    "source": "questlog.keyitem_where",
+    "original_en": "Given after Arceus's vision in the Unown Ruins (also shown in Amity Square).",
+    "translation_vi": "",
+    "context": "Exp. Share"
+  },
+  {
+    "id": "questlog.keyitem_hint.674",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A trainer from Unova searching for N.",
+    "translation_vi": "",
+    "context": "Reveal Glass"
+  },
+  {
+    "id": "questlog.keyitem_where.674",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Hilda (Route 116, later Celestic Town).",
+    "translation_vi": "",
+    "context": "Reveal Glass"
+  },
+  {
+    "id": "questlog.keyitem_hint.768",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Sinnoh: a city with a great department store.",
+    "translation_vi": "",
+    "context": "Sinnoh Pager"
+  },
+  {
+    "id": "questlog.keyitem_where.768",
+    "source": "questlog.keyitem_where",
+    "original_en": "Lying in Veilstone City.",
+    "translation_vi": "",
+    "context": "Sinnoh Pager"
+  },
+  {
+    "id": "questlog.keyitem_hint.744",
+    "source": "questlog.keyitem_hint",
+    "original_en": "Hisui, for a hungry cat.",
+    "translation_vi": "",
+    "context": "Dried Fish"
+  },
+  {
+    "id": "questlog.keyitem_where.744",
+    "source": "questlog.keyitem_where",
+    "original_en": "Lying in Hisui. Kitty on Steven's Island wants it.",
+    "translation_vi": "",
+    "context": "Dried Fish"
+  },
+  {
+    "id": "questlog.keyitem_hint.745",
+    "source": "questlog.keyitem_hint",
+    "original_en": "A cat on Steven's Island, once she has eaten.",
+    "translation_vi": "",
+    "context": "UnnamedStone"
+  },
+  {
+    "id": "questlog.keyitem_where.745",
+    "source": "questlog.keyitem_where",
+    "original_en": "From Kitty on Steven's Island, for the Dried Fish.",
+    "translation_vi": "",
+    "context": "UnnamedStone"
+  },
+  {
+    "id": "questlog.side_name.0099",
+    "source": "questlog.side_name",
+    "original_en": "Hisuian Zorua trade",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.0099",
+    "source": "questlog.side_where",
+    "original_en": "Rustboro City: someone a gift fox turned into something else trades their Hisuian Zorua.",
+    "translation_vi": "",
+    "context": "Hisuian Zorua trade"
+  },
+  {
+    "id": "questlog.side_name.4327",
+    "source": "questlog.side_name",
+    "original_en": "Hisuian Voltorb trade",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4327",
+    "source": "questlog.side_where",
+    "original_en": "Mauville City: a researcher of how time changes Pokémon trades a Hisuian Voltorb.",
+    "translation_vi": "",
+    "context": "Hisuian Voltorb trade"
+  },
+  {
+    "id": "questlog.side_name.4328",
+    "source": "questlog.side_name",
+    "original_en": "Hisuian Growlithe trade",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4328",
+    "source": "questlog.side_where",
+    "original_en": "Lavaridge Town: a traveller who remembers only Hisui trades their Hisuian Growlithe.",
+    "translation_vi": "",
+    "context": "Hisuian Growlithe trade"
+  },
+  {
+    "id": "questlog.side_name.009B",
+    "source": "questlog.side_name",
+    "original_en": "Hisuian Sneasel trade",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.009B",
+    "source": "questlog.side_where",
+    "original_en": "Fortree City: a traveller through time and space trades a Hisuian Sneasel.",
+    "translation_vi": "",
+    "context": "Hisuian Sneasel trade"
+  },
+  {
+    "id": "questlog.side_name.009A",
+    "source": "questlog.side_name",
+    "original_en": "Hisuian Qwilfish trade",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.009A",
+    "source": "questlog.side_where",
+    "original_en": "Safari Zone: a fisherman looking for a needle fish trades a Hisuian Qwilfish.",
+    "translation_vi": "",
+    "context": "Hisuian Qwilfish trade"
+  },
+  {
+    "id": "questlog.side_name.4329",
+    "source": "questlog.side_name",
+    "original_en": "White-Striped Basculin",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4329",
+    "source": "questlog.side_where",
+    "original_en": "Route 119: someone who dreamed of feeding the Phantom Fish trades a White-Striped Basculin.",
+    "translation_vi": "",
+    "context": "White-Striped Basculin"
+  },
+  {
+    "id": "questlog.side_name.4055",
+    "source": "questlog.side_name",
+    "original_en": "Meloetta",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4055",
+    "source": "questlog.side_where",
+    "original_en": "Hearthome City: it joins you after its performance on stage, Lv50.",
+    "translation_vi": "",
+    "context": "Meloetta"
+  },
+  {
+    "id": "questlog.side_name.40B9",
+    "source": "questlog.side_name",
+    "original_en": "Blue's Galar team",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.40B9",
+    "source": "questlog.side_where",
+    "original_en": "Lilycove City: Blue waits in the museum, 1F. Beat her and she gives you all nine of her Galar Pokémon, Lv15: Galarian Mr. Mime, Stunfisk, Weezing, Corsola, Indeedee, Eiscue, Morpeko, Glastrier, Spectrier. What your party cannot hold goes to the PC.",
+    "translation_vi": "",
+    "context": "Blue's Galar team"
+  },
+  {
+    "id": "questlog.side_name.40CA",
+    "source": "questlog.side_name",
+    "original_en": "Meltan",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.40CA",
+    "source": "questlog.side_where",
+    "original_en": "Lilycove City: the Game Designer at the Cove Lily Motel gives it once you have caught every Pokémon of the Hoenn Pokédex, Lv5.",
+    "translation_vi": "",
+    "context": "Meltan"
+  },
+  {
+    "id": "questlog.side_name.42DB",
+    "source": "questlog.side_name",
+    "original_en": "Rockruff",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.42DB",
+    "source": "questlog.side_where",
+    "original_en": "Battle Frontier: beat Palmer by the Battle Tower, then reach a 35-win singles streak there (open level). He gives you a Rockruff, Lv5.",
+    "translation_vi": "",
+    "context": "Rockruff"
+  },
+  {
+    "id": "questlog.side_name.42DC",
+    "source": "questlog.side_name",
+    "original_en": "Kubfu",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.42DC",
+    "source": "questlog.side_where",
+    "original_en": "Battle Frontier: beat Palmer by the Battle Tower, then reach a 35-win doubles streak there. He gives you a Kubfu, Lv5, with the Dark Scroll and the Water Scroll.",
+    "translation_vi": "",
+    "context": "Kubfu"
+  },
+  {
+    "id": "questlog.side_name.42DD",
+    "source": "questlog.side_name",
+    "original_en": "A second Kubfu",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.42DD",
+    "source": "questlog.side_where",
+    "original_en": "Battle Frontier: beat Palmer by the Battle Tower, then win all seven Gold Symbols of the Battle Frontier. He gives you another Kubfu, Lv5.",
+    "translation_vi": "",
+    "context": "A second Kubfu"
+  },
+  {
+    "id": "questlog.side_name.41BD",
+    "source": "questlog.side_name",
+    "original_en": "Poipole",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.41BD",
+    "source": "questlog.side_where",
+    "original_en": "Ultra Space, through the Ultra Wormhole on Mt. Pyre: a gift, Lv5.",
+    "translation_vi": "",
+    "context": "Poipole"
+  },
+  {
+    "id": "questlog.side_name.41B7",
+    "source": "questlog.side_name",
+    "original_en": "Wimpod",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.41B7",
+    "source": "questlog.side_where",
+    "original_en": "Timeless Woods: a gift, Lv10.",
+    "translation_vi": "",
+    "context": "Wimpod"
+  },
+  {
+    "id": "questlog.side_name.4307",
+    "source": "questlog.side_name",
+    "original_en": "Let's Go partner",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4307",
+    "source": "questlog.side_where",
+    "original_en": "Hearthome City (also the Bell Tower): Let's Go Eevee or Pikachu, Lv5.",
+    "translation_vi": "",
+    "context": "Let's Go partner"
+  },
+  {
+    "id": "questlog.side_name.408F",
+    "source": "questlog.side_name",
+    "original_en": "Pikachu Belle",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.408F",
+    "source": "questlog.side_where",
+    "original_en": "Lavaridge Town: a gift, Lv5.",
+    "translation_vi": "",
+    "context": "Pikachu Belle"
+  },
+  {
+    "id": "questlog.side_name.010B",
+    "source": "questlog.side_name",
+    "original_en": "A revived fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.010B",
+    "source": "questlog.side_where",
+    "original_en": "Rustboro City: Devon Corp. revives a fossil of your choice, Lv20.",
+    "translation_vi": "",
+    "context": "A revived fossil"
+  },
+  {
+    "id": "questlog.side_name.42DE",
+    "source": "questlog.side_name",
+    "original_en": "Drifloon",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.42DE",
+    "source": "questlog.side_where",
+    "original_en": "Valley Windworks in Sinnoh: a gift, Lv15.",
+    "translation_vi": "",
+    "context": "Drifloon"
+  },
+  {
+    "id": "questlog.side_name.4552",
+    "source": "questlog.side_name",
+    "original_en": "Magikarp",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4552",
+    "source": "questlog.side_where",
+    "original_en": "Steven's Island: in the top room of Steven's residence, pay the 1,230-year-old demon soul 1,996 for advice and beat him. He gives you a Magikarp, Lv1.",
+    "translation_vi": "",
+    "context": "Magikarp"
+  },
+  {
+    "id": "questlog.side_name.012A",
+    "source": "questlog.side_name",
+    "original_en": "Beldum",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.012A",
+    "source": "questlog.side_where",
+    "original_en": "Mossdeep City: in Steven's house, Lv5.",
+    "translation_vi": "",
+    "context": "Beldum"
+  },
+  {
+    "id": "questlog.side_name.045D",
+    "source": "questlog.side_name",
+    "original_en": "Snivy",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.045D",
+    "source": "questlog.side_where",
+    "original_en": "Petalburg Woods: a hidden one-off battle, Lv5.",
+    "translation_vi": "",
+    "context": "Snivy"
+  },
+  {
+    "id": "questlog.side_name.044D",
+    "source": "questlog.side_name",
+    "original_en": "Oshawott",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.044D",
+    "source": "questlog.side_where",
+    "original_en": "The Abandoned Ship: a hidden one-off battle, Lv21.",
+    "translation_vi": "",
+    "context": "Oshawott"
+  },
+  {
+    "id": "questlog.side_name.0415",
+    "source": "questlog.side_name",
+    "original_en": "Litten",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.0415",
+    "source": "questlog.side_where",
+    "original_en": "Meteor Falls: a hidden one-off battle, Lv5.",
+    "translation_vi": "",
+    "context": "Litten"
+  },
+  {
+    "id": "questlog.side_name.40B8",
+    "source": "questlog.side_name",
+    "original_en": "Grookey",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.40B8",
+    "source": "questlog.side_where",
+    "original_en": "Mt. Silver: a hidden one-off battle, Lv5.",
+    "translation_vi": "",
+    "context": "Grookey"
+  },
+  {
+    "id": "questlog.side_name.40EA",
+    "source": "questlog.side_name",
+    "original_en": "Scorbunny",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.40EA",
+    "source": "questlog.side_where",
+    "original_en": "Lake of Despair: a hidden one-off battle, Lv5.",
+    "translation_vi": "",
+    "context": "Scorbunny"
+  },
+  {
+    "id": "questlog.side_name.4189",
+    "source": "questlog.side_name",
+    "original_en": "Chespin",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4189",
+    "source": "questlog.side_where",
+    "original_en": "Remote Island: a hidden one-off battle, Lv5.",
+    "translation_vi": "",
+    "context": "Chespin"
+  },
+  {
+    "id": "questlog.side_name.4321",
+    "source": "questlog.side_name",
+    "original_en": "Chikorita",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4321",
+    "source": "questlog.side_where",
+    "original_en": "Timeless Woods: a hidden one-off battle, Lv5.",
+    "translation_vi": "",
+    "context": "Chikorita"
+  },
+  {
+    "id": "questlog.side_name.41C6",
+    "source": "questlog.side_name",
+    "original_en": "Cyndaquil",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.41C6",
+    "source": "questlog.side_where",
+    "original_en": "The Bell Tower in Johto: a hidden one-off battle, Lv5.",
+    "translation_vi": "",
+    "context": "Cyndaquil"
+  },
+  {
+    "id": "questlog.side_name.4088",
+    "source": "questlog.side_name",
+    "original_en": "Totodile",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4088",
+    "source": "questlog.side_where",
+    "original_en": "The Whirl Islands in Johto: a hidden one-off battle, Lv5.",
+    "translation_vi": "",
+    "context": "Totodile"
+  },
+  {
+    "id": "questlog.side_name.42A3",
+    "source": "questlog.side_name",
+    "original_en": "Red, Blue and Buzzwole",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.42A3",
+    "source": "questlog.side_where",
+    "original_en": "Route 102: Red and Blue corner an Ultra Beast at an Ultra Wormhole.",
+    "translation_vi": "",
+    "context": "Red, Blue and Buzzwole"
+  },
+  {
+    "id": "questlog.side_name.42B7",
+    "source": "questlog.side_name",
+    "original_en": "The Shadow Triad",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.42B7",
+    "source": "questlog.side_where",
+    "original_en": "Shoal Cave: Tate and Liza hold off the Shadow Triad. Take the last one.",
+    "translation_vi": "",
+    "context": "The Shadow Triad"
+  },
+  {
+    "id": "questlog.side_name.41DF",
+    "source": "questlog.side_name",
+    "original_en": "A voice in Terra Cave",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.41DF",
+    "source": "questlog.side_where",
+    "original_en": "Terra Cave: a familiar voice battles someone who controls the sunlight.",
+    "translation_vi": "",
+    "context": "A voice in Terra Cave"
+  },
+  {
+    "id": "questlog.side_name.41DE",
+    "source": "questlog.side_name",
+    "original_en": "A voice in Marine Cave",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.41DE",
+    "source": "questlog.side_where",
+    "original_en": "Marine Cave: a familiar voice battles someone who controls the rain.",
+    "translation_vi": "",
+    "context": "A voice in Marine Cave"
+  },
+  {
+    "id": "questlog.side_name.42B3",
+    "source": "questlog.side_name",
+    "original_en": "Trouble in New Mauville",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.42B3",
+    "source": "questlog.side_where",
+    "original_en": "New Mauville: someone is behind the generator trouble.",
+    "translation_vi": "",
+    "context": "Trouble in New Mauville"
+  },
+  {
+    "id": "questlog.side_name.4165",
+    "source": "questlog.side_name",
+    "original_en": "The woods' mentor",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4165",
+    "source": "questlog.side_where",
+    "original_en": "Petalburg Woods: a mysterious trainer who teaches you about battles.",
+    "translation_vi": "",
+    "context": "The woods' mentor"
+  },
+  {
+    "id": "questlog.side_name.42A7",
+    "source": "questlog.side_name",
+    "original_en": "The lost Skitty",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.42A7",
+    "source": "questlog.side_where",
+    "original_en": "Mauville City: find the lady's Skitty and bring it home.",
+    "translation_vi": "",
+    "context": "The lost Skitty"
+  },
+  {
+    "id": "questlog.side_name.4264",
+    "source": "questlog.side_name",
+    "original_en": "The bike exam",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4264",
+    "source": "questlog.side_where",
+    "original_en": "Mauville City: pass the cycling exam (Renli in Eterna City has a bike shop too).",
+    "translation_vi": "",
+    "context": "The bike exam"
+  },
+  {
+    "id": "questlog.side_name.40CE",
+    "source": "questlog.side_name",
+    "original_en": "Lucas and Barry",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.40CE",
+    "source": "questlog.side_where",
+    "original_en": "The Sinnoh League: your Sinnoh friends greet you. Barry waits in Twinleaf Town for a battle.",
+    "translation_vi": "",
+    "context": "Lucas and Barry"
+  },
+  {
+    "id": "questlog.side_name.4269",
+    "source": "questlog.side_name",
+    "original_en": "The chateau's TV",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4269",
+    "source": "questlog.side_where",
+    "original_en": "The Old Chateau in Sinnoh: watch the TV closely.",
+    "translation_vi": "",
+    "context": "The chateau's TV"
+  },
+  {
+    "id": "questlog.side_name.432D",
+    "source": "questlog.side_name",
+    "original_en": "The cursed statue",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.432D",
+    "source": "questlog.side_where",
+    "original_en": "The Old Chateau in Sinnoh: a powerful grudge dwells in a statue.",
+    "translation_vi": "",
+    "context": "The cursed statue"
+  },
+  {
+    "id": "questlog.side_name.4301",
+    "source": "questlog.side_name",
+    "original_en": "The Burning Soul",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4301",
+    "source": "questlog.side_where",
+    "original_en": "Route 112, foot of Mt. Chimney (west): a hidden cave. Take TM53, then read the sign with only a Typhlosion in your party. Say No to leaving: Yes collapses the cave for good. Win 3 rounds (a lost round only sends you back). Needed for Ash's challenge.",
+    "translation_vi": "",
+    "context": "The Burning Soul"
+  },
+  {
+    "id": "questlog.side_name.42FF",
+    "source": "questlog.side_name",
+    "original_en": "Koga's mark",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.42FF",
+    "source": "questlog.side_where",
+    "original_en": "Champion Island: battle Koga of Johto's Elite Four. He gives you his mark and tells of a hidden ninja village reached through the forest of Route 102.",
+    "translation_vi": "",
+    "context": "Koga's mark"
+  },
+  {
+    "id": "questlog.side_name.4300",
+    "source": "questlog.side_name",
+    "original_en": "The Hero Greninja",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4300",
+    "source": "questlog.side_where",
+    "original_en": "Koga's Village, through the Route 102 forest: bring only one Greninja to Elder Koga's two-stage trial (some items are banned). Your Greninja gains its hero form, like Ash's.",
+    "translation_vi": "",
+    "context": "The Hero Greninja"
+  },
+  {
+    "id": "questlog.side_name.4302",
+    "source": "questlog.side_name",
+    "original_en": "Ash's challenge",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4302",
+    "source": "questlog.side_where",
+    "original_en": "Littleroot Town: once you have the Hero Greninja and the Burning Soul and have beaten Team Rainbow Rocket, accept your rival's battle in Prof. Birch's lab. Ash joins: a 2-vs-2 on Route 101, where a red-haired passerby fights on his side and leaves a note.",
+    "translation_vi": "",
+    "context": "Ash's challenge"
+  },
+  {
+    "id": "questlog.side_name.4303",
+    "source": "questlog.side_name",
+    "original_en": "The note's sender",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.side_where.4303",
+    "source": "questlog.side_where",
+    "original_en": "Steven's Island: the northeast corner of Steven's residence. The passerby from Route 101 is waiting.",
+    "translation_vi": "",
+    "context": "The note's sender"
+  },
+  {
+    "id": "questlog.badge_where.42CD",
+    "source": "questlog.badge_where",
+    "original_en": "Oreburgh City: won from Gym Leader Roark.",
+    "translation_vi": "",
+    "context": "Coal Badge"
+  },
+  {
+    "id": "questlog.badge_where.42CE",
+    "source": "questlog.badge_where",
+    "original_en": "Eterna City: won from Gym Leader Gardenia.",
+    "translation_vi": "",
+    "context": "Forest Badge"
+  },
+  {
+    "id": "questlog.badge_where.42CF",
+    "source": "questlog.badge_where",
+    "original_en": "Veilstone City: won from Gym Leader Maylene.",
+    "translation_vi": "",
+    "context": "Cobble Badge"
+  },
+  {
+    "id": "questlog.badge_where.42D0",
+    "source": "questlog.badge_where",
+    "original_en": "Pastoria City: won from Gym Leader Crasher Wake.",
+    "translation_vi": "",
+    "context": "Fen Badge"
+  },
+  {
+    "id": "questlog.badge_where.42D1",
+    "source": "questlog.badge_where",
+    "original_en": "Hearthome City: won from Gym Leader Fantina.",
+    "translation_vi": "",
+    "context": "Relic Badge"
+  },
+  {
+    "id": "questlog.badge_where.42D2",
+    "source": "questlog.badge_where",
+    "original_en": "Canalave City: won from Gym Leader Byron.",
+    "translation_vi": "",
+    "context": "Mine Badge"
+  },
+  {
+    "id": "questlog.badge_where.42D3",
+    "source": "questlog.badge_where",
+    "original_en": "Snowpoint City: won from Gym Leader Candice.",
+    "translation_vi": "",
+    "context": "Icicle Badge"
+  },
+  {
+    "id": "questlog.badge_where.42D4",
+    "source": "questlog.badge_where",
+    "original_en": "Sunyshore City: won from Gym Leader Volkner.",
+    "translation_vi": "",
+    "context": "Beacon Badge"
+  },
+  {
+    "id": "questlog.location.Route_101",
+    "source": "questlog.location",
+    "original_en": "Route 101",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Route_103",
+    "source": "questlog.location",
+    "original_en": "Route 103",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Rustboro_City",
+    "source": "questlog.location",
+    "original_en": "Rustboro City",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Rusturf_Tunnel",
+    "source": "questlog.location",
+    "original_en": "Rusturf Tunnel",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Granite_Cave",
+    "source": "questlog.location",
+    "original_en": "Granite Cave",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Dewford_Town",
+    "source": "questlog.location",
+    "original_en": "Dewford Town",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Slateport_City",
+    "source": "questlog.location",
+    "original_en": "Slateport City",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Mauville_City",
+    "source": "questlog.location",
+    "original_en": "Mauville City",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Meteor_Falls",
+    "source": "questlog.location",
+    "original_en": "Meteor Falls",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Lavaridge_Town",
+    "source": "questlog.location",
+    "original_en": "Lavaridge Town",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Petalburg_City",
+    "source": "questlog.location",
+    "original_en": "Petalburg City",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Weather_Institute",
+    "source": "questlog.location",
+    "original_en": "Weather Institute",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Fortree_City",
+    "source": "questlog.location",
+    "original_en": "Fortree City",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Mt._Pyre",
+    "source": "questlog.location",
+    "original_en": "Mt. Pyre",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Magma_Hideout",
+    "source": "questlog.location",
+    "original_en": "Magma Hideout",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Aqua_Hideout",
+    "source": "questlog.location",
+    "original_en": "Aqua Hideout",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Shoal_Cave",
+    "source": "questlog.location",
+    "original_en": "Shoal Cave",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Mossdeep_City",
+    "source": "questlog.location",
+    "original_en": "Mossdeep City",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Seafloor_Cavern",
+    "source": "questlog.location",
+    "original_en": "Seafloor Cavern",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Sootopolis_City",
+    "source": "questlog.location",
+    "original_en": "Sootopolis City",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Ever_Grande_City",
+    "source": "questlog.location",
+    "original_en": "Ever Grande City",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Littleroot_Town",
+    "source": "questlog.location",
+    "original_en": "Littleroot Town",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Steven's_Island",
+    "source": "questlog.location",
+    "original_en": "Steven's Island",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Sky_Pillar",
+    "source": "questlog.location",
+    "original_en": "Sky Pillar",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Pacifidlog_Town",
+    "source": "questlog.location",
+    "original_en": "Pacifidlog Town",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Route_111",
+    "source": "questlog.location",
+    "original_en": "Route 111",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Strange_Island",
+    "source": "questlog.location",
+    "original_en": "Strange Island",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Scorched_Slab",
+    "source": "questlog.location",
+    "original_en": "Scorched Slab",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Hoenn",
+    "source": "questlog.location",
+    "original_en": "Hoenn",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Route_116",
+    "source": "questlog.location",
+    "original_en": "Route 116",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Mirage_Tower",
+    "source": "questlog.location",
+    "original_en": "Mirage Tower",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Rainbow_Castle",
+    "source": "questlog.location",
+    "original_en": "Rainbow Castle",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Battle_Frontier",
+    "source": "questlog.location",
+    "original_en": "Battle Frontier",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Lilycove_City",
+    "source": "questlog.location",
+    "original_en": "Lilycove City",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Canalave_City",
+    "source": "questlog.location",
+    "original_en": "Canalave City",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Sinnoh",
+    "source": "questlog.location",
+    "original_en": "Sinnoh",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Sinnoh_League",
+    "source": "questlog.location",
+    "original_en": "Sinnoh League",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Spear_Pillar",
+    "source": "questlog.location",
+    "original_en": "Spear Pillar",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Celestic_Town",
+    "source": "questlog.location",
+    "original_en": "Celestic Town",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Distortion_World",
+    "source": "questlog.location",
+    "original_en": "Distortion World",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Mountain_Top",
+    "source": "questlog.location",
+    "original_en": "Mountain Top",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Hearthome_City",
+    "source": "questlog.location",
+    "original_en": "Hearthome City",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Hisui",
+    "source": "questlog.location",
+    "original_en": "Hisui",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Alabaster_Icelands",
+    "source": "questlog.location",
+    "original_en": "Alabaster Icelands",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Mt._Coronet",
+    "source": "questlog.location",
+    "original_en": "Mt. Coronet",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Solaceon_Town",
+    "source": "questlog.location",
+    "original_en": "Solaceon Town",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Lost_Tower",
+    "source": "questlog.location",
+    "original_en": "Lost Tower",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Champion_Island",
+    "source": "questlog.location",
+    "original_en": "Champion Island",
+    "translation_vi": ""
+  },
+  {
+    "id": "questlog.location.Everywhere",
+    "source": "questlog.location",
+    "original_en": "Everywhere",
+    "translation_vi": ""
+  }
+]

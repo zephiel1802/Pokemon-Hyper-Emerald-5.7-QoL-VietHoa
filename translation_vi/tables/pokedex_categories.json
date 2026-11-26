@@ -1,0 +1,6715 @@
+[
+  {
+    "dex": 1,
+    "offset_hex": "0x1250020",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 2,
+    "offset_hex": "0x1250040",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 3,
+    "offset_hex": "0x1250060",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 4,
+    "offset_hex": "0x1250080",
+    "max_bytes": 11,
+    "original_en": "Lizard",
+    "translation_vi": ""
+  },
+  {
+    "dex": 5,
+    "offset_hex": "0x12500a0",
+    "max_bytes": 11,
+    "original_en": "Flame",
+    "translation_vi": ""
+  },
+  {
+    "dex": 6,
+    "offset_hex": "0x12500c0",
+    "max_bytes": 11,
+    "original_en": "Flame",
+    "translation_vi": ""
+  },
+  {
+    "dex": 7,
+    "offset_hex": "0x12500e0",
+    "max_bytes": 11,
+    "original_en": "Tiny Turtle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 8,
+    "offset_hex": "0x1250100",
+    "max_bytes": 11,
+    "original_en": "Turtle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 9,
+    "offset_hex": "0x1250120",
+    "max_bytes": 11,
+    "original_en": "Shellfish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 10,
+    "offset_hex": "0x1250140",
+    "max_bytes": 11,
+    "original_en": "Worm",
+    "translation_vi": ""
+  },
+  {
+    "dex": 11,
+    "offset_hex": "0x1250160",
+    "max_bytes": 11,
+    "original_en": "Cocoon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 12,
+    "offset_hex": "0x1250180",
+    "max_bytes": 11,
+    "original_en": "Butterfly",
+    "translation_vi": ""
+  },
+  {
+    "dex": 13,
+    "offset_hex": "0x12501a0",
+    "max_bytes": 11,
+    "original_en": "Hairy Bug",
+    "translation_vi": ""
+  },
+  {
+    "dex": 14,
+    "offset_hex": "0x12501c0",
+    "max_bytes": 11,
+    "original_en": "Cocoon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 15,
+    "offset_hex": "0x12501e0",
+    "max_bytes": 11,
+    "original_en": "Poison Bee",
+    "translation_vi": ""
+  },
+  {
+    "dex": 16,
+    "offset_hex": "0x1250200",
+    "max_bytes": 11,
+    "original_en": "Tiny Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 17,
+    "offset_hex": "0x1250220",
+    "max_bytes": 11,
+    "original_en": "Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 18,
+    "offset_hex": "0x1250240",
+    "max_bytes": 11,
+    "original_en": "Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 19,
+    "offset_hex": "0x1250260",
+    "max_bytes": 11,
+    "original_en": "Mouse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 20,
+    "offset_hex": "0x1250280",
+    "max_bytes": 11,
+    "original_en": "Mouse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 21,
+    "offset_hex": "0x12502a0",
+    "max_bytes": 11,
+    "original_en": "Tiny Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 22,
+    "offset_hex": "0x12502c0",
+    "max_bytes": 11,
+    "original_en": "Beak",
+    "translation_vi": ""
+  },
+  {
+    "dex": 23,
+    "offset_hex": "0x12502e0",
+    "max_bytes": 11,
+    "original_en": "Snake",
+    "translation_vi": ""
+  },
+  {
+    "dex": 24,
+    "offset_hex": "0x1250300",
+    "max_bytes": 11,
+    "original_en": "Cobra",
+    "translation_vi": ""
+  },
+  {
+    "dex": 25,
+    "offset_hex": "0x1250320",
+    "max_bytes": 11,
+    "original_en": "Mouse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 26,
+    "offset_hex": "0x1250340",
+    "max_bytes": 11,
+    "original_en": "Mouse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 27,
+    "offset_hex": "0x1250360",
+    "max_bytes": 11,
+    "original_en": "Mouse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 28,
+    "offset_hex": "0x1250380",
+    "max_bytes": 11,
+    "original_en": "Mouse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 29,
+    "offset_hex": "0x12503a0",
+    "max_bytes": 11,
+    "original_en": "Poison Pin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 30,
+    "offset_hex": "0x12503c0",
+    "max_bytes": 11,
+    "original_en": "Poison Pin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 31,
+    "offset_hex": "0x12503e0",
+    "max_bytes": 11,
+    "original_en": "Drill",
+    "translation_vi": ""
+  },
+  {
+    "dex": 32,
+    "offset_hex": "0x1250400",
+    "max_bytes": 11,
+    "original_en": "Poison Pin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 33,
+    "offset_hex": "0x1250420",
+    "max_bytes": 11,
+    "original_en": "Poison Pin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 34,
+    "offset_hex": "0x1250440",
+    "max_bytes": 11,
+    "original_en": "Drill",
+    "translation_vi": ""
+  },
+  {
+    "dex": 35,
+    "offset_hex": "0x1250460",
+    "max_bytes": 11,
+    "original_en": "Fairy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 36,
+    "offset_hex": "0x1250480",
+    "max_bytes": 11,
+    "original_en": "Fairy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 37,
+    "offset_hex": "0x12504a0",
+    "max_bytes": 11,
+    "original_en": "Fox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 38,
+    "offset_hex": "0x12504c0",
+    "max_bytes": 11,
+    "original_en": "Fox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 39,
+    "offset_hex": "0x12504e0",
+    "max_bytes": 11,
+    "original_en": "Balloon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 40,
+    "offset_hex": "0x1250500",
+    "max_bytes": 11,
+    "original_en": "Balloon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 41,
+    "offset_hex": "0x1250520",
+    "max_bytes": 11,
+    "original_en": "Bat",
+    "translation_vi": ""
+  },
+  {
+    "dex": 42,
+    "offset_hex": "0x1250540",
+    "max_bytes": 11,
+    "original_en": "Bat",
+    "translation_vi": ""
+  },
+  {
+    "dex": 43,
+    "offset_hex": "0x1250560",
+    "max_bytes": 11,
+    "original_en": "Weed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 44,
+    "offset_hex": "0x1250580",
+    "max_bytes": 11,
+    "original_en": "Weed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 45,
+    "offset_hex": "0x12505a0",
+    "max_bytes": 11,
+    "original_en": "Flower",
+    "translation_vi": ""
+  },
+  {
+    "dex": 46,
+    "offset_hex": "0x12505c0",
+    "max_bytes": 11,
+    "original_en": "Mushroom",
+    "translation_vi": ""
+  },
+  {
+    "dex": 47,
+    "offset_hex": "0x12505e0",
+    "max_bytes": 11,
+    "original_en": "Mushroom",
+    "translation_vi": ""
+  },
+  {
+    "dex": 48,
+    "offset_hex": "0x1250600",
+    "max_bytes": 11,
+    "original_en": "Insect",
+    "translation_vi": ""
+  },
+  {
+    "dex": 49,
+    "offset_hex": "0x1250620",
+    "max_bytes": 11,
+    "original_en": "Poison Moth",
+    "translation_vi": ""
+  },
+  {
+    "dex": 50,
+    "offset_hex": "0x1250640",
+    "max_bytes": 11,
+    "original_en": "Mole",
+    "translation_vi": ""
+  },
+  {
+    "dex": 51,
+    "offset_hex": "0x1250660",
+    "max_bytes": 11,
+    "original_en": "Mole",
+    "translation_vi": ""
+  },
+  {
+    "dex": 52,
+    "offset_hex": "0x1250680",
+    "max_bytes": 11,
+    "original_en": "Scratch Cat",
+    "translation_vi": ""
+  },
+  {
+    "dex": 53,
+    "offset_hex": "0x12506a0",
+    "max_bytes": 11,
+    "original_en": "Classy Cat",
+    "translation_vi": ""
+  },
+  {
+    "dex": 54,
+    "offset_hex": "0x12506c0",
+    "max_bytes": 11,
+    "original_en": "Duck",
+    "translation_vi": ""
+  },
+  {
+    "dex": 55,
+    "offset_hex": "0x12506e0",
+    "max_bytes": 11,
+    "original_en": "Duck",
+    "translation_vi": ""
+  },
+  {
+    "dex": 56,
+    "offset_hex": "0x1250700",
+    "max_bytes": 11,
+    "original_en": "Pig Monkey",
+    "translation_vi": ""
+  },
+  {
+    "dex": 57,
+    "offset_hex": "0x1250720",
+    "max_bytes": 11,
+    "original_en": "Pig Monkey",
+    "translation_vi": ""
+  },
+  {
+    "dex": 58,
+    "offset_hex": "0x1250740",
+    "max_bytes": 11,
+    "original_en": "Puppy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 59,
+    "offset_hex": "0x1250760",
+    "max_bytes": 11,
+    "original_en": "Legendary",
+    "translation_vi": ""
+  },
+  {
+    "dex": 60,
+    "offset_hex": "0x1250780",
+    "max_bytes": 11,
+    "original_en": "Tadpole",
+    "translation_vi": ""
+  },
+  {
+    "dex": 61,
+    "offset_hex": "0x12507a0",
+    "max_bytes": 11,
+    "original_en": "Tadpole",
+    "translation_vi": ""
+  },
+  {
+    "dex": 62,
+    "offset_hex": "0x12507c0",
+    "max_bytes": 11,
+    "original_en": "Tadpole",
+    "translation_vi": ""
+  },
+  {
+    "dex": 63,
+    "offset_hex": "0x12507e0",
+    "max_bytes": 11,
+    "original_en": "Psi",
+    "translation_vi": ""
+  },
+  {
+    "dex": 64,
+    "offset_hex": "0x1250800",
+    "max_bytes": 11,
+    "original_en": "Psi",
+    "translation_vi": ""
+  },
+  {
+    "dex": 65,
+    "offset_hex": "0x1250820",
+    "max_bytes": 11,
+    "original_en": "Psi",
+    "translation_vi": ""
+  },
+  {
+    "dex": 66,
+    "offset_hex": "0x1250840",
+    "max_bytes": 11,
+    "original_en": "Superpower",
+    "translation_vi": ""
+  },
+  {
+    "dex": 67,
+    "offset_hex": "0x1250860",
+    "max_bytes": 11,
+    "original_en": "Superpower",
+    "translation_vi": ""
+  },
+  {
+    "dex": 68,
+    "offset_hex": "0x1250880",
+    "max_bytes": 11,
+    "original_en": "Superpower",
+    "translation_vi": ""
+  },
+  {
+    "dex": 69,
+    "offset_hex": "0x12508a0",
+    "max_bytes": 11,
+    "original_en": "Flower",
+    "translation_vi": ""
+  },
+  {
+    "dex": 70,
+    "offset_hex": "0x12508c0",
+    "max_bytes": 11,
+    "original_en": "Flycatcher",
+    "translation_vi": ""
+  },
+  {
+    "dex": 71,
+    "offset_hex": "0x12508e0",
+    "max_bytes": 11,
+    "original_en": "Flycatcher",
+    "translation_vi": ""
+  },
+  {
+    "dex": 72,
+    "offset_hex": "0x1250900",
+    "max_bytes": 11,
+    "original_en": "Jellyfish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 73,
+    "offset_hex": "0x1250920",
+    "max_bytes": 11,
+    "original_en": "Jellyfish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 74,
+    "offset_hex": "0x1250940",
+    "max_bytes": 11,
+    "original_en": "Rock",
+    "translation_vi": ""
+  },
+  {
+    "dex": 75,
+    "offset_hex": "0x1250960",
+    "max_bytes": 11,
+    "original_en": "Rock",
+    "translation_vi": ""
+  },
+  {
+    "dex": 76,
+    "offset_hex": "0x1250980",
+    "max_bytes": 11,
+    "original_en": "Megaton",
+    "translation_vi": ""
+  },
+  {
+    "dex": 77,
+    "offset_hex": "0x12509a0",
+    "max_bytes": 11,
+    "original_en": "Fire Horse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 78,
+    "offset_hex": "0x12509c0",
+    "max_bytes": 11,
+    "original_en": "Fire Horse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 79,
+    "offset_hex": "0x12509e0",
+    "max_bytes": 11,
+    "original_en": "Dopey",
+    "translation_vi": ""
+  },
+  {
+    "dex": 80,
+    "offset_hex": "0x1250a00",
+    "max_bytes": 11,
+    "original_en": "Hermit Crab",
+    "translation_vi": ""
+  },
+  {
+    "dex": 81,
+    "offset_hex": "0x1250a20",
+    "max_bytes": 11,
+    "original_en": "Magnet",
+    "translation_vi": ""
+  },
+  {
+    "dex": 82,
+    "offset_hex": "0x1250a40",
+    "max_bytes": 11,
+    "original_en": "Magnet",
+    "translation_vi": ""
+  },
+  {
+    "dex": 83,
+    "offset_hex": "0x1250a60",
+    "max_bytes": 11,
+    "original_en": "Wild Duck",
+    "translation_vi": ""
+  },
+  {
+    "dex": 84,
+    "offset_hex": "0x1250a80",
+    "max_bytes": 11,
+    "original_en": "Twin Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 85,
+    "offset_hex": "0x1250aa0",
+    "max_bytes": 11,
+    "original_en": "Triple Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 86,
+    "offset_hex": "0x1250ac0",
+    "max_bytes": 11,
+    "original_en": "Sea Lion",
+    "translation_vi": ""
+  },
+  {
+    "dex": 87,
+    "offset_hex": "0x1250ae0",
+    "max_bytes": 11,
+    "original_en": "Sea Lion",
+    "translation_vi": ""
+  },
+  {
+    "dex": 88,
+    "offset_hex": "0x1250b00",
+    "max_bytes": 11,
+    "original_en": "Sludge",
+    "translation_vi": ""
+  },
+  {
+    "dex": 89,
+    "offset_hex": "0x1250b20",
+    "max_bytes": 11,
+    "original_en": "Sludge",
+    "translation_vi": ""
+  },
+  {
+    "dex": 90,
+    "offset_hex": "0x1250b40",
+    "max_bytes": 11,
+    "original_en": "Bivalve",
+    "translation_vi": ""
+  },
+  {
+    "dex": 91,
+    "offset_hex": "0x1250b60",
+    "max_bytes": 11,
+    "original_en": "Bivalve",
+    "translation_vi": ""
+  },
+  {
+    "dex": 92,
+    "offset_hex": "0x1250b80",
+    "max_bytes": 11,
+    "original_en": "Gas",
+    "translation_vi": ""
+  },
+  {
+    "dex": 93,
+    "offset_hex": "0x1250ba0",
+    "max_bytes": 11,
+    "original_en": "Gas",
+    "translation_vi": ""
+  },
+  {
+    "dex": 94,
+    "offset_hex": "0x1250bc0",
+    "max_bytes": 11,
+    "original_en": "Shadow",
+    "translation_vi": ""
+  },
+  {
+    "dex": 95,
+    "offset_hex": "0x1250be0",
+    "max_bytes": 11,
+    "original_en": "Rock Snake",
+    "translation_vi": ""
+  },
+  {
+    "dex": 96,
+    "offset_hex": "0x1250c00",
+    "max_bytes": 11,
+    "original_en": "Hypnosis",
+    "translation_vi": ""
+  },
+  {
+    "dex": 97,
+    "offset_hex": "0x1250c20",
+    "max_bytes": 11,
+    "original_en": "Hypnosis",
+    "translation_vi": ""
+  },
+  {
+    "dex": 98,
+    "offset_hex": "0x1250c40",
+    "max_bytes": 11,
+    "original_en": "River Crab",
+    "translation_vi": ""
+  },
+  {
+    "dex": 99,
+    "offset_hex": "0x1250c60",
+    "max_bytes": 11,
+    "original_en": "Pincer",
+    "translation_vi": ""
+  },
+  {
+    "dex": 100,
+    "offset_hex": "0x1250c80",
+    "max_bytes": 11,
+    "original_en": "Ball",
+    "translation_vi": ""
+  },
+  {
+    "dex": 101,
+    "offset_hex": "0x1250ca0",
+    "max_bytes": 11,
+    "original_en": "Ball",
+    "translation_vi": ""
+  },
+  {
+    "dex": 102,
+    "offset_hex": "0x1250cc0",
+    "max_bytes": 11,
+    "original_en": "Egg",
+    "translation_vi": ""
+  },
+  {
+    "dex": 103,
+    "offset_hex": "0x1250ce0",
+    "max_bytes": 11,
+    "original_en": "Coconut",
+    "translation_vi": ""
+  },
+  {
+    "dex": 104,
+    "offset_hex": "0x1250d00",
+    "max_bytes": 11,
+    "original_en": "Lonely",
+    "translation_vi": ""
+  },
+  {
+    "dex": 105,
+    "offset_hex": "0x1250d20",
+    "max_bytes": 11,
+    "original_en": "Bone Keeper",
+    "translation_vi": ""
+  },
+  {
+    "dex": 106,
+    "offset_hex": "0x1250d40",
+    "max_bytes": 11,
+    "original_en": "Kicking",
+    "translation_vi": ""
+  },
+  {
+    "dex": 107,
+    "offset_hex": "0x1250d60",
+    "max_bytes": 11,
+    "original_en": "Punching",
+    "translation_vi": ""
+  },
+  {
+    "dex": 108,
+    "offset_hex": "0x1250d80",
+    "max_bytes": 11,
+    "original_en": "Licking",
+    "translation_vi": ""
+  },
+  {
+    "dex": 109,
+    "offset_hex": "0x1250da0",
+    "max_bytes": 11,
+    "original_en": "Poison Gas",
+    "translation_vi": ""
+  },
+  {
+    "dex": 110,
+    "offset_hex": "0x1250dc0",
+    "max_bytes": 11,
+    "original_en": "Poison Gas",
+    "translation_vi": ""
+  },
+  {
+    "dex": 111,
+    "offset_hex": "0x1250de0",
+    "max_bytes": 11,
+    "original_en": "Spikes",
+    "translation_vi": ""
+  },
+  {
+    "dex": 112,
+    "offset_hex": "0x1250e00",
+    "max_bytes": 11,
+    "original_en": "Drill",
+    "translation_vi": ""
+  },
+  {
+    "dex": 113,
+    "offset_hex": "0x1250e20",
+    "max_bytes": 11,
+    "original_en": "Egg",
+    "translation_vi": ""
+  },
+  {
+    "dex": 114,
+    "offset_hex": "0x1250e40",
+    "max_bytes": 11,
+    "original_en": "Vine",
+    "translation_vi": ""
+  },
+  {
+    "dex": 115,
+    "offset_hex": "0x1250e60",
+    "max_bytes": 11,
+    "original_en": "Parent",
+    "translation_vi": ""
+  },
+  {
+    "dex": 116,
+    "offset_hex": "0x1250e80",
+    "max_bytes": 11,
+    "original_en": "Dragon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 117,
+    "offset_hex": "0x1250ea0",
+    "max_bytes": 11,
+    "original_en": "Dragon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 118,
+    "offset_hex": "0x1250ec0",
+    "max_bytes": 11,
+    "original_en": "Goldfish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 119,
+    "offset_hex": "0x1250ee0",
+    "max_bytes": 11,
+    "original_en": "Goldfish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 120,
+    "offset_hex": "0x1250f00",
+    "max_bytes": 11,
+    "original_en": "Star Shape",
+    "translation_vi": ""
+  },
+  {
+    "dex": 121,
+    "offset_hex": "0x1250f20",
+    "max_bytes": 11,
+    "original_en": "Mysterious",
+    "translation_vi": ""
+  },
+  {
+    "dex": 122,
+    "offset_hex": "0x1250f40",
+    "max_bytes": 11,
+    "original_en": "Barrier",
+    "translation_vi": ""
+  },
+  {
+    "dex": 123,
+    "offset_hex": "0x1250f60",
+    "max_bytes": 11,
+    "original_en": "Mantis",
+    "translation_vi": ""
+  },
+  {
+    "dex": 124,
+    "offset_hex": "0x1250f80",
+    "max_bytes": 11,
+    "original_en": "Human Shape",
+    "translation_vi": ""
+  },
+  {
+    "dex": 125,
+    "offset_hex": "0x1250fa0",
+    "max_bytes": 11,
+    "original_en": "Electric",
+    "translation_vi": ""
+  },
+  {
+    "dex": 126,
+    "offset_hex": "0x1250fc0",
+    "max_bytes": 11,
+    "original_en": "Spitfire",
+    "translation_vi": ""
+  },
+  {
+    "dex": 127,
+    "offset_hex": "0x1250fe0",
+    "max_bytes": 11,
+    "original_en": "Stag Beetle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 128,
+    "offset_hex": "0x1251000",
+    "max_bytes": 11,
+    "original_en": "Wild Bull",
+    "translation_vi": ""
+  },
+  {
+    "dex": 129,
+    "offset_hex": "0x1251020",
+    "max_bytes": 11,
+    "original_en": "Fish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 130,
+    "offset_hex": "0x1251040",
+    "max_bytes": 11,
+    "original_en": "Atrocious",
+    "translation_vi": ""
+  },
+  {
+    "dex": 131,
+    "offset_hex": "0x1251060",
+    "max_bytes": 11,
+    "original_en": "Transport",
+    "translation_vi": ""
+  },
+  {
+    "dex": 132,
+    "offset_hex": "0x1251080",
+    "max_bytes": 11,
+    "original_en": "Transform",
+    "translation_vi": ""
+  },
+  {
+    "dex": 133,
+    "offset_hex": "0x12510a0",
+    "max_bytes": 11,
+    "original_en": "Evolution",
+    "translation_vi": ""
+  },
+  {
+    "dex": 134,
+    "offset_hex": "0x12510c0",
+    "max_bytes": 11,
+    "original_en": "Bubble Jet",
+    "translation_vi": ""
+  },
+  {
+    "dex": 135,
+    "offset_hex": "0x12510e0",
+    "max_bytes": 11,
+    "original_en": "Lightning",
+    "translation_vi": ""
+  },
+  {
+    "dex": 136,
+    "offset_hex": "0x1251100",
+    "max_bytes": 11,
+    "original_en": "Flame",
+    "translation_vi": ""
+  },
+  {
+    "dex": 137,
+    "offset_hex": "0x1251120",
+    "max_bytes": 11,
+    "original_en": "Virtual",
+    "translation_vi": ""
+  },
+  {
+    "dex": 138,
+    "offset_hex": "0x1251140",
+    "max_bytes": 11,
+    "original_en": "Spiral",
+    "translation_vi": ""
+  },
+  {
+    "dex": 139,
+    "offset_hex": "0x1251160",
+    "max_bytes": 11,
+    "original_en": "Spiral",
+    "translation_vi": ""
+  },
+  {
+    "dex": 140,
+    "offset_hex": "0x1251180",
+    "max_bytes": 11,
+    "original_en": "Shellfish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 141,
+    "offset_hex": "0x12511a0",
+    "max_bytes": 11,
+    "original_en": "Shellfish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 142,
+    "offset_hex": "0x12511c0",
+    "max_bytes": 11,
+    "original_en": "Fossil",
+    "translation_vi": ""
+  },
+  {
+    "dex": 143,
+    "offset_hex": "0x12511e0",
+    "max_bytes": 11,
+    "original_en": "Sleeping",
+    "translation_vi": ""
+  },
+  {
+    "dex": 144,
+    "offset_hex": "0x1251200",
+    "max_bytes": 11,
+    "original_en": "Freeze",
+    "translation_vi": ""
+  },
+  {
+    "dex": 145,
+    "offset_hex": "0x1251220",
+    "max_bytes": 11,
+    "original_en": "Electric",
+    "translation_vi": ""
+  },
+  {
+    "dex": 146,
+    "offset_hex": "0x1251240",
+    "max_bytes": 11,
+    "original_en": "Flame",
+    "translation_vi": ""
+  },
+  {
+    "dex": 147,
+    "offset_hex": "0x1251260",
+    "max_bytes": 11,
+    "original_en": "Dragon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 148,
+    "offset_hex": "0x1251280",
+    "max_bytes": 11,
+    "original_en": "Dragon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 149,
+    "offset_hex": "0x12512a0",
+    "max_bytes": 11,
+    "original_en": "Dragon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 150,
+    "offset_hex": "0x12512c0",
+    "max_bytes": 11,
+    "original_en": "Genetic",
+    "translation_vi": ""
+  },
+  {
+    "dex": 151,
+    "offset_hex": "0x12512e0",
+    "max_bytes": 11,
+    "original_en": "New Species",
+    "translation_vi": ""
+  },
+  {
+    "dex": 152,
+    "offset_hex": "0x1251300",
+    "max_bytes": 11,
+    "original_en": "Leaf",
+    "translation_vi": ""
+  },
+  {
+    "dex": 153,
+    "offset_hex": "0x1251320",
+    "max_bytes": 11,
+    "original_en": "Leaf",
+    "translation_vi": ""
+  },
+  {
+    "dex": 154,
+    "offset_hex": "0x1251340",
+    "max_bytes": 11,
+    "original_en": "Herb",
+    "translation_vi": ""
+  },
+  {
+    "dex": 155,
+    "offset_hex": "0x1251360",
+    "max_bytes": 11,
+    "original_en": "Fire Mouse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 156,
+    "offset_hex": "0x1251380",
+    "max_bytes": 11,
+    "original_en": "Volcano",
+    "translation_vi": ""
+  },
+  {
+    "dex": 157,
+    "offset_hex": "0x12513a0",
+    "max_bytes": 11,
+    "original_en": "Volcano",
+    "translation_vi": ""
+  },
+  {
+    "dex": 158,
+    "offset_hex": "0x12513c0",
+    "max_bytes": 11,
+    "original_en": "Big Jaw",
+    "translation_vi": ""
+  },
+  {
+    "dex": 159,
+    "offset_hex": "0x12513e0",
+    "max_bytes": 11,
+    "original_en": "Big Jaw",
+    "translation_vi": ""
+  },
+  {
+    "dex": 160,
+    "offset_hex": "0x1251400",
+    "max_bytes": 11,
+    "original_en": "Big Jaw",
+    "translation_vi": ""
+  },
+  {
+    "dex": 161,
+    "offset_hex": "0x1251420",
+    "max_bytes": 11,
+    "original_en": "Scout",
+    "translation_vi": ""
+  },
+  {
+    "dex": 162,
+    "offset_hex": "0x1251440",
+    "max_bytes": 11,
+    "original_en": "Long Body",
+    "translation_vi": ""
+  },
+  {
+    "dex": 163,
+    "offset_hex": "0x1251460",
+    "max_bytes": 11,
+    "original_en": "Owl",
+    "translation_vi": ""
+  },
+  {
+    "dex": 164,
+    "offset_hex": "0x1251480",
+    "max_bytes": 11,
+    "original_en": "Owl",
+    "translation_vi": ""
+  },
+  {
+    "dex": 165,
+    "offset_hex": "0x12514a0",
+    "max_bytes": 11,
+    "original_en": "Five Star",
+    "translation_vi": ""
+  },
+  {
+    "dex": 166,
+    "offset_hex": "0x12514c0",
+    "max_bytes": 11,
+    "original_en": "Five Star",
+    "translation_vi": ""
+  },
+  {
+    "dex": 167,
+    "offset_hex": "0x12514e0",
+    "max_bytes": 11,
+    "original_en": "String Spit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 168,
+    "offset_hex": "0x1251500",
+    "max_bytes": 11,
+    "original_en": "Long Leg",
+    "translation_vi": ""
+  },
+  {
+    "dex": 169,
+    "offset_hex": "0x1251520",
+    "max_bytes": 11,
+    "original_en": "Bat",
+    "translation_vi": ""
+  },
+  {
+    "dex": 170,
+    "offset_hex": "0x1251540",
+    "max_bytes": 11,
+    "original_en": "Angler",
+    "translation_vi": ""
+  },
+  {
+    "dex": 171,
+    "offset_hex": "0x1251560",
+    "max_bytes": 11,
+    "original_en": "Light",
+    "translation_vi": ""
+  },
+  {
+    "dex": 172,
+    "offset_hex": "0x1251580",
+    "max_bytes": 11,
+    "original_en": "Tiny Mouse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 173,
+    "offset_hex": "0x12515a0",
+    "max_bytes": 11,
+    "original_en": "Star Shape",
+    "translation_vi": ""
+  },
+  {
+    "dex": 174,
+    "offset_hex": "0x12515c0",
+    "max_bytes": 11,
+    "original_en": "Balloon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 175,
+    "offset_hex": "0x12515e0",
+    "max_bytes": 11,
+    "original_en": "Spike Ball",
+    "translation_vi": ""
+  },
+  {
+    "dex": 176,
+    "offset_hex": "0x1251600",
+    "max_bytes": 11,
+    "original_en": "Happiness",
+    "translation_vi": ""
+  },
+  {
+    "dex": 177,
+    "offset_hex": "0x1251620",
+    "max_bytes": 11,
+    "original_en": "Tiny Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 178,
+    "offset_hex": "0x1251640",
+    "max_bytes": 11,
+    "original_en": "Mystic",
+    "translation_vi": ""
+  },
+  {
+    "dex": 179,
+    "offset_hex": "0x1251660",
+    "max_bytes": 11,
+    "original_en": "Wool",
+    "translation_vi": ""
+  },
+  {
+    "dex": 180,
+    "offset_hex": "0x1251680",
+    "max_bytes": 11,
+    "original_en": "Wool",
+    "translation_vi": ""
+  },
+  {
+    "dex": 181,
+    "offset_hex": "0x12516a0",
+    "max_bytes": 11,
+    "original_en": "Light",
+    "translation_vi": ""
+  },
+  {
+    "dex": 182,
+    "offset_hex": "0x12516c0",
+    "max_bytes": 11,
+    "original_en": "Flower",
+    "translation_vi": ""
+  },
+  {
+    "dex": 183,
+    "offset_hex": "0x12516e0",
+    "max_bytes": 11,
+    "original_en": "Aqua Mouse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 184,
+    "offset_hex": "0x1251700",
+    "max_bytes": 11,
+    "original_en": "Aqua Rabbit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 185,
+    "offset_hex": "0x1251720",
+    "max_bytes": 11,
+    "original_en": "Imitation",
+    "translation_vi": ""
+  },
+  {
+    "dex": 186,
+    "offset_hex": "0x1251740",
+    "max_bytes": 11,
+    "original_en": "Frog",
+    "translation_vi": ""
+  },
+  {
+    "dex": 187,
+    "offset_hex": "0x1251760",
+    "max_bytes": 11,
+    "original_en": "Cottonweed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 188,
+    "offset_hex": "0x1251780",
+    "max_bytes": 11,
+    "original_en": "Cottonweed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 189,
+    "offset_hex": "0x12517a0",
+    "max_bytes": 11,
+    "original_en": "Cottonweed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 190,
+    "offset_hex": "0x12517c0",
+    "max_bytes": 11,
+    "original_en": "Long Tail",
+    "translation_vi": ""
+  },
+  {
+    "dex": 191,
+    "offset_hex": "0x12517e0",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 192,
+    "offset_hex": "0x1251800",
+    "max_bytes": 11,
+    "original_en": "Sun",
+    "translation_vi": ""
+  },
+  {
+    "dex": 193,
+    "offset_hex": "0x1251820",
+    "max_bytes": 11,
+    "original_en": "Clear Wing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 194,
+    "offset_hex": "0x1251840",
+    "max_bytes": 11,
+    "original_en": "Water Fish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 195,
+    "offset_hex": "0x1251860",
+    "max_bytes": 11,
+    "original_en": "Water Fish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 196,
+    "offset_hex": "0x1251880",
+    "max_bytes": 11,
+    "original_en": "Sun",
+    "translation_vi": ""
+  },
+  {
+    "dex": 197,
+    "offset_hex": "0x12518a0",
+    "max_bytes": 11,
+    "original_en": "Moonlight",
+    "translation_vi": ""
+  },
+  {
+    "dex": 198,
+    "offset_hex": "0x12518c0",
+    "max_bytes": 11,
+    "original_en": "Darkness",
+    "translation_vi": ""
+  },
+  {
+    "dex": 199,
+    "offset_hex": "0x12518e0",
+    "max_bytes": 11,
+    "original_en": "Royal",
+    "translation_vi": ""
+  },
+  {
+    "dex": 200,
+    "offset_hex": "0x1251900",
+    "max_bytes": 11,
+    "original_en": "Screech",
+    "translation_vi": ""
+  },
+  {
+    "dex": 201,
+    "offset_hex": "0x1251920",
+    "max_bytes": 11,
+    "original_en": "Symbol",
+    "translation_vi": ""
+  },
+  {
+    "dex": 202,
+    "offset_hex": "0x1251940",
+    "max_bytes": 11,
+    "original_en": "Patient",
+    "translation_vi": ""
+  },
+  {
+    "dex": 203,
+    "offset_hex": "0x1251960",
+    "max_bytes": 11,
+    "original_en": "Long Neck",
+    "translation_vi": ""
+  },
+  {
+    "dex": 204,
+    "offset_hex": "0x1251980",
+    "max_bytes": 11,
+    "original_en": "Bagworm",
+    "translation_vi": ""
+  },
+  {
+    "dex": 205,
+    "offset_hex": "0x12519a0",
+    "max_bytes": 11,
+    "original_en": "Bagworm",
+    "translation_vi": ""
+  },
+  {
+    "dex": 206,
+    "offset_hex": "0x12519c0",
+    "max_bytes": 11,
+    "original_en": "Land Snake",
+    "translation_vi": ""
+  },
+  {
+    "dex": 207,
+    "offset_hex": "0x12519e0",
+    "max_bytes": 11,
+    "original_en": "FlyScorpion",
+    "translation_vi": ""
+  },
+  {
+    "dex": 208,
+    "offset_hex": "0x1251a00",
+    "max_bytes": 11,
+    "original_en": "Iron Snake",
+    "translation_vi": ""
+  },
+  {
+    "dex": 209,
+    "offset_hex": "0x1251a20",
+    "max_bytes": 11,
+    "original_en": "Fairy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 210,
+    "offset_hex": "0x1251a40",
+    "max_bytes": 11,
+    "original_en": "Fairy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 211,
+    "offset_hex": "0x1251a60",
+    "max_bytes": 11,
+    "original_en": "Balloon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 212,
+    "offset_hex": "0x1251a80",
+    "max_bytes": 11,
+    "original_en": "Pincer",
+    "translation_vi": ""
+  },
+  {
+    "dex": 213,
+    "offset_hex": "0x1251aa0",
+    "max_bytes": 11,
+    "original_en": "Mold",
+    "translation_vi": ""
+  },
+  {
+    "dex": 214,
+    "offset_hex": "0x1251ac0",
+    "max_bytes": 11,
+    "original_en": "Single Horn",
+    "translation_vi": ""
+  },
+  {
+    "dex": 215,
+    "offset_hex": "0x1251ae0",
+    "max_bytes": 11,
+    "original_en": "Sharp Claw",
+    "translation_vi": ""
+  },
+  {
+    "dex": 216,
+    "offset_hex": "0x1251b00",
+    "max_bytes": 11,
+    "original_en": "Little Bear",
+    "translation_vi": ""
+  },
+  {
+    "dex": 217,
+    "offset_hex": "0x1251b20",
+    "max_bytes": 11,
+    "original_en": "Hibernator",
+    "translation_vi": ""
+  },
+  {
+    "dex": 218,
+    "offset_hex": "0x1251b40",
+    "max_bytes": 11,
+    "original_en": "Lava",
+    "translation_vi": ""
+  },
+  {
+    "dex": 219,
+    "offset_hex": "0x1251b60",
+    "max_bytes": 11,
+    "original_en": "Lava",
+    "translation_vi": ""
+  },
+  {
+    "dex": 220,
+    "offset_hex": "0x1251b80",
+    "max_bytes": 11,
+    "original_en": "Pig",
+    "translation_vi": ""
+  },
+  {
+    "dex": 221,
+    "offset_hex": "0x1251ba0",
+    "max_bytes": 11,
+    "original_en": "Swine",
+    "translation_vi": ""
+  },
+  {
+    "dex": 222,
+    "offset_hex": "0x1251bc0",
+    "max_bytes": 11,
+    "original_en": "Coral",
+    "translation_vi": ""
+  },
+  {
+    "dex": 223,
+    "offset_hex": "0x1251be0",
+    "max_bytes": 11,
+    "original_en": "Jet",
+    "translation_vi": ""
+  },
+  {
+    "dex": 224,
+    "offset_hex": "0x1251c00",
+    "max_bytes": 11,
+    "original_en": "Jet",
+    "translation_vi": ""
+  },
+  {
+    "dex": 225,
+    "offset_hex": "0x1251c20",
+    "max_bytes": 11,
+    "original_en": "Delivery",
+    "translation_vi": ""
+  },
+  {
+    "dex": 226,
+    "offset_hex": "0x1251c40",
+    "max_bytes": 11,
+    "original_en": "Kite",
+    "translation_vi": ""
+  },
+  {
+    "dex": 227,
+    "offset_hex": "0x1251c60",
+    "max_bytes": 11,
+    "original_en": "Armor Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 228,
+    "offset_hex": "0x1251c80",
+    "max_bytes": 11,
+    "original_en": "Dark",
+    "translation_vi": ""
+  },
+  {
+    "dex": 229,
+    "offset_hex": "0x1251ca0",
+    "max_bytes": 11,
+    "original_en": "Dark",
+    "translation_vi": ""
+  },
+  {
+    "dex": 230,
+    "offset_hex": "0x1251cc0",
+    "max_bytes": 11,
+    "original_en": "Dragon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 231,
+    "offset_hex": "0x1251ce0",
+    "max_bytes": 11,
+    "original_en": "Long Nose",
+    "translation_vi": ""
+  },
+  {
+    "dex": 232,
+    "offset_hex": "0x1251d00",
+    "max_bytes": 11,
+    "original_en": "Armor",
+    "translation_vi": ""
+  },
+  {
+    "dex": 233,
+    "offset_hex": "0x1251d20",
+    "max_bytes": 11,
+    "original_en": "Virtual",
+    "translation_vi": ""
+  },
+  {
+    "dex": 234,
+    "offset_hex": "0x1251d40",
+    "max_bytes": 11,
+    "original_en": "Big Horn",
+    "translation_vi": ""
+  },
+  {
+    "dex": 235,
+    "offset_hex": "0x1251d60",
+    "max_bytes": 11,
+    "original_en": "Painter",
+    "translation_vi": ""
+  },
+  {
+    "dex": 236,
+    "offset_hex": "0x1251d80",
+    "max_bytes": 11,
+    "original_en": "Scuffle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 237,
+    "offset_hex": "0x1251da0",
+    "max_bytes": 11,
+    "original_en": "Handstand",
+    "translation_vi": ""
+  },
+  {
+    "dex": 238,
+    "offset_hex": "0x1251dc0",
+    "max_bytes": 11,
+    "original_en": "Kiss",
+    "translation_vi": ""
+  },
+  {
+    "dex": 239,
+    "offset_hex": "0x1251de0",
+    "max_bytes": 11,
+    "original_en": "Electric",
+    "translation_vi": ""
+  },
+  {
+    "dex": 240,
+    "offset_hex": "0x1251e00",
+    "max_bytes": 11,
+    "original_en": "Live Coal",
+    "translation_vi": ""
+  },
+  {
+    "dex": 241,
+    "offset_hex": "0x1251e20",
+    "max_bytes": 11,
+    "original_en": "Milk Cow",
+    "translation_vi": ""
+  },
+  {
+    "dex": 242,
+    "offset_hex": "0x1251e40",
+    "max_bytes": 11,
+    "original_en": "Happiness",
+    "translation_vi": ""
+  },
+  {
+    "dex": 243,
+    "offset_hex": "0x1251e60",
+    "max_bytes": 11,
+    "original_en": "Thunder",
+    "translation_vi": ""
+  },
+  {
+    "dex": 244,
+    "offset_hex": "0x1251e80",
+    "max_bytes": 11,
+    "original_en": "Volcano",
+    "translation_vi": ""
+  },
+  {
+    "dex": 245,
+    "offset_hex": "0x1251ea0",
+    "max_bytes": 11,
+    "original_en": "Aurora",
+    "translation_vi": ""
+  },
+  {
+    "dex": 246,
+    "offset_hex": "0x1251ec0",
+    "max_bytes": 11,
+    "original_en": "Rock Skin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 247,
+    "offset_hex": "0x1251ee0",
+    "max_bytes": 11,
+    "original_en": "Hard Shell",
+    "translation_vi": ""
+  },
+  {
+    "dex": 248,
+    "offset_hex": "0x1251f00",
+    "max_bytes": 11,
+    "original_en": "Armor",
+    "translation_vi": ""
+  },
+  {
+    "dex": 249,
+    "offset_hex": "0x1251f20",
+    "max_bytes": 11,
+    "original_en": "Diving",
+    "translation_vi": ""
+  },
+  {
+    "dex": 250,
+    "offset_hex": "0x1251f40",
+    "max_bytes": 11,
+    "original_en": "Rainbow",
+    "translation_vi": ""
+  },
+  {
+    "dex": 251,
+    "offset_hex": "0x1251f60",
+    "max_bytes": 11,
+    "original_en": "Time Travel",
+    "translation_vi": ""
+  },
+  {
+    "dex": 252,
+    "offset_hex": "0x1251f80",
+    "max_bytes": 11,
+    "original_en": "Wood Gecko",
+    "translation_vi": ""
+  },
+  {
+    "dex": 253,
+    "offset_hex": "0x1251fa0",
+    "max_bytes": 11,
+    "original_en": "Wood Gecko",
+    "translation_vi": ""
+  },
+  {
+    "dex": 254,
+    "offset_hex": "0x1251fc0",
+    "max_bytes": 11,
+    "original_en": "Forest",
+    "translation_vi": ""
+  },
+  {
+    "dex": 255,
+    "offset_hex": "0x1251fe0",
+    "max_bytes": 11,
+    "original_en": "Chick",
+    "translation_vi": ""
+  },
+  {
+    "dex": 256,
+    "offset_hex": "0x1252000",
+    "max_bytes": 11,
+    "original_en": "Young Fowl",
+    "translation_vi": ""
+  },
+  {
+    "dex": 257,
+    "offset_hex": "0x1252020",
+    "max_bytes": 11,
+    "original_en": "Blaze",
+    "translation_vi": ""
+  },
+  {
+    "dex": 258,
+    "offset_hex": "0x1252040",
+    "max_bytes": 11,
+    "original_en": "Mud Fish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 259,
+    "offset_hex": "0x1252060",
+    "max_bytes": 11,
+    "original_en": "Mud Fish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 260,
+    "offset_hex": "0x1252080",
+    "max_bytes": 11,
+    "original_en": "Mud Fish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 261,
+    "offset_hex": "0x12520a0",
+    "max_bytes": 11,
+    "original_en": "Bite",
+    "translation_vi": ""
+  },
+  {
+    "dex": 262,
+    "offset_hex": "0x12520c0",
+    "max_bytes": 11,
+    "original_en": "Bite",
+    "translation_vi": ""
+  },
+  {
+    "dex": 263,
+    "offset_hex": "0x12520e0",
+    "max_bytes": 11,
+    "original_en": "TinyRaccoon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 264,
+    "offset_hex": "0x1252100",
+    "max_bytes": 11,
+    "original_en": "Rushing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 265,
+    "offset_hex": "0x1252120",
+    "max_bytes": 11,
+    "original_en": "Worm",
+    "translation_vi": ""
+  },
+  {
+    "dex": 266,
+    "offset_hex": "0x1252140",
+    "max_bytes": 11,
+    "original_en": "Cocoon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 267,
+    "offset_hex": "0x1252160",
+    "max_bytes": 11,
+    "original_en": "Butterfly",
+    "translation_vi": ""
+  },
+  {
+    "dex": 268,
+    "offset_hex": "0x1252180",
+    "max_bytes": 11,
+    "original_en": "Cocoon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 269,
+    "offset_hex": "0x12521a0",
+    "max_bytes": 11,
+    "original_en": "Poison Moth",
+    "translation_vi": ""
+  },
+  {
+    "dex": 270,
+    "offset_hex": "0x12521c0",
+    "max_bytes": 11,
+    "original_en": "Water Weed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 271,
+    "offset_hex": "0x12521e0",
+    "max_bytes": 11,
+    "original_en": "Jolly",
+    "translation_vi": ""
+  },
+  {
+    "dex": 272,
+    "offset_hex": "0x1252200",
+    "max_bytes": 11,
+    "original_en": "Carefree",
+    "translation_vi": ""
+  },
+  {
+    "dex": 273,
+    "offset_hex": "0x1252220",
+    "max_bytes": 11,
+    "original_en": "Acorn",
+    "translation_vi": ""
+  },
+  {
+    "dex": 274,
+    "offset_hex": "0x1252240",
+    "max_bytes": 11,
+    "original_en": "Willy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 275,
+    "offset_hex": "0x1252260",
+    "max_bytes": 11,
+    "original_en": "Wicked",
+    "translation_vi": ""
+  },
+  {
+    "dex": 276,
+    "offset_hex": "0x1252280",
+    "max_bytes": 11,
+    "original_en": "TinySwallow",
+    "translation_vi": ""
+  },
+  {
+    "dex": 277,
+    "offset_hex": "0x12522a0",
+    "max_bytes": 11,
+    "original_en": "Swallow",
+    "translation_vi": ""
+  },
+  {
+    "dex": 278,
+    "offset_hex": "0x12522c0",
+    "max_bytes": 11,
+    "original_en": "Seagull",
+    "translation_vi": ""
+  },
+  {
+    "dex": 279,
+    "offset_hex": "0x12522e0",
+    "max_bytes": 11,
+    "original_en": "Water Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 280,
+    "offset_hex": "0x1252300",
+    "max_bytes": 11,
+    "original_en": "Feeling",
+    "translation_vi": ""
+  },
+  {
+    "dex": 281,
+    "offset_hex": "0x1252320",
+    "max_bytes": 11,
+    "original_en": "Emotion",
+    "translation_vi": ""
+  },
+  {
+    "dex": 282,
+    "offset_hex": "0x1252340",
+    "max_bytes": 11,
+    "original_en": "Embrace",
+    "translation_vi": ""
+  },
+  {
+    "dex": 283,
+    "offset_hex": "0x1252360",
+    "max_bytes": 11,
+    "original_en": "Pond Skater",
+    "translation_vi": ""
+  },
+  {
+    "dex": 284,
+    "offset_hex": "0x1252380",
+    "max_bytes": 11,
+    "original_en": "Eyeball",
+    "translation_vi": ""
+  },
+  {
+    "dex": 285,
+    "offset_hex": "0x12523a0",
+    "max_bytes": 11,
+    "original_en": "Mushroom",
+    "translation_vi": ""
+  },
+  {
+    "dex": 286,
+    "offset_hex": "0x12523c0",
+    "max_bytes": 11,
+    "original_en": "Mushroom",
+    "translation_vi": ""
+  },
+  {
+    "dex": 287,
+    "offset_hex": "0x12523e0",
+    "max_bytes": 11,
+    "original_en": "Slacker",
+    "translation_vi": ""
+  },
+  {
+    "dex": 288,
+    "offset_hex": "0x1252400",
+    "max_bytes": 11,
+    "original_en": "Wild Monkey",
+    "translation_vi": ""
+  },
+  {
+    "dex": 289,
+    "offset_hex": "0x1252420",
+    "max_bytes": 11,
+    "original_en": "Lazy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 290,
+    "offset_hex": "0x1252440",
+    "max_bytes": 11,
+    "original_en": "Trainee",
+    "translation_vi": ""
+  },
+  {
+    "dex": 291,
+    "offset_hex": "0x1252460",
+    "max_bytes": 11,
+    "original_en": "Ninja",
+    "translation_vi": ""
+  },
+  {
+    "dex": 292,
+    "offset_hex": "0x1252480",
+    "max_bytes": 11,
+    "original_en": "Shed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 293,
+    "offset_hex": "0x12524a0",
+    "max_bytes": 11,
+    "original_en": "Whisper",
+    "translation_vi": ""
+  },
+  {
+    "dex": 294,
+    "offset_hex": "0x12524c0",
+    "max_bytes": 11,
+    "original_en": "Big Voice",
+    "translation_vi": ""
+  },
+  {
+    "dex": 295,
+    "offset_hex": "0x12524e0",
+    "max_bytes": 11,
+    "original_en": "Loud Noise",
+    "translation_vi": ""
+  },
+  {
+    "dex": 296,
+    "offset_hex": "0x1252500",
+    "max_bytes": 11,
+    "original_en": "Guts",
+    "translation_vi": ""
+  },
+  {
+    "dex": 297,
+    "offset_hex": "0x1252520",
+    "max_bytes": 11,
+    "original_en": "Arm Thrust",
+    "translation_vi": ""
+  },
+  {
+    "dex": 298,
+    "offset_hex": "0x1252540",
+    "max_bytes": 11,
+    "original_en": "Polka Dot",
+    "translation_vi": ""
+  },
+  {
+    "dex": 299,
+    "offset_hex": "0x1252560",
+    "max_bytes": 11,
+    "original_en": "Compass",
+    "translation_vi": ""
+  },
+  {
+    "dex": 300,
+    "offset_hex": "0x1252580",
+    "max_bytes": 11,
+    "original_en": "Kitten",
+    "translation_vi": ""
+  },
+  {
+    "dex": 301,
+    "offset_hex": "0x12525a0",
+    "max_bytes": 11,
+    "original_en": "Prim",
+    "translation_vi": ""
+  },
+  {
+    "dex": 302,
+    "offset_hex": "0x12525c0",
+    "max_bytes": 11,
+    "original_en": "Darkness",
+    "translation_vi": ""
+  },
+  {
+    "dex": 303,
+    "offset_hex": "0x12525e0",
+    "max_bytes": 11,
+    "original_en": "Deceiver",
+    "translation_vi": ""
+  },
+  {
+    "dex": 304,
+    "offset_hex": "0x1252600",
+    "max_bytes": 11,
+    "original_en": "Iron Armor",
+    "translation_vi": ""
+  },
+  {
+    "dex": 305,
+    "offset_hex": "0x1252620",
+    "max_bytes": 11,
+    "original_en": "Iron Armor",
+    "translation_vi": ""
+  },
+  {
+    "dex": 306,
+    "offset_hex": "0x1252640",
+    "max_bytes": 11,
+    "original_en": "Iron Armor",
+    "translation_vi": ""
+  },
+  {
+    "dex": 307,
+    "offset_hex": "0x1252660",
+    "max_bytes": 11,
+    "original_en": "Meditate",
+    "translation_vi": ""
+  },
+  {
+    "dex": 308,
+    "offset_hex": "0x1252680",
+    "max_bytes": 11,
+    "original_en": "Meditate",
+    "translation_vi": ""
+  },
+  {
+    "dex": 309,
+    "offset_hex": "0x12526a0",
+    "max_bytes": 11,
+    "original_en": "Lightning",
+    "translation_vi": ""
+  },
+  {
+    "dex": 310,
+    "offset_hex": "0x12526c0",
+    "max_bytes": 11,
+    "original_en": "Discharge",
+    "translation_vi": ""
+  },
+  {
+    "dex": 311,
+    "offset_hex": "0x12526e0",
+    "max_bytes": 11,
+    "original_en": "Cheering",
+    "translation_vi": ""
+  },
+  {
+    "dex": 312,
+    "offset_hex": "0x1252700",
+    "max_bytes": 11,
+    "original_en": "Cheering",
+    "translation_vi": ""
+  },
+  {
+    "dex": 313,
+    "offset_hex": "0x1252720",
+    "max_bytes": 11,
+    "original_en": "Firefly",
+    "translation_vi": ""
+  },
+  {
+    "dex": 314,
+    "offset_hex": "0x1252740",
+    "max_bytes": 11,
+    "original_en": "Firefly",
+    "translation_vi": ""
+  },
+  {
+    "dex": 315,
+    "offset_hex": "0x1252760",
+    "max_bytes": 11,
+    "original_en": "Thorn",
+    "translation_vi": ""
+  },
+  {
+    "dex": 316,
+    "offset_hex": "0x1252780",
+    "max_bytes": 11,
+    "original_en": "Stomach",
+    "translation_vi": ""
+  },
+  {
+    "dex": 317,
+    "offset_hex": "0x12527a0",
+    "max_bytes": 11,
+    "original_en": "Poison Bag",
+    "translation_vi": ""
+  },
+  {
+    "dex": 318,
+    "offset_hex": "0x12527c0",
+    "max_bytes": 11,
+    "original_en": "Savage",
+    "translation_vi": ""
+  },
+  {
+    "dex": 319,
+    "offset_hex": "0x12527e0",
+    "max_bytes": 11,
+    "original_en": "Brutal",
+    "translation_vi": ""
+  },
+  {
+    "dex": 320,
+    "offset_hex": "0x1252800",
+    "max_bytes": 11,
+    "original_en": "Ball Whale",
+    "translation_vi": ""
+  },
+  {
+    "dex": 321,
+    "offset_hex": "0x1252820",
+    "max_bytes": 11,
+    "original_en": "Float Whale",
+    "translation_vi": ""
+  },
+  {
+    "dex": 322,
+    "offset_hex": "0x1252840",
+    "max_bytes": 11,
+    "original_en": "Numb",
+    "translation_vi": ""
+  },
+  {
+    "dex": 323,
+    "offset_hex": "0x1252860",
+    "max_bytes": 11,
+    "original_en": "Eruption",
+    "translation_vi": ""
+  },
+  {
+    "dex": 324,
+    "offset_hex": "0x1252880",
+    "max_bytes": 11,
+    "original_en": "Coal",
+    "translation_vi": ""
+  },
+  {
+    "dex": 325,
+    "offset_hex": "0x12528a0",
+    "max_bytes": 11,
+    "original_en": "Bounce",
+    "translation_vi": ""
+  },
+  {
+    "dex": 326,
+    "offset_hex": "0x12528c0",
+    "max_bytes": 11,
+    "original_en": "Manipulate",
+    "translation_vi": ""
+  },
+  {
+    "dex": 327,
+    "offset_hex": "0x12528e0",
+    "max_bytes": 11,
+    "original_en": "Spot Panda",
+    "translation_vi": ""
+  },
+  {
+    "dex": 328,
+    "offset_hex": "0x1252900",
+    "max_bytes": 11,
+    "original_en": "Ant Pit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 329,
+    "offset_hex": "0x1252920",
+    "max_bytes": 11,
+    "original_en": "Vibration",
+    "translation_vi": ""
+  },
+  {
+    "dex": 330,
+    "offset_hex": "0x1252940",
+    "max_bytes": 11,
+    "original_en": "Mystic",
+    "translation_vi": ""
+  },
+  {
+    "dex": 331,
+    "offset_hex": "0x1252960",
+    "max_bytes": 11,
+    "original_en": "Cactus",
+    "translation_vi": ""
+  },
+  {
+    "dex": 332,
+    "offset_hex": "0x1252980",
+    "max_bytes": 11,
+    "original_en": "Scracrow",
+    "translation_vi": ""
+  },
+  {
+    "dex": 333,
+    "offset_hex": "0x12529a0",
+    "max_bytes": 11,
+    "original_en": "Cotton Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 334,
+    "offset_hex": "0x12529c0",
+    "max_bytes": 11,
+    "original_en": "Humming",
+    "translation_vi": ""
+  },
+  {
+    "dex": 335,
+    "offset_hex": "0x12529e0",
+    "max_bytes": 11,
+    "original_en": "Cat Ferret",
+    "translation_vi": ""
+  },
+  {
+    "dex": 336,
+    "offset_hex": "0x1252a00",
+    "max_bytes": 11,
+    "original_en": "Fang Snake",
+    "translation_vi": ""
+  },
+  {
+    "dex": 337,
+    "offset_hex": "0x1252a20",
+    "max_bytes": 11,
+    "original_en": "Meteorite",
+    "translation_vi": ""
+  },
+  {
+    "dex": 338,
+    "offset_hex": "0x1252a40",
+    "max_bytes": 11,
+    "original_en": "Meteorite",
+    "translation_vi": ""
+  },
+  {
+    "dex": 339,
+    "offset_hex": "0x1252a60",
+    "max_bytes": 11,
+    "original_en": "Whiskers",
+    "translation_vi": ""
+  },
+  {
+    "dex": 340,
+    "offset_hex": "0x1252a80",
+    "max_bytes": 11,
+    "original_en": "Whiskers",
+    "translation_vi": ""
+  },
+  {
+    "dex": 341,
+    "offset_hex": "0x1252aa0",
+    "max_bytes": 11,
+    "original_en": "Ruffian",
+    "translation_vi": ""
+  },
+  {
+    "dex": 342,
+    "offset_hex": "0x1252ac0",
+    "max_bytes": 11,
+    "original_en": "Rogue",
+    "translation_vi": ""
+  },
+  {
+    "dex": 343,
+    "offset_hex": "0x1252ae0",
+    "max_bytes": 11,
+    "original_en": "Clay Doll",
+    "translation_vi": ""
+  },
+  {
+    "dex": 344,
+    "offset_hex": "0x1252b00",
+    "max_bytes": 11,
+    "original_en": "Clay Doll",
+    "translation_vi": ""
+  },
+  {
+    "dex": 345,
+    "offset_hex": "0x1252b20",
+    "max_bytes": 11,
+    "original_en": "Sea Lily",
+    "translation_vi": ""
+  },
+  {
+    "dex": 346,
+    "offset_hex": "0x1252b40",
+    "max_bytes": 11,
+    "original_en": "Barnacle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 347,
+    "offset_hex": "0x1252b60",
+    "max_bytes": 11,
+    "original_en": "Old Shrimp",
+    "translation_vi": ""
+  },
+  {
+    "dex": 348,
+    "offset_hex": "0x1252b80",
+    "max_bytes": 11,
+    "original_en": "Plate",
+    "translation_vi": ""
+  },
+  {
+    "dex": 349,
+    "offset_hex": "0x1252ba0",
+    "max_bytes": 11,
+    "original_en": "Fish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 350,
+    "offset_hex": "0x1252bc0",
+    "max_bytes": 11,
+    "original_en": "Tender",
+    "translation_vi": ""
+  },
+  {
+    "dex": 351,
+    "offset_hex": "0x1252be0",
+    "max_bytes": 11,
+    "original_en": "Weather",
+    "translation_vi": ""
+  },
+  {
+    "dex": 352,
+    "offset_hex": "0x1252c00",
+    "max_bytes": 11,
+    "original_en": "Color Swap",
+    "translation_vi": ""
+  },
+  {
+    "dex": 353,
+    "offset_hex": "0x1252c20",
+    "max_bytes": 11,
+    "original_en": "Puppet",
+    "translation_vi": ""
+  },
+  {
+    "dex": 354,
+    "offset_hex": "0x1252c40",
+    "max_bytes": 11,
+    "original_en": "Marionette",
+    "translation_vi": ""
+  },
+  {
+    "dex": 355,
+    "offset_hex": "0x1252c60",
+    "max_bytes": 11,
+    "original_en": "Requiem",
+    "translation_vi": ""
+  },
+  {
+    "dex": 356,
+    "offset_hex": "0x1252c80",
+    "max_bytes": 11,
+    "original_en": "Beckon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 357,
+    "offset_hex": "0x1252ca0",
+    "max_bytes": 11,
+    "original_en": "Fruit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 358,
+    "offset_hex": "0x1252cc0",
+    "max_bytes": 11,
+    "original_en": "Wind Chime",
+    "translation_vi": ""
+  },
+  {
+    "dex": 359,
+    "offset_hex": "0x1252ce0",
+    "max_bytes": 11,
+    "original_en": "Disaster",
+    "translation_vi": ""
+  },
+  {
+    "dex": 360,
+    "offset_hex": "0x1252d00",
+    "max_bytes": 11,
+    "original_en": "Bright",
+    "translation_vi": ""
+  },
+  {
+    "dex": 361,
+    "offset_hex": "0x1252d20",
+    "max_bytes": 11,
+    "original_en": "Snow Hat",
+    "translation_vi": ""
+  },
+  {
+    "dex": 362,
+    "offset_hex": "0x1252d40",
+    "max_bytes": 11,
+    "original_en": "Face",
+    "translation_vi": ""
+  },
+  {
+    "dex": 363,
+    "offset_hex": "0x1252d60",
+    "max_bytes": 11,
+    "original_en": "Clap",
+    "translation_vi": ""
+  },
+  {
+    "dex": 364,
+    "offset_hex": "0x1252d80",
+    "max_bytes": 11,
+    "original_en": "Ball Roll",
+    "translation_vi": ""
+  },
+  {
+    "dex": 365,
+    "offset_hex": "0x1252da0",
+    "max_bytes": 11,
+    "original_en": "Ice Break",
+    "translation_vi": ""
+  },
+  {
+    "dex": 366,
+    "offset_hex": "0x1252dc0",
+    "max_bytes": 11,
+    "original_en": "Bivalve",
+    "translation_vi": ""
+  },
+  {
+    "dex": 367,
+    "offset_hex": "0x1252de0",
+    "max_bytes": 11,
+    "original_en": "Deep Sea",
+    "translation_vi": ""
+  },
+  {
+    "dex": 368,
+    "offset_hex": "0x1252e00",
+    "max_bytes": 11,
+    "original_en": "South Sea",
+    "translation_vi": ""
+  },
+  {
+    "dex": 369,
+    "offset_hex": "0x1252e20",
+    "max_bytes": 11,
+    "original_en": "Longevity",
+    "translation_vi": ""
+  },
+  {
+    "dex": 370,
+    "offset_hex": "0x1252e40",
+    "max_bytes": 11,
+    "original_en": "Rendezvous",
+    "translation_vi": ""
+  },
+  {
+    "dex": 371,
+    "offset_hex": "0x1252e60",
+    "max_bytes": 11,
+    "original_en": "Rock Head",
+    "translation_vi": ""
+  },
+  {
+    "dex": 372,
+    "offset_hex": "0x1252e80",
+    "max_bytes": 11,
+    "original_en": "Endurance",
+    "translation_vi": ""
+  },
+  {
+    "dex": 373,
+    "offset_hex": "0x1252ea0",
+    "max_bytes": 11,
+    "original_en": "Dragon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 374,
+    "offset_hex": "0x1252ec0",
+    "max_bytes": 11,
+    "original_en": "Iron Ball",
+    "translation_vi": ""
+  },
+  {
+    "dex": 375,
+    "offset_hex": "0x1252ee0",
+    "max_bytes": 11,
+    "original_en": "Iron Claw",
+    "translation_vi": ""
+  },
+  {
+    "dex": 376,
+    "offset_hex": "0x1252f00",
+    "max_bytes": 11,
+    "original_en": "Iron Leg",
+    "translation_vi": ""
+  },
+  {
+    "dex": 377,
+    "offset_hex": "0x1252f20",
+    "max_bytes": 11,
+    "original_en": "Rock Peak",
+    "translation_vi": ""
+  },
+  {
+    "dex": 378,
+    "offset_hex": "0x1252f40",
+    "max_bytes": 11,
+    "original_en": "Iceberg",
+    "translation_vi": ""
+  },
+  {
+    "dex": 379,
+    "offset_hex": "0x1252f60",
+    "max_bytes": 11,
+    "original_en": "Iron",
+    "translation_vi": ""
+  },
+  {
+    "dex": 380,
+    "offset_hex": "0x1252f80",
+    "max_bytes": 11,
+    "original_en": "Eon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 381,
+    "offset_hex": "0x1252fa0",
+    "max_bytes": 11,
+    "original_en": "Eon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 382,
+    "offset_hex": "0x1252fc0",
+    "max_bytes": 11,
+    "original_en": "Sea Basin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 383,
+    "offset_hex": "0x1252fe0",
+    "max_bytes": 11,
+    "original_en": "Continent",
+    "translation_vi": ""
+  },
+  {
+    "dex": 384,
+    "offset_hex": "0x1253000",
+    "max_bytes": 11,
+    "original_en": "Sky High",
+    "translation_vi": ""
+  },
+  {
+    "dex": 385,
+    "offset_hex": "0x1253020",
+    "max_bytes": 11,
+    "original_en": "Wish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 386,
+    "offset_hex": "0x1253040",
+    "max_bytes": 11,
+    "original_en": "DNA",
+    "translation_vi": ""
+  },
+  {
+    "dex": 387,
+    "offset_hex": "0x1253060",
+    "max_bytes": 11,
+    "original_en": "Tiny Leaf",
+    "translation_vi": ""
+  },
+  {
+    "dex": 388,
+    "offset_hex": "0x1253080",
+    "max_bytes": 11,
+    "original_en": "Grove",
+    "translation_vi": ""
+  },
+  {
+    "dex": 389,
+    "offset_hex": "0x12530a0",
+    "max_bytes": 11,
+    "original_en": "Continent",
+    "translation_vi": ""
+  },
+  {
+    "dex": 390,
+    "offset_hex": "0x12530c0",
+    "max_bytes": 11,
+    "original_en": "Chimp",
+    "translation_vi": ""
+  },
+  {
+    "dex": 391,
+    "offset_hex": "0x12530e0",
+    "max_bytes": 11,
+    "original_en": "Playful",
+    "translation_vi": ""
+  },
+  {
+    "dex": 392,
+    "offset_hex": "0x1253100",
+    "max_bytes": 11,
+    "original_en": "Flame",
+    "translation_vi": ""
+  },
+  {
+    "dex": 393,
+    "offset_hex": "0x1253120",
+    "max_bytes": 11,
+    "original_en": "Penguin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 394,
+    "offset_hex": "0x1253140",
+    "max_bytes": 11,
+    "original_en": "Penguin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 395,
+    "offset_hex": "0x1253160",
+    "max_bytes": 11,
+    "original_en": "Emperor",
+    "translation_vi": ""
+  },
+  {
+    "dex": 396,
+    "offset_hex": "0x1253180",
+    "max_bytes": 11,
+    "original_en": "Starling",
+    "translation_vi": ""
+  },
+  {
+    "dex": 397,
+    "offset_hex": "0x12531a0",
+    "max_bytes": 11,
+    "original_en": "Starling",
+    "translation_vi": ""
+  },
+  {
+    "dex": 398,
+    "offset_hex": "0x12531c0",
+    "max_bytes": 11,
+    "original_en": "Predator",
+    "translation_vi": ""
+  },
+  {
+    "dex": 399,
+    "offset_hex": "0x12531e0",
+    "max_bytes": 11,
+    "original_en": "Plump Mouse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 400,
+    "offset_hex": "0x1253200",
+    "max_bytes": 11,
+    "original_en": "Beaver",
+    "translation_vi": ""
+  },
+  {
+    "dex": 401,
+    "offset_hex": "0x1253220",
+    "max_bytes": 11,
+    "original_en": "Cricket",
+    "translation_vi": ""
+  },
+  {
+    "dex": 402,
+    "offset_hex": "0x1253240",
+    "max_bytes": 11,
+    "original_en": "Cricket",
+    "translation_vi": ""
+  },
+  {
+    "dex": 403,
+    "offset_hex": "0x1253260",
+    "max_bytes": 11,
+    "original_en": "Flash",
+    "translation_vi": ""
+  },
+  {
+    "dex": 404,
+    "offset_hex": "0x1253280",
+    "max_bytes": 11,
+    "original_en": "Spark",
+    "translation_vi": ""
+  },
+  {
+    "dex": 405,
+    "offset_hex": "0x12532a0",
+    "max_bytes": 11,
+    "original_en": "Gleam Eyes",
+    "translation_vi": ""
+  },
+  {
+    "dex": 406,
+    "offset_hex": "0x12532c0",
+    "max_bytes": 11,
+    "original_en": "Bud",
+    "translation_vi": ""
+  },
+  {
+    "dex": 407,
+    "offset_hex": "0x12532e0",
+    "max_bytes": 11,
+    "original_en": "Bouquet",
+    "translation_vi": ""
+  },
+  {
+    "dex": 408,
+    "offset_hex": "0x1253300",
+    "max_bytes": 11,
+    "original_en": "Head Butt",
+    "translation_vi": ""
+  },
+  {
+    "dex": 409,
+    "offset_hex": "0x1253320",
+    "max_bytes": 11,
+    "original_en": "Head Butt",
+    "translation_vi": ""
+  },
+  {
+    "dex": 410,
+    "offset_hex": "0x1253340",
+    "max_bytes": 11,
+    "original_en": "Shield",
+    "translation_vi": ""
+  },
+  {
+    "dex": 411,
+    "offset_hex": "0x1253360",
+    "max_bytes": 11,
+    "original_en": "Shield",
+    "translation_vi": ""
+  },
+  {
+    "dex": 412,
+    "offset_hex": "0x1253380",
+    "max_bytes": 11,
+    "original_en": "Bagworm",
+    "translation_vi": ""
+  },
+  {
+    "dex": 413,
+    "offset_hex": "0x12533a0",
+    "max_bytes": 11,
+    "original_en": "Bagworm",
+    "translation_vi": ""
+  },
+  {
+    "dex": 414,
+    "offset_hex": "0x12533c0",
+    "max_bytes": 11,
+    "original_en": "Moth",
+    "translation_vi": ""
+  },
+  {
+    "dex": 415,
+    "offset_hex": "0x12533e0",
+    "max_bytes": 11,
+    "original_en": "Tiny Bee",
+    "translation_vi": ""
+  },
+  {
+    "dex": 416,
+    "offset_hex": "0x1253400",
+    "max_bytes": 11,
+    "original_en": "Beehive",
+    "translation_vi": ""
+  },
+  {
+    "dex": 417,
+    "offset_hex": "0x1253420",
+    "max_bytes": 11,
+    "original_en": "EleSquirrel",
+    "translation_vi": ""
+  },
+  {
+    "dex": 418,
+    "offset_hex": "0x1253440",
+    "max_bytes": 11,
+    "original_en": "Sea Weasel",
+    "translation_vi": ""
+  },
+  {
+    "dex": 419,
+    "offset_hex": "0x1253460",
+    "max_bytes": 11,
+    "original_en": "Sea Weasel",
+    "translation_vi": ""
+  },
+  {
+    "dex": 420,
+    "offset_hex": "0x1253480",
+    "max_bytes": 11,
+    "original_en": "Cherry",
+    "translation_vi": ""
+  },
+  {
+    "dex": 421,
+    "offset_hex": "0x12534a0",
+    "max_bytes": 11,
+    "original_en": "Blossom",
+    "translation_vi": ""
+  },
+  {
+    "dex": 422,
+    "offset_hex": "0x12534c0",
+    "max_bytes": 11,
+    "original_en": "Sea Slug",
+    "translation_vi": ""
+  },
+  {
+    "dex": 423,
+    "offset_hex": "0x12534e0",
+    "max_bytes": 11,
+    "original_en": "Sea Slug",
+    "translation_vi": ""
+  },
+  {
+    "dex": 424,
+    "offset_hex": "0x1253500",
+    "max_bytes": 11,
+    "original_en": "Long Tail",
+    "translation_vi": ""
+  },
+  {
+    "dex": 425,
+    "offset_hex": "0x1253520",
+    "max_bytes": 11,
+    "original_en": "Balloon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 426,
+    "offset_hex": "0x1253540",
+    "max_bytes": 11,
+    "original_en": "Blimp",
+    "translation_vi": ""
+  },
+  {
+    "dex": 427,
+    "offset_hex": "0x1253560",
+    "max_bytes": 11,
+    "original_en": "Rabbit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 428,
+    "offset_hex": "0x1253580",
+    "max_bytes": 11,
+    "original_en": "Rabbit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 429,
+    "offset_hex": "0x12535a0",
+    "max_bytes": 11,
+    "original_en": "Magical",
+    "translation_vi": ""
+  },
+  {
+    "dex": 430,
+    "offset_hex": "0x12535c0",
+    "max_bytes": 11,
+    "original_en": "Big Boss",
+    "translation_vi": ""
+  },
+  {
+    "dex": 431,
+    "offset_hex": "0x12535e0",
+    "max_bytes": 11,
+    "original_en": "Catty",
+    "translation_vi": ""
+  },
+  {
+    "dex": 432,
+    "offset_hex": "0x1253600",
+    "max_bytes": 11,
+    "original_en": "Tiger Cat",
+    "translation_vi": ""
+  },
+  {
+    "dex": 433,
+    "offset_hex": "0x1253620",
+    "max_bytes": 11,
+    "original_en": "Bell",
+    "translation_vi": ""
+  },
+  {
+    "dex": 434,
+    "offset_hex": "0x1253640",
+    "max_bytes": 11,
+    "original_en": "Skunk",
+    "translation_vi": ""
+  },
+  {
+    "dex": 435,
+    "offset_hex": "0x1253660",
+    "max_bytes": 11,
+    "original_en": "Skunk",
+    "translation_vi": ""
+  },
+  {
+    "dex": 436,
+    "offset_hex": "0x1253680",
+    "max_bytes": 11,
+    "original_en": "Bronze",
+    "translation_vi": ""
+  },
+  {
+    "dex": 437,
+    "offset_hex": "0x12536a0",
+    "max_bytes": 11,
+    "original_en": "Bronze Bell",
+    "translation_vi": ""
+  },
+  {
+    "dex": 438,
+    "offset_hex": "0x12536c0",
+    "max_bytes": 11,
+    "original_en": "Bonsai",
+    "translation_vi": ""
+  },
+  {
+    "dex": 439,
+    "offset_hex": "0x12536e0",
+    "max_bytes": 11,
+    "original_en": "Mime",
+    "translation_vi": ""
+  },
+  {
+    "dex": 440,
+    "offset_hex": "0x1253700",
+    "max_bytes": 11,
+    "original_en": "Playhouse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 441,
+    "offset_hex": "0x1253720",
+    "max_bytes": 11,
+    "original_en": "Music Note",
+    "translation_vi": ""
+  },
+  {
+    "dex": 442,
+    "offset_hex": "0x1253740",
+    "max_bytes": 11,
+    "original_en": "Forbidden",
+    "translation_vi": ""
+  },
+  {
+    "dex": 443,
+    "offset_hex": "0x1253760",
+    "max_bytes": 11,
+    "original_en": "Land Shark",
+    "translation_vi": ""
+  },
+  {
+    "dex": 444,
+    "offset_hex": "0x1253780",
+    "max_bytes": 11,
+    "original_en": "Cave",
+    "translation_vi": ""
+  },
+  {
+    "dex": 445,
+    "offset_hex": "0x12537a0",
+    "max_bytes": 11,
+    "original_en": "Mach",
+    "translation_vi": ""
+  },
+  {
+    "dex": 446,
+    "offset_hex": "0x12537c0",
+    "max_bytes": 11,
+    "original_en": "Big Eater",
+    "translation_vi": ""
+  },
+  {
+    "dex": 447,
+    "offset_hex": "0x12537e0",
+    "max_bytes": 11,
+    "original_en": "Emanation",
+    "translation_vi": ""
+  },
+  {
+    "dex": 448,
+    "offset_hex": "0x1253800",
+    "max_bytes": 11,
+    "original_en": "Aura",
+    "translation_vi": ""
+  },
+  {
+    "dex": 449,
+    "offset_hex": "0x1253820",
+    "max_bytes": 11,
+    "original_en": "Hippo",
+    "translation_vi": ""
+  },
+  {
+    "dex": 450,
+    "offset_hex": "0x1253840",
+    "max_bytes": 11,
+    "original_en": "Heavyweight",
+    "translation_vi": ""
+  },
+  {
+    "dex": 451,
+    "offset_hex": "0x1253860",
+    "max_bytes": 11,
+    "original_en": "Scorpion",
+    "translation_vi": ""
+  },
+  {
+    "dex": 452,
+    "offset_hex": "0x1253880",
+    "max_bytes": 11,
+    "original_en": "Ogre Scorp",
+    "translation_vi": ""
+  },
+  {
+    "dex": 453,
+    "offset_hex": "0x12538a0",
+    "max_bytes": 11,
+    "original_en": "Toxic Mouth",
+    "translation_vi": ""
+  },
+  {
+    "dex": 454,
+    "offset_hex": "0x12538c0",
+    "max_bytes": 11,
+    "original_en": "Toxic Mouth",
+    "translation_vi": ""
+  },
+  {
+    "dex": 455,
+    "offset_hex": "0x12538e0",
+    "max_bytes": 11,
+    "original_en": "Bug Catcher",
+    "translation_vi": ""
+  },
+  {
+    "dex": 456,
+    "offset_hex": "0x1253900",
+    "max_bytes": 11,
+    "original_en": "Wing Fish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 457,
+    "offset_hex": "0x1253920",
+    "max_bytes": 11,
+    "original_en": "Neon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 458,
+    "offset_hex": "0x1253940",
+    "max_bytes": 11,
+    "original_en": "Kite",
+    "translation_vi": ""
+  },
+  {
+    "dex": 459,
+    "offset_hex": "0x1253960",
+    "max_bytes": 11,
+    "original_en": "Frost Tree",
+    "translation_vi": ""
+  },
+  {
+    "dex": 460,
+    "offset_hex": "0x1253980",
+    "max_bytes": 11,
+    "original_en": "Frost Tree",
+    "translation_vi": ""
+  },
+  {
+    "dex": 461,
+    "offset_hex": "0x12539a0",
+    "max_bytes": 11,
+    "original_en": "Sharp Claw",
+    "translation_vi": ""
+  },
+  {
+    "dex": 462,
+    "offset_hex": "0x12539c0",
+    "max_bytes": 11,
+    "original_en": "Magnet Area",
+    "translation_vi": ""
+  },
+  {
+    "dex": 463,
+    "offset_hex": "0x12539e0",
+    "max_bytes": 11,
+    "original_en": "Licking",
+    "translation_vi": ""
+  },
+  {
+    "dex": 464,
+    "offset_hex": "0x1253a00",
+    "max_bytes": 11,
+    "original_en": "Drill",
+    "translation_vi": ""
+  },
+  {
+    "dex": 465,
+    "offset_hex": "0x1253a20",
+    "max_bytes": 11,
+    "original_en": "Vine",
+    "translation_vi": ""
+  },
+  {
+    "dex": 466,
+    "offset_hex": "0x1253a40",
+    "max_bytes": 11,
+    "original_en": "Thunderbolt",
+    "translation_vi": ""
+  },
+  {
+    "dex": 467,
+    "offset_hex": "0x1253a60",
+    "max_bytes": 11,
+    "original_en": "Blast",
+    "translation_vi": ""
+  },
+  {
+    "dex": 468,
+    "offset_hex": "0x1253a80",
+    "max_bytes": 11,
+    "original_en": "Jubilee",
+    "translation_vi": ""
+  },
+  {
+    "dex": 469,
+    "offset_hex": "0x1253aa0",
+    "max_bytes": 11,
+    "original_en": "Ogre Darner",
+    "translation_vi": ""
+  },
+  {
+    "dex": 470,
+    "offset_hex": "0x1253ac0",
+    "max_bytes": 11,
+    "original_en": "Verdant",
+    "translation_vi": ""
+  },
+  {
+    "dex": 471,
+    "offset_hex": "0x1253ae0",
+    "max_bytes": 11,
+    "original_en": "Fresh Snow",
+    "translation_vi": ""
+  },
+  {
+    "dex": 472,
+    "offset_hex": "0x1253b00",
+    "max_bytes": 11,
+    "original_en": "Fang Scorp",
+    "translation_vi": ""
+  },
+  {
+    "dex": 473,
+    "offset_hex": "0x1253b20",
+    "max_bytes": 11,
+    "original_en": "Twin Tusk",
+    "translation_vi": ""
+  },
+  {
+    "dex": 474,
+    "offset_hex": "0x1253b40",
+    "max_bytes": 11,
+    "original_en": "Virtual",
+    "translation_vi": ""
+  },
+  {
+    "dex": 475,
+    "offset_hex": "0x1253b60",
+    "max_bytes": 11,
+    "original_en": "Blade",
+    "translation_vi": ""
+  },
+  {
+    "dex": 476,
+    "offset_hex": "0x1253b80",
+    "max_bytes": 11,
+    "original_en": "Compass",
+    "translation_vi": ""
+  },
+  {
+    "dex": 477,
+    "offset_hex": "0x1253ba0",
+    "max_bytes": 11,
+    "original_en": "Gripper",
+    "translation_vi": ""
+  },
+  {
+    "dex": 478,
+    "offset_hex": "0x1253bc0",
+    "max_bytes": 11,
+    "original_en": "Snow Land",
+    "translation_vi": ""
+  },
+  {
+    "dex": 479,
+    "offset_hex": "0x1253be0",
+    "max_bytes": 11,
+    "original_en": "Plasma",
+    "translation_vi": ""
+  },
+  {
+    "dex": 480,
+    "offset_hex": "0x1253c00",
+    "max_bytes": 11,
+    "original_en": "Knowledge",
+    "translation_vi": ""
+  },
+  {
+    "dex": 481,
+    "offset_hex": "0x1253c20",
+    "max_bytes": 11,
+    "original_en": "Emotion",
+    "translation_vi": ""
+  },
+  {
+    "dex": 482,
+    "offset_hex": "0x1253c40",
+    "max_bytes": 11,
+    "original_en": "Willpower",
+    "translation_vi": ""
+  },
+  {
+    "dex": 483,
+    "offset_hex": "0x1253c60",
+    "max_bytes": 11,
+    "original_en": "Temporal",
+    "translation_vi": ""
+  },
+  {
+    "dex": 484,
+    "offset_hex": "0x1253c80",
+    "max_bytes": 11,
+    "original_en": "Spatial",
+    "translation_vi": ""
+  },
+  {
+    "dex": 485,
+    "offset_hex": "0x1253ca0",
+    "max_bytes": 11,
+    "original_en": "Lava Dome",
+    "translation_vi": ""
+  },
+  {
+    "dex": 486,
+    "offset_hex": "0x1253cc0",
+    "max_bytes": 11,
+    "original_en": "Colossal",
+    "translation_vi": ""
+  },
+  {
+    "dex": 487,
+    "offset_hex": "0x1253ce0",
+    "max_bytes": 11,
+    "original_en": "Renegade",
+    "translation_vi": ""
+  },
+  {
+    "dex": 488,
+    "offset_hex": "0x1253d00",
+    "max_bytes": 11,
+    "original_en": "Lunar",
+    "translation_vi": ""
+  },
+  {
+    "dex": 489,
+    "offset_hex": "0x1253d20",
+    "max_bytes": 11,
+    "original_en": "Sea Drifter",
+    "translation_vi": ""
+  },
+  {
+    "dex": 490,
+    "offset_hex": "0x1253d40",
+    "max_bytes": 11,
+    "original_en": "Seafaring",
+    "translation_vi": ""
+  },
+  {
+    "dex": 491,
+    "offset_hex": "0x1253d60",
+    "max_bytes": 11,
+    "original_en": "Pitch-Black",
+    "translation_vi": ""
+  },
+  {
+    "dex": 492,
+    "offset_hex": "0x1253d80",
+    "max_bytes": 11,
+    "original_en": "Gratitude",
+    "translation_vi": ""
+  },
+  {
+    "dex": 493,
+    "offset_hex": "0x1253da0",
+    "max_bytes": 11,
+    "original_en": "Alpha",
+    "translation_vi": ""
+  },
+  {
+    "dex": 494,
+    "offset_hex": "0x1253dc0",
+    "max_bytes": 11,
+    "original_en": "Victory",
+    "translation_vi": ""
+  },
+  {
+    "dex": 495,
+    "offset_hex": "0x1253de0",
+    "max_bytes": 11,
+    "original_en": "Grass Snake",
+    "translation_vi": ""
+  },
+  {
+    "dex": 496,
+    "offset_hex": "0x1253e00",
+    "max_bytes": 11,
+    "original_en": "Grass Snake",
+    "translation_vi": ""
+  },
+  {
+    "dex": 497,
+    "offset_hex": "0x1253e20",
+    "max_bytes": 11,
+    "original_en": "Regal",
+    "translation_vi": ""
+  },
+  {
+    "dex": 498,
+    "offset_hex": "0x1253e40",
+    "max_bytes": 11,
+    "original_en": "Fire Pig",
+    "translation_vi": ""
+  },
+  {
+    "dex": 499,
+    "offset_hex": "0x1253e60",
+    "max_bytes": 11,
+    "original_en": "Fire Pig",
+    "translation_vi": ""
+  },
+  {
+    "dex": 500,
+    "offset_hex": "0x1253e80",
+    "max_bytes": 11,
+    "original_en": "Fire Pig",
+    "translation_vi": ""
+  },
+  {
+    "dex": 501,
+    "offset_hex": "0x1253ea0",
+    "max_bytes": 11,
+    "original_en": "Sea Otter",
+    "translation_vi": ""
+  },
+  {
+    "dex": 502,
+    "offset_hex": "0x1253ec0",
+    "max_bytes": 11,
+    "original_en": "Discipline",
+    "translation_vi": ""
+  },
+  {
+    "dex": 503,
+    "offset_hex": "0x1253ee0",
+    "max_bytes": 11,
+    "original_en": "Formidable",
+    "translation_vi": ""
+  },
+  {
+    "dex": 504,
+    "offset_hex": "0x1253f00",
+    "max_bytes": 11,
+    "original_en": "Scout",
+    "translation_vi": ""
+  },
+  {
+    "dex": 505,
+    "offset_hex": "0x1253f20",
+    "max_bytes": 11,
+    "original_en": "Lookout",
+    "translation_vi": ""
+  },
+  {
+    "dex": 506,
+    "offset_hex": "0x1253f40",
+    "max_bytes": 11,
+    "original_en": "Puppy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 507,
+    "offset_hex": "0x1253f60",
+    "max_bytes": 11,
+    "original_en": "Loyal Dog",
+    "translation_vi": ""
+  },
+  {
+    "dex": 508,
+    "offset_hex": "0x1253f80",
+    "max_bytes": 11,
+    "original_en": "Big-Hearted",
+    "translation_vi": ""
+  },
+  {
+    "dex": 509,
+    "offset_hex": "0x1253fa0",
+    "max_bytes": 11,
+    "original_en": "Devious",
+    "translation_vi": ""
+  },
+  {
+    "dex": 510,
+    "offset_hex": "0x1253fc0",
+    "max_bytes": 11,
+    "original_en": "Cruel",
+    "translation_vi": ""
+  },
+  {
+    "dex": 511,
+    "offset_hex": "0x1253fe0",
+    "max_bytes": 11,
+    "original_en": "GrassMonkey",
+    "translation_vi": ""
+  },
+  {
+    "dex": 512,
+    "offset_hex": "0x1254000",
+    "max_bytes": 11,
+    "original_en": "ThornMonkey",
+    "translation_vi": ""
+  },
+  {
+    "dex": 513,
+    "offset_hex": "0x1254020",
+    "max_bytes": 11,
+    "original_en": "High Temp",
+    "translation_vi": ""
+  },
+  {
+    "dex": 514,
+    "offset_hex": "0x1254040",
+    "max_bytes": 11,
+    "original_en": "Ember",
+    "translation_vi": ""
+  },
+  {
+    "dex": 515,
+    "offset_hex": "0x1254060",
+    "max_bytes": 11,
+    "original_en": "Spray",
+    "translation_vi": ""
+  },
+  {
+    "dex": 516,
+    "offset_hex": "0x1254080",
+    "max_bytes": 11,
+    "original_en": "Geyser",
+    "translation_vi": ""
+  },
+  {
+    "dex": 517,
+    "offset_hex": "0x12540a0",
+    "max_bytes": 11,
+    "original_en": "Dream Eater",
+    "translation_vi": ""
+  },
+  {
+    "dex": 518,
+    "offset_hex": "0x12540c0",
+    "max_bytes": 11,
+    "original_en": "Drowsing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 519,
+    "offset_hex": "0x12540e0",
+    "max_bytes": 11,
+    "original_en": "Tiny Pigeon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 520,
+    "offset_hex": "0x1254100",
+    "max_bytes": 11,
+    "original_en": "Wild Pigeon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 521,
+    "offset_hex": "0x1254120",
+    "max_bytes": 11,
+    "original_en": "Proud",
+    "translation_vi": ""
+  },
+  {
+    "dex": 522,
+    "offset_hex": "0x1254140",
+    "max_bytes": 11,
+    "original_en": "Electrified",
+    "translation_vi": ""
+  },
+  {
+    "dex": 523,
+    "offset_hex": "0x1254160",
+    "max_bytes": 11,
+    "original_en": "Thunderbolt",
+    "translation_vi": ""
+  },
+  {
+    "dex": 524,
+    "offset_hex": "0x1254180",
+    "max_bytes": 11,
+    "original_en": "Mantle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 525,
+    "offset_hex": "0x12541a0",
+    "max_bytes": 11,
+    "original_en": "Ore",
+    "translation_vi": ""
+  },
+  {
+    "dex": 526,
+    "offset_hex": "0x12541c0",
+    "max_bytes": 11,
+    "original_en": "Compressed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 527,
+    "offset_hex": "0x12541e0",
+    "max_bytes": 11,
+    "original_en": "Bat",
+    "translation_vi": ""
+  },
+  {
+    "dex": 528,
+    "offset_hex": "0x1254200",
+    "max_bytes": 11,
+    "original_en": "Courting",
+    "translation_vi": ""
+  },
+  {
+    "dex": 529,
+    "offset_hex": "0x1254220",
+    "max_bytes": 11,
+    "original_en": "Mole",
+    "translation_vi": ""
+  },
+  {
+    "dex": 530,
+    "offset_hex": "0x1254240",
+    "max_bytes": 11,
+    "original_en": "Subterrene",
+    "translation_vi": ""
+  },
+  {
+    "dex": 531,
+    "offset_hex": "0x1254260",
+    "max_bytes": 11,
+    "original_en": "Hearing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 532,
+    "offset_hex": "0x1254280",
+    "max_bytes": 11,
+    "original_en": "Muscular",
+    "translation_vi": ""
+  },
+  {
+    "dex": 533,
+    "offset_hex": "0x12542a0",
+    "max_bytes": 11,
+    "original_en": "Muscular",
+    "translation_vi": ""
+  },
+  {
+    "dex": 534,
+    "offset_hex": "0x12542c0",
+    "max_bytes": 11,
+    "original_en": "Muscular",
+    "translation_vi": ""
+  },
+  {
+    "dex": 535,
+    "offset_hex": "0x12542e0",
+    "max_bytes": 11,
+    "original_en": "Tadpole",
+    "translation_vi": ""
+  },
+  {
+    "dex": 536,
+    "offset_hex": "0x1254300",
+    "max_bytes": 11,
+    "original_en": "Vibration",
+    "translation_vi": ""
+  },
+  {
+    "dex": 537,
+    "offset_hex": "0x1254320",
+    "max_bytes": 11,
+    "original_en": "Vibration",
+    "translation_vi": ""
+  },
+  {
+    "dex": 538,
+    "offset_hex": "0x1254340",
+    "max_bytes": 11,
+    "original_en": "Judo",
+    "translation_vi": ""
+  },
+  {
+    "dex": 539,
+    "offset_hex": "0x1254360",
+    "max_bytes": 11,
+    "original_en": "Karate",
+    "translation_vi": ""
+  },
+  {
+    "dex": 540,
+    "offset_hex": "0x1254380",
+    "max_bytes": 11,
+    "original_en": "Sewing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 541,
+    "offset_hex": "0x12543a0",
+    "max_bytes": 11,
+    "original_en": "LeafWrapped",
+    "translation_vi": ""
+  },
+  {
+    "dex": 542,
+    "offset_hex": "0x12543c0",
+    "max_bytes": 11,
+    "original_en": "Nurturing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 543,
+    "offset_hex": "0x12543e0",
+    "max_bytes": 11,
+    "original_en": "Centipede",
+    "translation_vi": ""
+  },
+  {
+    "dex": 544,
+    "offset_hex": "0x1254400",
+    "max_bytes": 11,
+    "original_en": "Curlipede",
+    "translation_vi": ""
+  },
+  {
+    "dex": 545,
+    "offset_hex": "0x1254420",
+    "max_bytes": 11,
+    "original_en": "Megapede",
+    "translation_vi": ""
+  },
+  {
+    "dex": 546,
+    "offset_hex": "0x1254440",
+    "max_bytes": 11,
+    "original_en": "Cotton Puff",
+    "translation_vi": ""
+  },
+  {
+    "dex": 547,
+    "offset_hex": "0x1254460",
+    "max_bytes": 11,
+    "original_en": "Windveiled",
+    "translation_vi": ""
+  },
+  {
+    "dex": 548,
+    "offset_hex": "0x1254480",
+    "max_bytes": 11,
+    "original_en": "Bulb",
+    "translation_vi": ""
+  },
+  {
+    "dex": 549,
+    "offset_hex": "0x12544a0",
+    "max_bytes": 11,
+    "original_en": "Flowering",
+    "translation_vi": ""
+  },
+  {
+    "dex": 550,
+    "offset_hex": "0x12544c0",
+    "max_bytes": 11,
+    "original_en": "Hostile",
+    "translation_vi": ""
+  },
+  {
+    "dex": 551,
+    "offset_hex": "0x12544e0",
+    "max_bytes": 11,
+    "original_en": "Desert Croc",
+    "translation_vi": ""
+  },
+  {
+    "dex": 552,
+    "offset_hex": "0x1254500",
+    "max_bytes": 11,
+    "original_en": "Desert Croc",
+    "translation_vi": ""
+  },
+  {
+    "dex": 553,
+    "offset_hex": "0x1254520",
+    "max_bytes": 11,
+    "original_en": "Intimidate",
+    "translation_vi": ""
+  },
+  {
+    "dex": 554,
+    "offset_hex": "0x1254540",
+    "max_bytes": 11,
+    "original_en": "Zen Charm",
+    "translation_vi": ""
+  },
+  {
+    "dex": 555,
+    "offset_hex": "0x1254560",
+    "max_bytes": 11,
+    "original_en": "Blazing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 556,
+    "offset_hex": "0x1254580",
+    "max_bytes": 11,
+    "original_en": "Cactus",
+    "translation_vi": ""
+  },
+  {
+    "dex": 557,
+    "offset_hex": "0x12545a0",
+    "max_bytes": 11,
+    "original_en": "Rock Inn",
+    "translation_vi": ""
+  },
+  {
+    "dex": 558,
+    "offset_hex": "0x12545c0",
+    "max_bytes": 11,
+    "original_en": "Stome Home",
+    "translation_vi": ""
+  },
+  {
+    "dex": 559,
+    "offset_hex": "0x12545e0",
+    "max_bytes": 11,
+    "original_en": "Shedding",
+    "translation_vi": ""
+  },
+  {
+    "dex": 560,
+    "offset_hex": "0x1254600",
+    "max_bytes": 11,
+    "original_en": "Hoodlum",
+    "translation_vi": ""
+  },
+  {
+    "dex": 561,
+    "offset_hex": "0x1254620",
+    "max_bytes": 11,
+    "original_en": "Avianoid",
+    "translation_vi": ""
+  },
+  {
+    "dex": 562,
+    "offset_hex": "0x1254640",
+    "max_bytes": 11,
+    "original_en": "Spirit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 563,
+    "offset_hex": "0x1254660",
+    "max_bytes": 11,
+    "original_en": "Coffin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 564,
+    "offset_hex": "0x1254680",
+    "max_bytes": 11,
+    "original_en": "Prototurtle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 565,
+    "offset_hex": "0x12546a0",
+    "max_bytes": 11,
+    "original_en": "Prototurtle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 566,
+    "offset_hex": "0x12546c0",
+    "max_bytes": 11,
+    "original_en": "First Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 567,
+    "offset_hex": "0x12546e0",
+    "max_bytes": 11,
+    "original_en": "First Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 568,
+    "offset_hex": "0x1254700",
+    "max_bytes": 11,
+    "original_en": "Trash Bag",
+    "translation_vi": ""
+  },
+  {
+    "dex": 569,
+    "offset_hex": "0x1254720",
+    "max_bytes": 11,
+    "original_en": "Trash Heap",
+    "translation_vi": ""
+  },
+  {
+    "dex": 570,
+    "offset_hex": "0x1254740",
+    "max_bytes": 11,
+    "original_en": "Tricky Fox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 571,
+    "offset_hex": "0x1254760",
+    "max_bytes": 11,
+    "original_en": "IllusionFox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 572,
+    "offset_hex": "0x1254780",
+    "max_bytes": 11,
+    "original_en": "Chinchilla",
+    "translation_vi": ""
+  },
+  {
+    "dex": 573,
+    "offset_hex": "0x12547a0",
+    "max_bytes": 11,
+    "original_en": "Scarf",
+    "translation_vi": ""
+  },
+  {
+    "dex": 574,
+    "offset_hex": "0x12547c0",
+    "max_bytes": 11,
+    "original_en": "Fixation",
+    "translation_vi": ""
+  },
+  {
+    "dex": 575,
+    "offset_hex": "0x12547e0",
+    "max_bytes": 11,
+    "original_en": "Manipulate",
+    "translation_vi": ""
+  },
+  {
+    "dex": 576,
+    "offset_hex": "0x1254800",
+    "max_bytes": 11,
+    "original_en": "Astral Body",
+    "translation_vi": ""
+  },
+  {
+    "dex": 577,
+    "offset_hex": "0x1254820",
+    "max_bytes": 11,
+    "original_en": "Cell",
+    "translation_vi": ""
+  },
+  {
+    "dex": 578,
+    "offset_hex": "0x1254840",
+    "max_bytes": 11,
+    "original_en": "Mitosis",
+    "translation_vi": ""
+  },
+  {
+    "dex": 579,
+    "offset_hex": "0x1254860",
+    "max_bytes": 11,
+    "original_en": "Multiplying",
+    "translation_vi": ""
+  },
+  {
+    "dex": 580,
+    "offset_hex": "0x1254880",
+    "max_bytes": 11,
+    "original_en": "Water Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 581,
+    "offset_hex": "0x12548a0",
+    "max_bytes": 11,
+    "original_en": "White Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 582,
+    "offset_hex": "0x12548c0",
+    "max_bytes": 11,
+    "original_en": "Fresh Snow",
+    "translation_vi": ""
+  },
+  {
+    "dex": 583,
+    "offset_hex": "0x12548e0",
+    "max_bytes": 11,
+    "original_en": "Icy Snow",
+    "translation_vi": ""
+  },
+  {
+    "dex": 584,
+    "offset_hex": "0x1254900",
+    "max_bytes": 11,
+    "original_en": "Snowstorm",
+    "translation_vi": ""
+  },
+  {
+    "dex": 585,
+    "offset_hex": "0x1254920",
+    "max_bytes": 11,
+    "original_en": "Season",
+    "translation_vi": ""
+  },
+  {
+    "dex": 586,
+    "offset_hex": "0x1254940",
+    "max_bytes": 11,
+    "original_en": "Season",
+    "translation_vi": ""
+  },
+  {
+    "dex": 587,
+    "offset_hex": "0x1254960",
+    "max_bytes": 11,
+    "original_en": "SkySquirrel",
+    "translation_vi": ""
+  },
+  {
+    "dex": 588,
+    "offset_hex": "0x1254980",
+    "max_bytes": 11,
+    "original_en": "Clamping",
+    "translation_vi": ""
+  },
+  {
+    "dex": 589,
+    "offset_hex": "0x12549a0",
+    "max_bytes": 11,
+    "original_en": "Cavalry",
+    "translation_vi": ""
+  },
+  {
+    "dex": 590,
+    "offset_hex": "0x12549c0",
+    "max_bytes": 11,
+    "original_en": "Mushroom",
+    "translation_vi": ""
+  },
+  {
+    "dex": 591,
+    "offset_hex": "0x12549e0",
+    "max_bytes": 11,
+    "original_en": "Mushroom",
+    "translation_vi": ""
+  },
+  {
+    "dex": 592,
+    "offset_hex": "0x1254a00",
+    "max_bytes": 11,
+    "original_en": "Floating",
+    "translation_vi": ""
+  },
+  {
+    "dex": 593,
+    "offset_hex": "0x1254a20",
+    "max_bytes": 11,
+    "original_en": "Floating",
+    "translation_vi": ""
+  },
+  {
+    "dex": 594,
+    "offset_hex": "0x1254a40",
+    "max_bytes": 11,
+    "original_en": "Caring",
+    "translation_vi": ""
+  },
+  {
+    "dex": 595,
+    "offset_hex": "0x1254a60",
+    "max_bytes": 11,
+    "original_en": "Attaching",
+    "translation_vi": ""
+  },
+  {
+    "dex": 596,
+    "offset_hex": "0x1254a80",
+    "max_bytes": 11,
+    "original_en": "EleSpider",
+    "translation_vi": ""
+  },
+  {
+    "dex": 597,
+    "offset_hex": "0x1254aa0",
+    "max_bytes": 11,
+    "original_en": "Thorn Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 598,
+    "offset_hex": "0x1254ac0",
+    "max_bytes": 11,
+    "original_en": "Thorn Pod",
+    "translation_vi": ""
+  },
+  {
+    "dex": 599,
+    "offset_hex": "0x1254ae0",
+    "max_bytes": 11,
+    "original_en": "Gear",
+    "translation_vi": ""
+  },
+  {
+    "dex": 600,
+    "offset_hex": "0x1254b00",
+    "max_bytes": 11,
+    "original_en": "Gear",
+    "translation_vi": ""
+  },
+  {
+    "dex": 601,
+    "offset_hex": "0x1254b20",
+    "max_bytes": 11,
+    "original_en": "Gear",
+    "translation_vi": ""
+  },
+  {
+    "dex": 602,
+    "offset_hex": "0x1254b40",
+    "max_bytes": 11,
+    "original_en": "EleFish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 603,
+    "offset_hex": "0x1254b60",
+    "max_bytes": 11,
+    "original_en": "EleFish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 604,
+    "offset_hex": "0x1254b80",
+    "max_bytes": 11,
+    "original_en": "EleFish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 605,
+    "offset_hex": "0x1254ba0",
+    "max_bytes": 11,
+    "original_en": "Cerebral",
+    "translation_vi": ""
+  },
+  {
+    "dex": 606,
+    "offset_hex": "0x1254bc0",
+    "max_bytes": 11,
+    "original_en": "Cerebral",
+    "translation_vi": ""
+  },
+  {
+    "dex": 607,
+    "offset_hex": "0x1254be0",
+    "max_bytes": 11,
+    "original_en": "Candle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 608,
+    "offset_hex": "0x1254c00",
+    "max_bytes": 11,
+    "original_en": "Lamp",
+    "translation_vi": ""
+  },
+  {
+    "dex": 609,
+    "offset_hex": "0x1254c20",
+    "max_bytes": 11,
+    "original_en": "Luring",
+    "translation_vi": ""
+  },
+  {
+    "dex": 610,
+    "offset_hex": "0x1254c40",
+    "max_bytes": 11,
+    "original_en": "Tusk",
+    "translation_vi": ""
+  },
+  {
+    "dex": 611,
+    "offset_hex": "0x1254c60",
+    "max_bytes": 11,
+    "original_en": "Axe Jaw",
+    "translation_vi": ""
+  },
+  {
+    "dex": 612,
+    "offset_hex": "0x1254c80",
+    "max_bytes": 11,
+    "original_en": "Axe Jaw",
+    "translation_vi": ""
+  },
+  {
+    "dex": 613,
+    "offset_hex": "0x1254ca0",
+    "max_bytes": 11,
+    "original_en": "Chill",
+    "translation_vi": ""
+  },
+  {
+    "dex": 614,
+    "offset_hex": "0x1254cc0",
+    "max_bytes": 11,
+    "original_en": "Freezing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 615,
+    "offset_hex": "0x1254ce0",
+    "max_bytes": 11,
+    "original_en": "Crystallize",
+    "translation_vi": ""
+  },
+  {
+    "dex": 616,
+    "offset_hex": "0x1254d00",
+    "max_bytes": 11,
+    "original_en": "Snail",
+    "translation_vi": ""
+  },
+  {
+    "dex": 617,
+    "offset_hex": "0x1254d20",
+    "max_bytes": 11,
+    "original_en": "Shell Out",
+    "translation_vi": ""
+  },
+  {
+    "dex": 618,
+    "offset_hex": "0x1254d40",
+    "max_bytes": 11,
+    "original_en": "Trap",
+    "translation_vi": ""
+  },
+  {
+    "dex": 619,
+    "offset_hex": "0x1254d60",
+    "max_bytes": 11,
+    "original_en": "Martial Art",
+    "translation_vi": ""
+  },
+  {
+    "dex": 620,
+    "offset_hex": "0x1254d80",
+    "max_bytes": 11,
+    "original_en": "Martial Art",
+    "translation_vi": ""
+  },
+  {
+    "dex": 621,
+    "offset_hex": "0x1254da0",
+    "max_bytes": 11,
+    "original_en": "Cave",
+    "translation_vi": ""
+  },
+  {
+    "dex": 622,
+    "offset_hex": "0x1254dc0",
+    "max_bytes": 11,
+    "original_en": "Automaton",
+    "translation_vi": ""
+  },
+  {
+    "dex": 623,
+    "offset_hex": "0x1254de0",
+    "max_bytes": 11,
+    "original_en": "Automaton",
+    "translation_vi": ""
+  },
+  {
+    "dex": 624,
+    "offset_hex": "0x1254e00",
+    "max_bytes": 11,
+    "original_en": "Sharp Blade",
+    "translation_vi": ""
+  },
+  {
+    "dex": 625,
+    "offset_hex": "0x1254e20",
+    "max_bytes": 11,
+    "original_en": "Sword Blade",
+    "translation_vi": ""
+  },
+  {
+    "dex": 626,
+    "offset_hex": "0x1254e40",
+    "max_bytes": 11,
+    "original_en": "BashBuffalo",
+    "translation_vi": ""
+  },
+  {
+    "dex": 627,
+    "offset_hex": "0x1254e60",
+    "max_bytes": 11,
+    "original_en": "Eaglet",
+    "translation_vi": ""
+  },
+  {
+    "dex": 628,
+    "offset_hex": "0x1254e80",
+    "max_bytes": 11,
+    "original_en": "Valiant",
+    "translation_vi": ""
+  },
+  {
+    "dex": 629,
+    "offset_hex": "0x1254ea0",
+    "max_bytes": 11,
+    "original_en": "Diapered",
+    "translation_vi": ""
+  },
+  {
+    "dex": 630,
+    "offset_hex": "0x1254ec0",
+    "max_bytes": 11,
+    "original_en": "BoneVulture",
+    "translation_vi": ""
+  },
+  {
+    "dex": 631,
+    "offset_hex": "0x1254ee0",
+    "max_bytes": 11,
+    "original_en": "Anteater",
+    "translation_vi": ""
+  },
+  {
+    "dex": 632,
+    "offset_hex": "0x1254f00",
+    "max_bytes": 11,
+    "original_en": "Iron Ant",
+    "translation_vi": ""
+  },
+  {
+    "dex": 633,
+    "offset_hex": "0x1254f20",
+    "max_bytes": 11,
+    "original_en": "Irate",
+    "translation_vi": ""
+  },
+  {
+    "dex": 634,
+    "offset_hex": "0x1254f40",
+    "max_bytes": 11,
+    "original_en": "Hostile",
+    "translation_vi": ""
+  },
+  {
+    "dex": 635,
+    "offset_hex": "0x1254f60",
+    "max_bytes": 11,
+    "original_en": "Brutal",
+    "translation_vi": ""
+  },
+  {
+    "dex": 636,
+    "offset_hex": "0x1254f80",
+    "max_bytes": 11,
+    "original_en": "Torch",
+    "translation_vi": ""
+  },
+  {
+    "dex": 637,
+    "offset_hex": "0x1254fa0",
+    "max_bytes": 11,
+    "original_en": "Sun",
+    "translation_vi": ""
+  },
+  {
+    "dex": 638,
+    "offset_hex": "0x1254fc0",
+    "max_bytes": 11,
+    "original_en": "Iron Will",
+    "translation_vi": ""
+  },
+  {
+    "dex": 639,
+    "offset_hex": "0x1254fe0",
+    "max_bytes": 11,
+    "original_en": "Cavern",
+    "translation_vi": ""
+  },
+  {
+    "dex": 640,
+    "offset_hex": "0x1255000",
+    "max_bytes": 11,
+    "original_en": "Grassland",
+    "translation_vi": ""
+  },
+  {
+    "dex": 641,
+    "offset_hex": "0x1255020",
+    "max_bytes": 11,
+    "original_en": "Cyclone",
+    "translation_vi": ""
+  },
+  {
+    "dex": 642,
+    "offset_hex": "0x1255040",
+    "max_bytes": 11,
+    "original_en": "Bolt Strike",
+    "translation_vi": ""
+  },
+  {
+    "dex": 643,
+    "offset_hex": "0x1255060",
+    "max_bytes": 11,
+    "original_en": "Vast White",
+    "translation_vi": ""
+  },
+  {
+    "dex": 644,
+    "offset_hex": "0x1255080",
+    "max_bytes": 11,
+    "original_en": "Deep Black",
+    "translation_vi": ""
+  },
+  {
+    "dex": 645,
+    "offset_hex": "0x12550a0",
+    "max_bytes": 11,
+    "original_en": "Abundance",
+    "translation_vi": ""
+  },
+  {
+    "dex": 646,
+    "offset_hex": "0x12550c0",
+    "max_bytes": 11,
+    "original_en": "Boundary",
+    "translation_vi": ""
+  },
+  {
+    "dex": 647,
+    "offset_hex": "0x12550e0",
+    "max_bytes": 11,
+    "original_en": "Colt",
+    "translation_vi": ""
+  },
+  {
+    "dex": 648,
+    "offset_hex": "0x1255100",
+    "max_bytes": 11,
+    "original_en": "Melody",
+    "translation_vi": ""
+  },
+  {
+    "dex": 649,
+    "offset_hex": "0x1255120",
+    "max_bytes": 11,
+    "original_en": "Paleozoic",
+    "translation_vi": ""
+  },
+  {
+    "dex": 650,
+    "offset_hex": "0x1255140",
+    "max_bytes": 11,
+    "original_en": "Spiny Nut",
+    "translation_vi": ""
+  },
+  {
+    "dex": 651,
+    "offset_hex": "0x1255160",
+    "max_bytes": 11,
+    "original_en": "Spiny Armor",
+    "translation_vi": ""
+  },
+  {
+    "dex": 652,
+    "offset_hex": "0x1255180",
+    "max_bytes": 11,
+    "original_en": "Spiny Armor",
+    "translation_vi": ""
+  },
+  {
+    "dex": 653,
+    "offset_hex": "0x12551a0",
+    "max_bytes": 11,
+    "original_en": "Fox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 654,
+    "offset_hex": "0x12551c0",
+    "max_bytes": 11,
+    "original_en": "Fox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 655,
+    "offset_hex": "0x12551e0",
+    "max_bytes": 11,
+    "original_en": "Fox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 656,
+    "offset_hex": "0x1255200",
+    "max_bytes": 11,
+    "original_en": "Bubble Frog",
+    "translation_vi": ""
+  },
+  {
+    "dex": 657,
+    "offset_hex": "0x1255220",
+    "max_bytes": 11,
+    "original_en": "Bubble Frog",
+    "translation_vi": ""
+  },
+  {
+    "dex": 658,
+    "offset_hex": "0x1255240",
+    "max_bytes": 11,
+    "original_en": "Ninja",
+    "translation_vi": ""
+  },
+  {
+    "dex": 659,
+    "offset_hex": "0x1255260",
+    "max_bytes": 11,
+    "original_en": "Digging",
+    "translation_vi": ""
+  },
+  {
+    "dex": 660,
+    "offset_hex": "0x1255280",
+    "max_bytes": 11,
+    "original_en": "Digging",
+    "translation_vi": ""
+  },
+  {
+    "dex": 661,
+    "offset_hex": "0x12552a0",
+    "max_bytes": 11,
+    "original_en": "Tiny Robin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 662,
+    "offset_hex": "0x12552c0",
+    "max_bytes": 11,
+    "original_en": "Ember",
+    "translation_vi": ""
+  },
+  {
+    "dex": 663,
+    "offset_hex": "0x12552e0",
+    "max_bytes": 11,
+    "original_en": "Scorching",
+    "translation_vi": ""
+  },
+  {
+    "dex": 664,
+    "offset_hex": "0x1255300",
+    "max_bytes": 11,
+    "original_en": "Scatterdust",
+    "translation_vi": ""
+  },
+  {
+    "dex": 665,
+    "offset_hex": "0x1255320",
+    "max_bytes": 11,
+    "original_en": "Scatterdust",
+    "translation_vi": ""
+  },
+  {
+    "dex": 666,
+    "offset_hex": "0x1255340",
+    "max_bytes": 11,
+    "original_en": "Scale",
+    "translation_vi": ""
+  },
+  {
+    "dex": 667,
+    "offset_hex": "0x1255360",
+    "max_bytes": 11,
+    "original_en": "Lion Cub",
+    "translation_vi": ""
+  },
+  {
+    "dex": 668,
+    "offset_hex": "0x1255380",
+    "max_bytes": 11,
+    "original_en": "Royal",
+    "translation_vi": ""
+  },
+  {
+    "dex": 669,
+    "offset_hex": "0x12553a0",
+    "max_bytes": 11,
+    "original_en": "SingleBloom",
+    "translation_vi": ""
+  },
+  {
+    "dex": 670,
+    "offset_hex": "0x12553c0",
+    "max_bytes": 11,
+    "original_en": "SingleBloom",
+    "translation_vi": ""
+  },
+  {
+    "dex": 671,
+    "offset_hex": "0x12553e0",
+    "max_bytes": 11,
+    "original_en": "Garden",
+    "translation_vi": ""
+  },
+  {
+    "dex": 672,
+    "offset_hex": "0x1255400",
+    "max_bytes": 11,
+    "original_en": "Mount",
+    "translation_vi": ""
+  },
+  {
+    "dex": 673,
+    "offset_hex": "0x1255420",
+    "max_bytes": 11,
+    "original_en": "Mount",
+    "translation_vi": ""
+  },
+  {
+    "dex": 674,
+    "offset_hex": "0x1255440",
+    "max_bytes": 11,
+    "original_en": "Playful",
+    "translation_vi": ""
+  },
+  {
+    "dex": 675,
+    "offset_hex": "0x1255460",
+    "max_bytes": 11,
+    "original_en": "Daunting",
+    "translation_vi": ""
+  },
+  {
+    "dex": 676,
+    "offset_hex": "0x1255480",
+    "max_bytes": 11,
+    "original_en": "Poodle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 677,
+    "offset_hex": "0x12554a0",
+    "max_bytes": 11,
+    "original_en": "Restraint",
+    "translation_vi": ""
+  },
+  {
+    "dex": 678,
+    "offset_hex": "0x12554c0",
+    "max_bytes": 11,
+    "original_en": "Constraint",
+    "translation_vi": ""
+  },
+  {
+    "dex": 679,
+    "offset_hex": "0x12554e0",
+    "max_bytes": 11,
+    "original_en": "Sword",
+    "translation_vi": ""
+  },
+  {
+    "dex": 680,
+    "offset_hex": "0x1255500",
+    "max_bytes": 11,
+    "original_en": "Sword",
+    "translation_vi": ""
+  },
+  {
+    "dex": 681,
+    "offset_hex": "0x1255520",
+    "max_bytes": 11,
+    "original_en": "Royal Sword",
+    "translation_vi": ""
+  },
+  {
+    "dex": 682,
+    "offset_hex": "0x1255540",
+    "max_bytes": 11,
+    "original_en": "Perfume",
+    "translation_vi": ""
+  },
+  {
+    "dex": 683,
+    "offset_hex": "0x1255560",
+    "max_bytes": 11,
+    "original_en": "Fragrance",
+    "translation_vi": ""
+  },
+  {
+    "dex": 684,
+    "offset_hex": "0x1255580",
+    "max_bytes": 11,
+    "original_en": "CottonCandy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 685,
+    "offset_hex": "0x12555a0",
+    "max_bytes": 11,
+    "original_en": "Meringue",
+    "translation_vi": ""
+  },
+  {
+    "dex": 686,
+    "offset_hex": "0x12555c0",
+    "max_bytes": 11,
+    "original_en": "Revolving",
+    "translation_vi": ""
+  },
+  {
+    "dex": 687,
+    "offset_hex": "0x12555e0",
+    "max_bytes": 11,
+    "original_en": "Overtuning",
+    "translation_vi": ""
+  },
+  {
+    "dex": 688,
+    "offset_hex": "0x1255600",
+    "max_bytes": 11,
+    "original_en": "Two-Handed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 689,
+    "offset_hex": "0x1255620",
+    "max_bytes": 11,
+    "original_en": "Collective",
+    "translation_vi": ""
+  },
+  {
+    "dex": 690,
+    "offset_hex": "0x1255640",
+    "max_bytes": 11,
+    "original_en": "Mock Kelp",
+    "translation_vi": ""
+  },
+  {
+    "dex": 691,
+    "offset_hex": "0x1255660",
+    "max_bytes": 11,
+    "original_en": "Mock Kelp",
+    "translation_vi": ""
+  },
+  {
+    "dex": 692,
+    "offset_hex": "0x1255680",
+    "max_bytes": 11,
+    "original_en": "Water Gun",
+    "translation_vi": ""
+  },
+  {
+    "dex": 693,
+    "offset_hex": "0x12556a0",
+    "max_bytes": 11,
+    "original_en": "Howitzer",
+    "translation_vi": ""
+  },
+  {
+    "dex": 694,
+    "offset_hex": "0x12556c0",
+    "max_bytes": 11,
+    "original_en": "Generator",
+    "translation_vi": ""
+  },
+  {
+    "dex": 695,
+    "offset_hex": "0x12556e0",
+    "max_bytes": 11,
+    "original_en": "Generator",
+    "translation_vi": ""
+  },
+  {
+    "dex": 696,
+    "offset_hex": "0x1255700",
+    "max_bytes": 11,
+    "original_en": "Royal Heir",
+    "translation_vi": ""
+  },
+  {
+    "dex": 697,
+    "offset_hex": "0x1255720",
+    "max_bytes": 11,
+    "original_en": "Despot",
+    "translation_vi": ""
+  },
+  {
+    "dex": 698,
+    "offset_hex": "0x1255740",
+    "max_bytes": 11,
+    "original_en": "Tundra",
+    "translation_vi": ""
+  },
+  {
+    "dex": 699,
+    "offset_hex": "0x1255760",
+    "max_bytes": 11,
+    "original_en": "Tundra",
+    "translation_vi": ""
+  },
+  {
+    "dex": 700,
+    "offset_hex": "0x1255780",
+    "max_bytes": 11,
+    "original_en": "Association",
+    "translation_vi": ""
+  },
+  {
+    "dex": 701,
+    "offset_hex": "0x12557a0",
+    "max_bytes": 11,
+    "original_en": "Wrestling",
+    "translation_vi": ""
+  },
+  {
+    "dex": 702,
+    "offset_hex": "0x12557c0",
+    "max_bytes": 11,
+    "original_en": "Antenna",
+    "translation_vi": ""
+  },
+  {
+    "dex": 703,
+    "offset_hex": "0x12557e0",
+    "max_bytes": 11,
+    "original_en": "Jewel",
+    "translation_vi": ""
+  },
+  {
+    "dex": 704,
+    "offset_hex": "0x1255800",
+    "max_bytes": 11,
+    "original_en": "Soft Tissue",
+    "translation_vi": ""
+  },
+  {
+    "dex": 705,
+    "offset_hex": "0x1255820",
+    "max_bytes": 11,
+    "original_en": "Soft Tissue",
+    "translation_vi": ""
+  },
+  {
+    "dex": 706,
+    "offset_hex": "0x1255840",
+    "max_bytes": 11,
+    "original_en": "Dragon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 707,
+    "offset_hex": "0x1255860",
+    "max_bytes": 11,
+    "original_en": "Key Ring",
+    "translation_vi": ""
+  },
+  {
+    "dex": 708,
+    "offset_hex": "0x1255880",
+    "max_bytes": 11,
+    "original_en": "Stump",
+    "translation_vi": ""
+  },
+  {
+    "dex": 709,
+    "offset_hex": "0x12558a0",
+    "max_bytes": 11,
+    "original_en": "Elder Tree",
+    "translation_vi": ""
+  },
+  {
+    "dex": 710,
+    "offset_hex": "0x12558c0",
+    "max_bytes": 11,
+    "original_en": "Pumpkin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 711,
+    "offset_hex": "0x12558e0",
+    "max_bytes": 11,
+    "original_en": "Pumpkin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 712,
+    "offset_hex": "0x1255900",
+    "max_bytes": 11,
+    "original_en": "Ice Chunk",
+    "translation_vi": ""
+  },
+  {
+    "dex": 713,
+    "offset_hex": "0x1255920",
+    "max_bytes": 11,
+    "original_en": "Iceberg",
+    "translation_vi": ""
+  },
+  {
+    "dex": 714,
+    "offset_hex": "0x1255940",
+    "max_bytes": 11,
+    "original_en": "Sound Wave",
+    "translation_vi": ""
+  },
+  {
+    "dex": 715,
+    "offset_hex": "0x1255960",
+    "max_bytes": 11,
+    "original_en": "Sound Wave",
+    "translation_vi": ""
+  },
+  {
+    "dex": 716,
+    "offset_hex": "0x1255980",
+    "max_bytes": 11,
+    "original_en": "Life",
+    "translation_vi": ""
+  },
+  {
+    "dex": 717,
+    "offset_hex": "0x12559a0",
+    "max_bytes": 11,
+    "original_en": "Destruction",
+    "translation_vi": ""
+  },
+  {
+    "dex": 718,
+    "offset_hex": "0x12559c0",
+    "max_bytes": 11,
+    "original_en": "Order",
+    "translation_vi": ""
+  },
+  {
+    "dex": 719,
+    "offset_hex": "0x12559e0",
+    "max_bytes": 11,
+    "original_en": "Jewel",
+    "translation_vi": ""
+  },
+  {
+    "dex": 720,
+    "offset_hex": "0x1255a00",
+    "max_bytes": 11,
+    "original_en": "Mischief",
+    "translation_vi": ""
+  },
+  {
+    "dex": 721,
+    "offset_hex": "0x1255a20",
+    "max_bytes": 11,
+    "original_en": "Steam",
+    "translation_vi": ""
+  },
+  {
+    "dex": 722,
+    "offset_hex": "0x1255a40",
+    "max_bytes": 11,
+    "original_en": "Grass Quill",
+    "translation_vi": ""
+  },
+  {
+    "dex": 723,
+    "offset_hex": "0x1255a60",
+    "max_bytes": 11,
+    "original_en": "Blade Quill",
+    "translation_vi": ""
+  },
+  {
+    "dex": 724,
+    "offset_hex": "0x1255a80",
+    "max_bytes": 11,
+    "original_en": "Arrow Quill",
+    "translation_vi": ""
+  },
+  {
+    "dex": 725,
+    "offset_hex": "0x1255aa0",
+    "max_bytes": 11,
+    "original_en": "Fire Cat",
+    "translation_vi": ""
+  },
+  {
+    "dex": 726,
+    "offset_hex": "0x1255ac0",
+    "max_bytes": 11,
+    "original_en": "Fire Cat",
+    "translation_vi": ""
+  },
+  {
+    "dex": 727,
+    "offset_hex": "0x1255ae0",
+    "max_bytes": 11,
+    "original_en": "Heel",
+    "translation_vi": ""
+  },
+  {
+    "dex": 728,
+    "offset_hex": "0x1255b00",
+    "max_bytes": 11,
+    "original_en": "Sea Lion",
+    "translation_vi": ""
+  },
+  {
+    "dex": 729,
+    "offset_hex": "0x1255b20",
+    "max_bytes": 11,
+    "original_en": "Pop Star",
+    "translation_vi": ""
+  },
+  {
+    "dex": 730,
+    "offset_hex": "0x1255b40",
+    "max_bytes": 11,
+    "original_en": "Soloist",
+    "translation_vi": ""
+  },
+  {
+    "dex": 731,
+    "offset_hex": "0x1255b60",
+    "max_bytes": 11,
+    "original_en": "Woodpecker",
+    "translation_vi": ""
+  },
+  {
+    "dex": 732,
+    "offset_hex": "0x1255b80",
+    "max_bytes": 11,
+    "original_en": "Bugle Beak",
+    "translation_vi": ""
+  },
+  {
+    "dex": 733,
+    "offset_hex": "0x1255ba0",
+    "max_bytes": 11,
+    "original_en": "Cannon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 734,
+    "offset_hex": "0x1255bc0",
+    "max_bytes": 11,
+    "original_en": "Loitering",
+    "translation_vi": ""
+  },
+  {
+    "dex": 735,
+    "offset_hex": "0x1255be0",
+    "max_bytes": 11,
+    "original_en": "Stakeout",
+    "translation_vi": ""
+  },
+  {
+    "dex": 736,
+    "offset_hex": "0x1255c00",
+    "max_bytes": 11,
+    "original_en": "Larva",
+    "translation_vi": ""
+  },
+  {
+    "dex": 737,
+    "offset_hex": "0x1255c20",
+    "max_bytes": 11,
+    "original_en": "Battery",
+    "translation_vi": ""
+  },
+  {
+    "dex": 738,
+    "offset_hex": "0x1255c40",
+    "max_bytes": 11,
+    "original_en": "Stag Beetle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 739,
+    "offset_hex": "0x1255c60",
+    "max_bytes": 11,
+    "original_en": "Boxing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 740,
+    "offset_hex": "0x1255c80",
+    "max_bytes": 11,
+    "original_en": "Woolly Crab",
+    "translation_vi": ""
+  },
+  {
+    "dex": 741,
+    "offset_hex": "0x1255ca0",
+    "max_bytes": 11,
+    "original_en": "Dancing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 742,
+    "offset_hex": "0x1255cc0",
+    "max_bytes": 11,
+    "original_en": "Bee Fly",
+    "translation_vi": ""
+  },
+  {
+    "dex": 743,
+    "offset_hex": "0x1255ce0",
+    "max_bytes": 11,
+    "original_en": "Bee Fly",
+    "translation_vi": ""
+  },
+  {
+    "dex": 744,
+    "offset_hex": "0x1255d00",
+    "max_bytes": 11,
+    "original_en": "Puppy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 745,
+    "offset_hex": "0x1255d20",
+    "max_bytes": 11,
+    "original_en": "Wolf",
+    "translation_vi": ""
+  },
+  {
+    "dex": 746,
+    "offset_hex": "0x1255d40",
+    "max_bytes": 11,
+    "original_en": "Small Fry",
+    "translation_vi": ""
+  },
+  {
+    "dex": 747,
+    "offset_hex": "0x1255d60",
+    "max_bytes": 11,
+    "original_en": "Brutal Star",
+    "translation_vi": ""
+  },
+  {
+    "dex": 748,
+    "offset_hex": "0x1255d80",
+    "max_bytes": 11,
+    "original_en": "Brutal Star",
+    "translation_vi": ""
+  },
+  {
+    "dex": 749,
+    "offset_hex": "0x1255da0",
+    "max_bytes": 11,
+    "original_en": "Donkey",
+    "translation_vi": ""
+  },
+  {
+    "dex": 750,
+    "offset_hex": "0x1255dc0",
+    "max_bytes": 11,
+    "original_en": "Draft Horse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 751,
+    "offset_hex": "0x1255de0",
+    "max_bytes": 11,
+    "original_en": "WaterBubble",
+    "translation_vi": ""
+  },
+  {
+    "dex": 752,
+    "offset_hex": "0x1255e00",
+    "max_bytes": 11,
+    "original_en": "WaterBubble",
+    "translation_vi": ""
+  },
+  {
+    "dex": 753,
+    "offset_hex": "0x1255e20",
+    "max_bytes": 11,
+    "original_en": "SickleGrass",
+    "translation_vi": ""
+  },
+  {
+    "dex": 754,
+    "offset_hex": "0x1255e40",
+    "max_bytes": 11,
+    "original_en": "BloomSickle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 755,
+    "offset_hex": "0x1255e60",
+    "max_bytes": 11,
+    "original_en": "Illuminate",
+    "translation_vi": ""
+  },
+  {
+    "dex": 756,
+    "offset_hex": "0x1255e80",
+    "max_bytes": 11,
+    "original_en": "Illuminate",
+    "translation_vi": ""
+  },
+  {
+    "dex": 757,
+    "offset_hex": "0x1255ea0",
+    "max_bytes": 11,
+    "original_en": "ToxicLizard",
+    "translation_vi": ""
+  },
+  {
+    "dex": 758,
+    "offset_hex": "0x1255ec0",
+    "max_bytes": 11,
+    "original_en": "ToxicLizard",
+    "translation_vi": ""
+  },
+  {
+    "dex": 759,
+    "offset_hex": "0x1255ee0",
+    "max_bytes": 11,
+    "original_en": "Flailing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 760,
+    "offset_hex": "0x1255f00",
+    "max_bytes": 11,
+    "original_en": "Strong Arm",
+    "translation_vi": ""
+  },
+  {
+    "dex": 761,
+    "offset_hex": "0x1255f20",
+    "max_bytes": 11,
+    "original_en": "Fruit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 762,
+    "offset_hex": "0x1255f40",
+    "max_bytes": 11,
+    "original_en": "Fruit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 763,
+    "offset_hex": "0x1255f60",
+    "max_bytes": 11,
+    "original_en": "Fruit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 764,
+    "offset_hex": "0x1255f80",
+    "max_bytes": 11,
+    "original_en": "Posy Picker",
+    "translation_vi": ""
+  },
+  {
+    "dex": 765,
+    "offset_hex": "0x1255fa0",
+    "max_bytes": 11,
+    "original_en": "Sage",
+    "translation_vi": ""
+  },
+  {
+    "dex": 766,
+    "offset_hex": "0x1255fc0",
+    "max_bytes": 11,
+    "original_en": "Teamwork",
+    "translation_vi": ""
+  },
+  {
+    "dex": 767,
+    "offset_hex": "0x1255fe0",
+    "max_bytes": 11,
+    "original_en": "Turn Tail",
+    "translation_vi": ""
+  },
+  {
+    "dex": 768,
+    "offset_hex": "0x1256000",
+    "max_bytes": 11,
+    "original_en": "Hard Scale",
+    "translation_vi": ""
+  },
+  {
+    "dex": 769,
+    "offset_hex": "0x1256020",
+    "max_bytes": 11,
+    "original_en": "Sand Heap",
+    "translation_vi": ""
+  },
+  {
+    "dex": 770,
+    "offset_hex": "0x1256040",
+    "max_bytes": 11,
+    "original_en": "Sand Castle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 771,
+    "offset_hex": "0x1256060",
+    "max_bytes": 11,
+    "original_en": "SeaCucumber",
+    "translation_vi": ""
+  },
+  {
+    "dex": 772,
+    "offset_hex": "0x1256080",
+    "max_bytes": 11,
+    "original_en": "Synthetic",
+    "translation_vi": ""
+  },
+  {
+    "dex": 773,
+    "offset_hex": "0x12560a0",
+    "max_bytes": 11,
+    "original_en": "Synthetic",
+    "translation_vi": ""
+  },
+  {
+    "dex": 774,
+    "offset_hex": "0x12560c0",
+    "max_bytes": 11,
+    "original_en": "Meteor",
+    "translation_vi": ""
+  },
+  {
+    "dex": 775,
+    "offset_hex": "0x12560e0",
+    "max_bytes": 11,
+    "original_en": "Drowsing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 776,
+    "offset_hex": "0x1256100",
+    "max_bytes": 11,
+    "original_en": "BlastTurtle",
+    "translation_vi": ""
+  },
+  {
+    "dex": 777,
+    "offset_hex": "0x1256120",
+    "max_bytes": 11,
+    "original_en": "Roly-Poly",
+    "translation_vi": ""
+  },
+  {
+    "dex": 778,
+    "offset_hex": "0x1256140",
+    "max_bytes": 11,
+    "original_en": "Disguise",
+    "translation_vi": ""
+  },
+  {
+    "dex": 779,
+    "offset_hex": "0x1256160",
+    "max_bytes": 11,
+    "original_en": "Gnash Teeth",
+    "translation_vi": ""
+  },
+  {
+    "dex": 780,
+    "offset_hex": "0x1256180",
+    "max_bytes": 11,
+    "original_en": "Placid",
+    "translation_vi": ""
+  },
+  {
+    "dex": 781,
+    "offset_hex": "0x12561a0",
+    "max_bytes": 11,
+    "original_en": "Sea Creeper",
+    "translation_vi": ""
+  },
+  {
+    "dex": 782,
+    "offset_hex": "0x12561c0",
+    "max_bytes": 11,
+    "original_en": "Scaly",
+    "translation_vi": ""
+  },
+  {
+    "dex": 783,
+    "offset_hex": "0x12561e0",
+    "max_bytes": 11,
+    "original_en": "Scaly",
+    "translation_vi": ""
+  },
+  {
+    "dex": 784,
+    "offset_hex": "0x1256200",
+    "max_bytes": 11,
+    "original_en": "Scaly",
+    "translation_vi": ""
+  },
+  {
+    "dex": 785,
+    "offset_hex": "0x1256220",
+    "max_bytes": 11,
+    "original_en": "Land Spirit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 786,
+    "offset_hex": "0x1256240",
+    "max_bytes": 11,
+    "original_en": "Land Spirit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 787,
+    "offset_hex": "0x1256260",
+    "max_bytes": 11,
+    "original_en": "Land Spirit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 788,
+    "offset_hex": "0x1256280",
+    "max_bytes": 11,
+    "original_en": "Land Spirit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 789,
+    "offset_hex": "0x12562a0",
+    "max_bytes": 11,
+    "original_en": "Nebula",
+    "translation_vi": ""
+  },
+  {
+    "dex": 790,
+    "offset_hex": "0x12562c0",
+    "max_bytes": 11,
+    "original_en": "Protostar",
+    "translation_vi": ""
+  },
+  {
+    "dex": 791,
+    "offset_hex": "0x12562e0",
+    "max_bytes": 11,
+    "original_en": "Sunne",
+    "translation_vi": ""
+  },
+  {
+    "dex": 792,
+    "offset_hex": "0x1256300",
+    "max_bytes": 11,
+    "original_en": "Moone",
+    "translation_vi": ""
+  },
+  {
+    "dex": 793,
+    "offset_hex": "0x1256320",
+    "max_bytes": 11,
+    "original_en": "Parasite",
+    "translation_vi": ""
+  },
+  {
+    "dex": 794,
+    "offset_hex": "0x1256340",
+    "max_bytes": 11,
+    "original_en": "Swollen",
+    "translation_vi": ""
+  },
+  {
+    "dex": 795,
+    "offset_hex": "0x1256360",
+    "max_bytes": 11,
+    "original_en": "Lissome",
+    "translation_vi": ""
+  },
+  {
+    "dex": 796,
+    "offset_hex": "0x1256380",
+    "max_bytes": 11,
+    "original_en": "Glowing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 797,
+    "offset_hex": "0x12563a0",
+    "max_bytes": 11,
+    "original_en": "Launch",
+    "translation_vi": ""
+  },
+  {
+    "dex": 798,
+    "offset_hex": "0x12563c0",
+    "max_bytes": 11,
+    "original_en": "Drawn Sword",
+    "translation_vi": ""
+  },
+  {
+    "dex": 799,
+    "offset_hex": "0x12563e0",
+    "max_bytes": 11,
+    "original_en": "Junkivore",
+    "translation_vi": ""
+  },
+  {
+    "dex": 800,
+    "offset_hex": "0x1256400",
+    "max_bytes": 11,
+    "original_en": "Prism",
+    "translation_vi": ""
+  },
+  {
+    "dex": 801,
+    "offset_hex": "0x1256420",
+    "max_bytes": 11,
+    "original_en": "Artificial",
+    "translation_vi": ""
+  },
+  {
+    "dex": 802,
+    "offset_hex": "0x1256440",
+    "max_bytes": 11,
+    "original_en": "Gloom Dwell",
+    "translation_vi": ""
+  },
+  {
+    "dex": 803,
+    "offset_hex": "0x1256460",
+    "max_bytes": 11,
+    "original_en": "Poison Pin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 804,
+    "offset_hex": "0x1256480",
+    "max_bytes": 11,
+    "original_en": "Poison Pin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 805,
+    "offset_hex": "0x12564a0",
+    "max_bytes": 11,
+    "original_en": "Rampart",
+    "translation_vi": ""
+  },
+  {
+    "dex": 806,
+    "offset_hex": "0x12564c0",
+    "max_bytes": 11,
+    "original_en": "Fireworks",
+    "translation_vi": ""
+  },
+  {
+    "dex": 807,
+    "offset_hex": "0x12564e0",
+    "max_bytes": 11,
+    "original_en": "Thunderclap",
+    "translation_vi": ""
+  },
+  {
+    "dex": 808,
+    "offset_hex": "0x1256500",
+    "max_bytes": 11,
+    "original_en": "Hex Nut",
+    "translation_vi": ""
+  },
+  {
+    "dex": 809,
+    "offset_hex": "0x1256520",
+    "max_bytes": 11,
+    "original_en": "Hex Nut",
+    "translation_vi": ""
+  },
+  {
+    "dex": 810,
+    "offset_hex": "0x1256540",
+    "max_bytes": 11,
+    "original_en": "Chimp",
+    "translation_vi": ""
+  },
+  {
+    "dex": 811,
+    "offset_hex": "0x1256560",
+    "max_bytes": 11,
+    "original_en": "Beat",
+    "translation_vi": ""
+  },
+  {
+    "dex": 812,
+    "offset_hex": "0x1256580",
+    "max_bytes": 11,
+    "original_en": "Drummer",
+    "translation_vi": ""
+  },
+  {
+    "dex": 813,
+    "offset_hex": "0x12565a0",
+    "max_bytes": 11,
+    "original_en": "Rabbit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 814,
+    "offset_hex": "0x12565c0",
+    "max_bytes": 11,
+    "original_en": "Rabbit",
+    "translation_vi": ""
+  },
+  {
+    "dex": 815,
+    "offset_hex": "0x12565e0",
+    "max_bytes": 11,
+    "original_en": "Striker",
+    "translation_vi": ""
+  },
+  {
+    "dex": 816,
+    "offset_hex": "0x1256600",
+    "max_bytes": 11,
+    "original_en": "WaterLizard",
+    "translation_vi": ""
+  },
+  {
+    "dex": 817,
+    "offset_hex": "0x1256620",
+    "max_bytes": 11,
+    "original_en": "WaterLizard",
+    "translation_vi": ""
+  },
+  {
+    "dex": 818,
+    "offset_hex": "0x1256640",
+    "max_bytes": 11,
+    "original_en": "SecretAgent",
+    "translation_vi": ""
+  },
+  {
+    "dex": 819,
+    "offset_hex": "0x1256660",
+    "max_bytes": 11,
+    "original_en": "Cheeky",
+    "translation_vi": ""
+  },
+  {
+    "dex": 820,
+    "offset_hex": "0x1256680",
+    "max_bytes": 11,
+    "original_en": "Greedy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 821,
+    "offset_hex": "0x12566a0",
+    "max_bytes": 11,
+    "original_en": "Tiny Bird",
+    "translation_vi": ""
+  },
+  {
+    "dex": 822,
+    "offset_hex": "0x12566c0",
+    "max_bytes": 11,
+    "original_en": "Raven",
+    "translation_vi": ""
+  },
+  {
+    "dex": 823,
+    "offset_hex": "0x12566e0",
+    "max_bytes": 11,
+    "original_en": "Raven",
+    "translation_vi": ""
+  },
+  {
+    "dex": 824,
+    "offset_hex": "0x1256700",
+    "max_bytes": 11,
+    "original_en": "Larva",
+    "translation_vi": ""
+  },
+  {
+    "dex": 825,
+    "offset_hex": "0x1256720",
+    "max_bytes": 11,
+    "original_en": "Radome",
+    "translation_vi": ""
+  },
+  {
+    "dex": 826,
+    "offset_hex": "0x1256740",
+    "max_bytes": 11,
+    "original_en": "Seven Spot",
+    "translation_vi": ""
+  },
+  {
+    "dex": 827,
+    "offset_hex": "0x1256760",
+    "max_bytes": 11,
+    "original_en": "Fox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 828,
+    "offset_hex": "0x1256780",
+    "max_bytes": 11,
+    "original_en": "Fox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 829,
+    "offset_hex": "0x12567a0",
+    "max_bytes": 11,
+    "original_en": "Flowering",
+    "translation_vi": ""
+  },
+  {
+    "dex": 830,
+    "offset_hex": "0x12567c0",
+    "max_bytes": 11,
+    "original_en": "CottonBloom",
+    "translation_vi": ""
+  },
+  {
+    "dex": 831,
+    "offset_hex": "0x12567e0",
+    "max_bytes": 11,
+    "original_en": "Sheep",
+    "translation_vi": ""
+  },
+  {
+    "dex": 832,
+    "offset_hex": "0x1256800",
+    "max_bytes": 11,
+    "original_en": "Sheep",
+    "translation_vi": ""
+  },
+  {
+    "dex": 833,
+    "offset_hex": "0x1256820",
+    "max_bytes": 11,
+    "original_en": "Snapping",
+    "translation_vi": ""
+  },
+  {
+    "dex": 834,
+    "offset_hex": "0x1256840",
+    "max_bytes": 11,
+    "original_en": "Bite",
+    "translation_vi": ""
+  },
+  {
+    "dex": 835,
+    "offset_hex": "0x1256860",
+    "max_bytes": 11,
+    "original_en": "Puppy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 836,
+    "offset_hex": "0x1256880",
+    "max_bytes": 11,
+    "original_en": "Dog",
+    "translation_vi": ""
+  },
+  {
+    "dex": 837,
+    "offset_hex": "0x12568a0",
+    "max_bytes": 11,
+    "original_en": "Coal",
+    "translation_vi": ""
+  },
+  {
+    "dex": 838,
+    "offset_hex": "0x12568c0",
+    "max_bytes": 11,
+    "original_en": "Coal",
+    "translation_vi": ""
+  },
+  {
+    "dex": 839,
+    "offset_hex": "0x12568e0",
+    "max_bytes": 11,
+    "original_en": "Coal",
+    "translation_vi": ""
+  },
+  {
+    "dex": 840,
+    "offset_hex": "0x1256900",
+    "max_bytes": 11,
+    "original_en": "Apple Core",
+    "translation_vi": ""
+  },
+  {
+    "dex": 841,
+    "offset_hex": "0x1256920",
+    "max_bytes": 11,
+    "original_en": "Apple Wing",
+    "translation_vi": ""
+  },
+  {
+    "dex": 842,
+    "offset_hex": "0x1256940",
+    "max_bytes": 11,
+    "original_en": "AppleNectar",
+    "translation_vi": ""
+  },
+  {
+    "dex": 843,
+    "offset_hex": "0x1256960",
+    "max_bytes": 11,
+    "original_en": "Sand Snake",
+    "translation_vi": ""
+  },
+  {
+    "dex": 844,
+    "offset_hex": "0x1256980",
+    "max_bytes": 11,
+    "original_en": "Sand Snake",
+    "translation_vi": ""
+  },
+  {
+    "dex": 845,
+    "offset_hex": "0x12569a0",
+    "max_bytes": 11,
+    "original_en": "Gulp",
+    "translation_vi": ""
+  },
+  {
+    "dex": 846,
+    "offset_hex": "0x12569c0",
+    "max_bytes": 11,
+    "original_en": "Rush",
+    "translation_vi": ""
+  },
+  {
+    "dex": 847,
+    "offset_hex": "0x12569e0",
+    "max_bytes": 11,
+    "original_en": "Skewer",
+    "translation_vi": ""
+  },
+  {
+    "dex": 848,
+    "offset_hex": "0x1256a00",
+    "max_bytes": 11,
+    "original_en": "Baby",
+    "translation_vi": ""
+  },
+  {
+    "dex": 849,
+    "offset_hex": "0x1256a20",
+    "max_bytes": 11,
+    "original_en": "Punk",
+    "translation_vi": ""
+  },
+  {
+    "dex": 850,
+    "offset_hex": "0x1256a40",
+    "max_bytes": 11,
+    "original_en": "Radiator",
+    "translation_vi": ""
+  },
+  {
+    "dex": 851,
+    "offset_hex": "0x1256a60",
+    "max_bytes": 11,
+    "original_en": "Radiator",
+    "translation_vi": ""
+  },
+  {
+    "dex": 852,
+    "offset_hex": "0x1256a80",
+    "max_bytes": 11,
+    "original_en": "Tantrum",
+    "translation_vi": ""
+  },
+  {
+    "dex": 853,
+    "offset_hex": "0x1256aa0",
+    "max_bytes": 11,
+    "original_en": "Jujitsu",
+    "translation_vi": ""
+  },
+  {
+    "dex": 854,
+    "offset_hex": "0x1256ac0",
+    "max_bytes": 11,
+    "original_en": "Black Tea",
+    "translation_vi": ""
+  },
+  {
+    "dex": 855,
+    "offset_hex": "0x1256ae0",
+    "max_bytes": 11,
+    "original_en": "Black Tea",
+    "translation_vi": ""
+  },
+  {
+    "dex": 856,
+    "offset_hex": "0x1256b00",
+    "max_bytes": 11,
+    "original_en": "Calm",
+    "translation_vi": ""
+  },
+  {
+    "dex": 857,
+    "offset_hex": "0x1256b20",
+    "max_bytes": 11,
+    "original_en": "Serene",
+    "translation_vi": ""
+  },
+  {
+    "dex": 858,
+    "offset_hex": "0x1256b40",
+    "max_bytes": 11,
+    "original_en": "Silent",
+    "translation_vi": ""
+  },
+  {
+    "dex": 859,
+    "offset_hex": "0x1256b60",
+    "max_bytes": 11,
+    "original_en": "Willy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 860,
+    "offset_hex": "0x1256b80",
+    "max_bytes": 11,
+    "original_en": "Devious",
+    "translation_vi": ""
+  },
+  {
+    "dex": 861,
+    "offset_hex": "0x1256ba0",
+    "max_bytes": 11,
+    "original_en": "Bulk Up",
+    "translation_vi": ""
+  },
+  {
+    "dex": 862,
+    "offset_hex": "0x1256bc0",
+    "max_bytes": 11,
+    "original_en": "Blocking",
+    "translation_vi": ""
+  },
+  {
+    "dex": 863,
+    "offset_hex": "0x1256be0",
+    "max_bytes": 11,
+    "original_en": "Viking",
+    "translation_vi": ""
+  },
+  {
+    "dex": 864,
+    "offset_hex": "0x1256c00",
+    "max_bytes": 11,
+    "original_en": "Coral",
+    "translation_vi": ""
+  },
+  {
+    "dex": 865,
+    "offset_hex": "0x1256c20",
+    "max_bytes": 11,
+    "original_en": "Wild Duck",
+    "translation_vi": ""
+  },
+  {
+    "dex": 866,
+    "offset_hex": "0x1256c40",
+    "max_bytes": 11,
+    "original_en": "Comedian",
+    "translation_vi": ""
+  },
+  {
+    "dex": 867,
+    "offset_hex": "0x1256c60",
+    "max_bytes": 11,
+    "original_en": "Grudge",
+    "translation_vi": ""
+  },
+  {
+    "dex": 868,
+    "offset_hex": "0x1256c80",
+    "max_bytes": 11,
+    "original_en": "Cream",
+    "translation_vi": ""
+  },
+  {
+    "dex": 869,
+    "offset_hex": "0x1256ca0",
+    "max_bytes": 11,
+    "original_en": "Cream",
+    "translation_vi": ""
+  },
+  {
+    "dex": 870,
+    "offset_hex": "0x1256cc0",
+    "max_bytes": 11,
+    "original_en": "Formation",
+    "translation_vi": ""
+  },
+  {
+    "dex": 871,
+    "offset_hex": "0x1256ce0",
+    "max_bytes": 11,
+    "original_en": "Sea Urchin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 872,
+    "offset_hex": "0x1256d00",
+    "max_bytes": 11,
+    "original_en": "Worm",
+    "translation_vi": ""
+  },
+  {
+    "dex": 873,
+    "offset_hex": "0x1256d20",
+    "max_bytes": 11,
+    "original_en": "Frost Moth",
+    "translation_vi": ""
+  },
+  {
+    "dex": 874,
+    "offset_hex": "0x1256d40",
+    "max_bytes": 11,
+    "original_en": "Big Rock",
+    "translation_vi": ""
+  },
+  {
+    "dex": 875,
+    "offset_hex": "0x1256d60",
+    "max_bytes": 11,
+    "original_en": "Penguin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 876,
+    "offset_hex": "0x1256d80",
+    "max_bytes": 11,
+    "original_en": "Emotion",
+    "translation_vi": ""
+  },
+  {
+    "dex": 877,
+    "offset_hex": "0x1256da0",
+    "max_bytes": 11,
+    "original_en": "Two-Sided",
+    "translation_vi": ""
+  },
+  {
+    "dex": 878,
+    "offset_hex": "0x1256dc0",
+    "max_bytes": 11,
+    "original_en": "Copperderm",
+    "translation_vi": ""
+  },
+  {
+    "dex": 879,
+    "offset_hex": "0x1256de0",
+    "max_bytes": 11,
+    "original_en": "Copperderm",
+    "translation_vi": ""
+  },
+  {
+    "dex": 880,
+    "offset_hex": "0x1256e00",
+    "max_bytes": 11,
+    "original_en": "Fossil",
+    "translation_vi": ""
+  },
+  {
+    "dex": 881,
+    "offset_hex": "0x1256e20",
+    "max_bytes": 11,
+    "original_en": "Fossil",
+    "translation_vi": ""
+  },
+  {
+    "dex": 882,
+    "offset_hex": "0x1256e40",
+    "max_bytes": 11,
+    "original_en": "Fossil",
+    "translation_vi": ""
+  },
+  {
+    "dex": 883,
+    "offset_hex": "0x1256e60",
+    "max_bytes": 11,
+    "original_en": "Fossil",
+    "translation_vi": ""
+  },
+  {
+    "dex": 884,
+    "offset_hex": "0x1256e80",
+    "max_bytes": 11,
+    "original_en": "Alloy",
+    "translation_vi": ""
+  },
+  {
+    "dex": 885,
+    "offset_hex": "0x1256ea0",
+    "max_bytes": 11,
+    "original_en": "Lingering",
+    "translation_vi": ""
+  },
+  {
+    "dex": 886,
+    "offset_hex": "0x1256ec0",
+    "max_bytes": 11,
+    "original_en": "Caretaker",
+    "translation_vi": ""
+  },
+  {
+    "dex": 887,
+    "offset_hex": "0x1256ee0",
+    "max_bytes": 11,
+    "original_en": "Stealth",
+    "translation_vi": ""
+  },
+  {
+    "dex": 888,
+    "offset_hex": "0x1256f00",
+    "max_bytes": 11,
+    "original_en": "Warrior",
+    "translation_vi": ""
+  },
+  {
+    "dex": 889,
+    "offset_hex": "0x1256f20",
+    "max_bytes": 11,
+    "original_en": "Warrior",
+    "translation_vi": ""
+  },
+  {
+    "dex": 890,
+    "offset_hex": "0x1256f40",
+    "max_bytes": 11,
+    "original_en": "Gigantic",
+    "translation_vi": ""
+  },
+  {
+    "dex": 891,
+    "offset_hex": "0x1256f60",
+    "max_bytes": 11,
+    "original_en": "Wushu",
+    "translation_vi": ""
+  },
+  {
+    "dex": 892,
+    "offset_hex": "0x1256f80",
+    "max_bytes": 11,
+    "original_en": "Wushu",
+    "translation_vi": ""
+  },
+  {
+    "dex": 893,
+    "offset_hex": "0x1256fa0",
+    "max_bytes": 11,
+    "original_en": "RogueMonkey",
+    "translation_vi": ""
+  },
+  {
+    "dex": 894,
+    "offset_hex": "0x1256fc0",
+    "max_bytes": 11,
+    "original_en": "Electron",
+    "translation_vi": ""
+  },
+  {
+    "dex": 895,
+    "offset_hex": "0x1256fe0",
+    "max_bytes": 11,
+    "original_en": "Dragon Orb",
+    "translation_vi": ""
+  },
+  {
+    "dex": 896,
+    "offset_hex": "0x1257000",
+    "max_bytes": 11,
+    "original_en": "Wild Horse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 897,
+    "offset_hex": "0x1257020",
+    "max_bytes": 11,
+    "original_en": "Swift Horse",
+    "translation_vi": ""
+  },
+  {
+    "dex": 898,
+    "offset_hex": "0x1257040",
+    "max_bytes": 11,
+    "original_en": "King",
+    "translation_vi": ""
+  },
+  {
+    "dex": 899,
+    "offset_hex": "0x1257060",
+    "max_bytes": 11,
+    "original_en": "Big Horn",
+    "translation_vi": ""
+  },
+  {
+    "dex": 900,
+    "offset_hex": "0x1257080",
+    "max_bytes": 11,
+    "original_en": "Axe",
+    "translation_vi": ""
+  },
+  {
+    "dex": 901,
+    "offset_hex": "0x12570a0",
+    "max_bytes": 11,
+    "original_en": "Peat",
+    "translation_vi": ""
+  },
+  {
+    "dex": 902,
+    "offset_hex": "0x12570c0",
+    "max_bytes": 11,
+    "original_en": "Big Fish",
+    "translation_vi": ""
+  },
+  {
+    "dex": 903,
+    "offset_hex": "0x12570e0",
+    "max_bytes": 11,
+    "original_en": "Free Climb",
+    "translation_vi": ""
+  },
+  {
+    "dex": 904,
+    "offset_hex": "0x1257100",
+    "max_bytes": 11,
+    "original_en": "Pin Cluster",
+    "translation_vi": ""
+  },
+  {
+    "dex": 905,
+    "offset_hex": "0x1257120",
+    "max_bytes": 11,
+    "original_en": "Love-Hate",
+    "translation_vi": ""
+  },
+  {
+    "dex": 906,
+    "offset_hex": "0x1257140",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 907,
+    "offset_hex": "0x1257160",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 908,
+    "offset_hex": "0x1257180",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 909,
+    "offset_hex": "0x12571a0",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 910,
+    "offset_hex": "0x12571c0",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 911,
+    "offset_hex": "0x12571e0",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 912,
+    "offset_hex": "0x1257200",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 913,
+    "offset_hex": "0x1257220",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 914,
+    "offset_hex": "0x1257240",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 915,
+    "offset_hex": "0x1257260",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 916,
+    "offset_hex": "0x1257280",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 917,
+    "offset_hex": "0x12572a0",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 918,
+    "offset_hex": "0x12572c0",
+    "max_bytes": 11,
+    "original_en": "Ice Fin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 919,
+    "offset_hex": "0x12572e0",
+    "max_bytes": 11,
+    "original_en": "Ice Fin",
+    "translation_vi": ""
+  },
+  {
+    "dex": 920,
+    "offset_hex": "0x1257300",
+    "max_bytes": 11,
+    "original_en": "Ice Dragon",
+    "translation_vi": ""
+  },
+  {
+    "dex": 921,
+    "offset_hex": "0x1257320",
+    "max_bytes": 11,
+    "original_en": "Ruinous",
+    "translation_vi": ""
+  },
+  {
+    "dex": 922,
+    "offset_hex": "0x1257340",
+    "max_bytes": 11,
+    "original_en": "Ruinous",
+    "translation_vi": ""
+  },
+  {
+    "dex": 923,
+    "offset_hex": "0x1257360",
+    "max_bytes": 11,
+    "original_en": "Ruinous",
+    "translation_vi": ""
+  },
+  {
+    "dex": 924,
+    "offset_hex": "0x1257380",
+    "max_bytes": 11,
+    "original_en": "Ruinous",
+    "translation_vi": ""
+  },
+  {
+    "dex": 925,
+    "offset_hex": "0x12573a0",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 926,
+    "offset_hex": "0x12573c0",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 927,
+    "offset_hex": "0x12573e0",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 928,
+    "offset_hex": "0x1257400",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 929,
+    "offset_hex": "0x1257420",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 930,
+    "offset_hex": "0x1257440",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 931,
+    "offset_hex": "0x1257460",
+    "max_bytes": 11,
+    "original_en": "Retainer",
+    "translation_vi": ""
+  },
+  {
+    "dex": 932,
+    "offset_hex": "0x1257480",
+    "max_bytes": 11,
+    "original_en": "Retainer",
+    "translation_vi": ""
+  },
+  {
+    "dex": 933,
+    "offset_hex": "0x12574a0",
+    "max_bytes": 11,
+    "original_en": "Retainer",
+    "translation_vi": ""
+  },
+  {
+    "dex": 934,
+    "offset_hex": "0x12574c0",
+    "max_bytes": 11,
+    "original_en": "Mask",
+    "translation_vi": ""
+  },
+  {
+    "dex": 935,
+    "offset_hex": "0x12574e0",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 936,
+    "offset_hex": "0x1257500",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 937,
+    "offset_hex": "0x1257520",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 938,
+    "offset_hex": "0x1257540",
+    "max_bytes": 11,
+    "original_en": "Paradox",
+    "translation_vi": ""
+  },
+  {
+    "dex": 939,
+    "offset_hex": "0x1257560",
+    "max_bytes": 11,
+    "original_en": "Tera",
+    "translation_vi": ""
+  },
+  {
+    "dex": 940,
+    "offset_hex": "0x1257580",
+    "max_bytes": 11,
+    "original_en": "Subjugation",
+    "translation_vi": ""
+  },
+  {
+    "dex": 941,
+    "offset_hex": "0x12575a0",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 942,
+    "offset_hex": "0x12575c0",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 943,
+    "offset_hex": "0x12575e0",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 944,
+    "offset_hex": "0x1257600",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 945,
+    "offset_hex": "0x1257620",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 946,
+    "offset_hex": "0x1257640",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 947,
+    "offset_hex": "0x1257660",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 948,
+    "offset_hex": "0x1257680",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 949,
+    "offset_hex": "0x12576a0",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 950,
+    "offset_hex": "0x12576c0",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 951,
+    "offset_hex": "0x12576e0",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 952,
+    "offset_hex": "0x1257700",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 953,
+    "offset_hex": "0x1257720",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 954,
+    "offset_hex": "0x1257740",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 955,
+    "offset_hex": "0x1257760",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 956,
+    "offset_hex": "0x1257780",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 957,
+    "offset_hex": "0x12577a0",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 958,
+    "offset_hex": "0x12577c0",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  },
+  {
+    "dex": 959,
+    "offset_hex": "0x12577e0",
+    "max_bytes": 11,
+    "original_en": "Seed",
+    "translation_vi": ""
+  }
+]

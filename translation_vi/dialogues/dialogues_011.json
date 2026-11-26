@@ -1,0 +1,7214 @@
+[
+  {
+    "id": "D04401",
+    "offset_hex": "0x298b9a",
+    "pointer_hex": "0x8298b9a",
+    "original_en": "For thirty years I have searched for\\nancient ruins!\\pNo, wait, was that forty years?\\nWhich was it now?",
+    "translation_vi": "Ba mươi năm nay tôi tìm kiếm tàn tích cổ! ¶ Không, khoan, hay là bốn mươi năm? Là bao nhiêu nhỉ?",
+    "byte_len": 101,
+    "refs": [
+      {
+        "at": "0x1f1284",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04402",
+    "offset_hex": "0x298c00",
+    "pointer_hex": "0x8298c00",
+    "original_en": "I haven't been searching for any\\ntough Pokémon.\\pBut, for some reason, I sure do like\\nPokénavs.",
+    "translation_vi": "Tôi đâu có tìm Pokémon mạnh nào. ¶ Nhưng chẳng hiểu sao tôi lại rất thích PokéNav.",
+    "byte_len": 94,
+    "refs": [
+      {
+        "at": "0x1f1294",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04403",
+    "offset_hex": "0x298c5f",
+    "pointer_hex": "0x8298c5f",
+    "original_en": "For thirty years I have searched for\\nancient ruins!\\pNo, wait, was that forty years?\\nAnyway, am I to be challenged?",
+    "translation_vi": "Ba mươi năm nay tôi tìm kiếm tàn tích cổ! ¶ Không, khoan, hay bốn mươi năm? Mà cậu muốn thách đấu tôi à?",
+    "byte_len": 114,
+    "refs": [
+      {
+        "at": "0x1f12b1",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04404",
+    "offset_hex": "0x298cd2",
+    "pointer_hex": "0x8298cd2",
+    "original_en": "I've found no ruins, nor have I found\\nany strong Pokémon…",
+    "translation_vi": "Tôi chẳng tìm thấy tàn tích nào, cũng chẳng thấy Pokémon mạnh nào…",
+    "byte_len": 57,
+    "refs": [
+      {
+        "at": "0x1f12b5",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04405",
+    "offset_hex": "0x298d0c",
+    "pointer_hex": "0x8298d0c",
+    "original_en": "For thirty years I have searched for\\nancient ruins!\\pNo, wait, was that forty years\\nI've searched?\\pHmm… It could even be fifty…\\nHow long have I been at this?",
+    "translation_vi": "Ba mươi năm nay tôi tìm kiếm tàn tích cổ! ¶ Không, khoan, hay là bốn mươi năm nhỉ? ¶ Hừm… Có khi năm mươi năm… Mình làm việc này bao lâu rồi?",
+    "byte_len": 156,
+    "refs": [
+      {
+        "at": "0x1f12bb",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04406",
+    "offset_hex": "0x298da9",
+    "pointer_hex": "0x8298da9",
+    "original_en": "I'm full of pep!\\nAnd my Pokémon is peppy, too!",
+    "translation_vi": "Tôi tràn đầy năng lượng! Pokémon của tôi cũng vậy!",
+    "byte_len": 46,
+    "refs": [
+      {
+        "at": "0x1f12c8",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04407",
+    "offset_hex": "0x298dd8",
+    "pointer_hex": "0x8298dd8",
+    "original_en": "My Pokémon lost its pep…",
+    "translation_vi": "Pokémon của tôi hết năng lượng rồi…",
+    "byte_len": 24,
+    "refs": [
+      {
+        "at": "0x1f12cc",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04408",
+    "offset_hex": "0x298df1",
+    "pointer_hex": "0x8298df1",
+    "original_en": "When I see a Trainer with a lot of pep,\\nI can't help looking.",
+    "translation_vi": "Thấy Huấn luyện viên nào tràn đầy năng lượng là tôi không thể rời mắt.",
+    "byte_len": 61,
+    "refs": [
+      {
+        "at": "0x1f12d2",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04409",
+    "offset_hex": "0x298e2f",
+    "pointer_hex": "0x8298e2f",
+    "original_en": "I don't know where you're going,\\nbut would you like to battle?",
+    "translation_vi": "Tôi không biết cậu đi đâu, nhưng đấu một trận chứ?",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x1f12df",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04410",
+    "offset_hex": "0x298e6e",
+    "pointer_hex": "0x8298e6e",
+    "original_en": "Oh, you're disgustingly good!",
+    "translation_vi": "Ồ, cậu giỏi phát ghét!",
+    "byte_len": 29,
+    "refs": [
+      {
+        "at": "0x1f12e3",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04411",
+    "offset_hex": "0x298e8c",
+    "pointer_hex": "0x8298e8c",
+    "original_en": "I'm thinking that I should go to\\nMt. Chimney, but the view around\\lhere is very nice, too.",
+    "translation_vi": "Tôi định lên Mt. Chimney, nhưng cảnh quanh đây cũng đẹp quá.",
+    "byte_len": 89,
+    "refs": [
+      {
+        "at": "0x1f12e9",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04412",
+    "offset_hex": "0x298ee6",
+    "pointer_hex": "0x8298ee6",
+    "original_en": "To train myself, I challenge all\\nwhom I meet!",
+    "translation_vi": "Để rèn luyện, tôi thách đấu mọi người tôi gặp!",
+    "byte_len": 45,
+    "refs": [
+      {
+        "at": "0x1f12f6",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04413",
+    "offset_hex": "0x298f14",
+    "pointer_hex": "0x8298f14",
+    "original_en": "Uncle! I give up!",
+    "translation_vi": "Thôi! Tôi chịu thua!",
+    "byte_len": 17,
+    "refs": [
+      {
+        "at": "0x1f12fa",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04414",
+    "offset_hex": "0x298f26",
+    "pointer_hex": "0x8298f26",
+    "original_en": "All I can do is keep training until\\nI can defeat strong Trainers such\\las yourself.",
+    "translation_vi": "Tôi chỉ có thể tiếp tục rèn luyện đến khi thắng được những HLV mạnh như cậu.",
+    "byte_len": 82,
+    "refs": [
+      {
+        "at": "0x1f1300",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04415",
+    "offset_hex": "0x298f79",
+    "pointer_hex": "0x8298f79",
+    "original_en": "Show me how much you've toughened\\nyour Pokémon.",
+    "translation_vi": "Cho tôi xem cậu đã rèn Pokémon cứng cáp đến đâu.",
+    "byte_len": 47,
+    "refs": [
+      {
+        "at": "0x1f130d",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04416",
+    "offset_hex": "0x298fa9",
+    "pointer_hex": "0x8298fa9",
+    "original_en": "I see, you've toughened them\\nconsiderably.",
+    "translation_vi": "Ra vậy, cậu rèn chúng rất kỹ.",
+    "byte_len": 42,
+    "refs": [
+      {
+        "at": "0x1f1311",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04417",
+    "offset_hex": "0x298fd4",
+    "pointer_hex": "0x8298fd4",
+    "original_en": "Pokémon and Trainers learn much\\nthrough battling.\\pWhat's important is to never give up\\neven if you lose.",
+    "translation_vi": "Pokémon và HLV học được nhiều qua các trận đấu. ¶ Quan trọng là đừng bao giờ bỏ cuộc dù có thua.",
+    "byte_len": 104,
+    "refs": [
+      {
+        "at": "0x1f132b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04418",
+    "offset_hex": "0x29903d",
+    "pointer_hex": "0x829903d",
+    "original_en": "There is much to be learned from\\nyour training style.\\pI request a rematch if it\\nbehooves you.",
+    "translation_vi": "Cách luyện tập của cậu có nhiều điều đáng học. ¶ Nếu được, xin cậu đấu lại với tôi.",
+    "byte_len": 93,
+    "refs": [
+      {
+        "at": "0x1f133b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04419",
+    "offset_hex": "0x29909b",
+    "pointer_hex": "0x829909b",
+    "original_en": "We're training here to elevate our\\ngame to the next level.\\lStay and train with us!",
+    "translation_vi": "Bọn tôi luyện tập ở đây để nâng tầm bản thân. Ở lại luyện cùng nhé!",
+    "byte_len": 82,
+    "refs": [
+      {
+        "at": "0x1f1358",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04420",
+    "offset_hex": "0x2990ee",
+    "pointer_hex": "0x82990ee",
+    "original_en": "Ooh, you're decent!",
+    "translation_vi": "Ồ, cậu khá đấy!",
+    "byte_len": 19,
+    "refs": [
+      {
+        "at": "0x1f135c",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04421",
+    "offset_hex": "0x299102",
+    "pointer_hex": "0x8299102",
+    "original_en": "Since you're that strong, you should\\naim for the Pokémon League.",
+    "translation_vi": "Mạnh thế thì cậu nên nhắm tới Liên đoàn Pokémon.",
+    "byte_len": 64,
+    "refs": [
+      {
+        "at": "0x1f1362",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04422",
+    "offset_hex": "0x299143",
+    "pointer_hex": "0x8299143",
+    "original_en": "Oh, your Pokémon look like serious\\nactors.\\lI have to ask you for an engagement.",
+    "translation_vi": "Ồ, Pokémon của cậu trông như diễn viên thực thụ. Tôi phải mời cậu một vai mới được.",
+    "byte_len": 79,
+    "refs": [
+      {
+        "at": "0x1f136f",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04423",
+    "offset_hex": "0x299193",
+    "pointer_hex": "0x8299193",
+    "original_en": "They didn't just look strong,\\nthey are strong!",
+    "translation_vi": "Chúng không chỉ trông mạnh, mà mạnh thật!",
+    "byte_len": 46,
+    "refs": [
+      {
+        "at": "0x1f1373",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04424",
+    "offset_hex": "0x2991c2",
+    "pointer_hex": "0x82991c2",
+    "original_en": "I thought I was raising my Pokémon\\ndiligently, but, oh no, there is still\\lmuch to be done.",
+    "translation_vi": "Tôi tưởng mình nuôi Pokémon chăm chỉ lắm, nhưng ôi, vẫn còn nhiều việc phải làm.",
+    "byte_len": 90,
+    "refs": [
+      {
+        "at": "0x1f138d",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04425",
+    "offset_hex": "0x29921d",
+    "pointer_hex": "0x829921d",
+    "original_en": "I wish I could become friends with\\nmore strong people like you!",
+    "translation_vi": "Ước gì tôi được làm bạn với nhiều người mạnh như cậu!",
+    "byte_len": 63,
+    "refs": [
+      {
+        "at": "0x1f139d",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04426",
+    "offset_hex": "0x29925d",
+    "pointer_hex": "0x829925d",
+    "original_en": "You can make Pokémon stronger or\\nweaker depending on the moves you\\lteach them.\\pWhat kinds of moves do your Pokémon\\nknow?",
+    "translation_vi": "Pokémon có thể mạnh hơn hay yếu đi tùy vào chiêu thức cậu dạy. ¶ Pokémon của cậu biết những chiêu gì?",
+    "byte_len": 120,
+    "refs": [
+      {
+        "at": "0x1f13ba",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04427",
+    "offset_hex": "0x2992d6",
+    "pointer_hex": "0x82992d6",
+    "original_en": "You've taught them good moves!",
+    "translation_vi": "Cậu dạy chúng chiêu hay đấy!",
+    "byte_len": 30,
+    "refs": [
+      {
+        "at": "0x1f13be",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04428",
+    "offset_hex": "0x2992f5",
+    "pointer_hex": "0x82992f5",
+    "original_en": "Maybe I should have stopped my\\nPokémon from evolving until they\\llearned better moves…",
+    "translation_vi": "Lẽ ra tôi nên ngăn Pokémon tiến hóa đến khi chúng học được chiêu tốt hơn…",
+    "byte_len": 85,
+    "refs": [
+      {
+        "at": "0x1f13c4",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04429",
+    "offset_hex": "0x29934b",
+    "pointer_hex": "0x829934b",
+    "original_en": "I shouldn't have come to a place like\\nthis for a picnic!",
+    "translation_vi": "Lẽ ra mình không nên đi dã ngoại ở chỗ thế này!",
+    "byte_len": 56,
+    "refs": [
+      {
+        "at": "0x1f142d",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04430",
+    "offset_hex": "0x299384",
+    "pointer_hex": "0x8299384",
+    "original_en": "Aww!\\nI really shouldn't have come!",
+    "translation_vi": "Ôi! Đáng lẽ mình không nên đến!",
+    "byte_len": 34,
+    "refs": [
+      {
+        "at": "0x1f1431",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04431",
+    "offset_hex": "0x2993a7",
+    "pointer_hex": "0x82993a7",
+    "original_en": "In a sandstorm like this, I can't set\\nthe places for a picnic even with my\\lGo-Goggles on…",
+    "translation_vi": "Bão cát thế này, dù đeo Go-Goggles tớ cũng không bày đồ dã ngoại được…",
+    "byte_len": 89,
+    "refs": [
+      {
+        "at": "0x1f1437",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04432",
+    "offset_hex": "0x299401",
+    "pointer_hex": "0x8299401",
+    "original_en": "How tough are you?\\nWe shall expose that secret!",
+    "translation_vi": "Cậu mạnh cỡ nào? Ta sẽ vạch trần bí mật đó!",
+    "byte_len": 47,
+    "refs": [
+      {
+        "at": "0x1f1444",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04433",
+    "offset_hex": "0x299431",
+    "pointer_hex": "0x8299431",
+    "original_en": "Oh! Your strength!\\nIt is shrouded in mystery!",
+    "translation_vi": "Ồ! Sức mạnh của cậu! Bị che phủ trong bí ẩn!",
+    "byte_len": 45,
+    "refs": [
+      {
+        "at": "0x1f1448",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04434",
+    "offset_hex": "0x29945f",
+    "pointer_hex": "0x829945f",
+    "original_en": "This desert hoards mysteries in\\nits shifting sands!",
+    "translation_vi": "Sa mạc này cất giấu bí ẩn trong lớp cát di động!",
+    "byte_len": 51,
+    "refs": [
+      {
+        "at": "0x1f144e",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04435",
+    "offset_hex": "0x299493",
+    "pointer_hex": "0x8299493",
+    "original_en": "I'll give you some of my sandwich\\nif you'll lose.",
+    "translation_vi": "Cậu chịu thua thì tớ chia cho ít sandwich.",
+    "byte_len": 49,
+    "refs": [
+      {
+        "at": "0x1f145b",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04436",
+    "offset_hex": "0x2994c5",
+    "pointer_hex": "0x82994c5",
+    "original_en": "Tch! I thought a sandwich would be\\nenough of a bribe…",
+    "translation_vi": "Chậc! Tưởng một miếng sandwich là đủ để hối lộ chứ…",
+    "byte_len": 53,
+    "refs": [
+      {
+        "at": "0x1f145f",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04437",
+    "offset_hex": "0x2994fb",
+    "pointer_hex": "0x82994fb",
+    "original_en": "My Vikavolt loves eating\\nmy sandwiches.",
+    "translation_vi": "Vikavolt của tớ mê sandwich tớ làm lắm.",
+    "byte_len": 39,
+    "refs": [
+      {
+        "at": "0x1f1465",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04438",
+    "offset_hex": "0x299524",
+    "pointer_hex": "0x8299524",
+    "original_en": "This is my favorite kind of Pokémon!",
+    "translation_vi": "Đây là loại Pokémon tớ thích nhất!",
+    "byte_len": 36,
+    "refs": [
+      {
+        "at": "0x1f13ff",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04439",
+    "offset_hex": "0x299549",
+    "pointer_hex": "0x8299549",
+    "original_en": "Wait!\\nDid you get a good look at my Pokémon?",
+    "translation_vi": "Khoan! Cậu đã nhìn kỹ Pokémon của tớ chưa?",
+    "byte_len": 44,
+    "refs": [
+      {
+        "at": "0x1f1403",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04440",
+    "offset_hex": "0x299576",
+    "pointer_hex": "0x8299576",
+    "original_en": "When having a battle, I get a kick out\\nof showing off my Pokémon.\\pI bet everyone feels that way when\\nthey enter a battle!",
+    "translation_vi": "Khi đấu, tớ rất khoái khoe Pokémon của mình. ¶ Chắc ai vào trận cũng thấy thế!",
+    "byte_len": 121,
+    "refs": [
+      {
+        "at": "0x1f1409",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04441",
+    "offset_hex": "0x2995f0",
+    "pointer_hex": "0x82995f0",
+    "original_en": "Show me how to put a little excitement\\ninto my life.",
+    "translation_vi": "Cho tôi thấy cách thêm chút kích thích vào cuộc đời đi.",
+    "byte_len": 52,
+    "refs": [
+      {
+        "at": "0x1f1416",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04442",
+    "offset_hex": "0x299625",
+    "pointer_hex": "0x8299625",
+    "original_en": "Oh… My…\\nThat was too much excitement.",
+    "translation_vi": "Ôi… Trời… Kích thích quá mức rồi.",
+    "byte_len": 37,
+    "refs": [
+      {
+        "at": "0x1f141a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04443",
+    "offset_hex": "0x29964b",
+    "pointer_hex": "0x829964b",
+    "original_en": "My pulse is still racing.\\nYou're one fabulous Trainer.",
+    "translation_vi": "Tim tôi vẫn còn đập thình thịch. Cậu là HLV tuyệt vời.",
+    "byte_len": 54,
+    "refs": [
+      {
+        "at": "0x1f1420",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04444",
+    "offset_hex": "0x299682",
+    "pointer_hex": "0x8299682",
+    "original_en": "When you're as famished as I am,\\nthere is no room for pity!",
+    "translation_vi": "Khi đói như tôi thì chẳng còn chỗ cho lòng thương hại!",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x1f13d1",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04445",
+    "offset_hex": "0x2996be",
+    "pointer_hex": "0x82996be",
+    "original_en": "Groan…",
+    "translation_vi": "Hự…",
+    "byte_len": 6,
+    "refs": [
+      {
+        "at": "0x1f13d5",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04446",
+    "offset_hex": "0x2996c5",
+    "pointer_hex": "0x82996c5",
+    "original_en": "My stomach is grumbling!\\nMaybe I can grill some Berries…",
+    "translation_vi": "Bụng tôi sôi ùng ục! Có lẽ nướng ít Berry ăn…",
+    "byte_len": 56,
+    "refs": [
+      {
+        "at": "0x1f13db",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04447",
+    "offset_hex": "0x2996fe",
+    "pointer_hex": "0x82996fe",
+    "original_en": "Did you come from Mauville?\\nThen you should be full of energy!",
+    "translation_vi": "Cậu đến từ Mauville à? Vậy chắc cậu tràn đầy sức lực!",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x1f13e8",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04448",
+    "offset_hex": "0x29973d",
+    "pointer_hex": "0x829973d",
+    "original_en": "Ooh lala!\\nThat's a lot to take!",
+    "translation_vi": "Ối chà! Khó đỡ quá!",
+    "byte_len": 31,
+    "refs": [
+      {
+        "at": "0x1f13ec",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04449",
+    "offset_hex": "0x29975d",
+    "pointer_hex": "0x829975d",
+    "original_en": "This road here…\\nYou have quite a ways to travel.",
+    "translation_vi": "Con đường này… Cậu còn phải đi xa lắm đấy.",
+    "byte_len": 48,
+    "refs": [
+      {
+        "at": "0x1f13f2",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 111 (0.26)"
+    ]
+  },
+  {
+    "id": "D04450",
+    "offset_hex": "0x29978e",
+    "pointer_hex": "0x829978e",
+    "original_en": "Hahahaha!\\nHow about we have a battle?\\lYou and me!\\lHahahaha!",
+    "translation_vi": "Hahahaha! Đấu một trận nhé? Cậu với tôi! Hahahaha!",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x1f1e70",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04451",
+    "offset_hex": "0x2997ca",
+    "pointer_hex": "0x82997ca",
+    "original_en": "I lost!\\nHahahaha!",
+    "translation_vi": "Tôi thua rồi! Hahahaha!",
+    "byte_len": 17,
+    "refs": [
+      {
+        "at": "0x1f1e74",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04452",
+    "offset_hex": "0x2997dc",
+    "pointer_hex": "0x82997dc",
+    "original_en": "Hahahahaha! Something flew up my nose!\\nHahahaha-hatchoo!",
+    "translation_vi": "Hahahahaha! Có gì bay vào mũi! Hahahaha-hắt xì!",
+    "byte_len": 56,
+    "refs": [
+      {
+        "at": "0x1f1e7a",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04453",
+    "offset_hex": "0x299815",
+    "pointer_hex": "0x8299815",
+    "original_en": "My legs are solid from pounding up\\nand down the mountains.\\pThey're not going to buckle easily,\\nfriend!",
+    "translation_vi": "Chân tôi rắn chắc nhờ leo lên xuống núi. ¶ Chúng không dễ khuỵu đâu, bạn à!",
+    "byte_len": 102,
+    "refs": [
+      {
+        "at": "0x1f1e87",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04454",
+    "offset_hex": "0x29987c",
+    "pointer_hex": "0x829987c",
+    "original_en": "Ouch! My legs cramped up!",
+    "translation_vi": "Ối! Chân tôi bị chuột rút!",
+    "byte_len": 25,
+    "refs": [
+      {
+        "at": "0x1f1e8b",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04455",
+    "offset_hex": "0x299896",
+    "pointer_hex": "0x8299896",
+    "original_en": "Try hiking, and I mean really\\npounding, on these mountain trails\\lwith a heavy pack weighing dozens of\\lpounds.\\pThat, my friend, will get your body\\ninto serious shape.",
+    "translation_vi": "Thử leo núi đi, leo thật sự trên những con đường núi này với ba lô nặng hàng chục cân. ¶ Bạn à, thế mới khiến cơ thể cực kỳ săn chắc.",
+    "byte_len": 165,
+    "refs": [
+      {
+        "at": "0x1f1ea5",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04456",
+    "offset_hex": "0x29993c",
+    "pointer_hex": "0x829993c",
+    "original_en": "Ow, my legs have cramped up.\\nCan you grab me some bandages from\\lmy backpack?\\pNo, that's my Pokénav!\\nOh, fine, I'll register you.",
+    "translation_vi": "Ối, chân tôi chuột rút. Lấy giúp tôi băng gạc trong ba lô với? ¶ Không, đó là PokéNav của tôi! Thôi được, tôi lưu số cậu vậy.",
+    "byte_len": 128,
+    "refs": [
+      {
+        "at": "0x1f1eb5",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04457",
+    "offset_hex": "0x2999bd",
+    "pointer_hex": "0x82999bd",
+    "original_en": "I've been keeping fit by hiking.\\nPower, I have in spades!",
+    "translation_vi": "Tôi giữ dáng nhờ leo núi. Sức mạnh thì tôi thừa!",
+    "byte_len": 57,
+    "refs": [
+      {
+        "at": "0x1f1ed2",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04458",
+    "offset_hex": "0x2999f7",
+    "pointer_hex": "0x82999f7",
+    "original_en": "I got trumped in power?",
+    "translation_vi": "Mình bị áp đảo về sức mạnh sao?",
+    "byte_len": 23,
+    "refs": [
+      {
+        "at": "0x1f1ed6",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04459",
+    "offset_hex": "0x299a0f",
+    "pointer_hex": "0x8299a0f",
+    "original_en": "I hear there are some seriously tough\\nTrainers on top of Mt. Chimney.\\pI intend to get up there and give them\\na challenge.",
+    "translation_vi": "Nghe nói trên đỉnh Mt. Chimney có những HLV cực mạnh. ¶ Tôi định lên đó thách đấu họ.",
+    "byte_len": 121,
+    "refs": [
+      {
+        "at": "0x1f1edc",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04460",
+    "offset_hex": "0x299a89",
+    "pointer_hex": "0x8299a89",
+    "original_en": "I'm strong.\\nI won't cry if I lose.",
+    "translation_vi": "Tớ mạnh lắm. Thua tớ cũng không khóc đâu.",
+    "byte_len": 34,
+    "refs": [
+      {
+        "at": "0x1f1ee9",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04461",
+    "offset_hex": "0x299aac",
+    "pointer_hex": "0x8299aac",
+    "original_en": "Waaaah!",
+    "translation_vi": "Oaaaa!",
+    "byte_len": 7,
+    "refs": [
+      {
+        "at": "0x1f1eed",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04462",
+    "offset_hex": "0x299ab4",
+    "pointer_hex": "0x8299ab4",
+    "original_en": "I'm not crying because I miss my mommy!\\nSnivel…",
+    "translation_vi": "Tớ không khóc vì nhớ mẹ đâu nhé! Sụt sịt…",
+    "byte_len": 47,
+    "refs": [
+      {
+        "at": "0x1f1ef3",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04463",
+    "offset_hex": "0x299ae4",
+    "pointer_hex": "0x8299ae4",
+    "original_en": "When you're out on a picnic, why,\\nyou simply have to sing!\\lCome on, sing with me!",
+    "translation_vi": "Đi dã ngoại thì phải hát chứ! Nào, hát cùng tôi đi!",
+    "byte_len": 81,
+    "refs": [
+      {
+        "at": "0x1f1f00",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04464",
+    "offset_hex": "0x299b36",
+    "pointer_hex": "0x8299b36",
+    "original_en": "Oh, you're so strong!",
+    "translation_vi": "Ồ, cậu mạnh quá!",
+    "byte_len": 21,
+    "refs": [
+      {
+        "at": "0x1f1f04",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04465",
+    "offset_hex": "0x299b4c",
+    "pointer_hex": "0x8299b4c",
+    "original_en": "It doesn't matter if you're good or bad\\nat singing or Pokémon.\\pIf you have the most fun, you win!",
+    "translation_vi": "Hát hay hay dở, đấu Pokémon giỏi hay kém không quan trọng. ¶ Ai vui nhất, người đó thắng!",
+    "byte_len": 97,
+    "refs": [
+      {
+        "at": "0x1f1f0a",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04466",
+    "offset_hex": "0x299bae",
+    "pointer_hex": "0x8299bae",
+    "original_en": "I caught hot Pokémon in Fiery Path!\\nTake a look!",
+    "translation_vi": "Tôi bắt được Pokémon nóng bỏng ở Fiery Path! Xem này!",
+    "byte_len": 48,
+    "refs": [
+      {
+        "at": "0x1f1f17",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04467",
+    "offset_hex": "0x299bdf",
+    "pointer_hex": "0x8299bdf",
+    "original_en": "What a bumpy ride that was!",
+    "translation_vi": "Chuyến đi gập ghềnh thật!",
+    "byte_len": 27,
+    "refs": [
+      {
+        "at": "0x1f1f1b",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04468",
+    "offset_hex": "0x299bfb",
+    "pointer_hex": "0x8299bfb",
+    "original_en": "I like the way you battle.\\nIt has a certain flair to it.",
+    "translation_vi": "Tôi thích cách cậu đấu. Có một phong thái riêng.",
+    "byte_len": 56,
+    "refs": [
+      {
+        "at": "0x1f1f21",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04469",
+    "offset_hex": "0x299c34",
+    "pointer_hex": "0x8299c34",
+    "original_en": "Oh, aren't you an adorable Trainer!\\nPlease, I need a romantic battle!\\lI'm somewhat decent!",
+    "translation_vi": "Ôi, HLV đáng yêu quá! Làm ơn, tôi cần một trận đấu lãng mạn! Tôi cũng khá đấy!",
+    "byte_len": 90,
+    "refs": [
+      {
+        "at": "0x1f1f2e",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04470",
+    "offset_hex": "0x299c8f",
+    "pointer_hex": "0x8299c8f",
+    "original_en": "Oh, how strong you are!\\nYou've given me quite a shock!",
+    "translation_vi": "Ôi, cậu mạnh quá! Làm tôi sốc luôn!",
+    "byte_len": 54,
+    "refs": [
+      {
+        "at": "0x1f1f32",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04471",
+    "offset_hex": "0x299cc6",
+    "pointer_hex": "0x8299cc6",
+    "original_en": "Are you busy right now?\\nI was thinking that maybe we can have\\la rematch right now…\\lBut it's all right if you're busy.",
+    "translation_vi": "Giờ cậu có bận không? Tôi nghĩ ta có thể đấu lại ngay bây giờ… Nhưng cậu bận thì cũng không sao.",
+    "byte_len": 117,
+    "refs": [
+      {
+        "at": "0x1f1f38",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 112 (0.27)"
+    ]
+  },
+  {
+    "id": "D04472",
+    "offset_hex": "0x299d3c",
+    "pointer_hex": "0x8299d3c",
+    "original_en": "Can you guess why it's so cool\\naround here?",
+    "translation_vi": "Cậu đoán được vì sao quanh đây mát mẻ không?",
+    "byte_len": 43,
+    "refs": [
+      {
+        "at": "0x1f21c6",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04473",
+    "offset_hex": "0x299d68",
+    "pointer_hex": "0x8299d68",
+    "original_en": "Peeuuw!\\nThat stinks!",
+    "translation_vi": "Eo ôi! Hôi quá!",
+    "byte_len": 20,
+    "refs": [
+      {
+        "at": "0x1f21ca",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04474",
+    "offset_hex": "0x299d7d",
+    "pointer_hex": "0x8299d7d",
+    "original_en": "The volcanic ash blocks the sun,\\nso it doesn't get very warm.\\pThat's good for me--I can't stand heat!",
+    "translation_vi": "Tro núi lửa che mặt trời nên không nóng lắm. ¶ Thế lại hay cho tôi, tôi chịu nóng kém lắm!",
+    "byte_len": 101,
+    "refs": [
+      {
+        "at": "0x1f21d0",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04475",
+    "offset_hex": "0x299de3",
+    "pointer_hex": "0x8299de3",
+    "original_en": "The volcano's eruption is proof that\\nthe earth is alive.",
+    "translation_vi": "Núi lửa phun trào là bằng chứng trái đất đang sống.",
+    "byte_len": 56,
+    "refs": [
+      {
+        "at": "0x1f21dd",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04476",
+    "offset_hex": "0x299e1c",
+    "pointer_hex": "0x8299e1c",
+    "original_en": "You're some kind of strong!",
+    "translation_vi": "Cậu mạnh thật đấy!",
+    "byte_len": 27,
+    "refs": [
+      {
+        "at": "0x1f21e1",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04477",
+    "offset_hex": "0x299e38",
+    "pointer_hex": "0x8299e38",
+    "original_en": "Ouch! Owww! I can't see!\\nI got ashes in my eyelashes!\\pGet it? Ashes and eyelashes?\\pOkay, that was bad, sorry…",
+    "translation_vi": "Ối! Á! Không thấy gì cả! Tro bay vào mi mắt rồi! ¶ Hiểu không? Tro và mi mắt? ¶ Thôi, dở thật, xin lỗi…",
+    "byte_len": 109,
+    "refs": [
+      {
+        "at": "0x1f21e7",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04478",
+    "offset_hex": "0x299ea6",
+    "pointer_hex": "0x8299ea6",
+    "original_en": "I use this parasol to ward off this\\nfilthy, yucky volcanic ash from\\lmy dear Numel.",
+    "translation_vi": "Tôi dùng chiếc dù này để che tro núi lửa bẩn thỉu cho bé Numel yêu quý.",
+    "byte_len": 82,
+    "refs": [
+      {
+        "at": "0x1f21f4",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04479",
+    "offset_hex": "0x299ef9",
+    "pointer_hex": "0x8299ef9",
+    "original_en": "Huff, huff…\\nI am exhausted…",
+    "translation_vi": "Hộc, hộc… Tôi kiệt sức rồi…",
+    "byte_len": 27,
+    "refs": [
+      {
+        "at": "0x1f21f8",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04480",
+    "offset_hex": "0x299f15",
+    "pointer_hex": "0x8299f15",
+    "original_en": "You're very good at this.\\nI must say I'm impressed!",
+    "translation_vi": "Cậu giỏi thật. Phải nói là tôi rất ấn tượng!",
+    "byte_len": 51,
+    "refs": [
+      {
+        "at": "0x1f2212",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04481",
+    "offset_hex": "0x299f49",
+    "pointer_hex": "0x8299f49",
+    "original_en": "Here, slide under my parasol.\\nLet me register you in my Pokénav.",
+    "translation_vi": "Lại đây trú dưới ô của tôi này. Tôi lưu số cậu vào PokéNav nhé.",
+    "byte_len": 64,
+    "refs": [
+      {
+        "at": "0x1f2222",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04482",
+    "offset_hex": "0x299f8a",
+    "pointer_hex": "0x8299f8a",
+    "original_en": "Oh, hello, hasn't it been a while?\\nMay I invite you to battle?",
+    "translation_vi": "Ồ chào cậu, lâu rồi không gặp nhỉ? Tôi thách đấu một trận được chứ?",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x1f223f",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04483",
+    "offset_hex": "0x299fc9",
+    "pointer_hex": "0x8299fc9",
+    "original_en": "Oh, how super!",
+    "translation_vi": "Ồ, tuyệt quá!",
+    "byte_len": 14,
+    "refs": [
+      {
+        "at": "0x1f2243",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04484",
+    "offset_hex": "0x299fd8",
+    "pointer_hex": "0x8299fd8",
+    "original_en": "You've remained very good at this.\\nI must say I'm impressed!",
+    "translation_vi": "Cậu vẫn giỏi như ngày nào. Tôi thật sự rất ấn tượng!",
+    "byte_len": 60,
+    "refs": [
+      {
+        "at": "0x1f2249",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04485",
+    "offset_hex": "0x29a015",
+    "pointer_hex": "0x829a015",
+    "original_en": "From out of the ashes I leap! Hiyah!\\nI challenge thee!",
+    "translation_vi": "Từ trong tro núi lửa ta phóng ra! Hây a! Ta thách đấu ngươi!",
+    "byte_len": 54,
+    "refs": [
+      {
+        "at": "0x1f2256",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04486",
+    "offset_hex": "0x29a04c",
+    "pointer_hex": "0x829a04c",
+    "original_en": "With honor I admit defeat!",
+    "translation_vi": "Thua một cách vinh quang, ta xin chịu!",
+    "byte_len": 26,
+    "refs": [
+      {
+        "at": "0x1f225a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04487",
+    "offset_hex": "0x29a067",
+    "pointer_hex": "0x829a067",
+    "original_en": "I must refine the art of concealment.\\nI bid thee farewell.",
+    "translation_vi": "Ta phải rèn thêm thuật ẩn thân thôi. Cáo từ!",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x1f2274",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04488",
+    "offset_hex": "0x29a0a2",
+    "pointer_hex": "0x829a0a2",
+    "original_en": "Yiiyaah! Witness the ancient ninja\\ntechnique of Pokénav registration!",
+    "translation_vi": "Y da! Hãy chiêm ngưỡng nhẫn thuật cổ truyền: lưu số PokéNav!",
+    "byte_len": 69,
+    "refs": [
+      {
+        "at": "0x1f2284",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04489",
+    "offset_hex": "0x29a0e8",
+    "pointer_hex": "0x829a0e8",
+    "original_en": "From out of the ashes I leap! Hiyah!\\nI challenge thee!",
+    "translation_vi": "Từ trong tro núi lửa ta phóng ra! Hây a! Ta thách đấu ngươi!",
+    "byte_len": 54,
+    "refs": [
+      {
+        "at": "0x1f22a1",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04490",
+    "offset_hex": "0x29a11f",
+    "pointer_hex": "0x829a11f",
+    "original_en": "With honor I admit defeat!",
+    "translation_vi": "Thua một cách vinh quang, ta xin chịu!",
+    "byte_len": 26,
+    "refs": [
+      {
+        "at": "0x1f22a5",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04491",
+    "offset_hex": "0x29a13a",
+    "pointer_hex": "0x829a13a",
+    "original_en": "My flawless concealment was let down\\nby my immature battle skills…\\pI bid thee farewell.",
+    "translation_vi": "Thuật ẩn thân hoàn hảo lại bị kỹ năng đấu non nớt phá hỏng…\\pTa xin cáo từ!",
+    "byte_len": 87,
+    "refs": [
+      {
+        "at": "0x1f22ab",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04492",
+    "offset_hex": "0x29a192",
+    "pointer_hex": "0x829a192",
+    "original_en": "Thanks for finding me!\\nBut we still have to battle!",
+    "translation_vi": "Cảm ơn đã tìm ra tớ! Nhưng chúng ta vẫn phải đấu đấy!",
+    "byte_len": 51,
+    "refs": [
+      {
+        "at": "0x1f22b8",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04493",
+    "offset_hex": "0x29a1c6",
+    "pointer_hex": "0x829a1c6",
+    "original_en": "I'll use my ninjutsu on you…\\n“Volcanic Ash Swirl Cloak”!\\p…What?\\nIt's already over?",
+    "translation_vi": "Tớ sẽ dùng nhẫn thuật… “Áo Choàng Tro Xoáy”!\\p…Hả? Xong luôn rồi á?",
+    "byte_len": 82,
+    "refs": [
+      {
+        "at": "0x1f22bc",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04494",
+    "offset_hex": "0x29a219",
+    "pointer_hex": "0x829a219",
+    "original_en": "You know what's crummy about hiding?\\nIt's lonely if no one comes along.",
+    "translation_vi": "Cậu biết trốn thế này chán nhất điểm gì không? Không ai đi qua thì cô đơn lắm.",
+    "byte_len": 71,
+    "refs": [
+      {
+        "at": "0x1f22c2",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04495",
+    "offset_hex": "0x29a261",
+    "pointer_hex": "0x829a261",
+    "original_en": "Tori: Both of us, we collect ashes.\\nWe battle Pokémon, too.",
+    "translation_vi": "Tori: Cả hai bọn tớ đều gom tro. Bọn tớ cũng đấu Pokémon nữa.",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x1f22cf",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04496",
+    "offset_hex": "0x29a29d",
+    "pointer_hex": "0x829a29d",
+    "original_en": "Tori: We lost… It's boring, so I'm going\\nto get some more ashes.",
+    "translation_vi": "Tori: Bọn tớ thua rồi… Chán quá, tớ đi gom thêm ít tro đây.",
+    "byte_len": 64,
+    "refs": [
+      {
+        "at": "0x1f22d3",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04497",
+    "offset_hex": "0x29a2de",
+    "pointer_hex": "0x829a2de",
+    "original_en": "Tori: How much ash do we have?\\nEnough for a White Flute, I hope.",
+    "translation_vi": "Tori: Mình gom được bao nhiêu tro rồi nhỉ? Mong là đủ đổi White Flute.",
+    "byte_len": 64,
+    "refs": [
+      {
+        "at": "0x1f22dd",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04498",
+    "offset_hex": "0x29a31f",
+    "pointer_hex": "0x829a31f",
+    "original_en": "Tori: We want to battle 2-on-2.\\nIf we didn't, we would lose!",
+    "translation_vi": "Tori: Bọn tớ muốn đấu 2 đấu 2 cơ. Không thì bọn tớ thua mất!",
+    "byte_len": 60,
+    "refs": [
+      {
+        "at": "0x1f22d7",
+        "op": "trainerbattle:not_enough_mons"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04499",
+    "offset_hex": "0x29a35c",
+    "pointer_hex": "0x829a35c",
+    "original_en": "Tia: Both of us, we collect ashes.\\nWe battle Pokémon, too.",
+    "translation_vi": "Tia: Cả hai bọn tớ đều gom tro. Bọn tớ cũng đấu Pokémon nữa.",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x1f22ea",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04500",
+    "offset_hex": "0x29a397",
+    "pointer_hex": "0x829a397",
+    "original_en": "Tia: We couldn't win… It's boring,\\nso I'm getting some more ashes.",
+    "translation_vi": "Tia: Bọn tớ không thắng được… Chán ghê, tớ đi gom thêm tro đây.",
+    "byte_len": 66,
+    "refs": [
+      {
+        "at": "0x1f22ee",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04501",
+    "offset_hex": "0x29a3da",
+    "pointer_hex": "0x829a3da",
+    "original_en": "Tia: We have a lot of ashes!\\nI think enough for a White Flute!",
+    "translation_vi": "Tia: Bọn tớ gom được nhiều tro lắm! Chắc là đủ đổi White Flute rồi!",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x1f22f8",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04502",
+    "offset_hex": "0x29a419",
+    "pointer_hex": "0x829a419",
+    "original_en": "Tia: We want to battle 2-on-2.\\nIf we don't, we won't win.",
+    "translation_vi": "Tia: Bọn tớ muốn đấu 2 đấu 2 cơ. Nếu không thì không thắng nổi đâu.",
+    "byte_len": 57,
+    "refs": [
+      {
+        "at": "0x1f22f2",
+        "op": "trainerbattle:not_enough_mons"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04503",
+    "offset_hex": "0x29a453",
+    "pointer_hex": "0x829a453",
+    "original_en": "Pfft, with these wings I can\\nflick you away!",
+    "translation_vi": "Xời, với đôi cánh này tôi hất bay cậu cái một!",
+    "byte_len": 44,
+    "refs": [
+      {
+        "at": "0x1f231c",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04504",
+    "offset_hex": "0x29a480",
+    "pointer_hex": "0x829a480",
+    "original_en": "A… What?",
+    "translation_vi": "Ơ… Cái gì cơ?",
+    "byte_len": 8,
+    "refs": [
+      {
+        "at": "0x1f2320",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04505",
+    "offset_hex": "0x29a489",
+    "pointer_hex": "0x829a489",
+    "original_en": "I don't know what to say when I get\\nbeaten so easily…",
+    "translation_vi": "Bị đánh bại dễ thế này tôi chẳng biết phải nói gì luôn…",
+    "byte_len": 53,
+    "refs": [
+      {
+        "at": "0x1f2326",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04506",
+    "offset_hex": "0x29a4bf",
+    "pointer_hex": "0x829a4bf",
+    "original_en": "The warmth here is making me drowsy.\\nBattle with me so I can stay awake.",
+    "translation_vi": "Hơi ấm ở đây làm tôi buồn ngủ quá. Đấu với tôi để tôi tỉnh táo nào.",
+    "byte_len": 72,
+    "refs": [
+      {
+        "at": "0x1f2305",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04507",
+    "offset_hex": "0x29a508",
+    "pointer_hex": "0x829a508",
+    "original_en": "This is a dream.\\nI'm sure of it…",
+    "translation_vi": "Đây là mơ. Chắc chắn là mơ rồi…",
+    "byte_len": 32,
+    "refs": [
+      {
+        "at": "0x1f2309",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04508",
+    "offset_hex": "0x29a529",
+    "pointer_hex": "0x829a529",
+    "original_en": "Losing burns me up…\\nI'm just going to sleep right here!\\lZzz!",
+    "translation_vi": "Thua bực cả mình… Thôi tôi ngủ luôn ở đây vậy! Khò khò!",
+    "byte_len": 60,
+    "refs": [
+      {
+        "at": "0x1f230f",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04509",
+    "offset_hex": "0x29a566",
+    "pointer_hex": "0x829a566",
+    "original_en": "Were you maybe in the middle\\nof gathering volcanic ashes?",
+    "translation_vi": "Có phải cậu cũng đang đi gom tro núi lửa không?",
+    "byte_len": 57,
+    "refs": [
+      {
+        "at": "0x1f2333",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04510",
+    "offset_hex": "0x29a5a0",
+    "pointer_hex": "0x829a5a0",
+    "original_en": "Ehehe.\\nWe got beaten cleanly.",
+    "translation_vi": "Hì hì. Bọn tớ thua tâm phục khẩu phục luôn.",
+    "byte_len": 29,
+    "refs": [
+      {
+        "at": "0x1f2337",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04511",
+    "offset_hex": "0x29a5be",
+    "pointer_hex": "0x829a5be",
+    "original_en": "I ought to hide under the ashes, too.",
+    "translation_vi": "Chắc tôi cũng phải trốn dưới tro luôn quá.",
+    "byte_len": 37,
+    "refs": [
+      {
+        "at": "0x1f233d",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04512",
+    "offset_hex": "0x29a5e4",
+    "pointer_hex": "0x829a5e4",
+    "original_en": "Y-you want to battle with me?\\nEven though I just caught my Pokémon?",
+    "translation_vi": "C-cậu muốn đấu với tớ á? Dù tớ mới bắt Pokémon này thôi sao?",
+    "byte_len": 67,
+    "refs": [
+      {
+        "at": "0x1f234a",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04513",
+    "offset_hex": "0x29a628",
+    "pointer_hex": "0x829a628",
+    "original_en": "Y-you're all happy to win?\\nEven though it's only me?",
+    "translation_vi": "C-cậu thắng mà vui thế á? Dù đối thủ chỉ là tớ thôi ư?",
+    "byte_len": 52,
+    "refs": [
+      {
+        "at": "0x1f234e",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04514",
+    "offset_hex": "0x29a65d",
+    "pointer_hex": "0x829a65d",
+    "original_en": "Oh, so now you want to say a word to\\nthe loser?\\pAren't you just the coolest?\\nHumph!",
+    "translation_vi": "Ồ, giờ cậu muốn nói vài lời với kẻ thua cuộc à?\\pBộ tưởng mình ngầu lắm sao? Hứ!",
+    "byte_len": 83,
+    "refs": [
+      {
+        "at": "0x1f2354",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 113 (0.28)"
+    ]
+  },
+  {
+    "id": "D04515",
+    "offset_hex": "0x29a6b1",
+    "pointer_hex": "0x829a6b1",
+    "original_en": "Yodelayhihoo!\\p… …\\pYou're supposed to shout\\n“yodelayhihoo” since it doesn't\\lecho here!",
+    "translation_vi": "Yodelayhihoo!\\p… …\\pỞ đây không có tiếng vọng, nên cậu phải hét lại “yodelayhihoo” đáp lời chứ!",
+    "byte_len": 85,
+    "refs": [
+      {
+        "at": "0x1f2646",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04516",
+    "offset_hex": "0x29a707",
+    "pointer_hex": "0x829a707",
+    "original_en": "Yodelayhihoo!",
+    "translation_vi": "Yodelayhihoo!",
+    "byte_len": 13,
+    "refs": [
+      {
+        "at": "0x1f264a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04517",
+    "offset_hex": "0x29a715",
+    "pointer_hex": "0x829a715",
+    "original_en": "When I was a wee tyke, I believed there\\nwas someone copying me and shouting\\lback, “Yodelayhihoo.”",
+    "translation_vi": "Hồi bé xíu, tôi cứ tưởng có ai đó nhại lại mình rồi hét vọng lại “Yodelayhihoo” cơ đấy.",
+    "byte_len": 97,
+    "refs": [
+      {
+        "at": "0x1f2650",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04518",
+    "offset_hex": "0x29a777",
+    "pointer_hex": "0x829a777",
+    "original_en": "If you're not prepared, you shouldn't\\nbe up in the mountains!",
+    "translation_vi": "Chưa chuẩn bị kỹ thì đừng có mò lên núi!",
+    "byte_len": 61,
+    "refs": [
+      {
+        "at": "0x1f265d",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04519",
+    "offset_hex": "0x29a7b5",
+    "pointer_hex": "0x829a7b5",
+    "original_en": "The mountains are unforgiving…",
+    "translation_vi": "Núi non không hề khoan nhượng…",
+    "byte_len": 30,
+    "refs": [
+      {
+        "at": "0x1f2661",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04520",
+    "offset_hex": "0x29a7d4",
+    "pointer_hex": "0x829a7d4",
+    "original_en": "In the winter, mountains turn deadly\\nwith blizzards and avalanches.",
+    "translation_vi": "Vào mùa đông, bão tuyết và lở tuyết biến núi non thành nơi chết chóc.",
+    "byte_len": 67,
+    "refs": [
+      {
+        "at": "0x1f2667",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04521",
+    "offset_hex": "0x29a818",
+    "pointer_hex": "0x829a818",
+    "original_en": "Camping's fun! You can fish, roast\\nmarshmallows, and tell spooky stories!\\pBut the best of all are the Pokémon\\nbattles!",
+    "translation_vi": "Cắm trại vui lắm! Được câu cá, nướng kẹo dẻo và kể chuyện ma!\\pNhưng tuyệt nhất vẫn là đấu Pokémon!",
+    "byte_len": 118,
+    "refs": [
+      {
+        "at": "0x1f2674",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04522",
+    "offset_hex": "0x29a88f",
+    "pointer_hex": "0x829a88f",
+    "original_en": "Way too strong!",
+    "translation_vi": "Mạnh quá chừng!",
+    "byte_len": 15,
+    "refs": [
+      {
+        "at": "0x1f2678",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04523",
+    "offset_hex": "0x29a89f",
+    "pointer_hex": "0x829a89f",
+    "original_en": "I think it's great that I can go\\ncamping with my Pokémon!",
+    "translation_vi": "Được đi cắm trại cùng Pokémon thật là tuyệt vời!",
+    "byte_len": 57,
+    "refs": [
+      {
+        "at": "0x1f267e",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04524",
+    "offset_hex": "0x29a8d9",
+    "pointer_hex": "0x829a8d9",
+    "original_en": "I need to exercise after a meal.\\nLet's have a match!",
+    "translation_vi": "Ăn xong phải vận động chút. Đấu một trận nào!",
+    "byte_len": 52,
+    "refs": [
+      {
+        "at": "0x1f268b",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04525",
+    "offset_hex": "0x29a90e",
+    "pointer_hex": "0x829a90e",
+    "original_en": "Oh, no!",
+    "translation_vi": "Ôi, không!",
+    "byte_len": 7,
+    "refs": [
+      {
+        "at": "0x1f268f",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04526",
+    "offset_hex": "0x29a916",
+    "pointer_hex": "0x829a916",
+    "original_en": "I just had a tasty meal.\\nI'm getting drowsy…",
+    "translation_vi": "Vừa ăn ngon xong. Giờ tôi lại buồn ngủ rồi…",
+    "byte_len": 44,
+    "refs": [
+      {
+        "at": "0x1f2695",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04527",
+    "offset_hex": "0x29a943",
+    "pointer_hex": "0x829a943",
+    "original_en": "Ufufufufufu…\\nWant to battle against my Pokémon?",
+    "translation_vi": "Ufufufufufu… Muốn đấu với Pokémon của tôi không?",
+    "byte_len": 47,
+    "refs": [
+      {
+        "at": "0x1f26a2",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04528",
+    "offset_hex": "0x29a973",
+    "pointer_hex": "0x829a973",
+    "original_en": "M-My Pokémon…",
+    "translation_vi": "P-Pokémon của tôi…",
+    "byte_len": 13,
+    "refs": [
+      {
+        "at": "0x1f26a6",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04529",
+    "offset_hex": "0x29a981",
+    "pointer_hex": "0x829a981",
+    "original_en": "A big body that's all lumpy and hard,\\nenormous horns, and vicious fangs…\\pUfufufufu…\\nI wish I had a Pokémon like that…",
+    "translation_vi": "Thân hình to lớn, sần sùi cứng cáp, cặp sừng khổng lồ và nanh vuốt dữ tợn…\\pUfufufufu… Ước gì mình có một Pokémon như thế…",
+    "byte_len": 117,
+    "refs": [
+      {
+        "at": "0x1f26c0",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04530",
+    "offset_hex": "0x29a9f7",
+    "pointer_hex": "0x829a9f7",
+    "original_en": "Don't forget what you've done to me!\\nI'll make it so you can't forget!",
+    "translation_vi": "Đừng quên những gì cậu đã làm với tôi! Tôi sẽ khiến cậu không thể nào quên!",
+    "byte_len": 70,
+    "refs": [
+      {
+        "at": "0x1f26d0",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04531",
+    "offset_hex": "0x29aa3e",
+    "pointer_hex": "0x829aa3e",
+    "original_en": "Ufufufufufu…\\nCome on, battle my Pokémon…",
+    "translation_vi": "Ufufufufufu… Lại đây nào, đấu với Pokémon của tôi đi…",
+    "byte_len": 40,
+    "refs": [
+      {
+        "at": "0x1f26ed",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04532",
+    "offset_hex": "0x29aa67",
+    "pointer_hex": "0x829aa67",
+    "original_en": "I feel so lucky getting to see your\\nPokémon…",
+    "translation_vi": "Được nhìn thấy Pokémon của cậu, tôi thấy mình thật may mắn…",
+    "byte_len": 44,
+    "refs": [
+      {
+        "at": "0x1f26f1",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04533",
+    "offset_hex": "0x29aa94",
+    "pointer_hex": "0x829aa94",
+    "original_en": "Ufufufufufu…\\pWhen I see Pokémon battling, I get all\\nshivery and shaky…",
+    "translation_vi": "Ufufufufufu…\\pMỗi khi nhìn Pokémon chiến đấu, tôi lại run rẩy hết cả người…",
+    "byte_len": 70,
+    "refs": [
+      {
+        "at": "0x1f26f7",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04534",
+    "offset_hex": "0x29aadb",
+    "pointer_hex": "0x829aadb",
+    "original_en": "If you're lighting a campfire,\\nmake sure you have water handy.",
+    "translation_vi": "Nếu nhóm lửa trại, nhớ chuẩn bị sẵn nước bên cạnh đấy.",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x1f2704",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04535",
+    "offset_hex": "0x29ab1a",
+    "pointer_hex": "0x829ab1a",
+    "original_en": "Thanks for dousing my fire!",
+    "translation_vi": "Cảm ơn đã dập tắt ngọn lửa của tôi!",
+    "byte_len": 27,
+    "refs": [
+      {
+        "at": "0x1f2708",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04536",
+    "offset_hex": "0x29ab36",
+    "pointer_hex": "0x829ab36",
+    "original_en": "You really do have to be careful with\\nany sort of fire in a forest.\\pDon't ever underestimate the power\\nof fire.",
+    "translation_vi": "Trong rừng thì phải hết sức cẩn thận với lửa.\\pĐừng bao giờ coi thường sức mạnh của ngọn lửa.",
+    "byte_len": 111,
+    "refs": [
+      {
+        "at": "0x1f2722",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04537",
+    "offset_hex": "0x29aba6",
+    "pointer_hex": "0x829aba6",
+    "original_en": "You set my spirit on fire.\\nLet's register each other!",
+    "translation_vi": "Cậu làm bùng cháy tinh thần của tôi rồi. Hãy lưu số nhau nhé!",
+    "byte_len": 53,
+    "refs": [
+      {
+        "at": "0x1f2732",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04538",
+    "offset_hex": "0x29abdc",
+    "pointer_hex": "0x829abdc",
+    "original_en": "Have you learned to keep water handy\\nfor campfires?",
+    "translation_vi": "Cậu đã nhớ chuẩn bị sẵn nước khi nhóm lửa trại chưa?",
+    "byte_len": 51,
+    "refs": [
+      {
+        "at": "0x1f274f",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04539",
+    "offset_hex": "0x29ac10",
+    "pointer_hex": "0x829ac10",
+    "original_en": "I got hosed down before I could\\nflare up, I guess.",
+    "translation_vi": "Chưa kịp bùng lên thì đã bị dập tắt mất rồi.",
+    "byte_len": 50,
+    "refs": [
+      {
+        "at": "0x1f2753",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04540",
+    "offset_hex": "0x29ac43",
+    "pointer_hex": "0x829ac43",
+    "original_en": "You really do have to be careful with\\nany sort of fire in a forest.\\pDon't ever underestimate the power\\nof fire.",
+    "translation_vi": "Trong rừng thì phải hết sức cẩn thận với lửa.\\pĐừng bao giờ coi thường sức mạnh của ngọn lửa.",
+    "byte_len": 111,
+    "refs": [
+      {
+        "at": "0x1f2759",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04541",
+    "offset_hex": "0x29acb3",
+    "pointer_hex": "0x829acb3",
+    "original_en": "If we were fishing, you wouldn't stand\\na chance against me.\\lSo, bring on your Pokémon!",
+    "translation_vi": "Nếu mà thi câu cá, cậu không có cửa với tôi đâu. Nào, tung Pokémon ra đi!",
+    "byte_len": 86,
+    "refs": [
+      {
+        "at": "0x1f2766",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04542",
+    "offset_hex": "0x29ad0a",
+    "pointer_hex": "0x829ad0a",
+    "original_en": "If we were fishing, I would've won…",
+    "translation_vi": "Nếu thi câu cá thì tôi thắng chắc rồi…",
+    "byte_len": 35,
+    "refs": [
+      {
+        "at": "0x1f276a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04543",
+    "offset_hex": "0x29ad2e",
+    "pointer_hex": "0x829ad2e",
+    "original_en": "I think I'll try my luck at landing\\na big one at Meteor Falls.\\pThere has to be something in there.\\nI just know it.",
+    "translation_vi": "Chắc tôi sẽ thử vận may câu cá lớn ở Meteor Falls.\\pỞ đó chắc chắn có cá khủng. Tôi có linh cảm thế!",
+    "byte_len": 114,
+    "refs": [
+      {
+        "at": "0x1f2770",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04544",
+    "offset_hex": "0x29ada1",
+    "pointer_hex": "0x829ada1",
+    "original_en": "I like to fish. But I also like to\\nbattle!\\pIf anyone challenges me, I'm there,\\neven if I'm fishing.",
+    "translation_vi": "Tôi thích câu cá. Nhưng tôi cũng thích đấu trận nữa!\\pCứ có ai thách thức là tôi sẵn sàng, dù đang câu cá đi nữa.",
+    "byte_len": 99,
+    "refs": [
+      {
+        "at": "0x1f277d",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04545",
+    "offset_hex": "0x29ae05",
+    "pointer_hex": "0x829ae05",
+    "original_en": "I like to battle, but that doesn't\\nmean I'm good at it…",
+    "translation_vi": "Tôi thích đấu trận thật, nhưng không có nghĩa là tôi giỏi…",
+    "byte_len": 55,
+    "refs": [
+      {
+        "at": "0x1f2781",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04546",
+    "offset_hex": "0x29ae3d",
+    "pointer_hex": "0x829ae3d",
+    "original_en": "This time I'll do it!\\pI always think that, so I can't walk\\naway from fishing or Pokémon.",
+    "translation_vi": "Lần này mình sẽ làm được!\\pLúc nào tôi cũng nghĩ vậy, nên chẳng dứt ra được câu cá hay Pokémon.",
+    "byte_len": 88,
+    "refs": [
+      {
+        "at": "0x1f2787",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04547",
+    "offset_hex": "0x29ae96",
+    "pointer_hex": "0x829ae96",
+    "original_en": "Tyra: Well, sure.\\nI'm in the mood for it.\\lI'll teach you a little about Pokémon.",
+    "translation_vi": "Tyra: Được thôi. Chị đang có hứng đây. Chị sẽ dạy em một chút về Pokémon.",
+    "byte_len": 80,
+    "refs": [
+      {
+        "at": "0x1f2794",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04548",
+    "offset_hex": "0x29aee7",
+    "pointer_hex": "0x829aee7",
+    "original_en": "Tyra: What an amazing battle style!",
+    "translation_vi": "Tyra: Phong cách chiến đấu thật đáng kinh ngạc!",
+    "byte_len": 35,
+    "refs": [
+      {
+        "at": "0x1f2798",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04549",
+    "offset_hex": "0x29af0b",
+    "pointer_hex": "0x829af0b",
+    "original_en": "Tyra: I was teaching my junior Ivy\\nabout Pokémon.",
+    "translation_vi": "Tyra: Chị đang dạy đàn em Ivy vài điều về Pokémon.",
+    "byte_len": 49,
+    "refs": [
+      {
+        "at": "0x1f27a2",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04550",
+    "offset_hex": "0x29af3d",
+    "pointer_hex": "0x829af3d",
+    "original_en": "Tyra: Giggle…\\nIf you want to battle with us, just one\\lPokémon isn't enough!",
+    "translation_vi": "Tyra: Hi hi… Muốn đấu với bọn chị thì chỉ có một Pokémon là không đủ đâu!",
+    "byte_len": 75,
+    "refs": [
+      {
+        "at": "0x1f279c",
+        "op": "trainerbattle:not_enough_mons"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04551",
+    "offset_hex": "0x29af89",
+    "pointer_hex": "0x829af89",
+    "original_en": "Ivy: Who taught you about Pokémon?",
+    "translation_vi": "Ivy: Ai dạy cậu về Pokémon vậy?",
+    "byte_len": 34,
+    "refs": [
+      {
+        "at": "0x1f27af",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04552",
+    "offset_hex": "0x29afac",
+    "pointer_hex": "0x829afac",
+    "original_en": "Ivy: What an amazing battle style!",
+    "translation_vi": "Ivy: Phong cách chiến đấu thật đáng kinh ngạc!",
+    "byte_len": 34,
+    "refs": [
+      {
+        "at": "0x1f27b3",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04553",
+    "offset_hex": "0x29afcf",
+    "pointer_hex": "0x829afcf",
+    "original_en": "Ivy: I started training Pokémon\\nbecause Tyra, my student mentor,\\ltaught me!",
+    "translation_vi": "Ivy: Em bắt đầu huấn luyện Pokémon là nhờ chị tiền bối Tyra chỉ dạy đấy!",
+    "byte_len": 75,
+    "refs": [
+      {
+        "at": "0x1f27bd",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04554",
+    "offset_hex": "0x29b01b",
+    "pointer_hex": "0x829b01b",
+    "original_en": "Ivy: Do you only have one Pokémon?\\nI think it must feel lonesome.",
+    "translation_vi": "Ivy: Cậu chỉ có một Pokémon thôi à? Tớ thấy bé sẽ cô đơn lắm đấy.",
+    "byte_len": 65,
+    "refs": [
+      {
+        "at": "0x1f27b7",
+        "op": "trainerbattle:not_enough_mons"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04555",
+    "offset_hex": "0x29b05d",
+    "pointer_hex": "0x829b05d",
+    "original_en": "I landed a big one!\\nA huge one, I tell you!",
+    "translation_vi": "Tôi câu được con bự chảng này! Cực kỳ to luôn đấy!",
+    "byte_len": 43,
+    "refs": [
+      {
+        "at": "0x1f27f8",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04556",
+    "offset_hex": "0x29b089",
+    "pointer_hex": "0x829b089",
+    "original_en": "What was that about?\\nDid mine lose in size?",
+    "translation_vi": "Chuyện gì vậy chứ? Cá của mình thua về kích thước sao?",
+    "byte_len": 43,
+    "refs": [
+      {
+        "at": "0x1f27fc",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04557",
+    "offset_hex": "0x29b0b5",
+    "pointer_hex": "0x829b0b5",
+    "original_en": "Okay!\\nI'll just fish me a bigger one!",
+    "translation_vi": "Được rồi! Tôi sẽ câu một con to hơn nữa cho xem!",
+    "byte_len": 37,
+    "refs": [
+      {
+        "at": "0x1f2802",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04558",
+    "offset_hex": "0x29b0db",
+    "pointer_hex": "0x829b0db",
+    "original_en": "Me!\\nI'm not just a pretty face!",
+    "translation_vi": "Tôi á? Tôi đâu chỉ có mỗi gương mặt xinh đẹp!",
+    "byte_len": 31,
+    "refs": [
+      {
+        "at": "0x1f27e1",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04559",
+    "offset_hex": "0x29b0fb",
+    "pointer_hex": "0x829b0fb",
+    "original_en": "That wasn't cute in the least!",
+    "translation_vi": "Chẳng dễ thương chút nào cả!",
+    "byte_len": 30,
+    "refs": [
+      {
+        "at": "0x1f27e5",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04560",
+    "offset_hex": "0x29b11a",
+    "pointer_hex": "0x829b11a",
+    "original_en": "I don't want a Pokémon that's\\njust cute.\\pI adore cute ones that have a quirk\\nor two!",
+    "translation_vi": "Tôi không muốn một Pokémon chỉ biết tỏ ra dễ thương.\\pTôi thích những bé vừa đáng yêu lại vừa có tật xấu cơ!",
+    "byte_len": 84,
+    "refs": [
+      {
+        "at": "0x1f27eb",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04561",
+    "offset_hex": "0x29b16f",
+    "pointer_hex": "0x829b16f",
+    "original_en": "Have you made your Pokémon evolve\\nvery much?",
+    "translation_vi": "Cậu đã cho Pokémon của mình tiến hóa nhiều chưa?",
+    "byte_len": 44,
+    "refs": [
+      {
+        "at": "0x1f27ca",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04562",
+    "offset_hex": "0x29b19c",
+    "pointer_hex": "0x829b19c",
+    "original_en": "Oh, I see.\\nThat's good to know.",
+    "translation_vi": "Ồ, ra vậy. Tốt quá rồi.",
+    "byte_len": 31,
+    "refs": [
+      {
+        "at": "0x1f27ce",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04563",
+    "offset_hex": "0x29b1bc",
+    "pointer_hex": "0x829b1bc",
+    "original_en": "Some Pokémon change so much when\\nthey evolve, it's startling!",
+    "translation_vi": "Có những Pokémon khi tiến hóa thay đổi nhiều đến giật mình luôn!",
+    "byte_len": 61,
+    "refs": [
+      {
+        "at": "0x1f27d4",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 114 (0.29)"
+    ]
+  },
+  {
+    "id": "D04564",
+    "offset_hex": "0x29b1fa",
+    "pointer_hex": "0x829b1fa",
+    "original_en": "Hm…\\nYou seem rather capable…\\lLet me keep you company!",
+    "translation_vi": "Hừm… Trông cậu khá bản lĩnh đấy… Để ta tiếp chiêu cùng cậu!",
+    "byte_len": 53,
+    "refs": [
+      {
+        "at": "0x1f2994",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04565",
+    "offset_hex": "0x29b230",
+    "pointer_hex": "0x829b230",
+    "original_en": "You're much stronger than\\nI'd imagined!",
+    "translation_vi": "Cậu mạnh hơn ta tưởng nhiều!",
+    "byte_len": 39,
+    "refs": [
+      {
+        "at": "0x1f2998",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04566",
+    "offset_hex": "0x29b258",
+    "pointer_hex": "0x829b258",
+    "original_en": "There is no such thing as a born genius.\\nIt all depends on effort!\\lThat is what I believe…",
+    "translation_vi": "Trên đời làm gì có thiên tài bẩm sinh. Tất cả là nhờ nỗ lực! Ta luôn tin như vậy…",
+    "byte_len": 90,
+    "refs": [
+      {
+        "at": "0x1f29b2",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04567",
+    "offset_hex": "0x29b2b3",
+    "pointer_hex": "0x829b2b3",
+    "original_en": "Hmm… A loss this thorough has been\\na distant memory.\\pIf you would allow it, I wish for\\nanother opportunity to do battle.",
+    "translation_vi": "Hừm… Lâu lắm rồi ta mới thua đậm thế này.\\pNếu được, ta rất mong có cơ hội tái đấu với cậu.",
+    "byte_len": 120,
+    "refs": [
+      {
+        "at": "0x1f29c2",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04568",
+    "offset_hex": "0x29b32c",
+    "pointer_hex": "0x829b32c",
+    "original_en": "Hm… As always, your agility speaks\\nfor itself.\\lCome, keep me company!",
+    "translation_vi": "Hừm… Sự nhanh nhẹn của cậu vẫn không đổi. Lại đây so tài cùng ta nào!",
+    "byte_len": 69,
+    "refs": [
+      {
+        "at": "0x1f29df",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04569",
+    "offset_hex": "0x29b372",
+    "pointer_hex": "0x829b372",
+    "original_en": "As strong as ever!",
+    "translation_vi": "Vẫn mạnh mẽ như mọi khi!",
+    "byte_len": 18,
+    "refs": [
+      {
+        "at": "0x1f29e3",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04570",
+    "offset_hex": "0x29b385",
+    "pointer_hex": "0x829b385",
+    "original_en": "All it takes is effort!\\pI lost because I haven't put in enough\\neffort!",
+    "translation_vi": "Tất cả là nhờ nỗ lực!\\pTa thua vì nỗ lực chưa đủ mà thôi!",
+    "byte_len": 70,
+    "refs": [
+      {
+        "at": "0x1f29e9",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04571",
+    "offset_hex": "0x29b3cc",
+    "pointer_hex": "0x829b3cc",
+    "original_en": "You!\\pMy Machop!\\pDemand a battle!",
+    "translation_vi": "Ngươi!\\pMachop của ta!\\pĐòi đấu một trận!",
+    "byte_len": 32,
+    "refs": [
+      {
+        "at": "0x1f29f6",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04572",
+    "offset_hex": "0x29b3ed",
+    "pointer_hex": "0x829b3ed",
+    "original_en": "Ouch, ouch, ouch!",
+    "translation_vi": "Ái, ái, đau quá!",
+    "byte_len": 17,
+    "refs": [
+      {
+        "at": "0x1f29fa",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04573",
+    "offset_hex": "0x29b3ff",
+    "pointer_hex": "0x829b3ff",
+    "original_en": "My Machop crew!\\pSo long as they seek power, I will\\ngrow strong with them!",
+    "translation_vi": "Đội Machop của ta!\\pChừng nào chúng còn khao khát sức mạnh, ta sẽ cùng chúng mạnh lên!",
+    "byte_len": 73,
+    "refs": [
+      {
+        "at": "0x1f2a00",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04574",
+    "offset_hex": "0x29b449",
+    "pointer_hex": "0x829b449",
+    "original_en": "My strongest skill is busting bricks\\nwith my forehead!",
+    "translation_vi": "Tuyệt kỹ mạnh nhất của ta là dùng trán đập vỡ gạch!",
+    "byte_len": 54,
+    "refs": [
+      {
+        "at": "0x1f2a0d",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04575",
+    "offset_hex": "0x29b480",
+    "pointer_hex": "0x829b480",
+    "original_en": "Ugwaaaah!\\nMy head is busted!",
+    "translation_vi": "Oa a a! Đầu ta vỡ rồi!",
+    "byte_len": 28,
+    "refs": [
+      {
+        "at": "0x1f2a11",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04576",
+    "offset_hex": "0x29b49d",
+    "pointer_hex": "0x829b49d",
+    "original_en": "I've been teaching my Pokémon karate.\\pIt looks like they'll get a lot better\\nthan me. I'm excited about that.",
+    "translation_vi": "Ta đang dạy karate cho Pokémon của mình.\\pCó vẻ chúng sẽ giỏi hơn ta nhiều. Nghĩ thôi đã thấy phấn khích!",
+    "byte_len": 109,
+    "refs": [
+      {
+        "at": "0x1f2a2b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04577",
+    "offset_hex": "0x29b50b",
+    "pointer_hex": "0x829b50b",
+    "original_en": "You impress me! Give me a rematch\\nafter I redo my training!",
+    "translation_vi": "Cậu làm ta ấn tượng đấy! Khi ta luyện tập xong nhớ tái đấu nhé!",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x1f2a3b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04578",
+    "offset_hex": "0x29b547",
+    "pointer_hex": "0x829b547",
+    "original_en": "After you beat me, we trained hard to\\nimprove our skills.\\lCome on, give us a rematch!",
+    "translation_vi": "Sau khi thua cậu, bọn ta đã rèn luyện cật lực để nâng cao tay nghề. Mau tái đấu với bọn ta nào!",
+    "byte_len": 85,
+    "refs": [
+      {
+        "at": "0x1f2a58",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04579",
+    "offset_hex": "0x29b59d",
+    "pointer_hex": "0x829b59d",
+    "original_en": "Ugwaaah!\\nWe lost again!",
+    "translation_vi": "Oa a a! Lại thua nữa rồi!",
+    "byte_len": 23,
+    "refs": [
+      {
+        "at": "0x1f2a5c",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04580",
+    "offset_hex": "0x29b5b5",
+    "pointer_hex": "0x829b5b5",
+    "original_en": "My Pokémon will grow stronger!\\nI'll redouble my training!",
+    "translation_vi": "Pokémon của ta sẽ mạnh hơn nữa! Ta sẽ tăng gấp đôi lượng luyện tập!",
+    "byte_len": 57,
+    "refs": [
+      {
+        "at": "0x1f2a62",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04581",
+    "offset_hex": "0x29b5ef",
+    "pointer_hex": "0x829b5ef",
+    "original_en": "This beach is my secret training spot!\\nDon't come butting in!",
+    "translation_vi": "Bãi biển này là nơi huấn luyện bí mật của ta! Đừng có xía mũi vào!",
+    "byte_len": 61,
+    "refs": [
+      {
+        "at": "0x1f2a6f",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04582",
+    "offset_hex": "0x29b62d",
+    "pointer_hex": "0x829b62d",
+    "original_en": "I haven't trained enough!",
+    "translation_vi": "Ta luyện tập vẫn chưa đủ!",
+    "byte_len": 25,
+    "refs": [
+      {
+        "at": "0x1f2a73",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04583",
+    "offset_hex": "0x29b647",
+    "pointer_hex": "0x829b647",
+    "original_en": "The sand acts as a cushion to reduce\\nimpact and prevent injury.\\lThis is the perfect place to train.",
+    "translation_vi": "Cát đóng vai trò như đệm giảm chấn và ngừa chấn thương. Đây là nơi hoàn hảo để luyện tập.",
+    "byte_len": 99,
+    "refs": [
+      {
+        "at": "0x1f2a8d",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04584",
+    "offset_hex": "0x29b6ab",
+    "pointer_hex": "0x829b6ab",
+    "original_en": "Okay, fine, you're free to come here.\\nIn return, I'd like to battle you again.",
+    "translation_vi": "Thôi được, cậu cứ tự nhiên đến đây. Đổi lại, ta muốn đấu lại với cậu.",
+    "byte_len": 78,
+    "refs": [
+      {
+        "at": "0x1f2a9d",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04585",
+    "offset_hex": "0x29b6fa",
+    "pointer_hex": "0x829b6fa",
+    "original_en": "Okay, let's get this battle on!",
+    "translation_vi": "Được rồi, bắt đầu trận đấu nào!",
+    "byte_len": 31,
+    "refs": [
+      {
+        "at": "0x1f2aba",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04586",
+    "offset_hex": "0x29b71a",
+    "pointer_hex": "0x829b71a",
+    "original_en": "I can battle but my Pokémon…",
+    "translation_vi": "Tôi còn đấu được nhưng Pokémon của tôi thì…",
+    "byte_len": 28,
+    "refs": [
+      {
+        "at": "0x1f2abe",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04587",
+    "offset_hex": "0x29b737",
+    "pointer_hex": "0x829b737",
+    "original_en": "Even when I lose, I still get some\\nenjoyment out of it.\\lIt must be that I love Pokémon.",
+    "translation_vi": "Dù có thua tôi vẫn thấy vui. Chắc là do tôi quá yêu Pokémon rồi.",
+    "byte_len": 87,
+    "refs": [
+      {
+        "at": "0x1f2ac4",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04588",
+    "offset_hex": "0x29b78f",
+    "pointer_hex": "0x829b78f",
+    "original_en": "I have a rare Pokémon!\\nWould you like me to show you?",
+    "translation_vi": "Tôi có một Pokémon hiếm này! Cậu có muốn xem không?",
+    "byte_len": 53,
+    "refs": [
+      {
+        "at": "0x1f2ad1",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04589",
+    "offset_hex": "0x29b7c5",
+    "pointer_hex": "0x829b7c5",
+    "original_en": "You…\\nYou want my Pokémon, don't you?",
+    "translation_vi": "Cậu… Cậu thèm muốn Pokémon của tôi chứ gì?",
+    "byte_len": 36,
+    "refs": [
+      {
+        "at": "0x1f2ad5",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04590",
+    "offset_hex": "0x29b7ea",
+    "pointer_hex": "0x829b7ea",
+    "original_en": "I have this rare Pokémon.\\nIt's enough to keep me satisfied.",
+    "translation_vi": "Có được Pokémon hiếm này là tôi thấy mãn nguyện lắm rồi.",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x1f2adb",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04591",
+    "offset_hex": "0x29b826",
+    "pointer_hex": "0x829b826",
+    "original_en": "I'll battle while I'm running!\\nTry to keep up with me!",
+    "translation_vi": "Vừa chạy vừa đấu luôn! Ráng mà đuổi kịp tôi nhé!",
+    "byte_len": 54,
+    "refs": [
+      {
+        "at": "0x1f2ae8",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04592",
+    "offset_hex": "0x29b85d",
+    "pointer_hex": "0x829b85d",
+    "original_en": "Gasp, gasp…",
+    "translation_vi": "Hộc, hộc…",
+    "byte_len": 11,
+    "refs": [
+      {
+        "at": "0x1f2aec",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04593",
+    "offset_hex": "0x29b869",
+    "pointer_hex": "0x829b869",
+    "original_en": "I made the mistake of trying to battle\\nwhile running!\\pI should take a run to calm down…",
+    "translation_vi": "Sai lầm của tôi là vừa chạy vừa đấu!\\pPhải đi chạy bộ để bình tĩnh lại mới được…",
+    "byte_len": 87,
+    "refs": [
+      {
+        "at": "0x1f2af2",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04594",
+    "offset_hex": "0x29b8c1",
+    "pointer_hex": "0x829b8c1",
+    "original_en": "Take that!\\nUltra Pokémon ninja attack!",
+    "translation_vi": "Đỡ này! Tuyệt chiêu nhẫn thuật Pokémon tối thượng!",
+    "byte_len": 38,
+    "refs": [
+      {
+        "at": "0x1f2aff",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04595",
+    "offset_hex": "0x29b8e8",
+    "pointer_hex": "0x829b8e8",
+    "original_en": "Waaah!\\nOur strategy failed!",
+    "translation_vi": "Oa oa! Chiến thuật bại rồi!",
+    "byte_len": 27,
+    "refs": [
+      {
+        "at": "0x1f2b03",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04596",
+    "offset_hex": "0x29b904",
+    "pointer_hex": "0x829b904",
+    "original_en": "But my Pokémon were ultra,\\nweren't they?",
+    "translation_vi": "Nhưng Pokémon của tớ siêu đỉnh mà, đúng không?",
+    "byte_len": 40,
+    "refs": [
+      {
+        "at": "0x1f2b09",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04597",
+    "offset_hex": "0x29b92d",
+    "pointer_hex": "0x829b92d",
+    "original_en": "My Pokémon have black belt-level\\nstrength!",
+    "translation_vi": "Pokémon của ta sở hữu sức mạnh đẳng cấp đai đen!",
+    "byte_len": 42,
+    "refs": [
+      {
+        "at": "0x1f2b2d",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04598",
+    "offset_hex": "0x29b958",
+    "pointer_hex": "0x829b958",
+    "original_en": "This is too humiliating!",
+    "translation_vi": "Nhục nhã quá đi mất!",
+    "byte_len": 24,
+    "refs": [
+      {
+        "at": "0x1f2b31",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04599",
+    "offset_hex": "0x29b971",
+    "pointer_hex": "0x829b971",
+    "original_en": "I rarely meet anyone who's better\\nthan me…\\pI get it now!\\nYou're a Gym Leader, aren't you?",
+    "translation_vi": "Hiếm khi ta gặp ai giỏi hơn mình…\\pTa hiểu rồi! Cậu là Thủ lĩnh Nhà thi đấu đúng không?",
+    "byte_len": 89,
+    "refs": [
+      {
+        "at": "0x1f2b37",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04600",
+    "offset_hex": "0x29b9cb",
+    "pointer_hex": "0x829b9cb",
+    "original_en": "Our eyes met!\\nThere's no getting away now!",
+    "translation_vi": "Ánh mắt đã chạm nhau! Cậu hết đường chạy thoát rồi!",
+    "byte_len": 42,
+    "refs": [
+      {
+        "at": "0x1f2b16",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04601",
+    "offset_hex": "0x29b9f6",
+    "pointer_hex": "0x829b9f6",
+    "original_en": "Gah!\\nNot bad!",
+    "translation_vi": "Hự! Không tồi!",
+    "byte_len": 13,
+    "refs": [
+      {
+        "at": "0x1f2b1a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04602",
+    "offset_hex": "0x29ba04",
+    "pointer_hex": "0x829ba04",
+    "original_en": "Oh, well.\\nI think I will Teleport home.",
+    "translation_vi": "Thôi vậy. Chắc tôi sẽ dùng Teleport về nhà.",
+    "byte_len": 39,
+    "refs": [
+      {
+        "at": "0x1f2b20",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04603",
+    "offset_hex": "0x29ba2c",
+    "pointer_hex": "0x829ba2c",
+    "original_en": "You've disturbed my meditation…\\nYou'll be punished for it.",
+    "translation_vi": "Ngươi dám quấy rầy sự tĩnh tâm của ta… Ngươi sẽ phải trả giá.",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x1f2b44",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04604",
+    "offset_hex": "0x29ba67",
+    "pointer_hex": "0x829ba67",
+    "original_en": "You've broken my concentration!",
+    "translation_vi": "Ngươi làm ta mất tập trung rồi!",
+    "byte_len": 31,
+    "refs": [
+      {
+        "at": "0x1f2b48",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04605",
+    "offset_hex": "0x29ba87",
+    "pointer_hex": "0x829ba87",
+    "original_en": "I was meditating with my Pokémon.\\nBut this place isn't very peaceful…",
+    "translation_vi": "Ta đang cùng Pokémon tĩnh tâm. Nhưng nơi này chẳng yên bình chút nào…",
+    "byte_len": 69,
+    "refs": [
+      {
+        "at": "0x1f2b4e",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 115 (0.30)"
+    ]
+  },
+  {
+    "id": "D04606",
+    "offset_hex": "0x29bacd",
+    "pointer_hex": "0x829bacd",
+    "original_en": "If the tunnel doesn't go through, then\\nI'll just go over the top.",
+    "translation_vi": "Hầm chưa thông thì ta cứ leo qua đỉnh núi thôi.",
+    "byte_len": 65,
+    "refs": [
+      {
+        "at": "0x1f2f6b",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04607",
+    "offset_hex": "0x29bb0f",
+    "pointer_hex": "0x829bb0f",
+    "original_en": "Gasp… Gasp…\\nLosing made me tired…",
+    "translation_vi": "Hộc… Hộc… Thua trận làm tôi mệt quá…",
+    "byte_len": 33,
+    "refs": [
+      {
+        "at": "0x1f2f6f",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04608",
+    "offset_hex": "0x29bb31",
+    "pointer_hex": "0x829bb31",
+    "original_en": "It's no big deal if there's no tunnel.\\nTo a Hiker, mountains are roads!",
+    "translation_vi": "Không có hầm cũng chẳng sao. Với người leo núi, núi non chính là đường đi!",
+    "byte_len": 71,
+    "refs": [
+      {
+        "at": "0x1f2f75",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04609",
+    "offset_hex": "0x29bb79",
+    "pointer_hex": "0x829bb79",
+    "original_en": "My Pokémon rule!\\nCheck them out!",
+    "translation_vi": "Pokémon của tớ là đỉnh nhất! Thử tài xem nào!",
+    "byte_len": 32,
+    "refs": [
+      {
+        "at": "0x1f2e8f",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04610",
+    "offset_hex": "0x29bb9a",
+    "pointer_hex": "0x829bb9a",
+    "original_en": "Ouch! A scrape!\\nI have to put on a bandage!",
+    "translation_vi": "Ái! Bị trầy da rồi! Phải dán băng cá nhân thôi!",
+    "byte_len": 43,
+    "refs": [
+      {
+        "at": "0x1f2e93",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04611",
+    "offset_hex": "0x29bbc6",
+    "pointer_hex": "0x829bbc6",
+    "original_en": "Bandages are signs of toughness!\\nI've got another one!",
+    "translation_vi": "Băng cá nhân là biểu tượng của sự kiên cường! Tớ lại dán thêm miếng nữa này!",
+    "byte_len": 54,
+    "refs": [
+      {
+        "at": "0x1f2e99",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04612",
+    "offset_hex": "0x29bbfd",
+    "pointer_hex": "0x829bbfd",
+    "original_en": "My Bug Pokémon are tough!\\nLet's battle!",
+    "translation_vi": "Pokémon hệ Bug của tớ cứng cựa lắm! Đấu một trận nào!",
+    "byte_len": 39,
+    "refs": [
+      {
+        "at": "0x1f2ea6",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04613",
+    "offset_hex": "0x29bc25",
+    "pointer_hex": "0x829bc25",
+    "original_en": "I lost!\\nI thought I had you!",
+    "translation_vi": "Thua rồi! Cứ tưởng tớ thắng chắc chứ!",
+    "byte_len": 28,
+    "refs": [
+      {
+        "at": "0x1f2eaa",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04614",
+    "offset_hex": "0x29bc42",
+    "pointer_hex": "0x829bc42",
+    "original_en": "Bug Pokémon evolve quickly.\\nSo they get strong quickly, too.",
+    "translation_vi": "Pokémon hệ Bug tiến hóa nhanh lắm. Nên chúng cũng mạnh lên rất nhanh.",
+    "byte_len": 60,
+    "refs": [
+      {
+        "at": "0x1f2eb0",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04615",
+    "offset_hex": "0x29bc7f",
+    "pointer_hex": "0x829bc7f",
+    "original_en": "Let me teach you how strong my\\nadorable Pokémon is!",
+    "translation_vi": "Để tôi cho cậu thấy Pokémon đáng yêu của tôi mạnh cỡ nào!",
+    "byte_len": 51,
+    "refs": [
+      {
+        "at": "0x1f2f82",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04616",
+    "offset_hex": "0x29bcb3",
+    "pointer_hex": "0x829bcb3",
+    "original_en": "You're a notch above me…",
+    "translation_vi": "Cậu nhỉnh hơn tôi một bậc rồi…",
+    "byte_len": 24,
+    "refs": [
+      {
+        "at": "0x1f2f86",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04617",
+    "offset_hex": "0x29bccc",
+    "pointer_hex": "0x829bccc",
+    "original_en": "Pokémon that possess cuteness and\\npower, that's ideal, I think.",
+    "translation_vi": "Pokémon vừa đáng yêu lại vừa mạnh mẽ, tôi thấy đó là lý tưởng nhất.",
+    "byte_len": 63,
+    "refs": [
+      {
+        "at": "0x1f2f8c",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04618",
+    "offset_hex": "0x29bd0c",
+    "pointer_hex": "0x829bd0c",
+    "original_en": "We learn all sorts of things at the\\nTrainer's School.\\pI want to test things out for real!",
+    "translation_vi": "Bọn tớ học đủ thứ ở Trainer's School.\\pTớ muốn kiểm tra thực tế xem sao!",
+    "byte_len": 89,
+    "refs": [
+      {
+        "at": "0x1f2ebd",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04619",
+    "offset_hex": "0x29bd66",
+    "pointer_hex": "0x829bd66",
+    "original_en": "I slacked off in school…\\nThat's why I lost.",
+    "translation_vi": "Ở trường tớ lười học quá… Thảo nào bị thua.",
+    "byte_len": 43,
+    "refs": [
+      {
+        "at": "0x1f2ec1",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04620",
+    "offset_hex": "0x29bd92",
+    "pointer_hex": "0x829bd92",
+    "original_en": "I'll have to redo some courses at\\nthe Trainer's School.\\lIf I don't, Roxanne will be steamed.",
+    "translation_vi": "Tớ phải học lại vài khóa ở Trainer's School thôi. Không thì chị Roxanne sẽ nổi giận mất.",
+    "byte_len": 92,
+    "refs": [
+      {
+        "at": "0x1f2ef0",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1f2f2d",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04621",
+    "offset_hex": "0x29bdef",
+    "pointer_hex": "0x829bdef",
+    "original_en": "I learned at the Trainer's School\\nthat a Pokénav can register Trainers.\\pI don't really get what that means,\\nso can I just try it?",
+    "translation_vi": "Tớ học ở Trainer's School rằng PokéNav có thể đăng ký Huấn luyện viên.\\pTớ chưa hiểu lắm, cho tớ thử xem sao nhé?",
+    "byte_len": 129,
+    "refs": [
+      {
+        "at": "0x1f2f37",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04622",
+    "offset_hex": "0x29be71",
+    "pointer_hex": "0x829be71",
+    "original_en": "I learned at the Trainer's School\\nthat a Pokénav can register Trainers.\\pI don't really get what that means,\\nso can I just try it?",
+    "translation_vi": "Tớ học ở Trainer's School rằng PokéNav có thể đăng ký Huấn luyện viên.\\pTớ chưa hiểu lắm, cho tớ thử xem sao nhé?",
+    "byte_len": 129,
+    "refs": [
+      {
+        "at": "0x1f2f0b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04623",
+    "offset_hex": "0x29bef3",
+    "pointer_hex": "0x829bef3",
+    "original_en": "I've been studying seriously at the\\nTrainer's School.\\lI won't lose like I did last time.",
+    "translation_vi": "Tớ đã chăm chỉ học tập ở Trainer's School rồi. Sẽ không thua như lần trước đâu.",
+    "byte_len": 88,
+    "refs": [
+      {
+        "at": "0x1f2f54",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04624",
+    "offset_hex": "0x29bf4c",
+    "pointer_hex": "0x829bf4c",
+    "original_en": "Hunh?\\nI studied diligently.",
+    "translation_vi": "Hả? Tớ học hành chăm chỉ lắm mà.",
+    "byte_len": 27,
+    "refs": [
+      {
+        "at": "0x1f2f58",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04625",
+    "offset_hex": "0x29bf68",
+    "pointer_hex": "0x829bf68",
+    "original_en": "I'll have to redo some courses at\\nthe Trainer's School.\\lIf I don't, Roxanne will be steamed.",
+    "translation_vi": "Tớ phải học lại vài khóa ở Trainer's School thôi. Không thì chị Roxanne sẽ nổi giận mất.",
+    "byte_len": 92,
+    "refs": [
+      {
+        "at": "0x1f2f5e",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04626",
+    "offset_hex": "0x29bfc5",
+    "pointer_hex": "0x829bfc5",
+    "original_en": "I study at school, and I study on\\nthe way home, too!",
+    "translation_vi": "Tớ học ở trường, rồi trên đường về nhà tớ cũng học luôn!",
+    "byte_len": 52,
+    "refs": [
+      {
+        "at": "0x1f2f99",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04627",
+    "offset_hex": "0x29bffa",
+    "pointer_hex": "0x829bffa",
+    "original_en": "I'm in shock--I lost?",
+    "translation_vi": "Sốc quá… Tớ thua thật á?",
+    "byte_len": 21,
+    "refs": [
+      {
+        "at": "0x1f2f9d",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04628",
+    "offset_hex": "0x29c010",
+    "pointer_hex": "0x829c010",
+    "original_en": "Awww, I'll never become an elegant\\nTrainer like Roxanne this way!",
+    "translation_vi": "Hu hu, thế này thì sao trở thành Huấn luyện viên thanh lịch như chị Roxanne được chứ!",
+    "byte_len": 65,
+    "refs": [
+      {
+        "at": "0x1f2fcc",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1f3009",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04629",
+    "offset_hex": "0x29c052",
+    "pointer_hex": "0x829c052",
+    "original_en": "Oh, wow! Isn't that a Pokénav?\\nI have one, too! Please register me!",
+    "translation_vi": "Ôi chà! Đó là PokéNav phải không? Tớ cũng có một cái này! Đăng ký số tớ với!",
+    "byte_len": 67,
+    "refs": [
+      {
+        "at": "0x1f3013",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04630",
+    "offset_hex": "0x29c096",
+    "pointer_hex": "0x829c096",
+    "original_en": "Oh, wow! Isn't that a Pokénav?\\nI have one, too! Please register me!",
+    "translation_vi": "Ôi chà! Đó là PokéNav phải không? Tớ cũng có một cái này! Đăng ký số tớ với!",
+    "byte_len": 67,
+    "refs": [
+      {
+        "at": "0x1f2fe7",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04631",
+    "offset_hex": "0x29c0da",
+    "pointer_hex": "0x829c0da",
+    "original_en": "I studied a whole lot since I saw you.\\nYou must see my achievements!",
+    "translation_vi": "Từ hôm gặp cậu tớ đã học rất nhiều. Nhất định phải xem thành quả của tớ đấy!",
+    "byte_len": 68,
+    "refs": [
+      {
+        "at": "0x1f3030",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04632",
+    "offset_hex": "0x29c11f",
+    "pointer_hex": "0x829c11f",
+    "original_en": "I'm in shock.\\nI lost again?",
+    "translation_vi": "Sốc quá đi. Tớ lại thua nữa sao?",
+    "byte_len": 27,
+    "refs": [
+      {
+        "at": "0x1f3034",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04633",
+    "offset_hex": "0x29c13b",
+    "pointer_hex": "0x829c13b",
+    "original_en": "You've beaten Roxanne?\\nI can't beat you, then. Not yet.",
+    "translation_vi": "Cậu đã đánh bại chị Roxanne rồi ư? Vậy thì tớ chưa thể thắng cậu được. Chưa phải lúc này.",
+    "byte_len": 55,
+    "refs": [
+      {
+        "at": "0x1f303a",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04634",
+    "offset_hex": "0x29c173",
+    "pointer_hex": "0x829c173",
+    "original_en": "Just so you know, I've never once been\\nbested by anyone at anything.",
+    "translation_vi": "Nói cho cậu biết, tôi chưa từng chịu thua bất kỳ ai trong bất cứ việc gì đâu.",
+    "byte_len": 68,
+    "refs": [
+      {
+        "at": "0x1f3047",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04635",
+    "offset_hex": "0x29c1b8",
+    "pointer_hex": "0x829c1b8",
+    "original_en": "Oh, my goodness.\\nThis is a new experience for me.",
+    "translation_vi": "Trời đất ơi. Đây quả là trải nghiệm hoàn toàn mới với tôi.",
+    "byte_len": 49,
+    "refs": [
+      {
+        "at": "0x1f304b",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04636",
+    "offset_hex": "0x29c1ea",
+    "pointer_hex": "0x829c1ea",
+    "original_en": "My life of luxury affords me all that\\nI could possibly desire.\\pHowever, when it comes to Pokémon,\\nmy wealth has no meaning.",
+    "translation_vi": "Cuộc sống xa hoa cho tôi mọi thứ tôi muốn.\\pThế nhưng với Pokémon, sự giàu sang của tôi lại chẳng mang ý nghĩa gì.",
+    "byte_len": 123,
+    "refs": [
+      {
+        "at": "0x1f3051",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04637",
+    "offset_hex": "0x29c266",
+    "pointer_hex": "0x829c266",
+    "original_en": "When you lay your eyes on my Pokémon's\\ngorgeous fur, their beauty will render\\lyou helpless!",
+    "translation_vi": "Khi nhìn thấy bộ lông lộng lẫy của Pokémon tôi nuôi, vẻ đẹp của chúng sẽ khiến cậu không thể chống cự!",
+    "byte_len": 91,
+    "refs": [
+      {
+        "at": "0x1f305e",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04638",
+    "offset_hex": "0x29c2c2",
+    "pointer_hex": "0x829c2c2",
+    "original_en": "Oh, baby, say it isn't so!",
+    "translation_vi": "Ôi trời ơi, đừng nói là thật nhé!",
+    "byte_len": 26,
+    "refs": [
+      {
+        "at": "0x1f3062",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04639",
+    "offset_hex": "0x29c2dd",
+    "pointer_hex": "0x829c2dd",
+    "original_en": "Oh, no, no, no!\\nYou've mussed up my Pokémon's fur!\\lYou've ruined my hairdo, too!\\lI'll have to call my stylist now!",
+    "translation_vi": "Ôi không, không thể nào! Cậu làm rối lông Pokémon của tôi rồi! Cả kiểu tóc của tôi cũng hỏng bét! Tôi phải gọi thợ làm tóc gấp thôi!",
+    "byte_len": 114,
+    "refs": [
+      {
+        "at": "0x1f3068",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04640",
+    "offset_hex": "0x29c350",
+    "pointer_hex": "0x829c350",
+    "original_en": "We'll rock you hard!",
+    "translation_vi": "Bọn tôi sẽ cho cậu một trận ra trò!",
+    "byte_len": 20,
+    "refs": [
+      {
+        "at": "0x1f3075",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04641",
+    "offset_hex": "0x29c365",
+    "pointer_hex": "0x829c365",
+    "original_en": "Aiyiyi!\\nNo contest at all!",
+    "translation_vi": "Ái da da! Không địch lại chút nào luôn!",
+    "byte_len": 26,
+    "refs": [
+      {
+        "at": "0x1f3079",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04642",
+    "offset_hex": "0x29c380",
+    "pointer_hex": "0x829c380",
+    "original_en": "I should try different Pokémon\\ntypes, that's what I ought to do.",
+    "translation_vi": "Mình nên thử dùng nhiều hệ Pokémon khác nhau xem sao.",
+    "byte_len": 64,
+    "refs": [
+      {
+        "at": "0x1f307f",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04643",
+    "offset_hex": "0x29c3c1",
+    "pointer_hex": "0x829c3c1",
+    "original_en": "It's a dead end up here.\\nI'm bored, so can we battle?",
+    "translation_vi": "Lên đây là ngõ cụt rồi. Chán quá, đấu một trận được không?",
+    "byte_len": 53,
+    "refs": [
+      {
+        "at": "0x1f308c",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04644",
+    "offset_hex": "0x29c3f7",
+    "pointer_hex": "0x829c3f7",
+    "original_en": "That was fun even though I lost.",
+    "translation_vi": "Dù thua nhưng vẫn vui thật đấy.",
+    "byte_len": 32,
+    "refs": [
+      {
+        "at": "0x1f3090",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04645",
+    "offset_hex": "0x29c418",
+    "pointer_hex": "0x829c418",
+    "original_en": "Want to stay here and keep\\nme company?",
+    "translation_vi": "Cậu có muốn ở lại đây chơi cùng tôi không?",
+    "byte_len": 38,
+    "refs": [
+      {
+        "at": "0x1f3096",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)"
+    ]
+  },
+  {
+    "id": "D04646",
+    "offset_hex": "0x29c43f",
+    "pointer_hex": "0x829c43f",
+    "original_en": "Listen, could I get you to battle\\nthe Pokémon I'm raising?",
+    "translation_vi": "Này, cậu đấu thử với Pokémon tôi đang nuôi nấng được không?",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x1f39d6",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04647",
+    "offset_hex": "0x29c47a",
+    "pointer_hex": "0x829c47a",
+    "original_en": "You've raised yours superbly…",
+    "translation_vi": "Cậu nuôi nấng Pokémon của mình tuyệt vời thật đấy…",
+    "byte_len": 29,
+    "refs": [
+      {
+        "at": "0x1f39da",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04648",
+    "offset_hex": "0x29c498",
+    "pointer_hex": "0x829c498",
+    "original_en": "Pokémon isn't all about power.\\pPolishing a unique aspect of one's\\ncharacter is another way of enjoying\\lPokémon.",
+    "translation_vi": "Pokémon đâu chỉ có mỗi sức mạnh.\\pTrau chuốt nét độc đáo trong tính cách cũng là một cách tận hưởng Pokémon.",
+    "byte_len": 111,
+    "refs": [
+      {
+        "at": "0x1f39f4",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04649",
+    "offset_hex": "0x29c508",
+    "pointer_hex": "0x829c508",
+    "original_en": "I'm going to redouble my training.\\nWould you come look in on us?",
+    "translation_vi": "Tôi sẽ tăng cường huấn luyện hơn nữa. Cậu ghé lại thăm bọn tôi nhé?",
+    "byte_len": 64,
+    "refs": [
+      {
+        "at": "0x1f3a04",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04650",
+    "offset_hex": "0x29c549",
+    "pointer_hex": "0x829c549",
+    "original_en": "The Pokémon I've been raising are\\nlooking good, just like before.",
+    "translation_vi": "Những Pokémon tôi nuôi nấng trông vẫn phong độ như trước.",
+    "byte_len": 65,
+    "refs": [
+      {
+        "at": "0x1f3a21",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04651",
+    "offset_hex": "0x29c58b",
+    "pointer_hex": "0x829c58b",
+    "original_en": "You know how to raise them properly.\\nYou might have Day Care skills…",
+    "translation_vi": "Cậu biết cách nuôi nấng chuẩn mực đấy. Có khi cậu hợp làm ở Day Care…",
+    "byte_len": 68,
+    "refs": [
+      {
+        "at": "0x1f3a25",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04652",
+    "offset_hex": "0x29c5d0",
+    "pointer_hex": "0x829c5d0",
+    "original_en": "Your Pokémon are growing good!\\nYou should enter them in Contests.",
+    "translation_vi": "Pokémon của cậu phát triển tốt lắm! Cậu nên cho chúng tham gia Contest.",
+    "byte_len": 65,
+    "refs": [
+      {
+        "at": "0x1f3a2b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04653",
+    "offset_hex": "0x29c612",
+    "pointer_hex": "0x829c612",
+    "original_en": "Please, allow me to evaluate if you\\nhave raised your Pokémon properly.",
+    "translation_vi": "Xin hãy để tôi đánh giá xem cậu nuôi nấng Pokémon có bài bản không nhé.",
+    "byte_len": 70,
+    "refs": [
+      {
+        "at": "0x1f3a38",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04654",
+    "offset_hex": "0x29c659",
+    "pointer_hex": "0x829c659",
+    "original_en": "Yes, they are growing properly.",
+    "translation_vi": "Đúng vậy, chúng đang lớn lên rất bài bản.",
+    "byte_len": 31,
+    "refs": [
+      {
+        "at": "0x1f3a3c",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04655",
+    "offset_hex": "0x29c679",
+    "pointer_hex": "0x829c679",
+    "original_en": "Try raising Pokémon with more\\nattention to their character traits.",
+    "translation_vi": "Hãy thử nuôi nấng Pokémon và chú ý nhiều hơn đến nét tính cách của chúng.",
+    "byte_len": 66,
+    "refs": [
+      {
+        "at": "0x1f3a56",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04656",
+    "offset_hex": "0x29c6bc",
+    "pointer_hex": "0x829c6bc",
+    "original_en": "I'm glad I met a superb Trainer in you.\\nI hope to see you again.",
+    "translation_vi": "Thật vui vì được gặp một HLV xuất sắc như cậu. Hẹn gặp lại nhé.",
+    "byte_len": 64,
+    "refs": [
+      {
+        "at": "0x1f3a66",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04657",
+    "offset_hex": "0x29c6fd",
+    "pointer_hex": "0x829c6fd",
+    "original_en": "Allow me to reevaluate if you have\\nraised your Pokémon properly.",
+    "translation_vi": "Hãy để tôi đánh giá lại xem cậu nuôi nấng Pokémon chuẩn mực thế nào nhé.",
+    "byte_len": 64,
+    "refs": [
+      {
+        "at": "0x1f3a83",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04658",
+    "offset_hex": "0x29c73e",
+    "pointer_hex": "0x829c73e",
+    "original_en": "They are growing admirably.",
+    "translation_vi": "Chúng phát triển rất đáng khâm phục.",
+    "byte_len": 27,
+    "refs": [
+      {
+        "at": "0x1f3a87",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04659",
+    "offset_hex": "0x29c75a",
+    "pointer_hex": "0x829c75a",
+    "original_en": "Pokémon seem to like different kinds\\nof [S55][S56][S57][S58][S59]S, depending on their nature.",
+    "translation_vi": "Tùy vào tính cách, Pokémon sẽ thích các loại [S55][S56][S57][S58][S59]S khác nhau.",
+    "byte_len": 74,
+    "refs": [
+      {
+        "at": "0x1f3a8d",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04660",
+    "offset_hex": "0x29c7a5",
+    "pointer_hex": "0x829c7a5",
+    "original_en": "I'm in the middle of a triathlon, but,\\nwhatever, let's have a battle!",
+    "translation_vi": "Tôi đang giữa cuộc thi ba môn phối hợp, nhưng kệ đi, đấu một trận nào!",
+    "byte_len": 69,
+    "refs": [
+      {
+        "at": "0x1f3a9a",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04661",
+    "offset_hex": "0x29c7eb",
+    "pointer_hex": "0x829c7eb",
+    "original_en": "I ran out of energy!",
+    "translation_vi": "Tôi cạn sạch năng lượng rồi!",
+    "byte_len": 20,
+    "refs": [
+      {
+        "at": "0x1f3a9e",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04662",
+    "offset_hex": "0x29c800",
+    "pointer_hex": "0x829c800",
+    "original_en": "I may have blown it…\\pI might have dropped to last during\\nthat battle…",
+    "translation_vi": "Chắc tôi hỏng bét rồi…\\pTrận đấu vừa rồi có khi làm tôi tụt xuống bét bảng mất rồi…",
+    "byte_len": 69,
+    "refs": [
+      {
+        "at": "0x1f3ab8",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04663",
+    "offset_hex": "0x29c846",
+    "pointer_hex": "0x829c846",
+    "original_en": "Pokémon have to be strong, too?\\nI'd like you to train me!",
+    "translation_vi": "Pokémon cũng cần phải khỏe nữa ư? Tôi muốn cậu huấn luyện cho tôi quá!",
+    "byte_len": 57,
+    "refs": [
+      {
+        "at": "0x1f3ac8",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04664",
+    "offset_hex": "0x29c880",
+    "pointer_hex": "0x829c880",
+    "original_en": "I'm smack in the middle of a triathlon,\\nbut I'm comfortably ahead.\\lLet's make this a quick battle!",
+    "translation_vi": "Tôi đang thi ba môn phối hợp, nhưng đang dẫn đầu cách biệt. Đấu nhanh một trận nào!",
+    "byte_len": 98,
+    "refs": [
+      {
+        "at": "0x1f3ae5",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04665",
+    "offset_hex": "0x29c8e3",
+    "pointer_hex": "0x829c8e3",
+    "original_en": "I ran out of energy again!",
+    "translation_vi": "Tôi lại cạn sạch năng lượng rồi!",
+    "byte_len": 26,
+    "refs": [
+      {
+        "at": "0x1f3ae9",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04666",
+    "offset_hex": "0x29c8fe",
+    "pointer_hex": "0x829c8fe",
+    "original_en": "I was tops in swimming and cycling,\\nbut I'm not quite that confident with\\lPokémon yet.",
+    "translation_vi": "Bơi lội và đạp xe tôi đứng đầu, nhưng đấu Pokémon thì tôi chưa tự tin lắm.",
+    "byte_len": 86,
+    "refs": [
+      {
+        "at": "0x1f3aef",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04667",
+    "offset_hex": "0x29c955",
+    "pointer_hex": "0x829c955",
+    "original_en": "I do my triathlon training with Pokémon,\\nso I'm pretty confident about my Speed.",
+    "translation_vi": "Tôi tập ba môn phối hợp cùng Pokémon, nên tôi khá tự tin về Speed.",
+    "byte_len": 80,
+    "refs": [
+      {
+        "at": "0x1f3afc",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04668",
+    "offset_hex": "0x29c9a6",
+    "pointer_hex": "0x829c9a6",
+    "original_en": "I need to get more practices in,\\nI guess.",
+    "translation_vi": "Chắc tôi phải luyện tập thêm nhiều nữa rồi.",
+    "byte_len": 41,
+    "refs": [
+      {
+        "at": "0x1f3b00",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04669",
+    "offset_hex": "0x29c9d0",
+    "pointer_hex": "0x829c9d0",
+    "original_en": "Training is meaningful only if you\\nkeep it up regularly.\\pOkay! I'll resume my training!\\nTomorrow!",
+    "translation_vi": "Huấn luyện chỉ có ý nghĩa nếu duy trì đều đặn.\\pĐược rồi! Tôi sẽ tiếp tục tập luyện! Vào ngày mai!",
+    "byte_len": 97,
+    "refs": [
+      {
+        "at": "0x1f3b1a",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04670",
+    "offset_hex": "0x29ca32",
+    "pointer_hex": "0x829ca32",
+    "original_en": "You appear to be training properly…\\nIf you'd like, I'll battle you later!",
+    "translation_vi": "Trông cậu rèn luyện rất bài bản đấy… Nếu thích, lát nữa ta đấu tiếp nhé!",
+    "byte_len": 73,
+    "refs": [
+      {
+        "at": "0x1f3b2a",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04671",
+    "offset_hex": "0x29ca7c",
+    "pointer_hex": "0x829ca7c",
+    "original_en": "Are you keeping up with your training?\\nI sure am!\\lLet me show you the evidence!",
+    "translation_vi": "Cậu vẫn duy trì luyện tập chứ? Tôi thì có đấy! Để tôi cho cậu thấy bằng chứng!",
+    "byte_len": 79,
+    "refs": [
+      {
+        "at": "0x1f3b47",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04672",
+    "offset_hex": "0x29cacc",
+    "pointer_hex": "0x829cacc",
+    "original_en": "I need to get more practices in,\\nI guess.",
+    "translation_vi": "Chắc tôi phải luyện tập thêm nhiều nữa rồi.",
+    "byte_len": 41,
+    "refs": [
+      {
+        "at": "0x1f3b4b",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04673",
+    "offset_hex": "0x29caf6",
+    "pointer_hex": "0x829caf6",
+    "original_en": "I'll resume training tomorrow.\\nLet's battle again sometime!",
+    "translation_vi": "Ngày mai tôi sẽ tập tiếp. Hôm nào lại đấu với nhau nhé!",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x1f3b51",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04674",
+    "offset_hex": "0x29cb32",
+    "pointer_hex": "0x829cb32",
+    "original_en": "Once a Bug Catcher!\\nAnd now a Bug Maniac!\\pBut my love for Pokémon remains\\nunchanged!",
+    "translation_vi": "Trước là Bug Catcher! Giờ là Bug Maniac!\\pNhưng tình yêu tôi dành cho Pokémon vẫn không hề đổi thay!",
+    "byte_len": 84,
+    "refs": [
+      {
+        "at": "0x1f3b5e",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04675",
+    "offset_hex": "0x29cb87",
+    "pointer_hex": "0x829cb87",
+    "original_en": "My ineptitude also remains\\nunchanged…",
+    "translation_vi": "Tay nghề kém cỏi của tôi cũng chẳng đổi thay…",
+    "byte_len": 37,
+    "refs": [
+      {
+        "at": "0x1f3b62",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04676",
+    "offset_hex": "0x29cbad",
+    "pointer_hex": "0x829cbad",
+    "original_en": "All I did was follow my heart, and now\\nthey call me a Bug Maniac…\\pStill, I am an expert on Bug Pokémon,\\nso it's only natural that they call me\\la Bug Maniac.",
+    "translation_vi": "Tôi chỉ làm theo con tim mách bảo, thế mà người ta gọi tôi là Bug Maniac…\\pDù vậy, tôi là chuyên gia về Pokémon hệ Bug, nên họ gọi thế cũng đúng thôi.",
+    "byte_len": 156,
+    "refs": [
+      {
+        "at": "0x1f3b68",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04677",
+    "offset_hex": "0x29cc4a",
+    "pointer_hex": "0x829cc4a",
+    "original_en": "Anna: I'm with my pretty junior student\\npartner. I have to do good!",
+    "translation_vi": "Anna: Chị đi cùng cô em khóa dưới xinh xắn. Chị phải thể hiện thật tốt mới được!",
+    "byte_len": 67,
+    "refs": [
+      {
+        "at": "0x1f3b75",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04678",
+    "offset_hex": "0x29cc8e",
+    "pointer_hex": "0x829cc8e",
+    "original_en": "Anna: I'm with my pretty junior student\\npartner! Let me win!",
+    "translation_vi": "Anna: Chị đang đi cùng cô em khóa dưới xinh xắn đấy! Nhường chị thắng đi!",
+    "byte_len": 60,
+    "refs": [
+      {
+        "at": "0x1f3b79",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04679",
+    "offset_hex": "0x29cccb",
+    "pointer_hex": "0x829cccb",
+    "original_en": "Anna: Your Pokémon have some good\\ncombinations.\\pI'd say you're second only to us!",
+    "translation_vi": "Anna: Pokémon của cậu phối hợp ăn ý đấy.\\pChắc chỉ xếp sau mỗi cặp của bọn chị thôi!",
+    "byte_len": 81,
+    "refs": [
+      {
+        "at": "0x1f3b97",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04680",
+    "offset_hex": "0x29cd1d",
+    "pointer_hex": "0x829cd1d",
+    "original_en": "Anna: We can't take this lying down!\\nYou will come back, won't you?",
+    "translation_vi": "Anna: Bọn chị không chịu nuốt trôi cục tức này đâu! Em sẽ quay lại chứ?",
+    "byte_len": 67,
+    "refs": [
+      {
+        "at": "0x1f3ba1",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1f3c05",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04681",
+    "offset_hex": "0x29cd61",
+    "pointer_hex": "0x829cd61",
+    "original_en": "Anna: If you want to battle us,\\nbring two Pokémon with you.",
+    "translation_vi": "Anna: Nếu muốn đấu với bọn chị thì mang theo hai Pokémon nhé.",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x1f3b7d",
+        "op": "trainerbattle:not_enough_mons"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04682",
+    "offset_hex": "0x29cd9d",
+    "pointer_hex": "0x829cd9d",
+    "original_en": "Meg: I'm going to tag up with my super\\nsenior student partner and beat you!",
+    "translation_vi": "Meg: Em sẽ phối hợp với chị tiền bối siêu đẳng để đánh bại cậu!",
+    "byte_len": 75,
+    "refs": [
+      {
+        "at": "0x1f3bd9",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04683",
+    "offset_hex": "0x29cde9",
+    "pointer_hex": "0x829cde9",
+    "original_en": "Meg: Oh, no!\\nI'm sorry, Anna! I let you down…",
+    "translation_vi": "Meg: Ôi không! Em xin lỗi chị Anna! Em làm chị thất vọng rồi…",
+    "byte_len": 45,
+    "refs": [
+      {
+        "at": "0x1f3bdd",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04684",
+    "offset_hex": "0x29ce17",
+    "pointer_hex": "0x829ce17",
+    "original_en": "Meg: I dragged Anna down…\\nIf I didn't, she would have won!",
+    "translation_vi": "Meg: Em làm vướng chân chị Anna rồi… Không có em thì chị ấy thắng chắc!",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x1f3bfb",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04685",
+    "offset_hex": "0x29ce52",
+    "pointer_hex": "0x829ce52",
+    "original_en": "Meg: Do you only have one Pokémon?\\nWe can't battle with you, then.\\pWe want to have a 2-on-2 battle.",
+    "translation_vi": "Meg: Cậu chỉ có một Pokémon thôi à? Thế thì bọn tớ không đấu được rồi.\\pBọn tớ muốn đấu đôi 2 chọi 2 cơ.",
+    "byte_len": 99,
+    "refs": [
+      {
+        "at": "0x1f3be1",
+        "op": "trainerbattle:not_enough_mons"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04686",
+    "offset_hex": "0x29ceb6",
+    "pointer_hex": "0x829ceb6",
+    "original_en": "Anna: I can't keep losing in front of\\nmy junior partner, right?",
+    "translation_vi": "Anna: Chị không thể cứ thua mãi trước mặt đàn em được, đúng không?",
+    "byte_len": 63,
+    "refs": [
+      {
+        "at": "0x1f3bbe",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04687",
+    "offset_hex": "0x29cef6",
+    "pointer_hex": "0x829cef6",
+    "original_en": "Anna: I couldn't get into the groove.",
+    "translation_vi": "Anna: Chị vẫn chưa vào được guồng thi đấu.",
+    "byte_len": 37,
+    "refs": [
+      {
+        "at": "0x1f3bc2",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04688",
+    "offset_hex": "0x29cf1c",
+    "pointer_hex": "0x829cf1c",
+    "original_en": "Anna: Your Pokémon have some good\\ncombinations.\\pI'd say you're second only to us!",
+    "translation_vi": "Anna: Pokémon của cậu phối hợp ăn ý đấy.\\pChắc chỉ xếp sau mỗi cặp của bọn chị thôi!",
+    "byte_len": 81,
+    "refs": [
+      {
+        "at": "0x1f3bcc",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04689",
+    "offset_hex": "0x29cf6e",
+    "pointer_hex": "0x829cf6e",
+    "original_en": "Anna: If you want to battle us,\\nbring two Pokémon with you.",
+    "translation_vi": "Anna: Nếu muốn đấu với bọn chị thì mang theo hai Pokémon nhé.",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x1f3bc6",
+        "op": "trainerbattle:not_enough_mons"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04690",
+    "offset_hex": "0x29cfaa",
+    "pointer_hex": "0x829cfaa",
+    "original_en": "Meg: I'm going to tag up with my\\nsenior partner and win this time!",
+    "translation_vi": "Meg: Lần này em sẽ phối hợp với chị tiền bối để giành chiến thắng!",
+    "byte_len": 66,
+    "refs": [
+      {
+        "at": "0x1f3c22",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04691",
+    "offset_hex": "0x29cfed",
+    "pointer_hex": "0x829cfed",
+    "original_en": "Meg: Too strong!",
+    "translation_vi": "Meg: Quá mạnh luôn!",
+    "byte_len": 16,
+    "refs": [
+      {
+        "at": "0x1f3c26",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04692",
+    "offset_hex": "0x29cffe",
+    "pointer_hex": "0x829cffe",
+    "original_en": "Meg: I battled together with my\\nsenior partner, but we lost…\\pThat's so discouraging…",
+    "translation_vi": "Meg: Em đã sát cánh cùng chị tiền bối mà vẫn thua…\\pNản lòng ghê gớm…",
+    "byte_len": 84,
+    "refs": [
+      {
+        "at": "0x1f3c30",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04693",
+    "offset_hex": "0x29d053",
+    "pointer_hex": "0x829d053",
+    "original_en": "Meg: Do you only have one Pokémon?\\nWe can't battle with you, then.\\pWe want to have a 2-on-2 battle.",
+    "translation_vi": "Meg: Cậu chỉ có một Pokémon thôi à? Thế thì bọn tớ không đấu được rồi.\\pBọn tớ muốn đấu đôi 2 chọi 2 cơ.",
+    "byte_len": 99,
+    "refs": [
+      {
+        "at": "0x1f3c2a",
+        "op": "trainerbattle:not_enough_mons"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04694",
+    "offset_hex": "0x29d0b7",
+    "pointer_hex": "0x829d0b7",
+    "original_en": "Isn't it nice? To battle while looking\\nat pretty flowers?",
+    "translation_vi": "Vừa ngắm những bông hoa xinh đẹp vừa thi đấu, chẳng phải tuyệt lắm sao?",
+    "byte_len": 57,
+    "refs": [
+      {
+        "at": "0x1f3c3d",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04695",
+    "offset_hex": "0x29d0f1",
+    "pointer_hex": "0x829d0f1",
+    "original_en": "Oh, that's quite impressive!",
+    "translation_vi": "Ồ, ấn tượng đấy chứ!",
+    "byte_len": 28,
+    "refs": [
+      {
+        "at": "0x1f3c41",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04696",
+    "offset_hex": "0x29d10e",
+    "pointer_hex": "0x829d10e",
+    "original_en": "It feels wonderful to go for a jog\\nwhile looking at flowers.",
+    "translation_vi": "Vừa chạy bộ vừa ngắm hoa thì sảng khoái tuyệt vời luôn.",
+    "byte_len": 60,
+    "refs": [
+      {
+        "at": "0x1f3c47",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04697",
+    "offset_hex": "0x29d14b",
+    "pointer_hex": "0x829d14b",
+    "original_en": "Let me demonstrate the power\\nhidden within a Psychic Pokémon!",
+    "translation_vi": "Để tôi cho cậu thấy sức mạnh tiềm ẩn trong một Pokémon hệ Psychic!",
+    "byte_len": 61,
+    "refs": [
+      {
+        "at": "0x1f3c54",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04698",
+    "offset_hex": "0x29d189",
+    "pointer_hex": "0x829d189",
+    "original_en": "Astonishing!",
+    "translation_vi": "Thật đáng kinh ngạc!",
+    "byte_len": 12,
+    "refs": [
+      {
+        "at": "0x1f3c58",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04699",
+    "offset_hex": "0x29d196",
+    "pointer_hex": "0x829d196",
+    "original_en": "Psychic Pokémon are complex.\\nYou should try catching some.",
+    "translation_vi": "Pokémon hệ Psychic rất bí ẩn. Cậu nên thử bắt vài con xem.",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x1f3c5e",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04700",
+    "offset_hex": "0x29d1d1",
+    "pointer_hex": "0x829d1d1",
+    "original_en": "Concentrate on getting the win.\\nThat's how I battle!",
+    "translation_vi": "Tập trung toàn lực để giành chiến thắng. Đó là cách chiến đấu của tôi!",
+    "byte_len": 52,
+    "refs": [
+      {
+        "at": "0x1f3c6b",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04701",
+    "offset_hex": "0x29d206",
+    "pointer_hex": "0x829d206",
+    "original_en": "I don't waste any time being angry\\nover a loss--I would rather train.",
+    "translation_vi": "Tôi không phí thời gian tức giận vì một trận thua--thà để thời gian đó luyện tập.",
+    "byte_len": 69,
+    "refs": [
+      {
+        "at": "0x1f3c6f",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04702",
+    "offset_hex": "0x29d24c",
+    "pointer_hex": "0x829d24c",
+    "original_en": "I think that if you worry about losing,\\nyou're more likely to lose.",
+    "translation_vi": "Tôi nghĩ càng lo sợ thua cuộc thì càng dễ thất bại hơn.",
+    "byte_len": 67,
+    "refs": [
+      {
+        "at": "0x1f3c75",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 117 (0.32)"
+    ]
+  },
+  {
+    "id": "D04703",
+    "offset_hex": "0x29d290",
+    "pointer_hex": "0x829d290",
+    "original_en": "The aroma of flowers has a magical\\npower. It cleanses us body and soul.",
+    "translation_vi": "Hương hoa mang một sức mạnh kỳ diệu. Nó gột rửa cả cơ thể và tâm hồn ta.",
+    "byte_len": 71,
+    "refs": [
+      {
+        "at": "0x1f3f8d",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04704",
+    "offset_hex": "0x29d2d8",
+    "pointer_hex": "0x829d2d8",
+    "original_en": "Oh, dear me.\\nI seem to have lost.",
+    "translation_vi": "Ôi trời ơi. Hình như tôi thua rồi.",
+    "byte_len": 33,
+    "refs": [
+      {
+        "at": "0x1f3f91",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04705",
+    "offset_hex": "0x29d2fa",
+    "pointer_hex": "0x829d2fa",
+    "original_en": "Flowers, Pokémon…\\nI love whatever smells nice.\\pStinky things…\\nI'll pass.",
+    "translation_vi": "Hoa cỏ, Pokémon… Bất cứ thứ gì thơm ngát tôi đều mê.\\pMấy thứ bốc mùi á… Xin miễn nhé.",
+    "byte_len": 72,
+    "refs": [
+      {
+        "at": "0x1f3fab",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04706",
+    "offset_hex": "0x29d343",
+    "pointer_hex": "0x829d343",
+    "original_en": "Sniff… That odor--it's a Pokénav!\\nWe must register each other!",
+    "translation_vi": "Hít hít… Mùi hương này--đúng là PokéNav rồi! Chúng ta phải lưu số nhau thôi!",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x1f3fbb",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04707",
+    "offset_hex": "0x29d382",
+    "pointer_hex": "0x829d382",
+    "original_en": "Were you drawn here by the sweet\\naroma?",
+    "translation_vi": "Cậu bị mùi hương ngọt ngào dẫn lối tới đây sao?",
+    "byte_len": 39,
+    "refs": [
+      {
+        "at": "0x1f3fd8",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04708",
+    "offset_hex": "0x29d3aa",
+    "pointer_hex": "0x829d3aa",
+    "original_en": "The power of aroma…\\nIt didn't seem to do much.",
+    "translation_vi": "Sức mạnh của mùi hương… Có vẻ chẳng ăn thua mấy.",
+    "byte_len": 46,
+    "refs": [
+      {
+        "at": "0x1f3fdc",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04709",
+    "offset_hex": "0x29d3d9",
+    "pointer_hex": "0x829d3d9",
+    "original_en": "If you use a sweet aroma properly,\\nPokémon will be attracted by it.",
+    "translation_vi": "Nếu biết dùng hương thơm đúng cách, Pokémon sẽ bị cuốn hút tới ngay.",
+    "byte_len": 67,
+    "refs": [
+      {
+        "at": "0x1f3fe2",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04710",
+    "offset_hex": "0x29d41d",
+    "pointer_hex": "0x829d41d",
+    "original_en": "Bird Pokémon that Fly elegantly in\\nthe sky… They're the best!",
+    "translation_vi": "Những Pokémon chim bay lượn tao nhã trên bầu trời… Chúng là tuyệt nhất!",
+    "byte_len": 61,
+    "refs": [
+      {
+        "at": "0x1f407f",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04711",
+    "offset_hex": "0x29d45b",
+    "pointer_hex": "0x829d45b",
+    "original_en": "Urgh…\\nI crashed…",
+    "translation_vi": "Hự… Rơi đài rồi…",
+    "byte_len": 16,
+    "refs": [
+      {
+        "at": "0x1f4083",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04712",
+    "offset_hex": "0x29d46c",
+    "pointer_hex": "0x829d46c",
+    "original_en": "You've got great Pokémon.\\nI'll have to train mine better.",
+    "translation_vi": "Cậu có những Pokémon tuyệt vời thật. Tôi phải huấn luyện lại đàn chim của mình thôi.",
+    "byte_len": 57,
+    "refs": [
+      {
+        "at": "0x1f4089",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04713",
+    "offset_hex": "0x29d4a6",
+    "pointer_hex": "0x829d4a6",
+    "original_en": "Take flight!\\nMy Bird Pokémon!",
+    "translation_vi": "Tung cánh nào! Những Pokémon chim của ta!",
+    "byte_len": 29,
+    "refs": [
+      {
+        "at": "0x1f4096",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04714",
+    "offset_hex": "0x29d4c4",
+    "pointer_hex": "0x829d4c4",
+    "original_en": "They did take flight…",
+    "translation_vi": "Chúng tung cánh thật… rồi bay mất tiêu…",
+    "byte_len": 21,
+    "refs": [
+      {
+        "at": "0x1f409a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04715",
+    "offset_hex": "0x29d4da",
+    "pointer_hex": "0x829d4da",
+    "original_en": "If they'd get stronger, they'd be able\\nto fly more freely…",
+    "translation_vi": "Nếu mạnh mẽ hơn, chúng sẽ bay lượn tự do hơn nhiều…",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x1f40a0",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04716",
+    "offset_hex": "0x29d515",
+    "pointer_hex": "0x829d515",
+    "original_en": "I'm a Fisherman, but also a Trainer.\\nI'm raising the Pokémon I caught.",
+    "translation_vi": "Tôi là Cần thủ, nhưng cũng là Huấn luyện viên. Tôi nuôi nấng những Pokémon mình câu được.",
+    "byte_len": 70,
+    "refs": [
+      {
+        "at": "0x1f3fef",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04717",
+    "offset_hex": "0x29d55c",
+    "pointer_hex": "0x829d55c",
+    "original_en": "I thought I was doing okay in my\\ntraining…",
+    "translation_vi": "Cứ ngỡ mình huấn luyện cũng ra trò rồi chứ…",
+    "byte_len": 42,
+    "refs": [
+      {
+        "at": "0x1f3ff3",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04718",
+    "offset_hex": "0x29d587",
+    "pointer_hex": "0x829d587",
+    "original_en": "I couldn't win by training Pokémon\\nwhile I fished…\\pWas I doing things in half measures?",
+    "translation_vi": "Vừa câu cá vừa huấn luyện thì không thắng nổi rồi…\\pChẳng lẽ mình làm gì cũng chỉ nửa vời thôi sao?",
+    "byte_len": 87,
+    "refs": [
+      {
+        "at": "0x1f3ff9",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04719",
+    "offset_hex": "0x29d5df",
+    "pointer_hex": "0x829d5df",
+    "original_en": "For Fishermen, equipment is the key.\\pBut for Trainers, the key ingredients\\nare Pokémon and heart, of course!",
+    "translation_vi": "Với Cần thủ, trang bị là mấu chốt.\\pNhưng với Huấn luyện viên, yếu tố then chốt dĩ nhiên là Pokémon và trái tim!",
+    "byte_len": 108,
+    "refs": [
+      {
+        "at": "0x1f4006",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04720",
+    "offset_hex": "0x29d64c",
+    "pointer_hex": "0x829d64c",
+    "original_en": "I was beaten in heart?",
+    "translation_vi": "Mình thua về mặt trái tim sao?",
+    "byte_len": 22,
+    "refs": [
+      {
+        "at": "0x1f400a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04721",
+    "offset_hex": "0x29d663",
+    "pointer_hex": "0x829d663",
+    "original_en": "Come to think of it, fishing is a battle\\nbetween a Fisherman and a Pokémon.",
+    "translation_vi": "Nghĩ lại thì, câu cá cũng là cuộc chiến giữa Cần thủ và Pokémon.",
+    "byte_len": 75,
+    "refs": [
+      {
+        "at": "0x1f4010",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04722",
+    "offset_hex": "0x29d6af",
+    "pointer_hex": "0x829d6af",
+    "original_en": "Let my melody rock your soul!",
+    "translation_vi": "Hãy để giai điệu của tôi khuấy đảo tâm hồn cậu!",
+    "byte_len": 29,
+    "refs": [
+      {
+        "at": "0x1f401d",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04723",
+    "offset_hex": "0x29d6cd",
+    "pointer_hex": "0x829d6cd",
+    "original_en": "La-lalala…",
+    "translation_vi": "La-lalala…",
+    "byte_len": 10,
+    "refs": [
+      {
+        "at": "0x1f4021",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04724",
+    "offset_hex": "0x29d6d8",
+    "pointer_hex": "0x829d6d8",
+    "original_en": "An electric guitar doesn't always\\nhave to be noisy…\\pIt can be strummed to squeeze out\\nthis heart-stirring melody…",
+    "translation_vi": "Guitar điện đâu phải lúc nào cũng ồn ào…\\pNó có thể gảy nên những khúc nhạc lay động lòng người thế này…",
+    "byte_len": 113,
+    "refs": [
+      {
+        "at": "0x1f403b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04725",
+    "offset_hex": "0x29d74a",
+    "pointer_hex": "0x829d74a",
+    "original_en": "When I compose better melodies,\\nyou have to come listen, okay?",
+    "translation_vi": "Khi tôi sáng tác được giai điệu hay hơn, cậu nhớ đến nghe đấy nhé?",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x1f404b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04726",
+    "offset_hex": "0x29d789",
+    "pointer_hex": "0x829d789",
+    "original_en": "A melody from my Pokémon and me…\\nLet us deliver it to your soul!",
+    "translation_vi": "Giai điệu từ tôi và Pokémon… Hãy để bọn tôi truyền đến tâm hồn cậu!",
+    "byte_len": 64,
+    "refs": [
+      {
+        "at": "0x1f4068",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04727",
+    "offset_hex": "0x29d7ca",
+    "pointer_hex": "0x829d7ca",
+    "original_en": "La-lalala…",
+    "translation_vi": "La-lalala…",
+    "byte_len": 10,
+    "refs": [
+      {
+        "at": "0x1f406c",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04728",
+    "offset_hex": "0x29d7d5",
+    "pointer_hex": "0x829d7d5",
+    "original_en": "When I play, my emotions should reach\\nyou through my electric guitar…",
+    "translation_vi": "Khi tôi chơi đàn, cảm xúc sẽ chạm tới cậu qua từng tiếng guitar điện…",
+    "byte_len": 69,
+    "refs": [
+      {
+        "at": "0x1f4072",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04729",
+    "offset_hex": "0x29d81b",
+    "pointer_hex": "0x829d81b",
+    "original_en": "Go, go, go!\\nPokémon 1, 2, and 3!",
+    "translation_vi": "Tiến lên, tiến lên! Pokémon số 1, số 2 và số 3!",
+    "byte_len": 32,
+    "refs": [
+      {
+        "at": "0x1f40ad",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04730",
+    "offset_hex": "0x29d83c",
+    "pointer_hex": "0x829d83c",
+    "original_en": "Come in, Pokémon! Are you okay?\\nPokémon 1, 2, and 3?!",
+    "translation_vi": "Nghe rõ trả lời, Pokémon! Các bạn ổn chứ? Pokémon số 1, số 2 và số 3?!",
+    "byte_len": 53,
+    "refs": [
+      {
+        "at": "0x1f40b1",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04731",
+    "offset_hex": "0x29d872",
+    "pointer_hex": "0x829d872",
+    "original_en": "Isn't it cool that I have a Pokémon\\nbattle team?\\pYou can copy me--I don't mind!",
+    "translation_vi": "Có một biệt đội chiến đấu Pokémon chẳng phải ngầu lắm sao?\\pCậu bắt chước tớ cũng được--tớ không phiền đâu!",
+    "byte_len": 79,
+    "refs": [
+      {
+        "at": "0x1f40b7",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 118 (0.33)"
+    ]
+  },
+  {
+    "id": "D04732",
+    "offset_hex": "0x29d8c2",
+    "pointer_hex": "0x829d8c2",
+    "original_en": "We're the Mimic Circle!\\nWe Mimic what you do!",
+    "translation_vi": "Bọn tớ là Mimic Circle! Cậu làm gì bọn tớ bắt chước nấy!",
+    "byte_len": 45,
+    "refs": [
+      {
+        "at": "0x1f478c",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04733",
+    "offset_hex": "0x29d8f0",
+    "pointer_hex": "0x829d8f0",
+    "original_en": "Whoopsie!\\nI lost!",
+    "translation_vi": "Úi chà! Thua mất rồi!",
+    "byte_len": 17,
+    "refs": [
+      {
+        "at": "0x1f4790",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04734",
+    "offset_hex": "0x29d902",
+    "pointer_hex": "0x829d902",
+    "original_en": "What's so good about mimicry?\\pFufufu…\\nYou'll never understand…",
+    "translation_vi": "Bắt chước thì có gì hay ho á?\\pFufufu…\\nCậu sẽ chẳng bao giờ hiểu được đâu…",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x1f4796",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04735",
+    "offset_hex": "0x29d941",
+    "pointer_hex": "0x829d941",
+    "original_en": "So, we finally meet!\\nMy Bug Pokémon will keep you company!",
+    "translation_vi": "Cuối cùng cũng gặp rồi! Pokémon hệ Bug của tớ sẽ tiếp đón cậu!",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x1f47a3",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04736",
+    "offset_hex": "0x29d97c",
+    "pointer_hex": "0x829d97c",
+    "original_en": "I wish we'd never met…",
+    "translation_vi": "Giá như chúng mình đừng gặp nhau…",
+    "byte_len": 22,
+    "refs": [
+      {
+        "at": "0x1f47a7",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04737",
+    "offset_hex": "0x29d993",
+    "pointer_hex": "0x829d993",
+    "original_en": "I want to Mimic you some more.\\nCan you hurry up and move?",
+    "translation_vi": "Tớ muốn bắt chước cậu thêm nữa. Cậu di chuyển nhanh lên chút được không?",
+    "byte_len": 57,
+    "refs": [
+      {
+        "at": "0x1f47ad",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04738",
+    "offset_hex": "0x29d9cd",
+    "pointer_hex": "0x829d9cd",
+    "original_en": "If you step forward, we step forward.\\pIf you turn right, we turn, too…",
+    "translation_vi": "Cậu bước tới, bọn tớ bước tới.\\pCậu rẽ phải, bọn tớ cũng rẽ phải…",
+    "byte_len": 70,
+    "refs": [
+      {
+        "at": "0x1f47ba",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04739",
+    "offset_hex": "0x29da14",
+    "pointer_hex": "0x829da14",
+    "original_en": "But if you win, I lose…",
+    "translation_vi": "Nhưng nếu cậu thắng, thì tớ lại thua…",
+    "byte_len": 23,
+    "refs": [
+      {
+        "at": "0x1f47be",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04740",
+    "offset_hex": "0x29da2c",
+    "pointer_hex": "0x829da2c",
+    "original_en": "I can't Mimic you winning the match.\\nThat's just impossible…\\lIt's burning me up…",
+    "translation_vi": "Tớ không thể bắt chước việc cậu thắng trận được. Chuyện đó bất khả thi rồi… Tức ghê…",
+    "byte_len": 80,
+    "refs": [
+      {
+        "at": "0x1f47c4",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04741",
+    "offset_hex": "0x29da7d",
+    "pointer_hex": "0x829da7d",
+    "original_en": "Yep, you've finally caught me!\\nOr were you trying to avoid me?",
+    "translation_vi": "Chuẩn rồi, cuối cùng cậu cũng bắt kịp tớ! Hay là cậu đang cố né tớ đấy?",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x1f47d1",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04742",
+    "offset_hex": "0x29dabc",
+    "pointer_hex": "0x829dabc",
+    "original_en": "Whoop, that was a great match!",
+    "translation_vi": "Oa, một trận đấu tuyệt hay!",
+    "byte_len": 30,
+    "refs": [
+      {
+        "at": "0x1f47d5",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04743",
+    "offset_hex": "0x29dadb",
+    "pointer_hex": "0x829dadb",
+    "original_en": "We're the Mimic Circle!\\nI hope you enjoyed our performance.",
+    "translation_vi": "Bọn tớ là Mimic Circle! Mong là cậu thích màn trình diễn vừa rồi.",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x1f47db",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04744",
+    "offset_hex": "0x29db17",
+    "pointer_hex": "0x829db17",
+    "original_en": "You don't know who I am, do you?\\pBut, I also don't know you.\\nSo, we'll battle!",
+    "translation_vi": "Cậu đâu biết tôi là ai, đúng không?\\pNhưng tôi cũng đâu biết cậu là ai. Thế nên, ta đấu một trận nhé!",
+    "byte_len": 78,
+    "refs": [
+      {
+        "at": "0x1f47e8",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04745",
+    "offset_hex": "0x29db66",
+    "pointer_hex": "0x829db66",
+    "original_en": "You're pretty strong!",
+    "translation_vi": "Cậu mạnh phết đấy!",
+    "byte_len": 21,
+    "refs": [
+      {
+        "at": "0x1f47ec",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04746",
+    "offset_hex": "0x29db7c",
+    "pointer_hex": "0x829db7c",
+    "original_en": "Until you go away somewhere, we'll\\nkeep on mimicking your every move.",
+    "translation_vi": "Cho đến khi cậu rời đi, bọn tớ vẫn sẽ tiếp tục bắt chước từng cử động của cậu.",
+    "byte_len": 69,
+    "refs": [
+      {
+        "at": "0x1f47f2",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04747",
+    "offset_hex": "0x29dbc2",
+    "pointer_hex": "0x829dbc2",
+    "original_en": "The Mimic Circle was formed by people\\nwho like to Mimic.\\pA battle starts the instant we meet!",
+    "translation_vi": "Mimic Circle được lập nên bởi những người thích bắt chước.\\pKhoảnh khắc ta chạm mặt là trận đấu bắt đầu!",
+    "byte_len": 93,
+    "refs": [
+      {
+        "at": "0x1f47ff",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04748",
+    "offset_hex": "0x29dc20",
+    "pointer_hex": "0x829dc20",
+    "original_en": "I give up!",
+    "translation_vi": "Tôi chịu thua!",
+    "byte_len": 10,
+    "refs": [
+      {
+        "at": "0x1f4803",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04749",
+    "offset_hex": "0x29dc2b",
+    "pointer_hex": "0x829dc2b",
+    "original_en": "Won't you join our Mimic Circle?",
+    "translation_vi": "Cậu có muốn gia nhập Mimic Circle của bọn tớ không?",
+    "byte_len": 32,
+    "refs": [
+      {
+        "at": "0x1f4809",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04750",
+    "offset_hex": "0x29dc4c",
+    "pointer_hex": "0x829dc4c",
+    "original_en": "Who has the knowledge and\\nthe technique for survival?\\pPokémon Rangers, that's who!",
+    "translation_vi": "Ai là người có kiến thức và kỹ năng sinh tồn tuyệt đỉnh?\\pChính là các Pokémon Ranger chứ ai!",
+    "byte_len": 82,
+    "refs": [
+      {
+        "at": "0x1f4816",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04751",
+    "offset_hex": "0x29dc9f",
+    "pointer_hex": "0x829dc9f",
+    "original_en": "I didn't have enough Pokémon\\nknow-how…",
+    "translation_vi": "Hiểu biết về Pokémon của tôi vẫn còn thiếu sót…",
+    "byte_len": 38,
+    "refs": [
+      {
+        "at": "0x1f481a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04752",
+    "offset_hex": "0x29dcc6",
+    "pointer_hex": "0x829dcc6",
+    "original_en": "To break away from civilization and\\nawaken the wild spirit within!\\pThat's our vision.",
+    "translation_vi": "Thoát ly nền văn minh và đánh thức bản năng hoang dã bên trong!\\pĐó chính là lý tưởng của chúng tôi.",
+    "byte_len": 85,
+    "refs": [
+      {
+        "at": "0x1f4834",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04753",
+    "offset_hex": "0x29dd1c",
+    "pointer_hex": "0x829dd1c",
+    "original_en": "I hope you'll give me a rematch without\\nmocking my lack of knowledge.",
+    "translation_vi": "Mong cậu sẽ tái đấu mà không chê cười sự thiếu hiểu biết của tôi.",
+    "byte_len": 69,
+    "refs": [
+      {
+        "at": "0x1f4844",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04754",
+    "offset_hex": "0x29dd62",
+    "pointer_hex": "0x829dd62",
+    "original_en": "I'm going to regain my wild spirit by\\nbeing together with Pokémon.",
+    "translation_vi": "Tôi sẽ tìm lại bản năng hoang dã khi đồng hành cùng Pokémon.",
+    "byte_len": 66,
+    "refs": [
+      {
+        "at": "0x1f4861",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04755",
+    "offset_hex": "0x29dda5",
+    "pointer_hex": "0x829dda5",
+    "original_en": "You've remained strong!",
+    "translation_vi": "Cậu vẫn mạnh mẽ như xưa!",
+    "byte_len": 23,
+    "refs": [
+      {
+        "at": "0x1f4865",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04756",
+    "offset_hex": "0x29ddbd",
+    "pointer_hex": "0x829ddbd",
+    "original_en": "Believe in your Pokémon.\\nBelieve in yourself.\\pThe road will reveal itself to you.",
+    "translation_vi": "Hãy tin vào Pokémon của cậu. Hãy tin vào chính mình.\\pCon đường phía trước rồi sẽ tự mở ra.",
+    "byte_len": 81,
+    "refs": [
+      {
+        "at": "0x1f486b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04757",
+    "offset_hex": "0x29de0f",
+    "pointer_hex": "0x829de0f",
+    "original_en": "Oh? Look at you.\\pFor someone on an adventure,\\nyou're traveling awfully light.",
+    "translation_vi": "Ồ? Nhìn cậu xem.\\pĐi thám hiểm mà hành trang của cậu gọn nhẹ bất ngờ đấy.",
+    "byte_len": 77,
+    "refs": [
+      {
+        "at": "0x1f4878",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04758",
+    "offset_hex": "0x29de5d",
+    "pointer_hex": "0x829de5d",
+    "original_en": "Accidents happen when you're not\\nprepared!",
+    "translation_vi": "Tai nạn sẽ ập đến nếu không chuẩn bị kỹ!",
+    "byte_len": 42,
+    "refs": [
+      {
+        "at": "0x1f487c",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04759",
+    "offset_hex": "0x29de88",
+    "pointer_hex": "0x829de88",
+    "original_en": "You're traveling light but you have\\neverything you need.\\pYou're on top of things mentally and\\nphysically, too.",
+    "translation_vi": "Hành trang gọn nhẹ nhưng cậu có đủ mọi thứ cần thiết.\\pCả thể chất lẫn tinh thần cậu đều làm chủ rất tốt.",
+    "byte_len": 110,
+    "refs": [
+      {
+        "at": "0x1f4896",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04760",
+    "offset_hex": "0x29def7",
+    "pointer_hex": "0x829def7",
+    "original_en": "Do you have a Pokénav?\\nIt's a must-have tool for any Trainer.\\pOh, you do have one!\\nLet's register each other, then!",
+    "translation_vi": "Cậu có PokéNav không? Đó là vật bất ly thân của mọi HLV đấy.\\pỒ, cậu có này! Vậy cùng lưu số nhau nhé!",
+    "byte_len": 115,
+    "refs": [
+      {
+        "at": "0x1f48a6",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04761",
+    "offset_hex": "0x29df6b",
+    "pointer_hex": "0x829df6b",
+    "original_en": "How's your journey with Pokémon\\ngoing?",
+    "translation_vi": "Chuyến hành trình cùng Pokémon của cậu tiến triển thế nào rồi?",
+    "byte_len": 38,
+    "refs": [
+      {
+        "at": "0x1f48c3",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04762",
+    "offset_hex": "0x29df92",
+    "pointer_hex": "0x829df92",
+    "original_en": "I'm still missing something…",
+    "translation_vi": "Mình vẫn còn thiếu sót điều gì đó…",
+    "byte_len": 28,
+    "refs": [
+      {
+        "at": "0x1f48c7",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04763",
+    "offset_hex": "0x29dfaf",
+    "pointer_hex": "0x829dfaf",
+    "original_en": "In the same way that you, as a Trainer,\\nrely on your Pokémon, your Pokémon\\lrely on you.",
+    "translation_vi": "Giống như một Huấn luyện viên nương tựa vào Pokémon, Pokémon cũng nương tựa vào cậu.",
+    "byte_len": 87,
+    "refs": [
+      {
+        "at": "0x1f48cd",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04764",
+    "offset_hex": "0x29e007",
+    "pointer_hex": "0x829e007",
+    "original_en": "The vast sky holds untold promise!\\pNothing can compare to the sheer\\nexhilaration of flight!",
+    "translation_vi": "Bầu trời bao la chứa đựng bao hứa hẹn!\\pKhông gì sánh bằng cảm giác phấn khích tột độ khi được bay lượn!",
+    "byte_len": 91,
+    "refs": [
+      {
+        "at": "0x1f48da",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04765",
+    "offset_hex": "0x29e063",
+    "pointer_hex": "0x829e063",
+    "original_en": "Down and out!",
+    "translation_vi": "Rơi tự do rồi!",
+    "byte_len": 13,
+    "refs": [
+      {
+        "at": "0x1f48de",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04766",
+    "offset_hex": "0x29e071",
+    "pointer_hex": "0x829e071",
+    "original_en": "My Bird Pokémon made my dreams of\\nflying come true!",
+    "translation_vi": "Các Pokémon chim đã biến giấc mơ bay lượn của tôi thành hiện thực!",
+    "byte_len": 51,
+    "refs": [
+      {
+        "at": "0x1f48e4",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04767",
+    "offset_hex": "0x29e0a5",
+    "pointer_hex": "0x829e0a5",
+    "original_en": "I'll show you the true potential of me\\nand my Bird Pokémon!",
+    "translation_vi": "Tôi sẽ cho cậu thấy tiềm năng thực sự của tôi và Pokémon chim!",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x1f48f1",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04768",
+    "offset_hex": "0x29e0e1",
+    "pointer_hex": "0x829e0e1",
+    "original_en": "We lacked potential…",
+    "translation_vi": "Bọn tôi vẫn còn thiếu tiềm năng…",
+    "byte_len": 20,
+    "refs": [
+      {
+        "at": "0x1f48f5",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04769",
+    "offset_hex": "0x29e0f6",
+    "pointer_hex": "0x829e0f6",
+    "original_en": "Ever since I was a little kid, I always\\nadmired Bird Pokémon…",
+    "translation_vi": "Từ khi còn bé tí, tôi đã luôn ngưỡng mộ các Pokémon chim…",
+    "byte_len": 61,
+    "refs": [
+      {
+        "at": "0x1f48fb",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04770",
+    "offset_hex": "0x29e134",
+    "pointer_hex": "0x829e134",
+    "original_en": "To lurk in shadows, and live in\\ndarkness… That is my destiny.\\pI emerge to challenge you!",
+    "translation_vi": "Ẩn mình trong bóng tối, sống nơi u minh… Đó là số mệnh của ta.\\pTa xuất hiện để thách đấu ngươi!",
+    "byte_len": 88,
+    "refs": [
+      {
+        "at": "0x1f4908",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04771",
+    "offset_hex": "0x29e18d",
+    "pointer_hex": "0x829e18d",
+    "original_en": "I admit defeat!",
+    "translation_vi": "Ta xin chịu thua!",
+    "byte_len": 15,
+    "refs": [
+      {
+        "at": "0x1f490c",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04772",
+    "offset_hex": "0x29e19d",
+    "pointer_hex": "0x829e19d",
+    "original_en": "Those defeated in battle withdraw\\nquietly back into the shadows.\\lThat, too, is destiny…",
+    "translation_vi": "Kẻ bại trận sẽ lặng lẽ lui về bóng tối. Đó cũng là số mệnh…",
+    "byte_len": 87,
+    "refs": [
+      {
+        "at": "0x1f4912",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04773",
+    "offset_hex": "0x29e1f5",
+    "pointer_hex": "0x829e1f5",
+    "original_en": "If you're not on your guard,\\nyou're in for some pain!",
+    "translation_vi": "Không cẩn thận phòng bị là nếm mùi đau đớn ngay!",
+    "byte_len": 53,
+    "refs": [
+      {
+        "at": "0x1f491f",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04774",
+    "offset_hex": "0x29e22b",
+    "pointer_hex": "0x829e22b",
+    "original_en": "You're surprisingly good!",
+    "translation_vi": "Cậu giỏi ngoài dự liệu đấy!",
+    "byte_len": 25,
+    "refs": [
+      {
+        "at": "0x1f4923",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04775",
+    "offset_hex": "0x29e245",
+    "pointer_hex": "0x829e245",
+    "original_en": "My surprise attack ended in\\nfailure…",
+    "translation_vi": "Đòn đánh lén của tôi kết thúc trong thất bại rồi…",
+    "byte_len": 36,
+    "refs": [
+      {
+        "at": "0x1f4929",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04776",
+    "offset_hex": "0x29e26a",
+    "pointer_hex": "0x829e26a",
+    "original_en": "To hide a tree, use a forest!",
+    "translation_vi": "Muốn giấu một cái cây, hãy giấu vào rừng rậm!",
+    "byte_len": 29,
+    "refs": [
+      {
+        "at": "0x1f4936",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04777",
+    "offset_hex": "0x29e288",
+    "pointer_hex": "0x829e288",
+    "original_en": "I bow to your superiority.",
+    "translation_vi": "Ta tâm phục khẩu phục trước tài năng của ngươi.",
+    "byte_len": 26,
+    "refs": [
+      {
+        "at": "0x1f493a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04778",
+    "offset_hex": "0x29e2a3",
+    "pointer_hex": "0x829e2a3",
+    "original_en": "To hide a tree, use a forest!\\nTo hide a Pokémon, use a Pokémon!\\pThere is no deep, hidden meaning\\nto that.",
+    "translation_vi": "Giấu cây trong rừng! Giấu Pokémon vào Pokémon!\\pThực ra câu đó chẳng có ý nghĩa sâu xa gì đâu.",
+    "byte_len": 105,
+    "refs": [
+      {
+        "at": "0x1f4940",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04779",
+    "offset_hex": "0x29e30d",
+    "pointer_hex": "0x829e30d",
+    "original_en": "You spoke to me…\\nSo you want to challenge me!\\pSure! I'll try out the Pokémon I caught\\nwhile Surfing!",
+    "translation_vi": "Cậu bắt chuyện với tôi… Tức là muốn thách đấu chứ gì!\\pĐược thôi! Tôi sẽ thử sức với Pokémon bắt được lúc Surf!",
+    "byte_len": 100,
+    "refs": [
+      {
+        "at": "0x1f494d",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04780",
+    "offset_hex": "0x29e372",
+    "pointer_hex": "0x829e372",
+    "original_en": "I don't have a clue about what it\\ntakes to win.",
+    "translation_vi": "Tôi chẳng biết làm sao để giành chiến thắng nữa.",
+    "byte_len": 47,
+    "refs": [
+      {
+        "at": "0x1f4951",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04781",
+    "offset_hex": "0x29e3a2",
+    "pointer_hex": "0x829e3a2",
+    "original_en": "Go for a Surf on my Pokémon…\\pThen fish off its back…\\pIt's an indescribably luxuriant moment!",
+    "translation_vi": "Cưỡi Pokémon đi Surf…\\pRồi ngồi trên lưng nó câu cá…\\pĐó là khoảnh khắc xa hoa khó tả thành lời!",
+    "byte_len": 92,
+    "refs": [
+      {
+        "at": "0x1f4957",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04782",
+    "offset_hex": "0x29e3ff",
+    "pointer_hex": "0x829e3ff",
+    "original_en": "Hit me with a power chord!\\nVictory is mine!\\lIt's our time to shine, whoa, yeah!",
+    "translation_vi": "Đập tan mọi thứ bằng hợp âm uy lực nào! Chiến thắng thuộc về ta! Đã đến lúc tỏa sáng rồi, ô dè!",
+    "byte_len": 79,
+    "refs": [
+      {
+        "at": "0x1f4964",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04783",
+    "offset_hex": "0x29e44f",
+    "pointer_hex": "0x829e44f",
+    "original_en": "You showed me who's the boss!\\nWe'll have to take the loss, oh, no!",
+    "translation_vi": "Cậu cho tôi biết ai mới là trùm! Đành phải ngậm ngùi nhận thua thôi, ôi không!",
+    "byte_len": 66,
+    "refs": [
+      {
+        "at": "0x1f4968",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04784",
+    "offset_hex": "0x29e492",
+    "pointer_hex": "0x829e492",
+    "original_en": "Hit me with another power chord!\\nLeave me alone!\\lYour win you have to atone!",
+    "translation_vi": "Lại một hợp âm uy lực nữa! Để tôi yên đi! Chiến thắng của cậu sẽ phải trả giá đấy!",
+    "byte_len": 76,
+    "refs": [
+      {
+        "at": "0x1f496e",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04785",
+    "offset_hex": "0x29e4df",
+    "pointer_hex": "0x829e4df",
+    "original_en": "Hohoho!\\nI like kid Trainers!\\lLet's have a good one!",
+    "translation_vi": "Hô hô hô! Bác thích mấy HLV nhí lắm! Đấu một trận ra trò nào!",
+    "byte_len": 51,
+    "refs": [
+      {
+        "at": "0x1f497b",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04786",
+    "offset_hex": "0x29e513",
+    "pointer_hex": "0x829e513",
+    "original_en": "You're pretty amazing!\\nHohoho!",
+    "translation_vi": "Cháu cừ lắm! Hô hô hô!",
+    "byte_len": 30,
+    "refs": [
+      {
+        "at": "0x1f497f",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04787",
+    "offset_hex": "0x29e532",
+    "pointer_hex": "0x829e532",
+    "original_en": "Hohoho!\\nI'll try emulating the pep of kid\\lTrainers like you!",
+    "translation_vi": "Hô hô hô! Bác sẽ học theo sự nhiệt huyết của các HLV nhí như cháu!",
+    "byte_len": 60,
+    "refs": [
+      {
+        "at": "0x1f4985",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04788",
+    "offset_hex": "0x29e56f",
+    "pointer_hex": "0x829e56f",
+    "original_en": "Wherever and whenever I may be,\\nI always have my parasol in hand.",
+    "translation_vi": "Dù ở bất cứ đâu hay lúc nào, chiếc dù cũng không rời tay tôi.",
+    "byte_len": 65,
+    "refs": [
+      {
+        "at": "0x1f4992",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04789",
+    "offset_hex": "0x29e5b1",
+    "pointer_hex": "0x829e5b1",
+    "original_en": "Oh, but…\\nThat's not fair.",
+    "translation_vi": "Ôi, nhưng mà… Thế chẳng công bằng chút nào.",
+    "byte_len": 25,
+    "refs": [
+      {
+        "at": "0x1f4996",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04790",
+    "offset_hex": "0x29e5cb",
+    "pointer_hex": "0x829e5cb",
+    "original_en": "You're asking if my parasol is heavy?\\nYour Bag is filled with more junk than\\lI ever carry around.",
+    "translation_vi": "Cậu hỏi dù của tôi có nặng không á? Túi của cậu còn chứa nhiều đồ lỉnh kỉnh hơn tôi nhiều đấy.",
+    "byte_len": 97,
+    "refs": [
+      {
+        "at": "0x1f499c",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 119 (0.34)"
+    ]
+  },
+  {
+    "id": "D04791",
+    "offset_hex": "0x29e62d",
+    "pointer_hex": "0x829e62d",
+    "original_en": "Do you have any moves that can strike\\na flying Pokémon?",
+    "translation_vi": "Cậu có chiêu nào đánh trúng được Pokémon đang bay không?",
+    "byte_len": 55,
+    "refs": [
+      {
+        "at": "0x1f57dd",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 120 (0.35)"
+    ]
+  },
+  {
+    "id": "D04792",
+    "offset_hex": "0x29e665",
+    "pointer_hex": "0x829e665",
+    "original_en": "You soared above me!",
+    "translation_vi": "Cậu bay cao hơn cả tôi rồi!",
+    "byte_len": 20,
+    "refs": [
+      {
+        "at": "0x1f57e1",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 120 (0.35)"
+    ]
+  },
+  {
+    "id": "D04793",
+    "offset_hex": "0x29e67a",
+    "pointer_hex": "0x829e67a",
+    "original_en": "The move Fly is convenient,\\ndon't you think?\\pWhile the Pokémon is flying,\\nalmost no moves can strike it.",
+    "translation_vi": "Chiêu thức Fly tiện lợi thật đấy, cậu có thấy thế không?\\pKhi Pokémon đang bay, hầu như chẳng có chiêu nào đánh trúng được nó.",
+    "byte_len": 104,
+    "refs": [
+      {
+        "at": "0x1f57e7",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 120 (0.35)"
+    ]
+  },
+  {
+    "id": "D04794",
+    "offset_hex": "0x29e6e3",
+    "pointer_hex": "0x829e6e3",
+    "original_en": "My Pokémon is strong!\\nHow about yours?",
+    "translation_vi": "Pokémon của tớ mạnh lắm đấy! Của cậu thì sao?",
+    "byte_len": 38,
+    "refs": [
+      {
+        "at": "0x1f57f4",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 120 (0.35)"
+    ]
+  },
+  {
+    "id": "D04795",
+    "offset_hex": "0x29e70a",
+    "pointer_hex": "0x829e70a",
+    "original_en": "Your Pokémon were stronger…",
+    "translation_vi": "Pokémon của cậu mạnh hơn rồi…",
+    "byte_len": 27,
+    "refs": [
+      {
+        "at": "0x1f57f8",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 120 (0.35)"
+    ]
+  },
+  {
+    "id": "D04796",
+    "offset_hex": "0x29e726",
+    "pointer_hex": "0x829e726",
+    "original_en": "A Pokémon that grows steadily is one\\nyou can count on.",
+    "translation_vi": "Một Pokémon phát triển vững chắc là người bạn đáng để tin cậy.",
+    "byte_len": 54,
+    "refs": [
+      {
+        "at": "0x1f5812",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 120 (0.35)"
+    ]
+  },
+  {
+    "id": "D04797",
+    "offset_hex": "0x29e75d",
+    "pointer_hex": "0x829e75d",
+    "original_en": "You can be counted on to get better.\\nI'd like to register you in my Pokénav!",
+    "translation_vi": "Chắc chắn cậu sẽ còn tiến xa hơn nữa. Tôi muốn lưu số cậu vào PokéNav!",
+    "byte_len": 76,
+    "refs": [
+      {
+        "at": "0x1f5822",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 120 (0.35)"
+    ]
+  },
+  {
+    "id": "D04798",
+    "offset_hex": "0x29e7aa",
+    "pointer_hex": "0x829e7aa",
+    "original_en": "A Pokémon that grows steadily is one\\nyou can count on.",
+    "translation_vi": "Một Pokémon phát triển vững chắc là người bạn đáng để tin cậy.",
+    "byte_len": 54,
+    "refs": [
+      {
+        "at": "0x1f583f",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 120 (0.35)"
+    ]
+  },
+  {
+    "id": "D04799",
+    "offset_hex": "0x29e7e1",
+    "pointer_hex": "0x829e7e1",
+    "original_en": "Your Pokémon are seriously strong.",
+    "translation_vi": "Pokémon của cậu mạnh thực sự đấy.",
+    "byte_len": 34,
+    "refs": [
+      {
+        "at": "0x1f5843",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 120 (0.35)"
+    ]
+  },
+  {
+    "id": "D04800",
+    "offset_hex": "0x29e804",
+    "pointer_hex": "0x829e804",
+    "original_en": "My Pokémon are growing stronger.\\nI have to grow stronger, too.",
+    "translation_vi": "Pokémon của tôi đang ngày càng mạnh lên. Tôi cũng phải mạnh mẽ hơn mới được.",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x1f5849",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 120 (0.35)"
+    ]
+  }
+]
