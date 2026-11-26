@@ -1,0 +1,5385 @@
+[
+  {
+    "id": 0,
+    "offset_hex": "0xfc2c7c",
+    "max_bytes": 13,
+    "original_en": "------------",
+    "translation_vi": ""
+  },
+  {
+    "id": 1,
+    "offset_hex": "0xfc2ca8",
+    "max_bytes": 13,
+    "original_en": "Master Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 2,
+    "offset_hex": "0xfc2cd4",
+    "max_bytes": 13,
+    "original_en": "Ultra Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 3,
+    "offset_hex": "0xfc2d00",
+    "max_bytes": 13,
+    "original_en": "Great Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 4,
+    "offset_hex": "0xfc2d2c",
+    "max_bytes": 13,
+    "original_en": "Poké Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 5,
+    "offset_hex": "0xfc2d58",
+    "max_bytes": 13,
+    "original_en": "Safari Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 6,
+    "offset_hex": "0xfc2d84",
+    "max_bytes": 13,
+    "original_en": "Net Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 7,
+    "offset_hex": "0xfc2db0",
+    "max_bytes": 13,
+    "original_en": "Dive Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 8,
+    "offset_hex": "0xfc2ddc",
+    "max_bytes": 13,
+    "original_en": "Nest Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 9,
+    "offset_hex": "0xfc2e08",
+    "max_bytes": 13,
+    "original_en": "Repeat Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 10,
+    "offset_hex": "0xfc2e34",
+    "max_bytes": 13,
+    "original_en": "Timer Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 11,
+    "offset_hex": "0xfc2e60",
+    "max_bytes": 13,
+    "original_en": "Luxury Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 12,
+    "offset_hex": "0xfc2e8c",
+    "max_bytes": 13,
+    "original_en": "Premier Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 13,
+    "offset_hex": "0xfc2eb8",
+    "max_bytes": 13,
+    "original_en": "Potion",
+    "translation_vi": ""
+  },
+  {
+    "id": 14,
+    "offset_hex": "0xfc2ee4",
+    "max_bytes": 13,
+    "original_en": "Antidote",
+    "translation_vi": ""
+  },
+  {
+    "id": 15,
+    "offset_hex": "0xfc2f10",
+    "max_bytes": 13,
+    "original_en": "Burn Heal",
+    "translation_vi": ""
+  },
+  {
+    "id": 16,
+    "offset_hex": "0xfc2f3c",
+    "max_bytes": 13,
+    "original_en": "Ice Heal",
+    "translation_vi": ""
+  },
+  {
+    "id": 17,
+    "offset_hex": "0xfc2f68",
+    "max_bytes": 13,
+    "original_en": "Awakening",
+    "translation_vi": ""
+  },
+  {
+    "id": 18,
+    "offset_hex": "0xfc2f94",
+    "max_bytes": 13,
+    "original_en": "Paralyze Heal",
+    "translation_vi": ""
+  },
+  {
+    "id": 19,
+    "offset_hex": "0xfc2fc0",
+    "max_bytes": 13,
+    "original_en": "Full Restore",
+    "translation_vi": ""
+  },
+  {
+    "id": 20,
+    "offset_hex": "0xfc2fec",
+    "max_bytes": 13,
+    "original_en": "Max Potion",
+    "translation_vi": ""
+  },
+  {
+    "id": 21,
+    "offset_hex": "0xfc3018",
+    "max_bytes": 13,
+    "original_en": "Hyper Potion",
+    "translation_vi": ""
+  },
+  {
+    "id": 22,
+    "offset_hex": "0xfc3044",
+    "max_bytes": 13,
+    "original_en": "Super Potion",
+    "translation_vi": ""
+  },
+  {
+    "id": 23,
+    "offset_hex": "0xfc3070",
+    "max_bytes": 13,
+    "original_en": "Full Heal",
+    "translation_vi": ""
+  },
+  {
+    "id": 24,
+    "offset_hex": "0xfc309c",
+    "max_bytes": 13,
+    "original_en": "Revive",
+    "translation_vi": ""
+  },
+  {
+    "id": 25,
+    "offset_hex": "0xfc30c8",
+    "max_bytes": 13,
+    "original_en": "Max Revive",
+    "translation_vi": ""
+  },
+  {
+    "id": 26,
+    "offset_hex": "0xfc30f4",
+    "max_bytes": 13,
+    "original_en": "Fresh Water",
+    "translation_vi": ""
+  },
+  {
+    "id": 27,
+    "offset_hex": "0xfc3120",
+    "max_bytes": 13,
+    "original_en": "Soda Pop",
+    "translation_vi": ""
+  },
+  {
+    "id": 28,
+    "offset_hex": "0xfc314c",
+    "max_bytes": 13,
+    "original_en": "Lemonade",
+    "translation_vi": ""
+  },
+  {
+    "id": 29,
+    "offset_hex": "0xfc3178",
+    "max_bytes": 13,
+    "original_en": "Moomoo Milk",
+    "translation_vi": ""
+  },
+  {
+    "id": 30,
+    "offset_hex": "0xfc31a4",
+    "max_bytes": 13,
+    "original_en": "EnergyPowder",
+    "translation_vi": ""
+  },
+  {
+    "id": 31,
+    "offset_hex": "0xfc31d0",
+    "max_bytes": 13,
+    "original_en": "Energy Root",
+    "translation_vi": ""
+  },
+  {
+    "id": 32,
+    "offset_hex": "0xfc31fc",
+    "max_bytes": 13,
+    "original_en": "Heal Powder",
+    "translation_vi": ""
+  },
+  {
+    "id": 33,
+    "offset_hex": "0xfc3228",
+    "max_bytes": 13,
+    "original_en": "Revival Herb",
+    "translation_vi": ""
+  },
+  {
+    "id": 34,
+    "offset_hex": "0xfc3254",
+    "max_bytes": 13,
+    "original_en": "Ether",
+    "translation_vi": ""
+  },
+  {
+    "id": 35,
+    "offset_hex": "0xfc3280",
+    "max_bytes": 13,
+    "original_en": "Max Ether",
+    "translation_vi": ""
+  },
+  {
+    "id": 36,
+    "offset_hex": "0xfc32ac",
+    "max_bytes": 13,
+    "original_en": "Elixir",
+    "translation_vi": ""
+  },
+  {
+    "id": 37,
+    "offset_hex": "0xfc32d8",
+    "max_bytes": 13,
+    "original_en": "Max Elixir",
+    "translation_vi": ""
+  },
+  {
+    "id": 38,
+    "offset_hex": "0xfc3304",
+    "max_bytes": 13,
+    "original_en": "Lava Cookie",
+    "translation_vi": ""
+  },
+  {
+    "id": 39,
+    "offset_hex": "0xfc3330",
+    "max_bytes": 13,
+    "original_en": "Blue Flute",
+    "translation_vi": ""
+  },
+  {
+    "id": 40,
+    "offset_hex": "0xfc335c",
+    "max_bytes": 13,
+    "original_en": "Yellow Flute",
+    "translation_vi": ""
+  },
+  {
+    "id": 41,
+    "offset_hex": "0xfc3388",
+    "max_bytes": 13,
+    "original_en": "Red Flute",
+    "translation_vi": ""
+  },
+  {
+    "id": 42,
+    "offset_hex": "0xfc33b4",
+    "max_bytes": 13,
+    "original_en": "Black Flute",
+    "translation_vi": ""
+  },
+  {
+    "id": 43,
+    "offset_hex": "0xfc33e0",
+    "max_bytes": 13,
+    "original_en": "White Flute",
+    "translation_vi": ""
+  },
+  {
+    "id": 44,
+    "offset_hex": "0xfc340c",
+    "max_bytes": 13,
+    "original_en": "Berry Juice",
+    "translation_vi": ""
+  },
+  {
+    "id": 45,
+    "offset_hex": "0xfc3438",
+    "max_bytes": 13,
+    "original_en": "Sacred Ash",
+    "translation_vi": ""
+  },
+  {
+    "id": 46,
+    "offset_hex": "0xfc3464",
+    "max_bytes": 13,
+    "original_en": "Shoal Salt",
+    "translation_vi": ""
+  },
+  {
+    "id": 47,
+    "offset_hex": "0xfc3490",
+    "max_bytes": 13,
+    "original_en": "Shoal Shell",
+    "translation_vi": ""
+  },
+  {
+    "id": 48,
+    "offset_hex": "0xfc34bc",
+    "max_bytes": 13,
+    "original_en": "Red Shard",
+    "translation_vi": ""
+  },
+  {
+    "id": 49,
+    "offset_hex": "0xfc34e8",
+    "max_bytes": 13,
+    "original_en": "Blue Shard",
+    "translation_vi": ""
+  },
+  {
+    "id": 50,
+    "offset_hex": "0xfc3514",
+    "max_bytes": 13,
+    "original_en": "Yellow Shard",
+    "translation_vi": ""
+  },
+  {
+    "id": 51,
+    "offset_hex": "0xfc3540",
+    "max_bytes": 13,
+    "original_en": "Green Shard",
+    "translation_vi": ""
+  },
+  {
+    "id": 52,
+    "offset_hex": "0xfc356c",
+    "max_bytes": 13,
+    "original_en": "Abomasite",
+    "translation_vi": ""
+  },
+  {
+    "id": 53,
+    "offset_hex": "0xfc3598",
+    "max_bytes": 13,
+    "original_en": "Galladite",
+    "translation_vi": ""
+  },
+  {
+    "id": 54,
+    "offset_hex": "0xfc35c4",
+    "max_bytes": 13,
+    "original_en": "Dark Scroll",
+    "translation_vi": ""
+  },
+  {
+    "id": 55,
+    "offset_hex": "0xfc35f0",
+    "max_bytes": 13,
+    "original_en": "Water Scroll",
+    "translation_vi": ""
+  },
+  {
+    "id": 56,
+    "offset_hex": "0xfc361c",
+    "max_bytes": 13,
+    "original_en": "Audinite",
+    "translation_vi": ""
+  },
+  {
+    "id": 57,
+    "offset_hex": "0xfc3648",
+    "max_bytes": 13,
+    "original_en": "Diancite",
+    "translation_vi": ""
+  },
+  {
+    "id": 58,
+    "offset_hex": "0xfc3674",
+    "max_bytes": 13,
+    "original_en": "Destiny Knot",
+    "translation_vi": ""
+  },
+  {
+    "id": 59,
+    "offset_hex": "0xfc36a0",
+    "max_bytes": 13,
+    "original_en": "Dino Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 60,
+    "offset_hex": "0xfc36cc",
+    "max_bytes": 13,
+    "original_en": "Fish Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 61,
+    "offset_hex": "0xfc36f8",
+    "max_bytes": 13,
+    "original_en": "Bird Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 62,
+    "offset_hex": "0xfc3724",
+    "max_bytes": 13,
+    "original_en": "Drake Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 63,
+    "offset_hex": "0xfc3750",
+    "max_bytes": 13,
+    "original_en": "HP Up",
+    "translation_vi": ""
+  },
+  {
+    "id": 64,
+    "offset_hex": "0xfc377c",
+    "max_bytes": 13,
+    "original_en": "Protein",
+    "translation_vi": ""
+  },
+  {
+    "id": 65,
+    "offset_hex": "0xfc37a8",
+    "max_bytes": 13,
+    "original_en": "Iron",
+    "translation_vi": ""
+  },
+  {
+    "id": 66,
+    "offset_hex": "0xfc37d4",
+    "max_bytes": 13,
+    "original_en": "Carbos",
+    "translation_vi": ""
+  },
+  {
+    "id": 67,
+    "offset_hex": "0xfc3800",
+    "max_bytes": 13,
+    "original_en": "Calcium",
+    "translation_vi": ""
+  },
+  {
+    "id": 68,
+    "offset_hex": "0xfc382c",
+    "max_bytes": 13,
+    "original_en": "Rare Candy",
+    "translation_vi": ""
+  },
+  {
+    "id": 69,
+    "offset_hex": "0xfc3858",
+    "max_bytes": 13,
+    "original_en": "PP Up",
+    "translation_vi": ""
+  },
+  {
+    "id": 70,
+    "offset_hex": "0xfc3884",
+    "max_bytes": 13,
+    "original_en": "Zinc",
+    "translation_vi": ""
+  },
+  {
+    "id": 71,
+    "offset_hex": "0xfc38b0",
+    "max_bytes": 13,
+    "original_en": "PP Max",
+    "translation_vi": ""
+  },
+  {
+    "id": 72,
+    "offset_hex": "0xfc38dc",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 73,
+    "offset_hex": "0xfc3908",
+    "max_bytes": 13,
+    "original_en": "Guard Spec.",
+    "translation_vi": ""
+  },
+  {
+    "id": 74,
+    "offset_hex": "0xfc3934",
+    "max_bytes": 13,
+    "original_en": "Dire Hit",
+    "translation_vi": ""
+  },
+  {
+    "id": 75,
+    "offset_hex": "0xfc3960",
+    "max_bytes": 13,
+    "original_en": "X Attack",
+    "translation_vi": ""
+  },
+  {
+    "id": 76,
+    "offset_hex": "0xfc398c",
+    "max_bytes": 13,
+    "original_en": "X Defense",
+    "translation_vi": ""
+  },
+  {
+    "id": 77,
+    "offset_hex": "0xfc39b8",
+    "max_bytes": 13,
+    "original_en": "X Speed",
+    "translation_vi": ""
+  },
+  {
+    "id": 78,
+    "offset_hex": "0xfc39e4",
+    "max_bytes": 13,
+    "original_en": "X Accuracy",
+    "translation_vi": ""
+  },
+  {
+    "id": 79,
+    "offset_hex": "0xfc3a10",
+    "max_bytes": 13,
+    "original_en": "X Special",
+    "translation_vi": ""
+  },
+  {
+    "id": 80,
+    "offset_hex": "0xfc3a3c",
+    "max_bytes": 13,
+    "original_en": "Poké Doll",
+    "translation_vi": ""
+  },
+  {
+    "id": 81,
+    "offset_hex": "0xfc3a68",
+    "max_bytes": 13,
+    "original_en": "Fluffy Tail",
+    "translation_vi": ""
+  },
+  {
+    "id": 82,
+    "offset_hex": "0xfc3a94",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 83,
+    "offset_hex": "0xfc3ac0",
+    "max_bytes": 13,
+    "original_en": "Super Repel",
+    "translation_vi": ""
+  },
+  {
+    "id": 84,
+    "offset_hex": "0xfc3aec",
+    "max_bytes": 13,
+    "original_en": "Max Repel",
+    "translation_vi": ""
+  },
+  {
+    "id": 85,
+    "offset_hex": "0xfc3b18",
+    "max_bytes": 13,
+    "original_en": "Escape Rope",
+    "translation_vi": ""
+  },
+  {
+    "id": 86,
+    "offset_hex": "0xfc3b44",
+    "max_bytes": 13,
+    "original_en": "Repel",
+    "translation_vi": ""
+  },
+  {
+    "id": 87,
+    "offset_hex": "0xfc3b70",
+    "max_bytes": 13,
+    "original_en": "Max Mushroom",
+    "translation_vi": ""
+  },
+  {
+    "id": 88,
+    "offset_hex": "0xfc3b9c",
+    "max_bytes": 13,
+    "original_en": "Sweet Apple",
+    "translation_vi": ""
+  },
+  {
+    "id": 89,
+    "offset_hex": "0xfc3bc8",
+    "max_bytes": 13,
+    "original_en": "Tart Apple",
+    "translation_vi": ""
+  },
+  {
+    "id": 90,
+    "offset_hex": "0xfc3bf4",
+    "max_bytes": 13,
+    "original_en": "Galarica Cuff",
+    "translation_vi": ""
+  },
+  {
+    "id": 91,
+    "offset_hex": "0xfc3c20",
+    "max_bytes": 13,
+    "original_en": "Galar Wreath",
+    "translation_vi": ""
+  },
+  {
+    "id": 92,
+    "offset_hex": "0xfc3c4c",
+    "max_bytes": 13,
+    "original_en": "Cracked Pot",
+    "translation_vi": ""
+  },
+  {
+    "id": 93,
+    "offset_hex": "0xfc3c78",
+    "max_bytes": 13,
+    "original_en": "Sun Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 94,
+    "offset_hex": "0xfc3ca4",
+    "max_bytes": 13,
+    "original_en": "Moon Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 95,
+    "offset_hex": "0xfc3cd0",
+    "max_bytes": 13,
+    "original_en": "Fire Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 96,
+    "offset_hex": "0xfc3cfc",
+    "max_bytes": 13,
+    "original_en": "Thunder Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 97,
+    "offset_hex": "0xfc3d28",
+    "max_bytes": 13,
+    "original_en": "Water Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 98,
+    "offset_hex": "0xfc3d54",
+    "max_bytes": 13,
+    "original_en": "Leaf Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 99,
+    "offset_hex": "0xfc3d80",
+    "max_bytes": 13,
+    "original_en": "Shiny Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 100,
+    "offset_hex": "0xfc3dac",
+    "max_bytes": 13,
+    "original_en": "Dusk Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 101,
+    "offset_hex": "0xfc3dd8",
+    "max_bytes": 13,
+    "original_en": "Ice Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 102,
+    "offset_hex": "0xfc3e04",
+    "max_bytes": 13,
+    "original_en": "Dawn Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 103,
+    "offset_hex": "0xfc3e30",
+    "max_bytes": 13,
+    "original_en": "Tiny Mushroom",
+    "translation_vi": ""
+  },
+  {
+    "id": 104,
+    "offset_hex": "0xfc3e5c",
+    "max_bytes": 13,
+    "original_en": "Big Mushroom",
+    "translation_vi": ""
+  },
+  {
+    "id": 105,
+    "offset_hex": "0xfc3e88",
+    "max_bytes": 13,
+    "original_en": "Zygarde Cell",
+    "translation_vi": ""
+  },
+  {
+    "id": 106,
+    "offset_hex": "0xfc3eb4",
+    "max_bytes": 13,
+    "original_en": "Pearl",
+    "translation_vi": ""
+  },
+  {
+    "id": 107,
+    "offset_hex": "0xfc3ee0",
+    "max_bytes": 13,
+    "original_en": "Big Pearl",
+    "translation_vi": ""
+  },
+  {
+    "id": 108,
+    "offset_hex": "0xfc3f0c",
+    "max_bytes": 13,
+    "original_en": "Stardust",
+    "translation_vi": ""
+  },
+  {
+    "id": 109,
+    "offset_hex": "0xfc3f38",
+    "max_bytes": 13,
+    "original_en": "Star Piece",
+    "translation_vi": ""
+  },
+  {
+    "id": 110,
+    "offset_hex": "0xfc3f64",
+    "max_bytes": 13,
+    "original_en": "Nugget",
+    "translation_vi": ""
+  },
+  {
+    "id": 111,
+    "offset_hex": "0xfc3f90",
+    "max_bytes": 13,
+    "original_en": "Heart Scale",
+    "translation_vi": ""
+  },
+  {
+    "id": 112,
+    "offset_hex": "0xfc3fbc",
+    "max_bytes": 13,
+    "original_en": "Big Nugget",
+    "translation_vi": ""
+  },
+  {
+    "id": 113,
+    "offset_hex": "0xfc3fe8",
+    "max_bytes": 13,
+    "original_en": "Diamond",
+    "translation_vi": ""
+  },
+  {
+    "id": 114,
+    "offset_hex": "0xfc4014",
+    "max_bytes": 13,
+    "original_en": "Oval Charm",
+    "translation_vi": ""
+  },
+  {
+    "id": 115,
+    "offset_hex": "0xfc4040",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 116,
+    "offset_hex": "0xfc406c",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 117,
+    "offset_hex": "0xfc4098",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 118,
+    "offset_hex": "0xfc40c4",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 119,
+    "offset_hex": "0xfc40f0",
+    "max_bytes": 13,
+    "original_en": "Shiny Charm",
+    "translation_vi": ""
+  },
+  {
+    "id": 120,
+    "offset_hex": "0xfc411c",
+    "max_bytes": 13,
+    "original_en": "Mega Bracelet",
+    "translation_vi": ""
+  },
+  {
+    "id": 121,
+    "offset_hex": "0xfc4148",
+    "max_bytes": 13,
+    "original_en": "Orange Mail",
+    "translation_vi": ""
+  },
+  {
+    "id": 122,
+    "offset_hex": "0xfc4174",
+    "max_bytes": 13,
+    "original_en": "Harbor Mail",
+    "translation_vi": ""
+  },
+  {
+    "id": 123,
+    "offset_hex": "0xfc41a0",
+    "max_bytes": 13,
+    "original_en": "Glitter Mail",
+    "translation_vi": ""
+  },
+  {
+    "id": 124,
+    "offset_hex": "0xfc41cc",
+    "max_bytes": 13,
+    "original_en": "Mech Mail",
+    "translation_vi": ""
+  },
+  {
+    "id": 125,
+    "offset_hex": "0xfc41f8",
+    "max_bytes": 13,
+    "original_en": "Wood Mail",
+    "translation_vi": ""
+  },
+  {
+    "id": 126,
+    "offset_hex": "0xfc4224",
+    "max_bytes": 13,
+    "original_en": "Wave Mail",
+    "translation_vi": ""
+  },
+  {
+    "id": 127,
+    "offset_hex": "0xfc4250",
+    "max_bytes": 13,
+    "original_en": "Bead Mail",
+    "translation_vi": ""
+  },
+  {
+    "id": 128,
+    "offset_hex": "0xfc427c",
+    "max_bytes": 13,
+    "original_en": "Shadow Mail",
+    "translation_vi": ""
+  },
+  {
+    "id": 129,
+    "offset_hex": "0xfc42a8",
+    "max_bytes": 13,
+    "original_en": "Tropic Mail",
+    "translation_vi": ""
+  },
+  {
+    "id": 130,
+    "offset_hex": "0xfc42d4",
+    "max_bytes": 13,
+    "original_en": "Dream Mail",
+    "translation_vi": ""
+  },
+  {
+    "id": 131,
+    "offset_hex": "0xfc4300",
+    "max_bytes": 13,
+    "original_en": "Fab Mail",
+    "translation_vi": ""
+  },
+  {
+    "id": 132,
+    "offset_hex": "0xfc432c",
+    "max_bytes": 13,
+    "original_en": "Retro Mail",
+    "translation_vi": ""
+  },
+  {
+    "id": 133,
+    "offset_hex": "0xfc4358",
+    "max_bytes": 13,
+    "original_en": "Cheri Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 134,
+    "offset_hex": "0xfc4384",
+    "max_bytes": 13,
+    "original_en": "Chesto Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 135,
+    "offset_hex": "0xfc43b0",
+    "max_bytes": 13,
+    "original_en": "Pecha Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 136,
+    "offset_hex": "0xfc43dc",
+    "max_bytes": 13,
+    "original_en": "Rawst Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 137,
+    "offset_hex": "0xfc4408",
+    "max_bytes": 13,
+    "original_en": "Aspear Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 138,
+    "offset_hex": "0xfc4434",
+    "max_bytes": 13,
+    "original_en": "Leppa Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 139,
+    "offset_hex": "0xfc4460",
+    "max_bytes": 13,
+    "original_en": "Oran Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 140,
+    "offset_hex": "0xfc448c",
+    "max_bytes": 13,
+    "original_en": "Persim Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 141,
+    "offset_hex": "0xfc44b8",
+    "max_bytes": 13,
+    "original_en": "Lum Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 142,
+    "offset_hex": "0xfc44e4",
+    "max_bytes": 13,
+    "original_en": "Sitrus Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 143,
+    "offset_hex": "0xfc4510",
+    "max_bytes": 13,
+    "original_en": "Figy Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 144,
+    "offset_hex": "0xfc453c",
+    "max_bytes": 13,
+    "original_en": "Wiki Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 145,
+    "offset_hex": "0xfc4568",
+    "max_bytes": 13,
+    "original_en": "Mago Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 146,
+    "offset_hex": "0xfc4594",
+    "max_bytes": 13,
+    "original_en": "Aguav Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 147,
+    "offset_hex": "0xfc45c0",
+    "max_bytes": 13,
+    "original_en": "Iapapa Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 148,
+    "offset_hex": "0xfc45ec",
+    "max_bytes": 13,
+    "original_en": "Razz Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 149,
+    "offset_hex": "0xfc4618",
+    "max_bytes": 13,
+    "original_en": "Bluk Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 150,
+    "offset_hex": "0xfc4644",
+    "max_bytes": 13,
+    "original_en": "Nanab Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 151,
+    "offset_hex": "0xfc4670",
+    "max_bytes": 13,
+    "original_en": "Wepear Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 152,
+    "offset_hex": "0xfc469c",
+    "max_bytes": 13,
+    "original_en": "Pinap Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 153,
+    "offset_hex": "0xfc46c8",
+    "max_bytes": 13,
+    "original_en": "Pomeg Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 154,
+    "offset_hex": "0xfc46f4",
+    "max_bytes": 13,
+    "original_en": "Kelpsy Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 155,
+    "offset_hex": "0xfc4720",
+    "max_bytes": 13,
+    "original_en": "Qualot Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 156,
+    "offset_hex": "0xfc474c",
+    "max_bytes": 13,
+    "original_en": "Hondew Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 157,
+    "offset_hex": "0xfc4778",
+    "max_bytes": 13,
+    "original_en": "Grepa Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 158,
+    "offset_hex": "0xfc47a4",
+    "max_bytes": 13,
+    "original_en": "Tamato Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 159,
+    "offset_hex": "0xfc47d0",
+    "max_bytes": 13,
+    "original_en": "Cornn Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 160,
+    "offset_hex": "0xfc47fc",
+    "max_bytes": 13,
+    "original_en": "Magost Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 161,
+    "offset_hex": "0xfc4828",
+    "max_bytes": 13,
+    "original_en": "Rabuta Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 162,
+    "offset_hex": "0xfc4854",
+    "max_bytes": 13,
+    "original_en": "Nomel Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 163,
+    "offset_hex": "0xfc4880",
+    "max_bytes": 13,
+    "original_en": "Spelon Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 164,
+    "offset_hex": "0xfc48ac",
+    "max_bytes": 13,
+    "original_en": "Pamtre Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 165,
+    "offset_hex": "0xfc48d8",
+    "max_bytes": 13,
+    "original_en": "Watmel Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 166,
+    "offset_hex": "0xfc4904",
+    "max_bytes": 13,
+    "original_en": "Durin Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 167,
+    "offset_hex": "0xfc4930",
+    "max_bytes": 13,
+    "original_en": "Belue Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 168,
+    "offset_hex": "0xfc495c",
+    "max_bytes": 13,
+    "original_en": "Liechi Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 169,
+    "offset_hex": "0xfc4988",
+    "max_bytes": 13,
+    "original_en": "Ganlon Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 170,
+    "offset_hex": "0xfc49b4",
+    "max_bytes": 13,
+    "original_en": "Salac Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 171,
+    "offset_hex": "0xfc49e0",
+    "max_bytes": 13,
+    "original_en": "Petaya Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 172,
+    "offset_hex": "0xfc4a0c",
+    "max_bytes": 13,
+    "original_en": "Apicot Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 173,
+    "offset_hex": "0xfc4a38",
+    "max_bytes": 13,
+    "original_en": "Lansat Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 174,
+    "offset_hex": "0xfc4a64",
+    "max_bytes": 13,
+    "original_en": "Starf Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 175,
+    "offset_hex": "0xfc4a90",
+    "max_bytes": 13,
+    "original_en": "Enigma Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 176,
+    "offset_hex": "0xfc4abc",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 177,
+    "offset_hex": "0xfc4ae8",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 178,
+    "offset_hex": "0xfc4b14",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 179,
+    "offset_hex": "0xfc4b40",
+    "max_bytes": 13,
+    "original_en": "Bright Powder",
+    "translation_vi": ""
+  },
+  {
+    "id": 180,
+    "offset_hex": "0xfc4b6c",
+    "max_bytes": 13,
+    "original_en": "White Herb",
+    "translation_vi": ""
+  },
+  {
+    "id": 181,
+    "offset_hex": "0xfc4b98",
+    "max_bytes": 13,
+    "original_en": "Macho Brace",
+    "translation_vi": ""
+  },
+  {
+    "id": 182,
+    "offset_hex": "0xfc4bc4",
+    "max_bytes": 13,
+    "original_en": "Exp. Share",
+    "translation_vi": ""
+  },
+  {
+    "id": 183,
+    "offset_hex": "0xfc4bf0",
+    "max_bytes": 13,
+    "original_en": "Quick Claw",
+    "translation_vi": ""
+  },
+  {
+    "id": 184,
+    "offset_hex": "0xfc4c1c",
+    "max_bytes": 13,
+    "original_en": "Soothe Bell",
+    "translation_vi": ""
+  },
+  {
+    "id": 185,
+    "offset_hex": "0xfc4c48",
+    "max_bytes": 13,
+    "original_en": "Mental Herb",
+    "translation_vi": ""
+  },
+  {
+    "id": 186,
+    "offset_hex": "0xfc4c74",
+    "max_bytes": 13,
+    "original_en": "Choice Band",
+    "translation_vi": ""
+  },
+  {
+    "id": 187,
+    "offset_hex": "0xfc4ca0",
+    "max_bytes": 13,
+    "original_en": "King's Rock",
+    "translation_vi": ""
+  },
+  {
+    "id": 188,
+    "offset_hex": "0xfc4ccc",
+    "max_bytes": 13,
+    "original_en": "Silver Powder",
+    "translation_vi": ""
+  },
+  {
+    "id": 189,
+    "offset_hex": "0xfc4cf8",
+    "max_bytes": 13,
+    "original_en": "Amulet Coin",
+    "translation_vi": ""
+  },
+  {
+    "id": 190,
+    "offset_hex": "0xfc4d24",
+    "max_bytes": 13,
+    "original_en": "Cleanse Tag",
+    "translation_vi": ""
+  },
+  {
+    "id": 191,
+    "offset_hex": "0xfc4d50",
+    "max_bytes": 13,
+    "original_en": "Soul Dew",
+    "translation_vi": ""
+  },
+  {
+    "id": 192,
+    "offset_hex": "0xfc4d7c",
+    "max_bytes": 13,
+    "original_en": "DeepSeaTooth",
+    "translation_vi": ""
+  },
+  {
+    "id": 193,
+    "offset_hex": "0xfc4da8",
+    "max_bytes": 13,
+    "original_en": "DeepSeaScale",
+    "translation_vi": ""
+  },
+  {
+    "id": 194,
+    "offset_hex": "0xfc4dd4",
+    "max_bytes": 13,
+    "original_en": "Smoke Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 195,
+    "offset_hex": "0xfc4e00",
+    "max_bytes": 13,
+    "original_en": "Everstone",
+    "translation_vi": ""
+  },
+  {
+    "id": 196,
+    "offset_hex": "0xfc4e2c",
+    "max_bytes": 13,
+    "original_en": "Focus Band",
+    "translation_vi": ""
+  },
+  {
+    "id": 197,
+    "offset_hex": "0xfc4e58",
+    "max_bytes": 13,
+    "original_en": "Lucky Egg",
+    "translation_vi": ""
+  },
+  {
+    "id": 198,
+    "offset_hex": "0xfc4e84",
+    "max_bytes": 13,
+    "original_en": "Scope Lens",
+    "translation_vi": ""
+  },
+  {
+    "id": 199,
+    "offset_hex": "0xfc4eb0",
+    "max_bytes": 13,
+    "original_en": "Metal Coat",
+    "translation_vi": ""
+  },
+  {
+    "id": 200,
+    "offset_hex": "0xfc4edc",
+    "max_bytes": 13,
+    "original_en": "Leftovers",
+    "translation_vi": ""
+  },
+  {
+    "id": 201,
+    "offset_hex": "0xfc4f08",
+    "max_bytes": 13,
+    "original_en": "Dragon Scale",
+    "translation_vi": ""
+  },
+  {
+    "id": 202,
+    "offset_hex": "0xfc4f34",
+    "max_bytes": 13,
+    "original_en": "Light Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 203,
+    "offset_hex": "0xfc4f60",
+    "max_bytes": 13,
+    "original_en": "Soft Sand",
+    "translation_vi": ""
+  },
+  {
+    "id": 204,
+    "offset_hex": "0xfc4f8c",
+    "max_bytes": 13,
+    "original_en": "Hard Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 205,
+    "offset_hex": "0xfc4fb8",
+    "max_bytes": 13,
+    "original_en": "Miracle Seed",
+    "translation_vi": ""
+  },
+  {
+    "id": 206,
+    "offset_hex": "0xfc4fe4",
+    "max_bytes": 13,
+    "original_en": "BlackGlasses",
+    "translation_vi": ""
+  },
+  {
+    "id": 207,
+    "offset_hex": "0xfc5010",
+    "max_bytes": 13,
+    "original_en": "Black Belt",
+    "translation_vi": ""
+  },
+  {
+    "id": 208,
+    "offset_hex": "0xfc503c",
+    "max_bytes": 13,
+    "original_en": "Magnet",
+    "translation_vi": ""
+  },
+  {
+    "id": 209,
+    "offset_hex": "0xfc5068",
+    "max_bytes": 13,
+    "original_en": "Mystic Water",
+    "translation_vi": ""
+  },
+  {
+    "id": 210,
+    "offset_hex": "0xfc5094",
+    "max_bytes": 13,
+    "original_en": "Sharp Beak",
+    "translation_vi": ""
+  },
+  {
+    "id": 211,
+    "offset_hex": "0xfc50c0",
+    "max_bytes": 13,
+    "original_en": "Poison Barb",
+    "translation_vi": ""
+  },
+  {
+    "id": 212,
+    "offset_hex": "0xfc50ec",
+    "max_bytes": 13,
+    "original_en": "NeverMeltIce",
+    "translation_vi": ""
+  },
+  {
+    "id": 213,
+    "offset_hex": "0xfc5118",
+    "max_bytes": 13,
+    "original_en": "Spell Tag",
+    "translation_vi": ""
+  },
+  {
+    "id": 214,
+    "offset_hex": "0xfc5144",
+    "max_bytes": 13,
+    "original_en": "Twisted Spoon",
+    "translation_vi": ""
+  },
+  {
+    "id": 215,
+    "offset_hex": "0xfc5170",
+    "max_bytes": 13,
+    "original_en": "Charcoal",
+    "translation_vi": ""
+  },
+  {
+    "id": 216,
+    "offset_hex": "0xfc519c",
+    "max_bytes": 13,
+    "original_en": "Dragon Fang",
+    "translation_vi": ""
+  },
+  {
+    "id": 217,
+    "offset_hex": "0xfc51c8",
+    "max_bytes": 13,
+    "original_en": "Silk Scarf",
+    "translation_vi": ""
+  },
+  {
+    "id": 218,
+    "offset_hex": "0xfc51f4",
+    "max_bytes": 13,
+    "original_en": "Upgrade",
+    "translation_vi": ""
+  },
+  {
+    "id": 219,
+    "offset_hex": "0xfc5220",
+    "max_bytes": 13,
+    "original_en": "Shell Bell",
+    "translation_vi": ""
+  },
+  {
+    "id": 220,
+    "offset_hex": "0xfc524c",
+    "max_bytes": 13,
+    "original_en": "Sea Incense",
+    "translation_vi": ""
+  },
+  {
+    "id": 221,
+    "offset_hex": "0xfc5278",
+    "max_bytes": 13,
+    "original_en": "Lax Incense",
+    "translation_vi": ""
+  },
+  {
+    "id": 222,
+    "offset_hex": "0xfc52a4",
+    "max_bytes": 13,
+    "original_en": "Lucky Punch",
+    "translation_vi": ""
+  },
+  {
+    "id": 223,
+    "offset_hex": "0xfc52d0",
+    "max_bytes": 13,
+    "original_en": "Metal Powder",
+    "translation_vi": ""
+  },
+  {
+    "id": 224,
+    "offset_hex": "0xfc52fc",
+    "max_bytes": 13,
+    "original_en": "Thick Club",
+    "translation_vi": ""
+  },
+  {
+    "id": 225,
+    "offset_hex": "0xfc5328",
+    "max_bytes": 13,
+    "original_en": "Leek",
+    "translation_vi": ""
+  },
+  {
+    "id": 226,
+    "offset_hex": "0xfc5354",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 227,
+    "offset_hex": "0xfc5380",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 228,
+    "offset_hex": "0xfc53ac",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 229,
+    "offset_hex": "0xfc53d8",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 230,
+    "offset_hex": "0xfc5404",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 231,
+    "offset_hex": "0xfc5430",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 232,
+    "offset_hex": "0xfc545c",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 233,
+    "offset_hex": "0xfc5488",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 234,
+    "offset_hex": "0xfc54b4",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 235,
+    "offset_hex": "0xfc54e0",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 236,
+    "offset_hex": "0xfc550c",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 237,
+    "offset_hex": "0xfc5538",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 238,
+    "offset_hex": "0xfc5564",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 239,
+    "offset_hex": "0xfc5590",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 240,
+    "offset_hex": "0xfc55bc",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 241,
+    "offset_hex": "0xfc55e8",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 242,
+    "offset_hex": "0xfc5614",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 243,
+    "offset_hex": "0xfc5640",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 244,
+    "offset_hex": "0xfc566c",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 245,
+    "offset_hex": "0xfc5698",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 246,
+    "offset_hex": "0xfc56c4",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 247,
+    "offset_hex": "0xfc56f0",
+    "max_bytes": 13,
+    "original_en": "Special Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 248,
+    "offset_hex": "0xfc571c",
+    "max_bytes": 13,
+    "original_en": "Jaw Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 249,
+    "offset_hex": "0xfc5748",
+    "max_bytes": 13,
+    "original_en": "Sail Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 250,
+    "offset_hex": "0xfc5774",
+    "max_bytes": 13,
+    "original_en": "Plume Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 251,
+    "offset_hex": "0xfc57a0",
+    "max_bytes": 13,
+    "original_en": "Cover Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 252,
+    "offset_hex": "0xfc57cc",
+    "max_bytes": 13,
+    "original_en": "Armor Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 253,
+    "offset_hex": "0xfc57f8",
+    "max_bytes": 13,
+    "original_en": "Skull Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 254,
+    "offset_hex": "0xfc5824",
+    "max_bytes": 13,
+    "original_en": "Red Scarf",
+    "translation_vi": ""
+  },
+  {
+    "id": 255,
+    "offset_hex": "0xfc5850",
+    "max_bytes": 13,
+    "original_en": "Blue Scarf",
+    "translation_vi": ""
+  },
+  {
+    "id": 256,
+    "offset_hex": "0xfc587c",
+    "max_bytes": 13,
+    "original_en": "Pink Scarf",
+    "translation_vi": ""
+  },
+  {
+    "id": 257,
+    "offset_hex": "0xfc58a8",
+    "max_bytes": 13,
+    "original_en": "Green Scarf",
+    "translation_vi": ""
+  },
+  {
+    "id": 258,
+    "offset_hex": "0xfc58d4",
+    "max_bytes": 13,
+    "original_en": "Yellow Scarf",
+    "translation_vi": ""
+  },
+  {
+    "id": 259,
+    "offset_hex": "0xfc5900",
+    "max_bytes": 13,
+    "original_en": "Mach Bike",
+    "translation_vi": ""
+  },
+  {
+    "id": 260,
+    "offset_hex": "0xfc592c",
+    "max_bytes": 13,
+    "original_en": "Coin Case",
+    "translation_vi": ""
+  },
+  {
+    "id": 261,
+    "offset_hex": "0xfc5958",
+    "max_bytes": 13,
+    "original_en": "Itemfinder",
+    "translation_vi": ""
+  },
+  {
+    "id": 262,
+    "offset_hex": "0xfc5984",
+    "max_bytes": 13,
+    "original_en": "Old Rod",
+    "translation_vi": ""
+  },
+  {
+    "id": 263,
+    "offset_hex": "0xfc59b0",
+    "max_bytes": 13,
+    "original_en": "Good Rod",
+    "translation_vi": ""
+  },
+  {
+    "id": 264,
+    "offset_hex": "0xfc59dc",
+    "max_bytes": 13,
+    "original_en": "Super Rod",
+    "translation_vi": ""
+  },
+  {
+    "id": 265,
+    "offset_hex": "0xfc5a08",
+    "max_bytes": 13,
+    "original_en": "S.S. Ticket",
+    "translation_vi": ""
+  },
+  {
+    "id": 266,
+    "offset_hex": "0xfc5a34",
+    "max_bytes": 13,
+    "original_en": "Contest Pass",
+    "translation_vi": ""
+  },
+  {
+    "id": 267,
+    "offset_hex": "0xfc5a60",
+    "max_bytes": 13,
+    "original_en": "[S3D][S3D][S3D][S3D][S3D][S3D][S3D]!3D",
+    "translation_vi": ""
+  },
+  {
+    "id": 268,
+    "offset_hex": "0xfc5a8c",
+    "max_bytes": 13,
+    "original_en": "Wailmer Pail",
+    "translation_vi": ""
+  },
+  {
+    "id": 269,
+    "offset_hex": "0xfc5ab8",
+    "max_bytes": 13,
+    "original_en": "Devon Goods",
+    "translation_vi": ""
+  },
+  {
+    "id": 270,
+    "offset_hex": "0xfc5ae4",
+    "max_bytes": 13,
+    "original_en": "Soot Sack",
+    "translation_vi": ""
+  },
+  {
+    "id": 271,
+    "offset_hex": "0xfc5b10",
+    "max_bytes": 13,
+    "original_en": "Basement Key",
+    "translation_vi": ""
+  },
+  {
+    "id": 272,
+    "offset_hex": "0xfc5b3c",
+    "max_bytes": 13,
+    "original_en": "Acro Bike",
+    "translation_vi": ""
+  },
+  {
+    "id": 273,
+    "offset_hex": "0xfc5b68",
+    "max_bytes": 13,
+    "original_en": "[S55][S56]block Case",
+    "translation_vi": ""
+  },
+  {
+    "id": 274,
+    "offset_hex": "0xfc5b94",
+    "max_bytes": 13,
+    "original_en": "Letter",
+    "translation_vi": ""
+  },
+  {
+    "id": 275,
+    "offset_hex": "0xfc5bc0",
+    "max_bytes": 13,
+    "original_en": "Eon Ticket",
+    "translation_vi": ""
+  },
+  {
+    "id": 276,
+    "offset_hex": "0xfc5bec",
+    "max_bytes": 13,
+    "original_en": "Red Orb 2",
+    "translation_vi": ""
+  },
+  {
+    "id": 277,
+    "offset_hex": "0xfc5c18",
+    "max_bytes": 13,
+    "original_en": "Blue Orb 2",
+    "translation_vi": ""
+  },
+  {
+    "id": 278,
+    "offset_hex": "0xfc5c44",
+    "max_bytes": 13,
+    "original_en": "Scanner",
+    "translation_vi": ""
+  },
+  {
+    "id": 279,
+    "offset_hex": "0xfc5c70",
+    "max_bytes": 13,
+    "original_en": "Go-Goggles",
+    "translation_vi": ""
+  },
+  {
+    "id": 280,
+    "offset_hex": "0xfc5c9c",
+    "max_bytes": 13,
+    "original_en": "Meteorite",
+    "translation_vi": ""
+  },
+  {
+    "id": 281,
+    "offset_hex": "0xfc5cc8",
+    "max_bytes": 13,
+    "original_en": "Rm. 1 Key",
+    "translation_vi": ""
+  },
+  {
+    "id": 282,
+    "offset_hex": "0xfc5cf4",
+    "max_bytes": 13,
+    "original_en": "Rm. 2 Key",
+    "translation_vi": ""
+  },
+  {
+    "id": 283,
+    "offset_hex": "0xfc5d20",
+    "max_bytes": 13,
+    "original_en": "Rm. 4 Key",
+    "translation_vi": ""
+  },
+  {
+    "id": 284,
+    "offset_hex": "0xfc5d4c",
+    "max_bytes": 13,
+    "original_en": "Rm. 6 Key",
+    "translation_vi": ""
+  },
+  {
+    "id": 285,
+    "offset_hex": "0xfc5d78",
+    "max_bytes": 13,
+    "original_en": "Storage Key",
+    "translation_vi": ""
+  },
+  {
+    "id": 286,
+    "offset_hex": "0xfc5da4",
+    "max_bytes": 13,
+    "original_en": "Root Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 287,
+    "offset_hex": "0xfc5dd0",
+    "max_bytes": 13,
+    "original_en": "Claw Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 288,
+    "offset_hex": "0xfc5dfc",
+    "max_bytes": 13,
+    "original_en": "Devon Scope",
+    "translation_vi": ""
+  },
+  {
+    "id": 289,
+    "offset_hex": "0xfc5e28",
+    "max_bytes": 13,
+    "original_en": "Level Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 290,
+    "offset_hex": "0xfc5e54",
+    "max_bytes": 13,
+    "original_en": "Lure Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 291,
+    "offset_hex": "0xfc5e80",
+    "max_bytes": 13,
+    "original_en": "Moon Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 292,
+    "offset_hex": "0xfc5eac",
+    "max_bytes": 13,
+    "original_en": "Friend Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 293,
+    "offset_hex": "0xfc5ed8",
+    "max_bytes": 13,
+    "original_en": "Love Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 294,
+    "offset_hex": "0xfc5f04",
+    "max_bytes": 13,
+    "original_en": "Heavy Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 295,
+    "offset_hex": "0xfc5f30",
+    "max_bytes": 13,
+    "original_en": "Fast Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 296,
+    "offset_hex": "0xfc5f5c",
+    "max_bytes": 13,
+    "original_en": "Sport Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 297,
+    "offset_hex": "0xfc5f88",
+    "max_bytes": 13,
+    "original_en": "Dusk Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 298,
+    "offset_hex": "0xfc5fb4",
+    "max_bytes": 13,
+    "original_en": "Quick Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 299,
+    "offset_hex": "0xfc5fe0",
+    "max_bytes": 13,
+    "original_en": "Heal Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 300,
+    "offset_hex": "0xfc600c",
+    "max_bytes": 13,
+    "original_en": "Cherish Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 301,
+    "offset_hex": "0xfc6038",
+    "max_bytes": 13,
+    "original_en": "Park Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 302,
+    "offset_hex": "0xfc6064",
+    "max_bytes": 13,
+    "original_en": "Dream Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 303,
+    "offset_hex": "0xfc6090",
+    "max_bytes": 13,
+    "original_en": "Beast Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 304,
+    "offset_hex": "0xfc60bc",
+    "max_bytes": 13,
+    "original_en": "CharizarditeX",
+    "translation_vi": ""
+  },
+  {
+    "id": 305,
+    "offset_hex": "0xfc60e8",
+    "max_bytes": 13,
+    "original_en": "Venusaurite",
+    "translation_vi": ""
+  },
+  {
+    "id": 306,
+    "offset_hex": "0xfc6114",
+    "max_bytes": 13,
+    "original_en": "CharizarditeY",
+    "translation_vi": ""
+  },
+  {
+    "id": 307,
+    "offset_hex": "0xfc6140",
+    "max_bytes": 13,
+    "original_en": "Blastoisinite",
+    "translation_vi": ""
+  },
+  {
+    "id": 308,
+    "offset_hex": "0xfc616c",
+    "max_bytes": 13,
+    "original_en": "Beedrillite",
+    "translation_vi": ""
+  },
+  {
+    "id": 309,
+    "offset_hex": "0xfc6198",
+    "max_bytes": 13,
+    "original_en": "Pidgeotite",
+    "translation_vi": ""
+  },
+  {
+    "id": 310,
+    "offset_hex": "0xfc61c4",
+    "max_bytes": 13,
+    "original_en": "Alakazite",
+    "translation_vi": ""
+  },
+  {
+    "id": 311,
+    "offset_hex": "0xfc61f0",
+    "max_bytes": 13,
+    "original_en": "Slowbronite",
+    "translation_vi": ""
+  },
+  {
+    "id": 312,
+    "offset_hex": "0xfc621c",
+    "max_bytes": 13,
+    "original_en": "Gengarite",
+    "translation_vi": ""
+  },
+  {
+    "id": 313,
+    "offset_hex": "0xfc6248",
+    "max_bytes": 13,
+    "original_en": "Kangaskhanite",
+    "translation_vi": ""
+  },
+  {
+    "id": 314,
+    "offset_hex": "0xfc6274",
+    "max_bytes": 13,
+    "original_en": "Pinsirite",
+    "translation_vi": ""
+  },
+  {
+    "id": 315,
+    "offset_hex": "0xfc62a0",
+    "max_bytes": 13,
+    "original_en": "Gyaradosite",
+    "translation_vi": ""
+  },
+  {
+    "id": 316,
+    "offset_hex": "0xfc62cc",
+    "max_bytes": 13,
+    "original_en": "Aerodactylite",
+    "translation_vi": ""
+  },
+  {
+    "id": 317,
+    "offset_hex": "0xfc62f8",
+    "max_bytes": 13,
+    "original_en": "Mewtwonite X",
+    "translation_vi": ""
+  },
+  {
+    "id": 318,
+    "offset_hex": "0xfc6324",
+    "max_bytes": 13,
+    "original_en": "Mewtownite Y",
+    "translation_vi": ""
+  },
+  {
+    "id": 319,
+    "offset_hex": "0xfc6350",
+    "max_bytes": 13,
+    "original_en": "Ampharosite",
+    "translation_vi": ""
+  },
+  {
+    "id": 320,
+    "offset_hex": "0xfc637c",
+    "max_bytes": 13,
+    "original_en": "Steelixite",
+    "translation_vi": ""
+  },
+  {
+    "id": 321,
+    "offset_hex": "0xfc63a8",
+    "max_bytes": 13,
+    "original_en": "Scizorite",
+    "translation_vi": ""
+  },
+  {
+    "id": 322,
+    "offset_hex": "0xfc63d4",
+    "max_bytes": 13,
+    "original_en": "Heracronite",
+    "translation_vi": ""
+  },
+  {
+    "id": 323,
+    "offset_hex": "0xfc6400",
+    "max_bytes": 13,
+    "original_en": "Houndoominite",
+    "translation_vi": ""
+  },
+  {
+    "id": 324,
+    "offset_hex": "0xfc642c",
+    "max_bytes": 13,
+    "original_en": "Tyranitarite",
+    "translation_vi": ""
+  },
+  {
+    "id": 325,
+    "offset_hex": "0xfc6458",
+    "max_bytes": 13,
+    "original_en": "Sceptilite",
+    "translation_vi": ""
+  },
+  {
+    "id": 326,
+    "offset_hex": "0xfc6484",
+    "max_bytes": 13,
+    "original_en": "Blazikenite",
+    "translation_vi": ""
+  },
+  {
+    "id": 327,
+    "offset_hex": "0xfc64b0",
+    "max_bytes": 13,
+    "original_en": "Swampertite",
+    "translation_vi": ""
+  },
+  {
+    "id": 328,
+    "offset_hex": "0xfc64dc",
+    "max_bytes": 13,
+    "original_en": "Gardevoirite",
+    "translation_vi": ""
+  },
+  {
+    "id": 329,
+    "offset_hex": "0xfc6508",
+    "max_bytes": 13,
+    "original_en": "Sablenite",
+    "translation_vi": ""
+  },
+  {
+    "id": 330,
+    "offset_hex": "0xfc6534",
+    "max_bytes": 13,
+    "original_en": "Mawilite",
+    "translation_vi": ""
+  },
+  {
+    "id": 331,
+    "offset_hex": "0xfc6560",
+    "max_bytes": 13,
+    "original_en": "Aggronite",
+    "translation_vi": ""
+  },
+  {
+    "id": 332,
+    "offset_hex": "0xfc658c",
+    "max_bytes": 13,
+    "original_en": "Medichamite",
+    "translation_vi": ""
+  },
+  {
+    "id": 333,
+    "offset_hex": "0xfc65b8",
+    "max_bytes": 13,
+    "original_en": "Manectite",
+    "translation_vi": ""
+  },
+  {
+    "id": 334,
+    "offset_hex": "0xfc65e4",
+    "max_bytes": 13,
+    "original_en": "Sharpedonite",
+    "translation_vi": ""
+  },
+  {
+    "id": 335,
+    "offset_hex": "0xfc6610",
+    "max_bytes": 13,
+    "original_en": "Cameruptite",
+    "translation_vi": ""
+  },
+  {
+    "id": 336,
+    "offset_hex": "0xfc663c",
+    "max_bytes": 13,
+    "original_en": "Altarianite",
+    "translation_vi": ""
+  },
+  {
+    "id": 337,
+    "offset_hex": "0xfc6668",
+    "max_bytes": 13,
+    "original_en": "Banettite",
+    "translation_vi": ""
+  },
+  {
+    "id": 338,
+    "offset_hex": "0xfc6694",
+    "max_bytes": 13,
+    "original_en": "Absolite",
+    "translation_vi": ""
+  },
+  {
+    "id": 339,
+    "offset_hex": "0xfc66c0",
+    "max_bytes": 13,
+    "original_en": "Glalitite",
+    "translation_vi": ""
+  },
+  {
+    "id": 340,
+    "offset_hex": "0xfc66ec",
+    "max_bytes": 13,
+    "original_en": "Salamencite",
+    "translation_vi": ""
+  },
+  {
+    "id": 341,
+    "offset_hex": "0xfc6718",
+    "max_bytes": 13,
+    "original_en": "Metagrossite",
+    "translation_vi": ""
+  },
+  {
+    "id": 342,
+    "offset_hex": "0xfc6744",
+    "max_bytes": 13,
+    "original_en": "Latiasite",
+    "translation_vi": ""
+  },
+  {
+    "id": 343,
+    "offset_hex": "0xfc6770",
+    "max_bytes": 13,
+    "original_en": "Latiosite",
+    "translation_vi": ""
+  },
+  {
+    "id": 344,
+    "offset_hex": "0xfc679c",
+    "max_bytes": 13,
+    "original_en": "Blue Orb",
+    "translation_vi": ""
+  },
+  {
+    "id": 345,
+    "offset_hex": "0xfc67c8",
+    "max_bytes": 13,
+    "original_en": "Red Orb",
+    "translation_vi": ""
+  },
+  {
+    "id": 346,
+    "offset_hex": "0xfc67f4",
+    "max_bytes": 13,
+    "original_en": "Lopunnite",
+    "translation_vi": ""
+  },
+  {
+    "id": 347,
+    "offset_hex": "0xfc6820",
+    "max_bytes": 13,
+    "original_en": "Garchompite",
+    "translation_vi": ""
+  },
+  {
+    "id": 348,
+    "offset_hex": "0xfc684c",
+    "max_bytes": 13,
+    "original_en": "Lucarionite",
+    "translation_vi": ""
+  },
+  {
+    "id": 349,
+    "offset_hex": "0xfc6878",
+    "max_bytes": 13,
+    "original_en": "Oak's Parcel",
+    "translation_vi": ""
+  },
+  {
+    "id": 350,
+    "offset_hex": "0xfc68a4",
+    "max_bytes": 13,
+    "original_en": "Poké Flute",
+    "translation_vi": ""
+  },
+  {
+    "id": 351,
+    "offset_hex": "0xfc68d0",
+    "max_bytes": 13,
+    "original_en": "Secret Key",
+    "translation_vi": ""
+  },
+  {
+    "id": 352,
+    "offset_hex": "0xfc68fc",
+    "max_bytes": 13,
+    "original_en": "Bike Voucher",
+    "translation_vi": ""
+  },
+  {
+    "id": 353,
+    "offset_hex": "0xfc6928",
+    "max_bytes": 13,
+    "original_en": "Gold Teeth",
+    "translation_vi": ""
+  },
+  {
+    "id": 354,
+    "offset_hex": "0xfc6954",
+    "max_bytes": 13,
+    "original_en": "Old Amber",
+    "translation_vi": ""
+  },
+  {
+    "id": 355,
+    "offset_hex": "0xfc6980",
+    "max_bytes": 13,
+    "original_en": "Card Key",
+    "translation_vi": ""
+  },
+  {
+    "id": 356,
+    "offset_hex": "0xfc69ac",
+    "max_bytes": 13,
+    "original_en": "Lift Key",
+    "translation_vi": ""
+  },
+  {
+    "id": 357,
+    "offset_hex": "0xfc69d8",
+    "max_bytes": 13,
+    "original_en": "Helix Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 358,
+    "offset_hex": "0xfc6a04",
+    "max_bytes": 13,
+    "original_en": "Dome Fossil",
+    "translation_vi": ""
+  },
+  {
+    "id": 359,
+    "offset_hex": "0xfc6a30",
+    "max_bytes": 13,
+    "original_en": "Silph Scope",
+    "translation_vi": ""
+  },
+  {
+    "id": 360,
+    "offset_hex": "0xfc6a5c",
+    "max_bytes": 13,
+    "original_en": "Bicycle",
+    "translation_vi": ""
+  },
+  {
+    "id": 361,
+    "offset_hex": "0xfc6a88",
+    "max_bytes": 13,
+    "original_en": "Sinnoh Map",
+    "translation_vi": ""
+  },
+  {
+    "id": 362,
+    "offset_hex": "0xfc6ab4",
+    "max_bytes": 13,
+    "original_en": "VS Seeker",
+    "translation_vi": ""
+  },
+  {
+    "id": 363,
+    "offset_hex": "0xfc6ae0",
+    "max_bytes": 13,
+    "original_en": "Journal",
+    "translation_vi": ""
+  },
+  {
+    "id": 364,
+    "offset_hex": "0xfc6b0c",
+    "max_bytes": 13,
+    "original_en": "TM Case",
+    "translation_vi": ""
+  },
+  {
+    "id": 365,
+    "offset_hex": "0xfc6b38",
+    "max_bytes": 13,
+    "original_en": "Berry Pouch",
+    "translation_vi": ""
+  },
+  {
+    "id": 366,
+    "offset_hex": "0xfc6b64",
+    "max_bytes": 13,
+    "original_en": "Teachy TV",
+    "translation_vi": ""
+  },
+  {
+    "id": 367,
+    "offset_hex": "0xfc6b90",
+    "max_bytes": 13,
+    "original_en": "Tri-Pass",
+    "translation_vi": ""
+  },
+  {
+    "id": 368,
+    "offset_hex": "0xfc6bbc",
+    "max_bytes": 13,
+    "original_en": "Rainbow Pass",
+    "translation_vi": ""
+  },
+  {
+    "id": 369,
+    "offset_hex": "0xfc6be8",
+    "max_bytes": 13,
+    "original_en": "Tea",
+    "translation_vi": ""
+  },
+  {
+    "id": 370,
+    "offset_hex": "0xfc6c14",
+    "max_bytes": 13,
+    "original_en": "MysticTicket",
+    "translation_vi": ""
+  },
+  {
+    "id": 371,
+    "offset_hex": "0xfc6c40",
+    "max_bytes": 13,
+    "original_en": "AuroraTicket",
+    "translation_vi": ""
+  },
+  {
+    "id": 372,
+    "offset_hex": "0xfc6c6c",
+    "max_bytes": 13,
+    "original_en": "Powder Jar",
+    "translation_vi": ""
+  },
+  {
+    "id": 373,
+    "offset_hex": "0xfc6c98",
+    "max_bytes": 13,
+    "original_en": "Ruby",
+    "translation_vi": ""
+  },
+  {
+    "id": 374,
+    "offset_hex": "0xfc6cc4",
+    "max_bytes": 13,
+    "original_en": "Sapphire",
+    "translation_vi": ""
+  },
+  {
+    "id": 375,
+    "offset_hex": "0xfc6cf0",
+    "max_bytes": 13,
+    "original_en": "Magma Emblem",
+    "translation_vi": ""
+  },
+  {
+    "id": 376,
+    "offset_hex": "0xfc6d1c",
+    "max_bytes": 13,
+    "original_en": "Old Sea Map",
+    "translation_vi": ""
+  },
+  {
+    "id": 377,
+    "offset_hex": "0xfc6d48",
+    "max_bytes": 13,
+    "original_en": "Bag Arrow",
+    "translation_vi": ""
+  },
+  {
+    "id": 378,
+    "offset_hex": "0xfc6d74",
+    "max_bytes": 13,
+    "original_en": "TM 01",
+    "translation_vi": ""
+  },
+  {
+    "id": 379,
+    "offset_hex": "0xfc6da0",
+    "max_bytes": 13,
+    "original_en": "TM 02",
+    "translation_vi": ""
+  },
+  {
+    "id": 380,
+    "offset_hex": "0xfc6dcc",
+    "max_bytes": 13,
+    "original_en": "TM 03",
+    "translation_vi": ""
+  },
+  {
+    "id": 381,
+    "offset_hex": "0xfc6df8",
+    "max_bytes": 13,
+    "original_en": "TM 04",
+    "translation_vi": ""
+  },
+  {
+    "id": 382,
+    "offset_hex": "0xfc6e24",
+    "max_bytes": 13,
+    "original_en": "TM 05",
+    "translation_vi": ""
+  },
+  {
+    "id": 383,
+    "offset_hex": "0xfc6e50",
+    "max_bytes": 13,
+    "original_en": "TM 06",
+    "translation_vi": ""
+  },
+  {
+    "id": 384,
+    "offset_hex": "0xfc6e7c",
+    "max_bytes": 13,
+    "original_en": "TM 07",
+    "translation_vi": ""
+  },
+  {
+    "id": 385,
+    "offset_hex": "0xfc6ea8",
+    "max_bytes": 13,
+    "original_en": "TM 08",
+    "translation_vi": ""
+  },
+  {
+    "id": 386,
+    "offset_hex": "0xfc6ed4",
+    "max_bytes": 13,
+    "original_en": "TM 09",
+    "translation_vi": ""
+  },
+  {
+    "id": 387,
+    "offset_hex": "0xfc6f00",
+    "max_bytes": 13,
+    "original_en": "TM 10",
+    "translation_vi": ""
+  },
+  {
+    "id": 388,
+    "offset_hex": "0xfc6f2c",
+    "max_bytes": 13,
+    "original_en": "TM 11",
+    "translation_vi": ""
+  },
+  {
+    "id": 389,
+    "offset_hex": "0xfc6f58",
+    "max_bytes": 13,
+    "original_en": "TM 12",
+    "translation_vi": ""
+  },
+  {
+    "id": 390,
+    "offset_hex": "0xfc6f84",
+    "max_bytes": 13,
+    "original_en": "TM 13",
+    "translation_vi": ""
+  },
+  {
+    "id": 391,
+    "offset_hex": "0xfc6fb0",
+    "max_bytes": 13,
+    "original_en": "TM 14",
+    "translation_vi": ""
+  },
+  {
+    "id": 392,
+    "offset_hex": "0xfc6fdc",
+    "max_bytes": 13,
+    "original_en": "TM 15",
+    "translation_vi": ""
+  },
+  {
+    "id": 393,
+    "offset_hex": "0xfc7008",
+    "max_bytes": 13,
+    "original_en": "TM 16",
+    "translation_vi": ""
+  },
+  {
+    "id": 394,
+    "offset_hex": "0xfc7034",
+    "max_bytes": 13,
+    "original_en": "TM 17",
+    "translation_vi": ""
+  },
+  {
+    "id": 395,
+    "offset_hex": "0xfc7060",
+    "max_bytes": 13,
+    "original_en": "TM 18",
+    "translation_vi": ""
+  },
+  {
+    "id": 396,
+    "offset_hex": "0xfc708c",
+    "max_bytes": 13,
+    "original_en": "TM 19",
+    "translation_vi": ""
+  },
+  {
+    "id": 397,
+    "offset_hex": "0xfc70b8",
+    "max_bytes": 13,
+    "original_en": "TM 20",
+    "translation_vi": ""
+  },
+  {
+    "id": 398,
+    "offset_hex": "0xfc70e4",
+    "max_bytes": 13,
+    "original_en": "TM 21",
+    "translation_vi": ""
+  },
+  {
+    "id": 399,
+    "offset_hex": "0xfc7110",
+    "max_bytes": 13,
+    "original_en": "TM 22",
+    "translation_vi": ""
+  },
+  {
+    "id": 400,
+    "offset_hex": "0xfc713c",
+    "max_bytes": 13,
+    "original_en": "TM 23",
+    "translation_vi": ""
+  },
+  {
+    "id": 401,
+    "offset_hex": "0xfc7168",
+    "max_bytes": 13,
+    "original_en": "TM 24",
+    "translation_vi": ""
+  },
+  {
+    "id": 402,
+    "offset_hex": "0xfc7194",
+    "max_bytes": 13,
+    "original_en": "TM 25",
+    "translation_vi": ""
+  },
+  {
+    "id": 403,
+    "offset_hex": "0xfc71c0",
+    "max_bytes": 13,
+    "original_en": "TM 26",
+    "translation_vi": ""
+  },
+  {
+    "id": 404,
+    "offset_hex": "0xfc71ec",
+    "max_bytes": 13,
+    "original_en": "TM 27",
+    "translation_vi": ""
+  },
+  {
+    "id": 405,
+    "offset_hex": "0xfc7218",
+    "max_bytes": 13,
+    "original_en": "TM 28",
+    "translation_vi": ""
+  },
+  {
+    "id": 406,
+    "offset_hex": "0xfc7244",
+    "max_bytes": 13,
+    "original_en": "TM 29",
+    "translation_vi": ""
+  },
+  {
+    "id": 407,
+    "offset_hex": "0xfc7270",
+    "max_bytes": 13,
+    "original_en": "TM 30",
+    "translation_vi": ""
+  },
+  {
+    "id": 408,
+    "offset_hex": "0xfc729c",
+    "max_bytes": 13,
+    "original_en": "TM 31",
+    "translation_vi": ""
+  },
+  {
+    "id": 409,
+    "offset_hex": "0xfc72c8",
+    "max_bytes": 13,
+    "original_en": "TM 32",
+    "translation_vi": ""
+  },
+  {
+    "id": 410,
+    "offset_hex": "0xfc72f4",
+    "max_bytes": 13,
+    "original_en": "TM 33",
+    "translation_vi": ""
+  },
+  {
+    "id": 411,
+    "offset_hex": "0xfc7320",
+    "max_bytes": 13,
+    "original_en": "TM 34",
+    "translation_vi": ""
+  },
+  {
+    "id": 412,
+    "offset_hex": "0xfc734c",
+    "max_bytes": 13,
+    "original_en": "TM 35",
+    "translation_vi": ""
+  },
+  {
+    "id": 413,
+    "offset_hex": "0xfc7378",
+    "max_bytes": 13,
+    "original_en": "TM 36",
+    "translation_vi": ""
+  },
+  {
+    "id": 414,
+    "offset_hex": "0xfc73a4",
+    "max_bytes": 13,
+    "original_en": "TM 37",
+    "translation_vi": ""
+  },
+  {
+    "id": 415,
+    "offset_hex": "0xfc73d0",
+    "max_bytes": 13,
+    "original_en": "TM 38",
+    "translation_vi": ""
+  },
+  {
+    "id": 416,
+    "offset_hex": "0xfc73fc",
+    "max_bytes": 13,
+    "original_en": "TM 39",
+    "translation_vi": ""
+  },
+  {
+    "id": 417,
+    "offset_hex": "0xfc7428",
+    "max_bytes": 13,
+    "original_en": "TM 40",
+    "translation_vi": ""
+  },
+  {
+    "id": 418,
+    "offset_hex": "0xfc7454",
+    "max_bytes": 13,
+    "original_en": "TM 41",
+    "translation_vi": ""
+  },
+  {
+    "id": 419,
+    "offset_hex": "0xfc7480",
+    "max_bytes": 13,
+    "original_en": "TM 42",
+    "translation_vi": ""
+  },
+  {
+    "id": 420,
+    "offset_hex": "0xfc74ac",
+    "max_bytes": 13,
+    "original_en": "TM 43",
+    "translation_vi": ""
+  },
+  {
+    "id": 421,
+    "offset_hex": "0xfc74d8",
+    "max_bytes": 13,
+    "original_en": "TM 44",
+    "translation_vi": ""
+  },
+  {
+    "id": 422,
+    "offset_hex": "0xfc7504",
+    "max_bytes": 13,
+    "original_en": "TM 45",
+    "translation_vi": ""
+  },
+  {
+    "id": 423,
+    "offset_hex": "0xfc7530",
+    "max_bytes": 13,
+    "original_en": "TM 46",
+    "translation_vi": ""
+  },
+  {
+    "id": 424,
+    "offset_hex": "0xfc755c",
+    "max_bytes": 13,
+    "original_en": "TM 47",
+    "translation_vi": ""
+  },
+  {
+    "id": 425,
+    "offset_hex": "0xfc7588",
+    "max_bytes": 13,
+    "original_en": "TM 48",
+    "translation_vi": ""
+  },
+  {
+    "id": 426,
+    "offset_hex": "0xfc75b4",
+    "max_bytes": 13,
+    "original_en": "TM 49",
+    "translation_vi": ""
+  },
+  {
+    "id": 427,
+    "offset_hex": "0xfc75e0",
+    "max_bytes": 13,
+    "original_en": "TM 50",
+    "translation_vi": ""
+  },
+  {
+    "id": 428,
+    "offset_hex": "0xfc760c",
+    "max_bytes": 13,
+    "original_en": "TM 51",
+    "translation_vi": ""
+  },
+  {
+    "id": 429,
+    "offset_hex": "0xfc7638",
+    "max_bytes": 13,
+    "original_en": "TM 52",
+    "translation_vi": ""
+  },
+  {
+    "id": 430,
+    "offset_hex": "0xfc7664",
+    "max_bytes": 13,
+    "original_en": "TM 53",
+    "translation_vi": ""
+  },
+  {
+    "id": 431,
+    "offset_hex": "0xfc7690",
+    "max_bytes": 13,
+    "original_en": "TM 54",
+    "translation_vi": ""
+  },
+  {
+    "id": 432,
+    "offset_hex": "0xfc76bc",
+    "max_bytes": 13,
+    "original_en": "TM 55",
+    "translation_vi": ""
+  },
+  {
+    "id": 433,
+    "offset_hex": "0xfc76e8",
+    "max_bytes": 13,
+    "original_en": "TM 56",
+    "translation_vi": ""
+  },
+  {
+    "id": 434,
+    "offset_hex": "0xfc7714",
+    "max_bytes": 13,
+    "original_en": "TM 57",
+    "translation_vi": ""
+  },
+  {
+    "id": 435,
+    "offset_hex": "0xfc7740",
+    "max_bytes": 13,
+    "original_en": "TM 58",
+    "translation_vi": ""
+  },
+  {
+    "id": 436,
+    "offset_hex": "0xfc776c",
+    "max_bytes": 13,
+    "original_en": "TM 59",
+    "translation_vi": ""
+  },
+  {
+    "id": 437,
+    "offset_hex": "0xfc7798",
+    "max_bytes": 13,
+    "original_en": "TM 60",
+    "translation_vi": ""
+  },
+  {
+    "id": 438,
+    "offset_hex": "0xfc77c4",
+    "max_bytes": 13,
+    "original_en": "TM 61",
+    "translation_vi": ""
+  },
+  {
+    "id": 439,
+    "offset_hex": "0xfc77f0",
+    "max_bytes": 13,
+    "original_en": "TM 62",
+    "translation_vi": ""
+  },
+  {
+    "id": 440,
+    "offset_hex": "0xfc781c",
+    "max_bytes": 13,
+    "original_en": "TM 63",
+    "translation_vi": ""
+  },
+  {
+    "id": 441,
+    "offset_hex": "0xfc7848",
+    "max_bytes": 13,
+    "original_en": "TM 64",
+    "translation_vi": ""
+  },
+  {
+    "id": 442,
+    "offset_hex": "0xfc7874",
+    "max_bytes": 13,
+    "original_en": "TM 65",
+    "translation_vi": ""
+  },
+  {
+    "id": 443,
+    "offset_hex": "0xfc78a0",
+    "max_bytes": 13,
+    "original_en": "TM 66",
+    "translation_vi": ""
+  },
+  {
+    "id": 444,
+    "offset_hex": "0xfc78cc",
+    "max_bytes": 13,
+    "original_en": "TM 67",
+    "translation_vi": ""
+  },
+  {
+    "id": 445,
+    "offset_hex": "0xfc78f8",
+    "max_bytes": 13,
+    "original_en": "TM 68",
+    "translation_vi": ""
+  },
+  {
+    "id": 446,
+    "offset_hex": "0xfc7924",
+    "max_bytes": 13,
+    "original_en": "TM 69",
+    "translation_vi": ""
+  },
+  {
+    "id": 447,
+    "offset_hex": "0xfc7950",
+    "max_bytes": 13,
+    "original_en": "TM 70",
+    "translation_vi": ""
+  },
+  {
+    "id": 448,
+    "offset_hex": "0xfc797c",
+    "max_bytes": 13,
+    "original_en": "TM 71",
+    "translation_vi": ""
+  },
+  {
+    "id": 449,
+    "offset_hex": "0xfc79a8",
+    "max_bytes": 13,
+    "original_en": "TM 72",
+    "translation_vi": ""
+  },
+  {
+    "id": 450,
+    "offset_hex": "0xfc79d4",
+    "max_bytes": 13,
+    "original_en": "TM 73",
+    "translation_vi": ""
+  },
+  {
+    "id": 451,
+    "offset_hex": "0xfc7a00",
+    "max_bytes": 13,
+    "original_en": "TM 74",
+    "translation_vi": ""
+  },
+  {
+    "id": 452,
+    "offset_hex": "0xfc7a2c",
+    "max_bytes": 13,
+    "original_en": "TM 75",
+    "translation_vi": ""
+  },
+  {
+    "id": 453,
+    "offset_hex": "0xfc7a58",
+    "max_bytes": 13,
+    "original_en": "TM 76",
+    "translation_vi": ""
+  },
+  {
+    "id": 454,
+    "offset_hex": "0xfc7a84",
+    "max_bytes": 13,
+    "original_en": "TM 77",
+    "translation_vi": ""
+  },
+  {
+    "id": 455,
+    "offset_hex": "0xfc7ab0",
+    "max_bytes": 13,
+    "original_en": "TM 78",
+    "translation_vi": ""
+  },
+  {
+    "id": 456,
+    "offset_hex": "0xfc7adc",
+    "max_bytes": 13,
+    "original_en": "TM 79",
+    "translation_vi": ""
+  },
+  {
+    "id": 457,
+    "offset_hex": "0xfc7b08",
+    "max_bytes": 13,
+    "original_en": "TM 80",
+    "translation_vi": ""
+  },
+  {
+    "id": 458,
+    "offset_hex": "0xfc7b34",
+    "max_bytes": 13,
+    "original_en": "TM 81",
+    "translation_vi": ""
+  },
+  {
+    "id": 459,
+    "offset_hex": "0xfc7b60",
+    "max_bytes": 13,
+    "original_en": "TM 82",
+    "translation_vi": ""
+  },
+  {
+    "id": 460,
+    "offset_hex": "0xfc7b8c",
+    "max_bytes": 13,
+    "original_en": "TM 83",
+    "translation_vi": ""
+  },
+  {
+    "id": 461,
+    "offset_hex": "0xfc7bb8",
+    "max_bytes": 13,
+    "original_en": "TM 84",
+    "translation_vi": ""
+  },
+  {
+    "id": 462,
+    "offset_hex": "0xfc7be4",
+    "max_bytes": 13,
+    "original_en": "TM 85",
+    "translation_vi": ""
+  },
+  {
+    "id": 463,
+    "offset_hex": "0xfc7c10",
+    "max_bytes": 13,
+    "original_en": "TM 86",
+    "translation_vi": ""
+  },
+  {
+    "id": 464,
+    "offset_hex": "0xfc7c3c",
+    "max_bytes": 13,
+    "original_en": "TM 87",
+    "translation_vi": ""
+  },
+  {
+    "id": 465,
+    "offset_hex": "0xfc7c68",
+    "max_bytes": 13,
+    "original_en": "TM 88",
+    "translation_vi": ""
+  },
+  {
+    "id": 466,
+    "offset_hex": "0xfc7c94",
+    "max_bytes": 13,
+    "original_en": "TM 89",
+    "translation_vi": ""
+  },
+  {
+    "id": 467,
+    "offset_hex": "0xfc7cc0",
+    "max_bytes": 13,
+    "original_en": "TM 90",
+    "translation_vi": ""
+  },
+  {
+    "id": 468,
+    "offset_hex": "0xfc7cec",
+    "max_bytes": 13,
+    "original_en": "TM 91",
+    "translation_vi": ""
+  },
+  {
+    "id": 469,
+    "offset_hex": "0xfc7d18",
+    "max_bytes": 13,
+    "original_en": "TM 92",
+    "translation_vi": ""
+  },
+  {
+    "id": 470,
+    "offset_hex": "0xfc7d44",
+    "max_bytes": 13,
+    "original_en": "TM 93",
+    "translation_vi": ""
+  },
+  {
+    "id": 471,
+    "offset_hex": "0xfc7d70",
+    "max_bytes": 13,
+    "original_en": "TM 94",
+    "translation_vi": ""
+  },
+  {
+    "id": 472,
+    "offset_hex": "0xfc7d9c",
+    "max_bytes": 13,
+    "original_en": "TM 95",
+    "translation_vi": ""
+  },
+  {
+    "id": 473,
+    "offset_hex": "0xfc7dc8",
+    "max_bytes": 13,
+    "original_en": "TM 96",
+    "translation_vi": ""
+  },
+  {
+    "id": 474,
+    "offset_hex": "0xfc7df4",
+    "max_bytes": 13,
+    "original_en": "TM 97",
+    "translation_vi": ""
+  },
+  {
+    "id": 475,
+    "offset_hex": "0xfc7e20",
+    "max_bytes": 13,
+    "original_en": "TM 98",
+    "translation_vi": ""
+  },
+  {
+    "id": 476,
+    "offset_hex": "0xfc7e4c",
+    "max_bytes": 13,
+    "original_en": "TM 99",
+    "translation_vi": ""
+  },
+  {
+    "id": 477,
+    "offset_hex": "0xfc7e78",
+    "max_bytes": 13,
+    "original_en": "TM 100",
+    "translation_vi": ""
+  },
+  {
+    "id": 478,
+    "offset_hex": "0xfc7ea4",
+    "max_bytes": 13,
+    "original_en": "TM 101",
+    "translation_vi": ""
+  },
+  {
+    "id": 479,
+    "offset_hex": "0xfc7ed0",
+    "max_bytes": 13,
+    "original_en": "TM 102",
+    "translation_vi": ""
+  },
+  {
+    "id": 480,
+    "offset_hex": "0xfc7efc",
+    "max_bytes": 13,
+    "original_en": "TM 103",
+    "translation_vi": ""
+  },
+  {
+    "id": 481,
+    "offset_hex": "0xfc7f28",
+    "max_bytes": 13,
+    "original_en": "TM 104",
+    "translation_vi": ""
+  },
+  {
+    "id": 482,
+    "offset_hex": "0xfc7f54",
+    "max_bytes": 13,
+    "original_en": "TM 105",
+    "translation_vi": ""
+  },
+  {
+    "id": 483,
+    "offset_hex": "0xfc7f80",
+    "max_bytes": 13,
+    "original_en": "TM 106",
+    "translation_vi": ""
+  },
+  {
+    "id": 484,
+    "offset_hex": "0xfc7fac",
+    "max_bytes": 13,
+    "original_en": "TM 107",
+    "translation_vi": ""
+  },
+  {
+    "id": 485,
+    "offset_hex": "0xfc7fd8",
+    "max_bytes": 13,
+    "original_en": "TM 108",
+    "translation_vi": ""
+  },
+  {
+    "id": 486,
+    "offset_hex": "0xfc8004",
+    "max_bytes": 13,
+    "original_en": "TM 109",
+    "translation_vi": ""
+  },
+  {
+    "id": 487,
+    "offset_hex": "0xfc8030",
+    "max_bytes": 13,
+    "original_en": "TM 110",
+    "translation_vi": ""
+  },
+  {
+    "id": 488,
+    "offset_hex": "0xfc805c",
+    "max_bytes": 13,
+    "original_en": "TM 111",
+    "translation_vi": ""
+  },
+  {
+    "id": 489,
+    "offset_hex": "0xfc8088",
+    "max_bytes": 13,
+    "original_en": "TM 112",
+    "translation_vi": ""
+  },
+  {
+    "id": 490,
+    "offset_hex": "0xfc80b4",
+    "max_bytes": 13,
+    "original_en": "TM 113",
+    "translation_vi": ""
+  },
+  {
+    "id": 491,
+    "offset_hex": "0xfc80e0",
+    "max_bytes": 13,
+    "original_en": "TM 114",
+    "translation_vi": ""
+  },
+  {
+    "id": 492,
+    "offset_hex": "0xfc810c",
+    "max_bytes": 13,
+    "original_en": "TM 115",
+    "translation_vi": ""
+  },
+  {
+    "id": 493,
+    "offset_hex": "0xfc8138",
+    "max_bytes": 13,
+    "original_en": "TM 116",
+    "translation_vi": ""
+  },
+  {
+    "id": 494,
+    "offset_hex": "0xfc8164",
+    "max_bytes": 13,
+    "original_en": "TM 117",
+    "translation_vi": ""
+  },
+  {
+    "id": 495,
+    "offset_hex": "0xfc8190",
+    "max_bytes": 13,
+    "original_en": "TM 118",
+    "translation_vi": ""
+  },
+  {
+    "id": 496,
+    "offset_hex": "0xfc81bc",
+    "max_bytes": 13,
+    "original_en": "TM 119",
+    "translation_vi": ""
+  },
+  {
+    "id": 497,
+    "offset_hex": "0xfc81e8",
+    "max_bytes": 13,
+    "original_en": "TM 120",
+    "translation_vi": ""
+  },
+  {
+    "id": 498,
+    "offset_hex": "0xfc8214",
+    "max_bytes": 13,
+    "original_en": "HM 01",
+    "translation_vi": ""
+  },
+  {
+    "id": 499,
+    "offset_hex": "0xfc8240",
+    "max_bytes": 13,
+    "original_en": "HM 02",
+    "translation_vi": ""
+  },
+  {
+    "id": 500,
+    "offset_hex": "0xfc826c",
+    "max_bytes": 13,
+    "original_en": "HM 03",
+    "translation_vi": ""
+  },
+  {
+    "id": 501,
+    "offset_hex": "0xfc8298",
+    "max_bytes": 13,
+    "original_en": "HM 04",
+    "translation_vi": ""
+  },
+  {
+    "id": 502,
+    "offset_hex": "0xfc82c4",
+    "max_bytes": 13,
+    "original_en": "HM 05",
+    "translation_vi": ""
+  },
+  {
+    "id": 503,
+    "offset_hex": "0xfc82f0",
+    "max_bytes": 13,
+    "original_en": "HM 06",
+    "translation_vi": ""
+  },
+  {
+    "id": 504,
+    "offset_hex": "0xfc831c",
+    "max_bytes": 13,
+    "original_en": "HM 07",
+    "translation_vi": ""
+  },
+  {
+    "id": 505,
+    "offset_hex": "0xfc8348",
+    "max_bytes": 13,
+    "original_en": "HM 08",
+    "translation_vi": ""
+  },
+  {
+    "id": 506,
+    "offset_hex": "0xfc8374",
+    "max_bytes": 13,
+    "original_en": "Spooky Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 507,
+    "offset_hex": "0xfc83a0",
+    "max_bytes": 13,
+    "original_en": "Draco Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 508,
+    "offset_hex": "0xfc83cc",
+    "max_bytes": 13,
+    "original_en": "Dread Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 509,
+    "offset_hex": "0xfc83f8",
+    "max_bytes": 13,
+    "original_en": "Iron Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 510,
+    "offset_hex": "0xfc8424",
+    "max_bytes": 13,
+    "original_en": "Oval Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 511,
+    "offset_hex": "0xfc8450",
+    "max_bytes": 13,
+    "original_en": "Adamant Orb",
+    "translation_vi": ""
+  },
+  {
+    "id": 512,
+    "offset_hex": "0xfc847c",
+    "max_bytes": 13,
+    "original_en": "Lustrous Orb",
+    "translation_vi": ""
+  },
+  {
+    "id": 513,
+    "offset_hex": "0xfc84a8",
+    "max_bytes": 13,
+    "original_en": "Griseous Core",
+    "translation_vi": ""
+  },
+  {
+    "id": 514,
+    "offset_hex": "0xfc84d4",
+    "max_bytes": 13,
+    "original_en": "Odd Incense",
+    "translation_vi": ""
+  },
+  {
+    "id": 515,
+    "offset_hex": "0xfc8500",
+    "max_bytes": 13,
+    "original_en": "Rock Incense",
+    "translation_vi": ""
+  },
+  {
+    "id": 516,
+    "offset_hex": "0xfc852c",
+    "max_bytes": 13,
+    "original_en": "Full Incense",
+    "translation_vi": ""
+  },
+  {
+    "id": 517,
+    "offset_hex": "0xfc8558",
+    "max_bytes": 13,
+    "original_en": "Wave Incense",
+    "translation_vi": ""
+  },
+  {
+    "id": 518,
+    "offset_hex": "0xfc8584",
+    "max_bytes": 13,
+    "original_en": "Rose Incense",
+    "translation_vi": ""
+  },
+  {
+    "id": 519,
+    "offset_hex": "0xfc85b0",
+    "max_bytes": 13,
+    "original_en": "Luck Incense",
+    "translation_vi": ""
+  },
+  {
+    "id": 520,
+    "offset_hex": "0xfc85dc",
+    "max_bytes": 13,
+    "original_en": "Pure Incense",
+    "translation_vi": ""
+  },
+  {
+    "id": 521,
+    "offset_hex": "0xfc8608",
+    "max_bytes": 13,
+    "original_en": "Protector",
+    "translation_vi": ""
+  },
+  {
+    "id": 522,
+    "offset_hex": "0xfc8634",
+    "max_bytes": 13,
+    "original_en": "Electirizer",
+    "translation_vi": ""
+  },
+  {
+    "id": 523,
+    "offset_hex": "0xfc8660",
+    "max_bytes": 13,
+    "original_en": "Magmarizer",
+    "translation_vi": ""
+  },
+  {
+    "id": 524,
+    "offset_hex": "0xfc868c",
+    "max_bytes": 13,
+    "original_en": "Dubious Disc",
+    "translation_vi": ""
+  },
+  {
+    "id": 525,
+    "offset_hex": "0xfc86b8",
+    "max_bytes": 13,
+    "original_en": "Reaper Cloth",
+    "translation_vi": ""
+  },
+  {
+    "id": 526,
+    "offset_hex": "0xfc86e4",
+    "max_bytes": 13,
+    "original_en": "Razor Claw",
+    "translation_vi": ""
+  },
+  {
+    "id": 527,
+    "offset_hex": "0xfc8710",
+    "max_bytes": 13,
+    "original_en": "Razor Fang",
+    "translation_vi": ""
+  },
+  {
+    "id": 528,
+    "offset_hex": "0xfc873c",
+    "max_bytes": 13,
+    "original_en": "Wide Lens",
+    "translation_vi": ""
+  },
+  {
+    "id": 529,
+    "offset_hex": "0xfc8768",
+    "max_bytes": 13,
+    "original_en": "Muscle Band",
+    "translation_vi": ""
+  },
+  {
+    "id": 530,
+    "offset_hex": "0xfc8794",
+    "max_bytes": 13,
+    "original_en": "Wise Glasses",
+    "translation_vi": ""
+  },
+  {
+    "id": 531,
+    "offset_hex": "0xfc87c0",
+    "max_bytes": 13,
+    "original_en": "Expert Belt",
+    "translation_vi": ""
+  },
+  {
+    "id": 532,
+    "offset_hex": "0xfc87ec",
+    "max_bytes": 13,
+    "original_en": "Light Clay",
+    "translation_vi": ""
+  },
+  {
+    "id": 533,
+    "offset_hex": "0xfc8818",
+    "max_bytes": 13,
+    "original_en": "Life Orb",
+    "translation_vi": ""
+  },
+  {
+    "id": 534,
+    "offset_hex": "0xfc8844",
+    "max_bytes": 13,
+    "original_en": "Power Herb",
+    "translation_vi": ""
+  },
+  {
+    "id": 535,
+    "offset_hex": "0xfc8870",
+    "max_bytes": 13,
+    "original_en": "Toxic Orb",
+    "translation_vi": ""
+  },
+  {
+    "id": 536,
+    "offset_hex": "0xfc889c",
+    "max_bytes": 13,
+    "original_en": "Flame Orb",
+    "translation_vi": ""
+  },
+  {
+    "id": 537,
+    "offset_hex": "0xfc88c8",
+    "max_bytes": 13,
+    "original_en": "Quick Powder",
+    "translation_vi": ""
+  },
+  {
+    "id": 538,
+    "offset_hex": "0xfc88f4",
+    "max_bytes": 13,
+    "original_en": "Focus Sash",
+    "translation_vi": ""
+  },
+  {
+    "id": 539,
+    "offset_hex": "0xfc8920",
+    "max_bytes": 13,
+    "original_en": "Zoom Lens",
+    "translation_vi": ""
+  },
+  {
+    "id": 540,
+    "offset_hex": "0xfc894c",
+    "max_bytes": 13,
+    "original_en": "Metronome",
+    "translation_vi": ""
+  },
+  {
+    "id": 541,
+    "offset_hex": "0xfc8978",
+    "max_bytes": 13,
+    "original_en": "Iron Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 542,
+    "offset_hex": "0xfc89a4",
+    "max_bytes": 13,
+    "original_en": "Lagging Tail",
+    "translation_vi": ""
+  },
+  {
+    "id": 543,
+    "offset_hex": "0xfc89d0",
+    "max_bytes": 13,
+    "original_en": "Deoxys Meteor",
+    "translation_vi": ""
+  },
+  {
+    "id": 544,
+    "offset_hex": "0xfc89fc",
+    "max_bytes": 13,
+    "original_en": "Black Sludge",
+    "translation_vi": ""
+  },
+  {
+    "id": 545,
+    "offset_hex": "0xfc8a28",
+    "max_bytes": 13,
+    "original_en": "Icy Rock",
+    "translation_vi": ""
+  },
+  {
+    "id": 546,
+    "offset_hex": "0xfc8a54",
+    "max_bytes": 13,
+    "original_en": "Smooth Rock",
+    "translation_vi": ""
+  },
+  {
+    "id": 547,
+    "offset_hex": "0xfc8a80",
+    "max_bytes": 13,
+    "original_en": "Heat Rock",
+    "translation_vi": ""
+  },
+  {
+    "id": 548,
+    "offset_hex": "0xfc8aac",
+    "max_bytes": 13,
+    "original_en": "Damp Rock",
+    "translation_vi": ""
+  },
+  {
+    "id": 549,
+    "offset_hex": "0xfc8ad8",
+    "max_bytes": 13,
+    "original_en": "Grip Claw",
+    "translation_vi": ""
+  },
+  {
+    "id": 550,
+    "offset_hex": "0xfc8b04",
+    "max_bytes": 13,
+    "original_en": "Choice Scarf",
+    "translation_vi": ""
+  },
+  {
+    "id": 551,
+    "offset_hex": "0xfc8b30",
+    "max_bytes": 13,
+    "original_en": "Sticky Barb",
+    "translation_vi": ""
+  },
+  {
+    "id": 552,
+    "offset_hex": "0xfc8b5c",
+    "max_bytes": 13,
+    "original_en": "Shed Shell",
+    "translation_vi": ""
+  },
+  {
+    "id": 553,
+    "offset_hex": "0xfc8b88",
+    "max_bytes": 13,
+    "original_en": "Big Root",
+    "translation_vi": ""
+  },
+  {
+    "id": 554,
+    "offset_hex": "0xfc8bb4",
+    "max_bytes": 13,
+    "original_en": "Choice Specs",
+    "translation_vi": ""
+  },
+  {
+    "id": 555,
+    "offset_hex": "0xfc8be0",
+    "max_bytes": 13,
+    "original_en": "Prism Scale",
+    "translation_vi": ""
+  },
+  {
+    "id": 556,
+    "offset_hex": "0xfc8c0c",
+    "max_bytes": 13,
+    "original_en": "Eviolite",
+    "translation_vi": ""
+  },
+  {
+    "id": 557,
+    "offset_hex": "0xfc8c38",
+    "max_bytes": 13,
+    "original_en": "Float Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 558,
+    "offset_hex": "0xfc8c64",
+    "max_bytes": 13,
+    "original_en": "Rocky Helmet",
+    "translation_vi": ""
+  },
+  {
+    "id": 559,
+    "offset_hex": "0xfc8c90",
+    "max_bytes": 13,
+    "original_en": "Air Balloon",
+    "translation_vi": ""
+  },
+  {
+    "id": 560,
+    "offset_hex": "0xfc8cbc",
+    "max_bytes": 13,
+    "original_en": "Red Card",
+    "translation_vi": ""
+  },
+  {
+    "id": 561,
+    "offset_hex": "0xfc8ce8",
+    "max_bytes": 13,
+    "original_en": "Ring Target",
+    "translation_vi": ""
+  },
+  {
+    "id": 562,
+    "offset_hex": "0xfc8d14",
+    "max_bytes": 13,
+    "original_en": "Binding Band",
+    "translation_vi": ""
+  },
+  {
+    "id": 563,
+    "offset_hex": "0xfc8d40",
+    "max_bytes": 13,
+    "original_en": "Absorb Bulb",
+    "translation_vi": ""
+  },
+  {
+    "id": 564,
+    "offset_hex": "0xfc8d6c",
+    "max_bytes": 13,
+    "original_en": "Cell Battery",
+    "translation_vi": ""
+  },
+  {
+    "id": 565,
+    "offset_hex": "0xfc8d98",
+    "max_bytes": 13,
+    "original_en": "Eject Button",
+    "translation_vi": ""
+  },
+  {
+    "id": 566,
+    "offset_hex": "0xfc8dc4",
+    "max_bytes": 13,
+    "original_en": "Fire Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 567,
+    "offset_hex": "0xfc8df0",
+    "max_bytes": 13,
+    "original_en": "Water Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 568,
+    "offset_hex": "0xfc8e1c",
+    "max_bytes": 13,
+    "original_en": "Electric Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 569,
+    "offset_hex": "0xfc8e48",
+    "max_bytes": 13,
+    "original_en": "Grass Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 570,
+    "offset_hex": "0xfc8e74",
+    "max_bytes": 13,
+    "original_en": "Ice Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 571,
+    "offset_hex": "0xfc8ea0",
+    "max_bytes": 13,
+    "original_en": "Fighting Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 572,
+    "offset_hex": "0xfc8ecc",
+    "max_bytes": 13,
+    "original_en": "Poison Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 573,
+    "offset_hex": "0xfc8ef8",
+    "max_bytes": 13,
+    "original_en": "Ground Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 574,
+    "offset_hex": "0xfc8f24",
+    "max_bytes": 13,
+    "original_en": "Flying Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 575,
+    "offset_hex": "0xfc8f50",
+    "max_bytes": 13,
+    "original_en": "Psychic Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 576,
+    "offset_hex": "0xfc8f7c",
+    "max_bytes": 13,
+    "original_en": "Bug Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 577,
+    "offset_hex": "0xfc8fa8",
+    "max_bytes": 13,
+    "original_en": "Rock Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 578,
+    "offset_hex": "0xfc8fd4",
+    "max_bytes": 13,
+    "original_en": "Ghost Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 579,
+    "offset_hex": "0xfc9000",
+    "max_bytes": 13,
+    "original_en": "Dragon Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 580,
+    "offset_hex": "0xfc902c",
+    "max_bytes": 13,
+    "original_en": "Dark Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 581,
+    "offset_hex": "0xfc9058",
+    "max_bytes": 13,
+    "original_en": "Steel Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 582,
+    "offset_hex": "0xfc9084",
+    "max_bytes": 13,
+    "original_en": "Normal Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 583,
+    "offset_hex": "0xfc90b0",
+    "max_bytes": 13,
+    "original_en": "Weak Policy",
+    "translation_vi": ""
+  },
+  {
+    "id": 584,
+    "offset_hex": "0xfc90dc",
+    "max_bytes": 13,
+    "original_en": "Assault Vest",
+    "translation_vi": ""
+  },
+  {
+    "id": 585,
+    "offset_hex": "0xfc9108",
+    "max_bytes": 13,
+    "original_en": "Pixie Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 586,
+    "offset_hex": "0xfc9134",
+    "max_bytes": 13,
+    "original_en": "Fairy Gem",
+    "translation_vi": ""
+  },
+  {
+    "id": 587,
+    "offset_hex": "0xfc9160",
+    "max_bytes": 13,
+    "original_en": "Whipped Dream",
+    "translation_vi": ""
+  },
+  {
+    "id": 588,
+    "offset_hex": "0xfc918c",
+    "max_bytes": 13,
+    "original_en": "Sachet",
+    "translation_vi": ""
+  },
+  {
+    "id": 589,
+    "offset_hex": "0xfc91b8",
+    "max_bytes": 13,
+    "original_en": "Luminous Moss",
+    "translation_vi": ""
+  },
+  {
+    "id": 590,
+    "offset_hex": "0xfc91e4",
+    "max_bytes": 13,
+    "original_en": "Snowball",
+    "translation_vi": ""
+  },
+  {
+    "id": 591,
+    "offset_hex": "0xfc9210",
+    "max_bytes": 13,
+    "original_en": "SafetyGoggles",
+    "translation_vi": ""
+  },
+  {
+    "id": 592,
+    "offset_hex": "0xfc923c",
+    "max_bytes": 13,
+    "original_en": "AdrenalineOrb",
+    "translation_vi": ""
+  },
+  {
+    "id": 593,
+    "offset_hex": "0xfc9268",
+    "max_bytes": 13,
+    "original_en": "Terrain Ext.",
+    "translation_vi": ""
+  },
+  {
+    "id": 594,
+    "offset_hex": "0xfc9294",
+    "max_bytes": 13,
+    "original_en": "Protect Pads",
+    "translation_vi": ""
+  },
+  {
+    "id": 595,
+    "offset_hex": "0xfc92c0",
+    "max_bytes": 13,
+    "original_en": "Electric Seed",
+    "translation_vi": ""
+  },
+  {
+    "id": 596,
+    "offset_hex": "0xfc92ec",
+    "max_bytes": 13,
+    "original_en": "Psychic Seed",
+    "translation_vi": ""
+  },
+  {
+    "id": 597,
+    "offset_hex": "0xfc9318",
+    "max_bytes": 13,
+    "original_en": "Misty Seed",
+    "translation_vi": ""
+  },
+  {
+    "id": 598,
+    "offset_hex": "0xfc9344",
+    "max_bytes": 13,
+    "original_en": "Grassy Seed",
+    "translation_vi": ""
+  },
+  {
+    "id": 599,
+    "offset_hex": "0xfc9370",
+    "max_bytes": 13,
+    "original_en": "Fight Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 600,
+    "offset_hex": "0xfc939c",
+    "max_bytes": 13,
+    "original_en": "Flying Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 601,
+    "offset_hex": "0xfc93c8",
+    "max_bytes": 13,
+    "original_en": "Poison Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 602,
+    "offset_hex": "0xfc93f4",
+    "max_bytes": 13,
+    "original_en": "Ground Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 603,
+    "offset_hex": "0xfc9420",
+    "max_bytes": 13,
+    "original_en": "Rock Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 604,
+    "offset_hex": "0xfc944c",
+    "max_bytes": 13,
+    "original_en": "Bug Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 605,
+    "offset_hex": "0xfc9478",
+    "max_bytes": 13,
+    "original_en": "Ghost Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 606,
+    "offset_hex": "0xfc94a4",
+    "max_bytes": 13,
+    "original_en": "Steel Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 607,
+    "offset_hex": "0xfc94d0",
+    "max_bytes": 13,
+    "original_en": "Fire Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 608,
+    "offset_hex": "0xfc94fc",
+    "max_bytes": 13,
+    "original_en": "Water Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 609,
+    "offset_hex": "0xfc9528",
+    "max_bytes": 13,
+    "original_en": "Grass Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 610,
+    "offset_hex": "0xfc9554",
+    "max_bytes": 13,
+    "original_en": "Elect. Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 611,
+    "offset_hex": "0xfc9580",
+    "max_bytes": 13,
+    "original_en": "Psych Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 612,
+    "offset_hex": "0xfc95ac",
+    "max_bytes": 13,
+    "original_en": "Ice Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 613,
+    "offset_hex": "0xfc95d8",
+    "max_bytes": 13,
+    "original_en": "Dragon Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 614,
+    "offset_hex": "0xfc9604",
+    "max_bytes": 13,
+    "original_en": "Dark Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 615,
+    "offset_hex": "0xfc9630",
+    "max_bytes": 13,
+    "original_en": "Fairy Memory",
+    "translation_vi": ""
+  },
+  {
+    "id": 616,
+    "offset_hex": "0xfc965c",
+    "max_bytes": 13,
+    "original_en": "Rotom Catalog",
+    "translation_vi": ""
+  },
+  {
+    "id": 617,
+    "offset_hex": "0xfc9688",
+    "max_bytes": 13,
+    "original_en": "Red Nectar",
+    "translation_vi": ""
+  },
+  {
+    "id": 618,
+    "offset_hex": "0xfc96b4",
+    "max_bytes": 13,
+    "original_en": "Yellow Nectar",
+    "translation_vi": ""
+  },
+  {
+    "id": 619,
+    "offset_hex": "0xfc96e0",
+    "max_bytes": 13,
+    "original_en": "Pink Nectar",
+    "translation_vi": ""
+  },
+  {
+    "id": 620,
+    "offset_hex": "0xfc970c",
+    "max_bytes": 13,
+    "original_en": "Purple Nectar",
+    "translation_vi": ""
+  },
+  {
+    "id": 621,
+    "offset_hex": "0xfc9738",
+    "max_bytes": 13,
+    "original_en": "Zygarde Cube",
+    "translation_vi": ""
+  },
+  {
+    "id": 622,
+    "offset_hex": "0xfc9764",
+    "max_bytes": 13,
+    "original_en": "Z-Power Ring",
+    "translation_vi": ""
+  },
+  {
+    "id": 623,
+    "offset_hex": "0xfc9790",
+    "max_bytes": 13,
+    "original_en": "Normalium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 624,
+    "offset_hex": "0xfc97bc",
+    "max_bytes": 13,
+    "original_en": "Firium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 625,
+    "offset_hex": "0xfc97e8",
+    "max_bytes": 13,
+    "original_en": "Waterium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 626,
+    "offset_hex": "0xfc9814",
+    "max_bytes": 13,
+    "original_en": "Electrium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 627,
+    "offset_hex": "0xfc9840",
+    "max_bytes": 13,
+    "original_en": "Grassium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 628,
+    "offset_hex": "0xfc986c",
+    "max_bytes": 13,
+    "original_en": "Icium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 629,
+    "offset_hex": "0xfc9898",
+    "max_bytes": 13,
+    "original_en": "Fightinium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 630,
+    "offset_hex": "0xfc98c4",
+    "max_bytes": 13,
+    "original_en": "Poisonium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 631,
+    "offset_hex": "0xfc98f0",
+    "max_bytes": 13,
+    "original_en": "Groundium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 632,
+    "offset_hex": "0xfc991c",
+    "max_bytes": 13,
+    "original_en": "Flyinium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 633,
+    "offset_hex": "0xfc9948",
+    "max_bytes": 13,
+    "original_en": "Psychium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 634,
+    "offset_hex": "0xfc9974",
+    "max_bytes": 13,
+    "original_en": "Buginium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 635,
+    "offset_hex": "0xfc99a0",
+    "max_bytes": 13,
+    "original_en": "Rockium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 636,
+    "offset_hex": "0xfc99cc",
+    "max_bytes": 13,
+    "original_en": "Ghostium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 637,
+    "offset_hex": "0xfc99f8",
+    "max_bytes": 13,
+    "original_en": "Dragonium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 638,
+    "offset_hex": "0xfc9a24",
+    "max_bytes": 13,
+    "original_en": "Darkinium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 639,
+    "offset_hex": "0xfc9a50",
+    "max_bytes": 13,
+    "original_en": "Steelium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 640,
+    "offset_hex": "0xfc9a7c",
+    "max_bytes": 13,
+    "original_en": "Fairium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 641,
+    "offset_hex": "0xfc9aa8",
+    "max_bytes": 13,
+    "original_en": "N-Solarizer",
+    "translation_vi": ""
+  },
+  {
+    "id": 642,
+    "offset_hex": "0xfc9ad4",
+    "max_bytes": 13,
+    "original_en": "N-Lunarizer",
+    "translation_vi": ""
+  },
+  {
+    "id": 643,
+    "offset_hex": "0xfc9b00",
+    "max_bytes": 13,
+    "original_en": "Necrozium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 644,
+    "offset_hex": "0xfc9b2c",
+    "max_bytes": 13,
+    "original_en": "Script Tester",
+    "translation_vi": ""
+  },
+  {
+    "id": 645,
+    "offset_hex": "0xfc9b58",
+    "max_bytes": 13,
+    "original_en": "Griseous Orb",
+    "translation_vi": ""
+  },
+  {
+    "id": 646,
+    "offset_hex": "0xfc9b84",
+    "max_bytes": 13,
+    "original_en": "Ability Pill",
+    "translation_vi": ""
+  },
+  {
+    "id": 647,
+    "offset_hex": "0xfc9bb0",
+    "max_bytes": 13,
+    "original_en": "Lunar Feather",
+    "translation_vi": ""
+  },
+  {
+    "id": 648,
+    "offset_hex": "0xfc9bdc",
+    "max_bytes": 13,
+    "original_en": "Final Meteor",
+    "translation_vi": ""
+  },
+  {
+    "id": 649,
+    "offset_hex": "0xfc9c08",
+    "max_bytes": 13,
+    "original_en": "Greninjium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 650,
+    "offset_hex": "0xfc9c34",
+    "max_bytes": 13,
+    "original_en": "EV-IV Display",
+    "translation_vi": ""
+  },
+  {
+    "id": 651,
+    "offset_hex": "0xfc9c60",
+    "max_bytes": 13,
+    "original_en": "Kommonium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 652,
+    "offset_hex": "0xfc9c8c",
+    "max_bytes": 13,
+    "original_en": "Lycanium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 653,
+    "offset_hex": "0xfc9cb8",
+    "max_bytes": 13,
+    "original_en": "Mimikyum Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 654,
+    "offset_hex": "0xfc9ce4",
+    "max_bytes": 13,
+    "original_en": "Solganium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 655,
+    "offset_hex": "0xfc9d10",
+    "max_bytes": 13,
+    "original_en": "Lunalium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 656,
+    "offset_hex": "0xfc9d3c",
+    "max_bytes": 13,
+    "original_en": "Pikanium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 657,
+    "offset_hex": "0xfc9d68",
+    "max_bytes": 13,
+    "original_en": "AloraichiumZ",
+    "translation_vi": ""
+  },
+  {
+    "id": 658,
+    "offset_hex": "0xfc9d94",
+    "max_bytes": 13,
+    "original_en": "Snorlium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 659,
+    "offset_hex": "0xfc9dc0",
+    "max_bytes": 13,
+    "original_en": "Eevium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 660,
+    "offset_hex": "0xfc9dec",
+    "max_bytes": 13,
+    "original_en": "Mewnium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 661,
+    "offset_hex": "0xfc9e18",
+    "max_bytes": 13,
+    "original_en": "PikashuniumZ",
+    "translation_vi": ""
+  },
+  {
+    "id": 662,
+    "offset_hex": "0xfc9e44",
+    "max_bytes": 13,
+    "original_en": "Decidium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 663,
+    "offset_hex": "0xfc9e70",
+    "max_bytes": 13,
+    "original_en": "Incinium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 664,
+    "offset_hex": "0xfc9e9c",
+    "max_bytes": 13,
+    "original_en": "Primarium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 665,
+    "offset_hex": "0xfc9ec8",
+    "max_bytes": 13,
+    "original_en": "Tapunium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 666,
+    "offset_hex": "0xfc9ef4",
+    "max_bytes": 13,
+    "original_en": "Marshadium Z",
+    "translation_vi": ""
+  },
+  {
+    "id": 667,
+    "offset_hex": "0xfc9f20",
+    "max_bytes": 13,
+    "original_en": "Douse Drive",
+    "translation_vi": ""
+  },
+  {
+    "id": 668,
+    "offset_hex": "0xfc9f4c",
+    "max_bytes": 13,
+    "original_en": "Shock Drive",
+    "translation_vi": ""
+  },
+  {
+    "id": 669,
+    "offset_hex": "0xfc9f78",
+    "max_bytes": 13,
+    "original_en": "Burn Drive",
+    "translation_vi": ""
+  },
+  {
+    "id": 670,
+    "offset_hex": "0xfc9fa4",
+    "max_bytes": 13,
+    "original_en": "Chill Drive",
+    "translation_vi": ""
+  },
+  {
+    "id": 671,
+    "offset_hex": "0xfc9fd0",
+    "max_bytes": 13,
+    "original_en": "DNA Splicers",
+    "translation_vi": ""
+  },
+  {
+    "id": 672,
+    "offset_hex": "0xfc9ffc",
+    "max_bytes": 13,
+    "original_en": "Gracidea",
+    "translation_vi": ""
+  },
+  {
+    "id": 673,
+    "offset_hex": "0xfca028",
+    "max_bytes": 13,
+    "original_en": "Prison Bottle",
+    "translation_vi": ""
+  },
+  {
+    "id": 674,
+    "offset_hex": "0xfca054",
+    "max_bytes": 13,
+    "original_en": "Reveal Glass",
+    "translation_vi": ""
+  },
+  {
+    "id": 675,
+    "offset_hex": "0xfca080",
+    "max_bytes": 13,
+    "original_en": "Flame Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 676,
+    "offset_hex": "0xfca0ac",
+    "max_bytes": 13,
+    "original_en": "Splash Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 677,
+    "offset_hex": "0xfca0d8",
+    "max_bytes": 13,
+    "original_en": "Zap Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 678,
+    "offset_hex": "0xfca104",
+    "max_bytes": 13,
+    "original_en": "Meadow Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 679,
+    "offset_hex": "0xfca130",
+    "max_bytes": 13,
+    "original_en": "Icicle Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 680,
+    "offset_hex": "0xfca15c",
+    "max_bytes": 13,
+    "original_en": "Fist Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 681,
+    "offset_hex": "0xfca188",
+    "max_bytes": 13,
+    "original_en": "Toxic Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 682,
+    "offset_hex": "0xfca1b4",
+    "max_bytes": 13,
+    "original_en": "Earth Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 683,
+    "offset_hex": "0xfca1e0",
+    "max_bytes": 13,
+    "original_en": "Sky Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 684,
+    "offset_hex": "0xfca20c",
+    "max_bytes": 13,
+    "original_en": "Mind Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 685,
+    "offset_hex": "0xfca238",
+    "max_bytes": 13,
+    "original_en": "Insect Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 686,
+    "offset_hex": "0xfca264",
+    "max_bytes": 13,
+    "original_en": "Stone Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 687,
+    "offset_hex": "0xfca290",
+    "max_bytes": 13,
+    "original_en": "GoldBottleCap",
+    "translation_vi": ""
+  },
+  {
+    "id": 688,
+    "offset_hex": "0xfca2bc",
+    "max_bytes": 13,
+    "original_en": "Bottle Cap",
+    "translation_vi": ""
+  },
+  {
+    "id": 689,
+    "offset_hex": "0xfca2e8",
+    "max_bytes": 13,
+    "original_en": "2nd Meteorite",
+    "translation_vi": ""
+  },
+  {
+    "id": 690,
+    "offset_hex": "0xfca314",
+    "max_bytes": 13,
+    "original_en": "3rd Meteorite",
+    "translation_vi": ""
+  },
+  {
+    "id": 691,
+    "offset_hex": "0xfca340",
+    "max_bytes": 13,
+    "original_en": "Mewtwo Armor",
+    "translation_vi": ""
+  },
+  {
+    "id": 692,
+    "offset_hex": "0xfca36c",
+    "max_bytes": 13,
+    "original_en": "Rusty Shield",
+    "translation_vi": ""
+  },
+  {
+    "id": 693,
+    "offset_hex": "0xfca398",
+    "max_bytes": 13,
+    "original_en": "Key Stone",
+    "translation_vi": ""
+  },
+  {
+    "id": 694,
+    "offset_hex": "0xfca3c4",
+    "max_bytes": 13,
+    "original_en": "Ultimate Book",
+    "translation_vi": ""
+  },
+  {
+    "id": 695,
+    "offset_hex": "0xfca3f0",
+    "max_bytes": 13,
+    "original_en": "News Tracker",
+    "translation_vi": ""
+  },
+  {
+    "id": 696,
+    "offset_hex": "0xfca41c",
+    "max_bytes": 13,
+    "original_en": "Travel Suit",
+    "translation_vi": ""
+  },
+  {
+    "id": 697,
+    "offset_hex": "0xfca448",
+    "max_bytes": 13,
+    "original_en": "Feraligatrite",
+    "translation_vi": ""
+  },
+  {
+    "id": 698,
+    "offset_hex": "0xfca474",
+    "max_bytes": 13,
+    "original_en": "Rusty Sword",
+    "translation_vi": ""
+  },
+  {
+    "id": 699,
+    "offset_hex": "0xfca4a0",
+    "max_bytes": 13,
+    "original_en": "Endorsement",
+    "translation_vi": ""
+  },
+  {
+    "id": 700,
+    "offset_hex": "0xfca4cc",
+    "max_bytes": 13,
+    "original_en": "Flygonite",
+    "translation_vi": ""
+  },
+  {
+    "id": 701,
+    "offset_hex": "0xfca4f8",
+    "max_bytes": 13,
+    "original_en": "Dynamax Band",
+    "translation_vi": ""
+  },
+  {
+    "id": 702,
+    "offset_hex": "0xfca524",
+    "max_bytes": 13,
+    "original_en": "Wishing Piece",
+    "translation_vi": ""
+  },
+  {
+    "id": 703,
+    "offset_hex": "0xfca550",
+    "max_bytes": 13,
+    "original_en": "RevengerArmor",
+    "translation_vi": ""
+  },
+  {
+    "id": 704,
+    "offset_hex": "0xfca57c",
+    "max_bytes": 13,
+    "original_en": "Occa Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 705,
+    "offset_hex": "0xfca5a8",
+    "max_bytes": 13,
+    "original_en": "Passho Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 706,
+    "offset_hex": "0xfca5d4",
+    "max_bytes": 13,
+    "original_en": "Wacan Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 707,
+    "offset_hex": "0xfca600",
+    "max_bytes": 13,
+    "original_en": "Rindo Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 708,
+    "offset_hex": "0xfca62c",
+    "max_bytes": 13,
+    "original_en": "Yache Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 709,
+    "offset_hex": "0xfca658",
+    "max_bytes": 13,
+    "original_en": "Chople Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 710,
+    "offset_hex": "0xfca684",
+    "max_bytes": 13,
+    "original_en": "Kebia Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 711,
+    "offset_hex": "0xfca6b0",
+    "max_bytes": 13,
+    "original_en": "Shuca Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 712,
+    "offset_hex": "0xfca6dc",
+    "max_bytes": 13,
+    "original_en": "Coba Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 713,
+    "offset_hex": "0xfca708",
+    "max_bytes": 13,
+    "original_en": "Payapa Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 714,
+    "offset_hex": "0xfca734",
+    "max_bytes": 13,
+    "original_en": "Tanga Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 715,
+    "offset_hex": "0xfca760",
+    "max_bytes": 13,
+    "original_en": "Charti Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 716,
+    "offset_hex": "0xfca78c",
+    "max_bytes": 13,
+    "original_en": "Kasib Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 717,
+    "offset_hex": "0xfca7b8",
+    "max_bytes": 13,
+    "original_en": "Haban Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 718,
+    "offset_hex": "0xfca7e4",
+    "max_bytes": 13,
+    "original_en": "Colbur Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 719,
+    "offset_hex": "0xfca810",
+    "max_bytes": 13,
+    "original_en": "Babiri Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 720,
+    "offset_hex": "0xfca83c",
+    "max_bytes": 13,
+    "original_en": "Chilan Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 721,
+    "offset_hex": "0xfca868",
+    "max_bytes": 13,
+    "original_en": "Roseli Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 722,
+    "offset_hex": "0xfca894",
+    "max_bytes": 13,
+    "original_en": "Micle Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 723,
+    "offset_hex": "0xfca8c0",
+    "max_bytes": 13,
+    "original_en": "Custap Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 724,
+    "offset_hex": "0xfca8ec",
+    "max_bytes": 13,
+    "original_en": "Jaboca Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 725,
+    "offset_hex": "0xfca918",
+    "max_bytes": 13,
+    "original_en": "Rowap Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 726,
+    "offset_hex": "0xfca944",
+    "max_bytes": 13,
+    "original_en": "Kee Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 727,
+    "offset_hex": "0xfca970",
+    "max_bytes": 13,
+    "original_en": "Maranga Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 728,
+    "offset_hex": "0xfca99c",
+    "max_bytes": 13,
+    "original_en": "Throat Spray",
+    "translation_vi": ""
+  },
+  {
+    "id": 729,
+    "offset_hex": "0xfca9c8",
+    "max_bytes": 13,
+    "original_en": "Eject Pack",
+    "translation_vi": ""
+  },
+  {
+    "id": 730,
+    "offset_hex": "0xfca9f4",
+    "max_bytes": 13,
+    "original_en": "H. Duty Boots",
+    "translation_vi": ""
+  },
+  {
+    "id": 731,
+    "offset_hex": "0xfcaa20",
+    "max_bytes": 13,
+    "original_en": "BlunderPolicy",
+    "translation_vi": ""
+  },
+  {
+    "id": 732,
+    "offset_hex": "0xfcaa4c",
+    "max_bytes": 13,
+    "original_en": "Room Service",
+    "translation_vi": ""
+  },
+  {
+    "id": 733,
+    "offset_hex": "0xfcaa78",
+    "max_bytes": 13,
+    "original_en": "Util Umbrella",
+    "translation_vi": ""
+  },
+  {
+    "id": 734,
+    "offset_hex": "0xfcaaa4",
+    "max_bytes": 13,
+    "original_en": "Ride Pager",
+    "translation_vi": ""
+  },
+  {
+    "id": 735,
+    "offset_hex": "0xfcaad0",
+    "max_bytes": 13,
+    "original_en": "Power Bracer",
+    "translation_vi": ""
+  },
+  {
+    "id": 736,
+    "offset_hex": "0xfcaafc",
+    "max_bytes": 13,
+    "original_en": "Power Belt",
+    "translation_vi": ""
+  },
+  {
+    "id": 737,
+    "offset_hex": "0xfcab28",
+    "max_bytes": 13,
+    "original_en": "Power Lens",
+    "translation_vi": ""
+  },
+  {
+    "id": 738,
+    "offset_hex": "0xfcab54",
+    "max_bytes": 13,
+    "original_en": "Power Band",
+    "translation_vi": ""
+  },
+  {
+    "id": 739,
+    "offset_hex": "0xfcab80",
+    "max_bytes": 13,
+    "original_en": "Power Anklet",
+    "translation_vi": ""
+  },
+  {
+    "id": 740,
+    "offset_hex": "0xfcabac",
+    "max_bytes": 13,
+    "original_en": "Power Weight",
+    "translation_vi": ""
+  },
+  {
+    "id": 741,
+    "offset_hex": "0xfcabd8",
+    "max_bytes": 13,
+    "original_en": "Ability Patch",
+    "translation_vi": ""
+  },
+  {
+    "id": 742,
+    "offset_hex": "0xfcac04",
+    "max_bytes": 13,
+    "original_en": "Unity Reins",
+    "translation_vi": ""
+  },
+  {
+    "id": 743,
+    "offset_hex": "0xfcac30",
+    "max_bytes": 13,
+    "original_en": "Wishing Chip",
+    "translation_vi": ""
+  },
+  {
+    "id": 744,
+    "offset_hex": "0xfcac5c",
+    "max_bytes": 13,
+    "original_en": "Dried Fish",
+    "translation_vi": ""
+  },
+  {
+    "id": 745,
+    "offset_hex": "0xfcac88",
+    "max_bytes": 13,
+    "original_en": "UnnamedStone",
+    "translation_vi": ""
+  },
+  {
+    "id": 746,
+    "offset_hex": "0xfcacb4",
+    "max_bytes": 13,
+    "original_en": "Core Ring",
+    "translation_vi": ""
+  },
+  {
+    "id": 747,
+    "offset_hex": "0xfcace0",
+    "max_bytes": 13,
+    "original_en": "Adam.Crystal",
+    "translation_vi": ""
+  },
+  {
+    "id": 748,
+    "offset_hex": "0xfcad0c",
+    "max_bytes": 13,
+    "original_en": "Lust. Globe",
+    "translation_vi": ""
+  },
+  {
+    "id": 749,
+    "offset_hex": "0xfcad38",
+    "max_bytes": 13,
+    "original_en": "Black Augur.",
+    "translation_vi": ""
+  },
+  {
+    "id": 750,
+    "offset_hex": "0xfcad64",
+    "max_bytes": 13,
+    "original_en": "Peat Block",
+    "translation_vi": ""
+  },
+  {
+    "id": 751,
+    "offset_hex": "0xfcad90",
+    "max_bytes": 13,
+    "original_en": "Legend Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 752,
+    "offset_hex": "0xfcadbc",
+    "max_bytes": 13,
+    "original_en": "Blank Plate",
+    "translation_vi": ""
+  },
+  {
+    "id": 753,
+    "offset_hex": "0xfcade8",
+    "max_bytes": 13,
+    "original_en": "Hisuian Pill",
+    "translation_vi": ""
+  },
+  {
+    "id": 754,
+    "offset_hex": "0xfcae14",
+    "max_bytes": 13,
+    "original_en": "Life Orb",
+    "translation_vi": ""
+  },
+  {
+    "id": 755,
+    "offset_hex": "0xfcae40",
+    "max_bytes": 13,
+    "original_en": "Assault Vest",
+    "translation_vi": ""
+  },
+  {
+    "id": 756,
+    "offset_hex": "0xfcae6c",
+    "max_bytes": 13,
+    "original_en": "Eviolite",
+    "translation_vi": ""
+  },
+  {
+    "id": 757,
+    "offset_hex": "0xfcae98",
+    "max_bytes": 13,
+    "original_en": "Rocky Helmet",
+    "translation_vi": ""
+  },
+  {
+    "id": 758,
+    "offset_hex": "0xfcaec4",
+    "max_bytes": 13,
+    "original_en": "Light Ball",
+    "translation_vi": ""
+  },
+  {
+    "id": 759,
+    "offset_hex": "0xfcaef0",
+    "max_bytes": 13,
+    "original_en": "Leftovers",
+    "translation_vi": ""
+  },
+  {
+    "id": 760,
+    "offset_hex": "0xfcaf1c",
+    "max_bytes": 13,
+    "original_en": "Scope Lens",
+    "translation_vi": ""
+  },
+  {
+    "id": 761,
+    "offset_hex": "0xfcaf48",
+    "max_bytes": 13,
+    "original_en": "Throat Spray",
+    "translation_vi": ""
+  },
+  {
+    "id": 762,
+    "offset_hex": "0xfcaf74",
+    "max_bytes": 13,
+    "original_en": "Lum Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 763,
+    "offset_hex": "0xfcafa0",
+    "max_bytes": 13,
+    "original_en": "Sitrus Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 764,
+    "offset_hex": "0xfcafcc",
+    "max_bytes": 13,
+    "original_en": "Aguav Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 765,
+    "offset_hex": "0xfcaff8",
+    "max_bytes": 13,
+    "original_en": "Charti Berry",
+    "translation_vi": ""
+  },
+  {
+    "id": 766,
+    "offset_hex": "0xfcb024",
+    "max_bytes": 13,
+    "original_en": "Weak Policy",
+    "translation_vi": ""
+  },
+  {
+    "id": 767,
+    "offset_hex": "0xfcb050",
+    "max_bytes": 13,
+    "original_en": "Focus Sash",
+    "translation_vi": ""
+  },
+  {
+    "id": 768,
+    "offset_hex": "0xfcb07c",
+    "max_bytes": 13,
+    "original_en": "Sinnoh Pager",
+    "translation_vi": ""
+  }
+]

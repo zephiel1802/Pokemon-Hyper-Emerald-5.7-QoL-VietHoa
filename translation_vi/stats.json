@@ -1,0 +1,38 @@
+{
+  "rom": "Hyper Emerald Lost Artifacts 5.7.gba",
+  "dialogues": {
+    "strings": 11068,
+    "unique_texts": 10844,
+    "files": 28,
+    "per_file": 400,
+    "maps_walked": 945,
+    "script_entry_points": 7659,
+    "by_source": {
+      "scan+walk": 10209,
+      "scan": 803,
+      "walk": 56
+    },
+    "refs_by_opcode": {
+      "loadpointer": 10972,
+      "message": 550,
+      "trainerbattle": 2320
+    },
+    "auto_skip": {},
+    "has_chinese": 4,
+    "low_confidence": 18,
+    "inside_other_string": 64,
+    "with_aligned_data_refs": 48,
+    "total_bytes": 1244425,
+    "chars_to_translate": 1294670
+  },
+  "tables": {
+    "item_names": 769,
+    "item_descriptions": 672,
+    "pokedex_categories": 959,
+    "pokedex_descriptions": 941,
+    "move_descriptions": 773,
+    "ability_descriptions": 293,
+    "quest_texts": 561
+  },
+  "roundtrip_check": "all dumped ROM strings re-encode byte-identical"
+}

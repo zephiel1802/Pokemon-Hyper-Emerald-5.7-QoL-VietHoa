@@ -1,0 +1,5256 @@
+[
+  {
+    "id": "D10801",
+    "offset_hex": "0x1fc0a8b",
+    "pointer_hex": "0x9fc0a8b",
+    "original_en": "Iron Treads rolled away at full speed!",
+    "translation_vi": "",
+    "byte_len": 38,
+    "refs": [
+      {
+        "at": "0x1fc3f9a",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)"
+    ]
+  },
+  {
+    "id": "D10802",
+    "offset_hex": "0x1fc0ab2",
+    "pointer_hex": "0x9fc0ab2",
+    "original_en": "There's something left on the ground...",
+    "translation_vi": "",
+    "byte_len": 39,
+    "refs": [
+      {
+        "at": "0x1fc3faa",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)"
+    ]
+  },
+  {
+    "id": "D10803",
+    "offset_hex": "0x1fc0ada",
+    "pointer_hex": "0x9fc0ada",
+    "original_en": "Iron Treads is still standing guard...",
+    "translation_vi": "",
+    "byte_len": 38,
+    "refs": [
+      {
+        "at": "0x1fc3fcb",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)"
+    ]
+  },
+  {
+    "id": "D10804",
+    "offset_hex": "0x1fc0b01",
+    "pointer_hex": "0x9fc0b01",
+    "original_en": "Nemona: Whoa, another Trainer! Down\\nhere?! You're the one Jacq sent? This\\lis the best day ever!",
+    "translation_vi": "",
+    "byte_len": 95,
+    "refs": [
+      {
+        "at": "0x1fc3fe0",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)"
+    ]
+  },
+  {
+    "id": "D10805",
+    "offset_hex": "0x1fc0b61",
+    "pointer_hex": "0x9fc0b61",
+    "original_en": "Nemona: I'm Nemona. I've battled every\\nIron Pokémon in this crater. Twice.\\lThey're amazing!",
+    "translation_vi": "",
+    "byte_len": 91,
+    "refs": [
+      {
+        "at": "0x1fc3fe8",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)"
+    ]
+  },
+  {
+    "id": "D10806",
+    "offset_hex": "0x1fc0bbd",
+    "pointer_hex": "0x9fc0bbd",
+    "original_en": "Nemona: But you look like you'd be even\\nbetter. Let's battle! Right now!",
+    "translation_vi": "",
+    "byte_len": 72,
+    "refs": [
+      {
+        "at": "0x1fc3ff0",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)"
+    ]
+  },
+  {
+    "id": "D10807",
+    "offset_hex": "0x1fc0c06",
+    "pointer_hex": "0x9fc0c06",
+    "original_en": "Nemona: Hah! That was the best battle\\nI've had in ages!",
+    "translation_vi": "",
+    "byte_len": 55,
+    "refs": [
+      {
+        "at": "0x1fc3ffd",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x1fc47ad",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)",
+      "Area Zero (35.97)"
+    ]
+  },
+  {
+    "id": "D10808",
+    "offset_hex": "0x1fc0c3e",
+    "pointer_hex": "0x9fc0c3e",
+    "original_en": "Nemona: Okay, okay, I'll stop battling\\nthe Paradox Pokémon. For now.",
+    "translation_vi": "",
+    "byte_len": 68,
+    "refs": [
+      {
+        "at": "0x1fc4006",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)"
+    ]
+  },
+  {
+    "id": "D10809",
+    "offset_hex": "0x1fc0c83",
+    "pointer_hex": "0x9fc0c83",
+    "original_en": "Nemona: Arven's ready, and Penny\\nunlocked the lab? Then what are we\\lwaiting for! It's the big shutter in the\\lnorth-east wall. Arven and I will get it\\lopen!",
+    "translation_vi": "",
+    "byte_len": 155,
+    "refs": [
+      {
+        "at": "0x1fc4029",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)"
+    ]
+  },
+  {
+    "id": "D10810",
+    "offset_hex": "0x1fc0d1f",
+    "pointer_hex": "0x9fc0d1f",
+    "original_en": "Nemona: Arven's by the lake, making\\nsandwiches for Koraidon and Miraidon.\\lOnce they're both well and Penny has\\lthe lab's door unlocked, he and I will\\lget it open for you!",
+    "translation_vi": "",
+    "byte_len": 170,
+    "refs": [
+      {
+        "at": "0x1fc4056",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)"
+    ]
+  },
+  {
+    "id": "D10811",
+    "offset_hex": "0x1fc0dca",
+    "pointer_hex": "0x9fc0dca",
+    "original_en": "Nemona: We'll battle again when we're\\nout of here. Promise!",
+    "translation_vi": "",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x1fc4060",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)"
+    ]
+  },
+  {
+    "id": "D10812",
+    "offset_hex": "0x1fc0e06",
+    "pointer_hex": "0x9fc0e06",
+    "original_en": "A Pokémon like Suicune, but ancient\\nand wild, rises from the water!",
+    "translation_vi": "",
+    "byte_len": 67,
+    "refs": [
+      {
+        "at": "0x1fc4075",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.90)"
+    ]
+  },
+  {
+    "id": "D10813",
+    "offset_hex": "0x1fc0e4a",
+    "pointer_hex": "0x9fc0e4a",
+    "original_en": "Battle it?",
+    "translation_vi": "",
+    "byte_len": 10,
+    "refs": [
+      {
+        "at": "0x1fc407d",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc40d3",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc4129",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc417f",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc41d5",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc422b",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc4281",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc42d7",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc432d",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc4383",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc43d9",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc442f",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc4485",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.90)",
+      "Area Zero (35.91)",
+      "Area Zero (35.94)",
+      "Area Zero (35.95)"
+    ]
+  },
+  {
+    "id": "D10814",
+    "offset_hex": "0x1fc0e55",
+    "pointer_hex": "0x9fc0e55",
+    "original_en": "A Pokémon like Entei, but ancient and\\nwild, blocks the way!",
+    "translation_vi": "",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x1fc40cb",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.90)"
+    ]
+  },
+  {
+    "id": "D10815",
+    "offset_hex": "0x1fc0e91",
+    "pointer_hex": "0x9fc0e91",
+    "original_en": "A Pokémon like Raikou, but ancient and\\nwild, crackles with lightning!",
+    "translation_vi": "",
+    "byte_len": 69,
+    "refs": [
+      {
+        "at": "0x1fc4121",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.90)"
+    ]
+  },
+  {
+    "id": "D10816",
+    "offset_hex": "0x1fc0ed7",
+    "pointer_hex": "0x9fc0ed7",
+    "original_en": "A Pokémon like Virizion, but made of\\nmetal, stands among the trees!",
+    "translation_vi": "",
+    "byte_len": 67,
+    "refs": [
+      {
+        "at": "0x1fc4177",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)"
+    ]
+  },
+  {
+    "id": "D10817",
+    "offset_hex": "0x1fc0f1b",
+    "pointer_hex": "0x9fc0f1b",
+    "original_en": "A Pokémon like Terrakion, but made of\\nmetal, lowers its blade!",
+    "translation_vi": "",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x1fc41cd",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)"
+    ]
+  },
+  {
+    "id": "D10818",
+    "offset_hex": "0x1fc0f5a",
+    "pointer_hex": "0x9fc0f5a",
+    "original_en": "A Pokémon like Cobalion, but made of\\nmetal, is watching you!",
+    "translation_vi": "",
+    "byte_len": 60,
+    "refs": [
+      {
+        "at": "0x1fc4223",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.91)"
+    ]
+  },
+  {
+    "id": "D10819",
+    "offset_hex": "0x1fc0f97",
+    "pointer_hex": "0x9fc0f97",
+    "original_en": "A dark winged Pokémon is hiding among\\nthe crystals!",
+    "translation_vi": "",
+    "byte_len": 51,
+    "refs": [
+      {
+        "at": "0x1fc4279",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.94)"
+    ]
+  },
+  {
+    "id": "D10820",
+    "offset_hex": "0x1fc0fcb",
+    "pointer_hex": "0x9fc0fcb",
+    "original_en": "A Pokémon of metal and light stands\\nguard among the crystals!",
+    "translation_vi": "",
+    "byte_len": 61,
+    "refs": [
+      {
+        "at": "0x1fc42cf",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.94)"
+    ]
+  },
+  {
+    "id": "D10821",
+    "offset_hex": "0x1fc1009",
+    "pointer_hex": "0x9fc1009",
+    "original_en": "A Pokémon wound in wooden tablets\\nuncoils in its niche!",
+    "translation_vi": "",
+    "byte_len": 55,
+    "refs": [
+      {
+        "at": "0x1fc4325",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10822",
+    "offset_hex": "0x1fc1041",
+    "pointer_hex": "0x9fc1041",
+    "original_en": "A Pokémon with fangs like broken\\nswords crouches on the ice!",
+    "translation_vi": "",
+    "byte_len": 60,
+    "refs": [
+      {
+        "at": "0x1fc437b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.95)"
+    ]
+  },
+  {
+    "id": "D10823",
+    "offset_hex": "0x1fc107e",
+    "pointer_hex": "0x9fc107e",
+    "original_en": "A huge Pokémon with a bronze vessel on\\nits head shakes the vault!",
+    "translation_vi": "",
+    "byte_len": 65,
+    "refs": [
+      {
+        "at": "0x1fc43d1",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10824",
+    "offset_hex": "0x1fc10c0",
+    "pointer_hex": "0x9fc10c0",
+    "original_en": "A small Pokémon swims through the air,\\nblazing beads all round it!",
+    "translation_vi": "",
+    "byte_len": 66,
+    "refs": [
+      {
+        "at": "0x1fc4427",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10825",
+    "offset_hex": "0x1fc1103",
+    "pointer_hex": "0x9fc1103",
+    "original_en": "Something sleeps here, shining with\\nevery color at once...",
+    "translation_vi": "",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x1fc447d",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.100)"
+    ]
+  },
+  {
+    "id": "D10826",
+    "offset_hex": "0x1fc113e",
+    "pointer_hex": "0x9fc113e",
+    "original_en": "There's a folding cot in the back room,\\nbehind the counter. Rest for a while?",
+    "translation_vi": "",
+    "byte_len": 77,
+    "refs": [
+      {
+        "at": "0x1fc44cc",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)",
+      "Area Zero (35.93)",
+      "Area Zero (35.97)",
+      "Area Zero (35.98)"
+    ]
+  },
+  {
+    "id": "D10827",
+    "offset_hex": "0x1fc118c",
+    "pointer_hex": "0x9fc118c",
+    "original_en": "You and your Pokémon are fully rested!",
+    "translation_vi": "",
+    "byte_len": 38,
+    "refs": [
+      {
+        "at": "0x1fc44ed",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)",
+      "Area Zero (35.93)",
+      "Area Zero (35.97)",
+      "Area Zero (35.98)"
+    ]
+  },
+  {
+    "id": "D10828",
+    "offset_hex": "0x1fc11b3",
+    "pointer_hex": "0x9fc11b3",
+    "original_en": "A recorder on the counter blinks. A\\nrecording begins to play...",
+    "translation_vi": "",
+    "byte_len": 63,
+    "refs": [
+      {
+        "at": "0x1fc44f8",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc4531",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc456a",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc459b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)",
+      "Area Zero (35.93)",
+      "Area Zero (35.97)",
+      "Area Zero (35.98)"
+    ]
+  },
+  {
+    "id": "D10829",
+    "offset_hex": "0x1fc11f3",
+    "pointer_hex": "0x9fc11f3",
+    "original_en": "Professor Sada: Station One, day\\nthree. The crater floor is a world of\\lits own. Tonight something with huge\\ltusks walked past the station. It was\\lnot a Donphan.",
+    "translation_vi": "",
+    "byte_len": 160,
+    "refs": [
+      {
+        "at": "0x1fc4500",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10830",
+    "offset_hex": "0x1fc1294",
+    "pointer_hex": "0x9fc1294",
+    "original_en": "Professor Turo: Nothing alive today\\nmatches these readings. If the rifts\\ldown here open onto time the way I\\lthink they do... we can build a machine\\lthat reaches it.",
+    "translation_vi": "",
+    "byte_len": 164,
+    "refs": [
+      {
+        "at": "0x1fc4508",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10831",
+    "offset_hex": "0x1fc1339",
+    "pointer_hex": "0x9fc1339",
+    "original_en": "The recording ends. Somewhere, a fan\\nwhirs as the station sends it on.",
+    "translation_vi": "",
+    "byte_len": 70,
+    "refs": [
+      {
+        "at": "0x1fc4510",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc4549",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc4582",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc45b3",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)",
+      "Area Zero (35.93)",
+      "Area Zero (35.97)",
+      "Area Zero (35.98)"
+    ]
+  },
+  {
+    "id": "D10832",
+    "offset_hex": "0x1fc1380",
+    "pointer_hex": "0x9fc1380",
+    "original_en": "A tablet covered in Eevee stickers lies\\non the table. It's still warm...",
+    "translation_vi": "",
+    "byte_len": 72,
+    "refs": [
+      {
+        "at": "0x1fc451e",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10833",
+    "offset_hex": "0x1fc13c9",
+    "pointer_hex": "0x9fc13c9",
+    "original_en": "Someone was here not long ago.",
+    "translation_vi": "",
+    "byte_len": 30,
+    "refs": [
+      {
+        "at": "0x1fc4526",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10834",
+    "offset_hex": "0x1fc13e8",
+    "pointer_hex": "0x9fc13e8",
+    "original_en": "Professor Turo: Station Two. The\\nmachine works. We brought back a\\lPokémon from the far future, a machine\\lshaped like Donphan.",
+    "translation_vi": "",
+    "byte_len": 125,
+    "refs": [
+      {
+        "at": "0x1fc4539",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.93)"
+    ]
+  },
+  {
+    "id": "D10835",
+    "offset_hex": "0x1fc1466",
+    "pointer_hex": "0x9fc1466",
+    "original_en": "Professor Sada: And I brought one from\\nthe distant past. They are perfect.\\lBut they don't belong here... and the\\lgate does not close behind them.",
+    "translation_vi": "",
+    "byte_len": 145,
+    "refs": [
+      {
+        "at": "0x1fc4541",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.93)"
+    ]
+  },
+  {
+    "id": "D10836",
+    "offset_hex": "0x1fc14f8",
+    "pointer_hex": "0x9fc14f8",
+    "original_en": "A huge backpack leans against the\\ntable, stuffed with bread, vegetables\\land a jar marked “Sour Herba Mystica”.\\lIt's empty.",
+    "translation_vi": "",
+    "byte_len": 122,
+    "refs": [
+      {
+        "at": "0x1fc4557",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.93)"
+    ]
+  },
+  {
+    "id": "D10837",
+    "offset_hex": "0x1fc1573",
+    "pointer_hex": "0x9fc1573",
+    "original_en": "Somebody came here to make\\nsandwiches.",
+    "translation_vi": "",
+    "byte_len": 38,
+    "refs": [
+      {
+        "at": "0x1fc455f",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.93)"
+    ]
+  },
+  {
+    "id": "D10838",
+    "offset_hex": "0x1fc159a",
+    "pointer_hex": "0x9fc159a",
+    "original_en": "Professor Sada: Station Three. Our\\npartners fought today. My Koraidon\\land Turo's Miraidon. Neither would back\\ldown.",
+    "translation_vi": "",
+    "byte_len": 115,
+    "refs": [
+      {
+        "at": "0x1fc4572",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.97)"
+    ]
+  },
+  {
+    "id": "D10839",
+    "offset_hex": "0x1fc160e",
+    "pointer_hex": "0x9fc160e",
+    "original_en": "Professor Turo: The lab's two\\nguardians won't let anything near the\\lmachine. Ours were beaten badly. Our\\lson is looking after them now.",
+    "translation_vi": "",
+    "byte_len": 135,
+    "refs": [
+      {
+        "at": "0x1fc457a",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.97)"
+    ]
+  },
+  {
+    "id": "D10840",
+    "offset_hex": "0x1fc1696",
+    "pointer_hex": "0x9fc1696",
+    "original_en": "A crayon drawing is pinned to the\\ntable: a woman, a man, a boy and two big\\llizards. It's signed “Arven, age 6”.",
+    "translation_vi": "",
+    "byte_len": 111,
+    "refs": [
+      {
+        "at": "0x1fc4590",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.97)"
+    ]
+  },
+  {
+    "id": "D10841",
+    "offset_hex": "0x1fc1706",
+    "pointer_hex": "0x9fc1706",
+    "original_en": "Professor Turo: Station Four. Last log.\\nWe are going to make copies of\\lourselves, an AI each, to run the lab\\lwhile we are... away.",
+    "translation_vi": "",
+    "byte_len": 130,
+    "refs": [
+      {
+        "at": "0x1fc45a3",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.98)"
+    ]
+  },
+  {
+    "id": "D10842",
+    "offset_hex": "0x1fc1789",
+    "pointer_hex": "0x9fc1789",
+    "original_en": "Professor Sada: If anyone finds this:\\nthe lab only opens to someone who has\\lheard all four of these. Please. Stop\\lthe machine. We could not.",
+    "translation_vi": "",
+    "byte_len": 140,
+    "refs": [
+      {
+        "at": "0x1fc45ab",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.98)"
+    ]
+  },
+  {
+    "id": "D10843",
+    "offset_hex": "0x1fc1816",
+    "pointer_hex": "0x9fc1816",
+    "original_en": "A battered field guide lies open on the\\ntable. Every page about the crater's\\lTitans is full of notes.",
+    "translation_vi": "",
+    "byte_len": 101,
+    "refs": [
+      {
+        "at": "0x1fc45c1",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.98)"
+    ]
+  },
+  {
+    "id": "D10844",
+    "offset_hex": "0x1fc187c",
+    "pointer_hex": "0x9fc187c",
+    "original_en": "Penny: Eek! ...Oh. You're not a Paradox\\nPokémon. Sorry.",
+    "translation_vi": "",
+    "byte_len": 55,
+    "refs": [
+      {
+        "at": "0x1fc45f5",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10845",
+    "offset_hex": "0x1fc18b4",
+    "pointer_hex": "0x9fc18b4",
+    "original_en": "Penny: I'm Penny. Jacq's student. The\\nblack hole dropped the three of us on\\lthat ledge, and I've been hiding in here\\lever since.",
+    "translation_vi": "",
+    "byte_len": 128,
+    "refs": [
+      {
+        "at": "0x1fc45fd",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10846",
+    "offset_hex": "0x1fc1935",
+    "pointer_hex": "0x9fc1935",
+    "original_en": "Penny: Arven ran down into the crater\\nwith his backpack full of sandwich\\lstuff, and Nemona went off to battle\\lanything that moves. Typical.",
+    "translation_vi": "",
+    "byte_len": 139,
+    "refs": [
+      {
+        "at": "0x1fc4605",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10847",
+    "offset_hex": "0x1fc19c1",
+    "pointer_hex": "0x9fc19c1",
+    "original_en": "Penny: I got into this station's\\ncomputer, though. The professors who\\lbuilt this place left a log in every\\lresearch station. Four stations, four\\llogs.",
+    "translation_vi": "",
+    "byte_len": 150,
+    "refs": [
+      {
+        "at": "0x1fc460d",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10848",
+    "offset_hex": "0x1fc1a58",
+    "pointer_hex": "0x9fc1a58",
+    "original_en": "Penny: And the Zero Lab, the big door in\\nthe crater wall, only opens for someone\\lwho has heard all four. I bet that's our\\lway home.",
+    "translation_vi": "",
+    "byte_len": 131,
+    "refs": [
+      {
+        "at": "0x1fc4615",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10849",
+    "offset_hex": "0x1fc1adc",
+    "pointer_hex": "0x9fc1adc",
+    "original_en": "Penny: Could you play the logs in the\\nother three stations? I'm linked to\\lthem all from here.",
+    "translation_vi": "",
+    "byte_len": 93,
+    "refs": [
+      {
+        "at": "0x1fc461d",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10850",
+    "offset_hex": "0x1fc1b3a",
+    "pointer_hex": "0x9fc1b3a",
+    "original_en": "Penny: Station Two is the house on the\\nshelf below the stairs. Station Three\\lis up on the knoll in the east. And\\lStation Four... the map says it's above\\lthe waterfall?",
+    "translation_vi": "",
+    "byte_len": 167,
+    "refs": [
+      {
+        "at": "0x1fc4625",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10851",
+    "offset_hex": "0x1fc1be2",
+    "pointer_hex": "0x9fc1be2",
+    "original_en": "Penny: That's all four! Give me a\\nsecond...",
+    "translation_vi": "",
+    "byte_len": 43,
+    "refs": [
+      {
+        "at": "0x1fc4656",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10852",
+    "offset_hex": "0x1fc1c0e",
+    "pointer_hex": "0x9fc1c0e",
+    "original_en": "Penny: ...Done. The Zero Lab's door is\\nunlocked. It's the big shutter in the\\lcrater's north-east wall.",
+    "translation_vi": "",
+    "byte_len": 102,
+    "refs": [
+      {
+        "at": "0x1fc465e",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10853",
+    "offset_hex": "0x1fc1c75",
+    "pointer_hex": "0x9fc1c75",
+    "original_en": "Penny: The cameras show Arven and\\nNemona heading for it already. They'll\\lhave it open by the time you get there.\\lI've got your back from here.",
+    "translation_vi": "",
+    "byte_len": 142,
+    "refs": [
+      {
+        "at": "0x1fc4684",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10854",
+    "offset_hex": "0x1fc1d04",
+    "pointer_hex": "0x9fc1d04",
+    "original_en": "Penny: It takes more than one person\\nto lift it, though, and nobody should\\lgo in there alone. Arven and Nemona will\\lcome and open it as soon as they can.",
+    "translation_vi": "",
+    "byte_len": 153,
+    "refs": [
+      {
+        "at": "0x1fc468e",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10855",
+    "offset_hex": "0x1fc1d9e",
+    "pointer_hex": "0x9fc1d9e",
+    "original_en": "Penny: Arven won't leave Koraidon while\\nit's this weak. It needs the herb the\\lTitan guards, in the den on the west\\lside of the crater, in the past.",
+    "translation_vi": "",
+    "byte_len": 147,
+    "refs": [
+      {
+        "at": "0x1fc469f",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10856",
+    "offset_hex": "0x1fc1e32",
+    "pointer_hex": "0x9fc1e32",
+    "original_en": "Penny: Arven won't leave Miraidon while\\nit's this weak. It needs the herb the\\lTitan guards, in the den on the west\\lside of the crater, in the future.",
+    "translation_vi": "",
+    "byte_len": 149,
+    "refs": [
+      {
+        "at": "0x1fc46b0",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10857",
+    "offset_hex": "0x1fc1ec8",
+    "pointer_hex": "0x9fc1ec8",
+    "original_en": "Penny: Nemona won't stop battling\\nuntil somebody beats her. She's in the\\lfuture, in the tall grass south of the\\lwaterfall's pond.",
+    "translation_vi": "",
+    "byte_len": 129,
+    "refs": [
+      {
+        "at": "0x1fc46c1",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10858",
+    "offset_hex": "0x1fc1f4a",
+    "pointer_hex": "0x9fc1f4a",
+    "original_en": "Penny: This station's log is on the\\nrecorder right here. Go on, play it.",
+    "translation_vi": "",
+    "byte_len": 72,
+    "refs": [
+      {
+        "at": "0x1fc46cb",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10859",
+    "offset_hex": "0x1fc1f93",
+    "pointer_hex": "0x9fc1f93",
+    "original_en": "Penny: Still missing Station Two's. The\\nhouse on the shelf, right below the\\lstairs you came down.",
+    "translation_vi": "",
+    "byte_len": 97,
+    "refs": [
+      {
+        "at": "0x1fc46d5",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10860",
+    "offset_hex": "0x1fc1ff5",
+    "pointer_hex": "0x9fc1ff5",
+    "original_en": "Penny: Still missing Station Three's.\\nIt's the house on top of the knoll, in\\lthe east of the crater.",
+    "translation_vi": "",
+    "byte_len": 100,
+    "refs": [
+      {
+        "at": "0x1fc46df",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10861",
+    "offset_hex": "0x1fc205a",
+    "pointer_hex": "0x9fc205a",
+    "original_en": "Penny: Still missing Station Four's.\\nIt's above the waterfall. You'll have to\\lclimb it.",
+    "translation_vi": "",
+    "byte_len": 87,
+    "refs": [
+      {
+        "at": "0x1fc46e9",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10862",
+    "offset_hex": "0x1fc20b2",
+    "pointer_hex": "0x9fc20b2",
+    "original_en": "Penny: The lab's door is unlocked, but\\nit takes Arven and Nemona to get it\\lopen. They'll come as soon as they can.",
+    "translation_vi": "",
+    "byte_len": 114,
+    "refs": [
+      {
+        "at": "0x1fc4713",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10863",
+    "offset_hex": "0x1fc2125",
+    "pointer_hex": "0x9fc2125",
+    "original_en": "Penny: Back in Station One. It's almost\\ncozy, now that nothing out there wants\\lto eat me.",
+    "translation_vi": "",
+    "byte_len": 89,
+    "refs": [
+      {
+        "at": "0x1fc4720",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10864",
+    "offset_hex": "0x1fc217f",
+    "pointer_hex": "0x9fc217f",
+    "original_en": "Penny: I've got every camera in the\\ncrater on my tablet. Besides Arven's\\ltwo there are three more ancient ones\\lin the past and three more iron ones in\\lthe future.",
+    "translation_vi": "",
+    "byte_len": 162,
+    "refs": [
+      {
+        "at": "0x1fc4728",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10865",
+    "offset_hex": "0x1fc2222",
+    "pointer_hex": "0x9fc2222",
+    "original_en": "Penny: Two big readings prowl the\\nCrystal Cavern, and its second opening\\lhas come clear: there's a vault behind\\lit with three more, sealed in crystal.\\lThe floor in there is like a mirror. Mind\\lyour step.",
+    "translation_vi": "",
+    "byte_len": 203,
+    "refs": [
+      {
+        "at": "0x1fc4730",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10866",
+    "offset_hex": "0x1fc22ee",
+    "pointer_hex": "0x9fc22ee",
+    "original_en": "Penny: Something very cold hides in the\\nicy cave up here on the wall, and\\lwhatever is under the cavern's\\lladder... the sensors can't even name\\lit.",
+    "translation_vi": "",
+    "byte_len": 146,
+    "refs": [
+      {
+        "at": "0x1fc4738",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.92)"
+    ]
+  },
+  {
+    "id": "D10867",
+    "offset_hex": "0x1fc2381",
+    "pointer_hex": "0x9fc2381",
+    "original_en": "Arven: You took Koraidon and Miraidon\\nalong? Good. They never looked at\\lanybody the way they look at you.",
+    "translation_vi": "",
+    "byte_len": 105,
+    "refs": [
+      {
+        "at": "0x1fc4756",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.93)"
+    ]
+  },
+  {
+    "id": "D10868",
+    "offset_hex": "0x1fc23eb",
+    "pointer_hex": "0x9fc23eb",
+    "original_en": "Arven: Koraidon and Miraidon are still\\nat my picnic spot, one in each time.\\lThey're waiting for you, I'm sure of it.",
+    "translation_vi": "",
+    "byte_len": 116,
+    "refs": [
+      {
+        "at": "0x1fc4763",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.93)"
+    ]
+  },
+  {
+    "id": "D10869",
+    "offset_hex": "0x1fc2460",
+    "pointer_hex": "0x9fc2460",
+    "original_en": "Arven: You look like you've been on\\nyour feet all day. Sit down, I made too\\lmany sandwiches.",
+    "translation_vi": "",
+    "byte_len": 92,
+    "refs": [
+      {
+        "at": "0x1fc476b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.93)"
+    ]
+  },
+  {
+    "id": "D10870",
+    "offset_hex": "0x1fc24bd",
+    "pointer_hex": "0x9fc24bd",
+    "original_en": "Arven's sandwiches hit the spot. Your\\nPokémon are full of energy!",
+    "translation_vi": "",
+    "byte_len": 65,
+    "refs": [
+      {
+        "at": "0x1fc477f",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.93)"
+    ]
+  },
+  {
+    "id": "D10871",
+    "offset_hex": "0x1fc24ff",
+    "pointer_hex": "0x9fc24ff",
+    "original_en": "Nemona: [BUF01]! Perfect timing! I've\\nbeen thinking up new strategies all\\lday. Battle me?",
+    "translation_vi": "",
+    "byte_len": 84,
+    "refs": [
+      {
+        "at": "0x1fc478b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.97)"
+    ]
+  },
+  {
+    "id": "D10872",
+    "offset_hex": "0x1fc2554",
+    "pointer_hex": "0x9fc2554",
+    "original_en": "Nemona: Aww. I'll be right here when you\\nchange your mind!",
+    "translation_vi": "",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x1fc479f",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.97)"
+    ]
+  },
+  {
+    "id": "D10873",
+    "offset_hex": "0x1fc258f",
+    "pointer_hex": "0x9fc258f",
+    "original_en": "Nemona: Hah! That never gets old. Come\\nback any time!",
+    "translation_vi": "",
+    "byte_len": 53,
+    "refs": [
+      {
+        "at": "0x1fc47b6",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.97)"
+    ]
+  },
+  {
+    "id": "D10874",
+    "offset_hex": "0x1fc25c5",
+    "pointer_hex": "0x9fc25c5",
+    "original_en": "Jacq: With the machine stopped the\\ncrater is calm. This valley alone could\\lfill three textbooks!",
+    "translation_vi": "",
+    "byte_len": 96,
+    "refs": [
+      {
+        "at": "0x1fc47c2",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.98)"
+    ]
+  },
+  {
+    "id": "D10875",
+    "offset_hex": "0x1fc2626",
+    "pointer_hex": "0x9fc2626",
+    "original_en": "Jacq: The hole in Mossdeep will hold for\\nas long as we need it. Thank you,\\l[BUF01]. Truly.",
+    "translation_vi": "",
+    "byte_len": 85,
+    "refs": [
+      {
+        "at": "0x1fc47ca",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.98)"
+    ]
+  },
+  {
+    "id": "D10876",
+    "offset_hex": "0x1fc267c",
+    "pointer_hex": "0x9fc267c",
+    "original_en": "A ladder leads further down, but\\ncrystals have grown over it. They're\\lfar too hard to break.",
+    "translation_vi": "",
+    "byte_len": 92,
+    "refs": [
+      {
+        "at": "0x1fc47d5",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.94)"
+    ]
+  },
+  {
+    "id": "D10877",
+    "offset_hex": "0x1fc26d9",
+    "pointer_hex": "0x9fc26d9",
+    "original_en": "A cold draught comes out of this\\nopening, but crystals have grown right\\lacross it. They're far too hard to\\lbreak.",
+    "translation_vi": "",
+    "byte_len": 113,
+    "refs": [
+      {
+        "at": "0x1fc47e0",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.94)"
+    ]
+  },
+  {
+    "id": "D10878",
+    "offset_hex": "0x1fc274b",
+    "pointer_hex": "0x9fc274b",
+    "original_en": "The four stakes are gone, and the\\nfloor is cracked where they stood.\\lWhatever slept here has left for the\\lcaves.",
+    "translation_vi": "",
+    "byte_len": 112,
+    "refs": [
+      {
+        "at": "0x1fc4805",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.99)"
+    ]
+  },
+  {
+    "id": "D10879",
+    "offset_hex": "0x1fc27bc",
+    "pointer_hex": "0x9fc27bc",
+    "original_en": "A great wooden tablet, black with age.\\nThe carving can still be read:",
+    "translation_vi": "",
+    "byte_len": 69,
+    "refs": [
+      {
+        "at": "0x1fc481b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10880",
+    "offset_hex": "0x1fc2802",
+    "pointer_hex": "0x9fc2802",
+    "original_en": "Four treasures were laid before a\\ngreedy king: a sword, a vessel, a bundle\\lof tablets and a string of beads.",
+    "translation_vi": "",
+    "byte_len": 108,
+    "refs": [
+      {
+        "at": "0x1fc4823",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10881",
+    "offset_hex": "0x1fc286f",
+    "pointer_hex": "0x9fc286f",
+    "original_en": "Hatred, fear, grudge and envy soaked\\ninto them until they woke, and the\\lkingdom fell in a single night.",
+    "translation_vi": "",
+    "byte_len": 103,
+    "refs": [
+      {
+        "at": "0x1fc482b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10882",
+    "offset_hex": "0x1fc28d7",
+    "pointer_hex": "0x9fc28d7",
+    "original_en": "Here their ruin is sealed, each behind a\\ncrystal. A crystal holds for as long as\\lits stake stands on the mirror floor.",
+    "translation_vi": "",
+    "byte_len": 118,
+    "refs": [
+      {
+        "at": "0x1fc4833",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10883",
+    "offset_hex": "0x1fc294e",
+    "pointer_hex": "0x9fc294e",
+    "original_en": "A slat of wood hangs in this niche: THE\\nSWORD.",
+    "translation_vi": "",
+    "byte_len": 46,
+    "refs": [
+      {
+        "at": "0x1fc483e",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10884",
+    "offset_hex": "0x1fc297d",
+    "pointer_hex": "0x9fc297d",
+    "original_en": "The niche is empty. Its crystal lies in\\nsplinters, long claw marks lead away,\\land the stone is white with frost.",
+    "translation_vi": "",
+    "byte_len": 112,
+    "refs": [
+      {
+        "at": "0x1fc4846",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10885",
+    "offset_hex": "0x1fc29ee",
+    "pointer_hex": "0x9fc29ee",
+    "original_en": "An ominous stake is driven deep into\\nthe mirror floor. Cut into it: a bundle\\lof tablets.",
+    "translation_vi": "",
+    "byte_len": 88,
+    "refs": [
+      {
+        "at": "0x1fc4851",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10886",
+    "offset_hex": "0x1fc2a47",
+    "pointer_hex": "0x9fc2a47",
+    "original_en": "The stake hums under your hand. Pull it\\nout?",
+    "translation_vi": "",
+    "byte_len": 44,
+    "refs": [
+      {
+        "at": "0x1fc4859",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc48cb",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc493d",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10887",
+    "offset_hex": "0x1fc2a74",
+    "pointer_hex": "0x9fc2a74",
+    "original_en": "[BUF01] pulled the stake out! It\\ncrumbled to dust...",
+    "translation_vi": "",
+    "byte_len": 47,
+    "refs": [
+      {
+        "at": "0x1fc4875",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc48e7",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc4959",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10888",
+    "offset_hex": "0x1fc2aa4",
+    "pointer_hex": "0x9fc2aa4",
+    "original_en": "Up in the niches, a crystal burst\\napart!",
+    "translation_vi": "",
+    "byte_len": 40,
+    "refs": [
+      {
+        "at": "0x1fc48a5",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc4917",
+        "op": "loadpointer"
+      },
+      {
+        "at": "0x1fc4989",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10889",
+    "offset_hex": "0x1fc2acd",
+    "pointer_hex": "0x9fc2acd",
+    "original_en": "A great crystal has grown right across\\nthis niche. Cut into the rock beside it:\\la bundle of tablets.",
+    "translation_vi": "",
+    "byte_len": 100,
+    "refs": [
+      {
+        "at": "0x1fc48b0",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10890",
+    "offset_hex": "0x1fc2b32",
+    "pointer_hex": "0x9fc2b32",
+    "original_en": "Something behind the crystal is\\nwatching you...",
+    "translation_vi": "",
+    "byte_len": 47,
+    "refs": [
+      {
+        "at": "0x1fc48b8",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10891",
+    "offset_hex": "0x1fc2b62",
+    "pointer_hex": "0x9fc2b62",
+    "original_en": "An ominous stake is driven deep into\\nthe mirror floor. Cut into it: a vessel\\lon three legs.",
+    "translation_vi": "",
+    "byte_len": 91,
+    "refs": [
+      {
+        "at": "0x1fc48c3",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10892",
+    "offset_hex": "0x1fc2bbe",
+    "pointer_hex": "0x9fc2bbe",
+    "original_en": "A great crystal has grown right across\\nthis niche. Cut into the rock beside it:\\la vessel on three legs.",
+    "translation_vi": "",
+    "byte_len": 103,
+    "refs": [
+      {
+        "at": "0x1fc4922",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10893",
+    "offset_hex": "0x1fc2c26",
+    "pointer_hex": "0x9fc2c26",
+    "original_en": "Something behind the crystal is\\nwatching you...",
+    "translation_vi": "",
+    "byte_len": 47,
+    "refs": [
+      {
+        "at": "0x1fc492a",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10894",
+    "offset_hex": "0x1fc2c56",
+    "pointer_hex": "0x9fc2c56",
+    "original_en": "An ominous stake is driven deep into\\nthe mirror floor. Cut into it: a string\\lof curved beads.",
+    "translation_vi": "",
+    "byte_len": 93,
+    "refs": [
+      {
+        "at": "0x1fc4935",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10895",
+    "offset_hex": "0x1fc2cb4",
+    "pointer_hex": "0x9fc2cb4",
+    "original_en": "A great crystal has grown right across\\nthis niche. Cut into the rock beside it:\\la string of curved beads.",
+    "translation_vi": "",
+    "byte_len": 105,
+    "refs": [
+      {
+        "at": "0x1fc4994",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10896",
+    "offset_hex": "0x1fc2d1e",
+    "pointer_hex": "0x9fc2d1e",
+    "original_en": "Something behind the crystal is\\nwatching you...",
+    "translation_vi": "",
+    "byte_len": 47,
+    "refs": [
+      {
+        "at": "0x1fc499c",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.101)"
+    ]
+  },
+  {
+    "id": "D10897",
+    "offset_hex": "0x1fc2d4e",
+    "pointer_hex": "0x9fc2d4e",
+    "original_en": "ZERO LAB. The four station logs are on\\nfile. Visitor authorized.",
+    "translation_vi": "",
+    "byte_len": 64,
+    "refs": [
+      {
+        "at": "0x1fc4a0a",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10898",
+    "offset_hex": "0x1fc2d8f",
+    "pointer_hex": "0x9fc2d8f",
+    "original_en": "A log entry: The machine can hold one\\ngate open at a time. The past, or the\\lfuture. Never both. We opened both.",
+    "translation_vi": "",
+    "byte_len": 111,
+    "refs": [
+      {
+        "at": "0x1fc4a15",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10899",
+    "offset_hex": "0x1fc2dff",
+    "pointer_hex": "0x9fc2dff",
+    "original_en": "A note stuck to the screen: Turo, the\\nKoraidon we brought back keeps\\lrunning off to the lake. Don't let it\\lnear the lab's guardians. - Sada",
+    "translation_vi": "",
+    "byte_len": 139,
+    "refs": [
+      {
+        "at": "0x1fc4a20",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10900",
+    "offset_hex": "0x1fc2e8b",
+    "pointer_hex": "0x9fc2e8b",
+    "original_en": "The screen shows two people side by\\nside, a woman in furs and a man in a\\lwhite coat. The caption reads:\\lProfessors Sada and Turo.",
+    "translation_vi": "",
+    "byte_len": 129,
+    "refs": [
+      {
+        "at": "0x1fc4a2b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10901",
+    "offset_hex": "0x1fc2f0d",
+    "pointer_hex": "0x9fc2f0d",
+    "original_en": "A supply terminal. It's still stocked\\nwith Booster Energy.",
+    "translation_vi": "",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x1fc4a36",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10902",
+    "offset_hex": "0x1fc2f48",
+    "pointer_hex": "0x9fc2f48",
+    "original_en": "The machine's screen flares to life!",
+    "translation_vi": "",
+    "byte_len": 36,
+    "refs": [
+      {
+        "at": "0x1fc4a71",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10903",
+    "offset_hex": "0x1fc2f6d",
+    "pointer_hex": "0x9fc2f6d",
+    "original_en": "AI Sada: ...A visitor. After all this\\ntime.",
+    "translation_vi": "",
+    "byte_len": 43,
+    "refs": [
+      {
+        "at": "0x1fc4a86",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10904",
+    "offset_hex": "0x1fc2f99",
+    "pointer_hex": "0x9fc2f99",
+    "original_en": "AI Turo: You heard the four logs. Then\\nyou know what we are.",
+    "translation_vi": "",
+    "byte_len": 60,
+    "refs": [
+      {
+        "at": "0x1fc4a8e",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10905",
+    "offset_hex": "0x1fc2fd6",
+    "pointer_hex": "0x9fc2fd6",
+    "original_en": "AI Sada: I am what Professor Sada left\\nbehind to keep this place running. A\\lcopy. A voice in a machine.",
+    "translation_vi": "",
+    "byte_len": 103,
+    "refs": [
+      {
+        "at": "0x1fc4a96",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10906",
+    "offset_hex": "0x1fc303e",
+    "pointer_hex": "0x9fc303e",
+    "original_en": "AI Turo: And I am Turo's. Two\\nprofessors from two worlds, and one\\lmachine that holds both gates open.",
+    "translation_vi": "",
+    "byte_len": 101,
+    "refs": [
+      {
+        "at": "0x1fc4a9e",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10907",
+    "offset_hex": "0x1fc30a4",
+    "pointer_hex": "0x9fc30a4",
+    "original_en": "AI Sada: Our paradise of ancient\\nPokémon must not be disturbed...",
+    "translation_vi": "",
+    "byte_len": 65,
+    "refs": [
+      {
+        "at": "0x1fc4aa6",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10908",
+    "offset_hex": "0x1fc30e6",
+    "pointer_hex": "0x9fc30e6",
+    "original_en": "AI Turo: ...nor ours of the future. That\\nwas our order. Show us you can be\\ltrusted with the machine.",
+    "translation_vi": "",
+    "byte_len": 100,
+    "refs": [
+      {
+        "at": "0x1fc4aae",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10909",
+    "offset_hex": "0x1fc314b",
+    "pointer_hex": "0x9fc314b",
+    "original_en": "AI Sada: ...Remarkable. Your Pokémon\\ntrust you completely.",
+    "translation_vi": "",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x1fc4abe",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10910",
+    "offset_hex": "0x1fc3186",
+    "pointer_hex": "0x9fc3186",
+    "original_en": "AI Turo: Then it is my turn. I must be\\ncertain.",
+    "translation_vi": "",
+    "byte_len": 47,
+    "refs": [
+      {
+        "at": "0x1fc4ac4",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10911",
+    "offset_hex": "0x1fc31b6",
+    "pointer_hex": "0x9fc31b6",
+    "original_en": "AI Turo: Certain, then. You are the one\\nwe waited for.",
+    "translation_vi": "",
+    "byte_len": 54,
+    "refs": [
+      {
+        "at": "0x1fc4ad4",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10912",
+    "offset_hex": "0x1fc31ed",
+    "pointer_hex": "0x9fc31ed",
+    "original_en": "ALERT. PARADISE PROTECTION PROTOCOL\\nENGAGED.",
+    "translation_vi": "",
+    "byte_len": 44,
+    "refs": [
+      {
+        "at": "0x1fc4af5",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10913",
+    "offset_hex": "0x1fc321a",
+    "pointer_hex": "0x9fc321a",
+    "original_en": "AI Sada: No! We did not call it! The\\nprotocol was set long ago, deeper than\\lour orders...",
+    "translation_vi": "",
+    "byte_len": 89,
+    "refs": [
+      {
+        "at": "0x1fc4afd",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10914",
+    "offset_hex": "0x1fc3274",
+    "pointer_hex": "0x9fc3274",
+    "original_en": "AI Turo: The lab's own guardians. The\\nones that beat our partners. Stand\\lready!",
+    "translation_vi": "",
+    "byte_len": 79,
+    "refs": [
+      {
+        "at": "0x1fc4b05",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10915",
+    "offset_hex": "0x1fc32c4",
+    "pointer_hex": "0x9fc32c4",
+    "original_en": "PROTOCOL TERMINATED.",
+    "translation_vi": "",
+    "byte_len": 20,
+    "refs": [
+      {
+        "at": "0x1fc4b31",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10916",
+    "offset_hex": "0x1fc32d9",
+    "pointer_hex": "0x9fc32d9",
+    "original_en": "The machine shudders... and goes quiet.\\nThe gates are closing.",
+    "translation_vi": "",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x1fc4b4b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10917",
+    "offset_hex": "0x1fc3318",
+    "pointer_hex": "0x9fc3318",
+    "original_en": "AI Sada: Without the protocol, we can\\nfinally do what our creators could not.\\lChoose.",
+    "translation_vi": "",
+    "byte_len": 85,
+    "refs": [
+      {
+        "at": "0x1fc4b53",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10918",
+    "offset_hex": "0x1fc336e",
+    "pointer_hex": "0x9fc336e",
+    "original_en": "AI Turo: We will go through the machine\\none last time. Each to our own\\lparadise. It will close behind us.",
+    "translation_vi": "",
+    "byte_len": 105,
+    "refs": [
+      {
+        "at": "0x1fc4b5b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10919",
+    "offset_hex": "0x1fc33d8",
+    "pointer_hex": "0x9fc33d8",
+    "original_en": "AI Sada: Tell Arven... his mother was\\nproud of him.",
+    "translation_vi": "",
+    "byte_len": 51,
+    "refs": [
+      {
+        "at": "0x1fc4b63",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10920",
+    "offset_hex": "0x1fc340c",
+    "pointer_hex": "0x9fc340c",
+    "original_en": "AI Turo: Tell Arven... his father was\\nproud of him.",
+    "translation_vi": "",
+    "byte_len": 51,
+    "refs": [
+      {
+        "at": "0x1fc4b6b",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10921",
+    "offset_hex": "0x1fc3440",
+    "pointer_hex": "0x9fc3440",
+    "original_en": "AI Sada: In one world or the other.\\nBoth are true.",
+    "translation_vi": "",
+    "byte_len": 50,
+    "refs": [
+      {
+        "at": "0x1fc4b73",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10922",
+    "offset_hex": "0x1fc3473",
+    "pointer_hex": "0x9fc3473",
+    "original_en": "The two AIs step into the light of the\\nmachine, and are gone.",
+    "translation_vi": "",
+    "byte_len": 61,
+    "refs": [
+      {
+        "at": "0x1fc4b86",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10923",
+    "offset_hex": "0x1fc34b1",
+    "pointer_hex": "0x9fc34b1",
+    "original_en": "Arven: [BUF01]! It's over? ...Then let's\\ngo home. Penny's waiting at the hole.",
+    "translation_vi": "",
+    "byte_len": 73,
+    "refs": [
+      {
+        "at": "0x1fc4bc3",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10924",
+    "offset_hex": "0x1fc34fb",
+    "pointer_hex": "0x9fc34fb",
+    "original_en": "Behind thick glass, an enormous\\nmachine hums. The display reads: TIME\\lMACHINE. GATE: OPEN.",
+    "translation_vi": "",
+    "byte_len": 90,
+    "refs": [
+      {
+        "at": "0x1fc4bd5",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10925",
+    "offset_hex": "0x1fc3556",
+    "pointer_hex": "0x9fc3556",
+    "original_en": "Something in there is watching. This is\\nno place to be alone, and Arven and\\lNemona aren't at the door yet...",
+    "translation_vi": "",
+    "byte_len": 108,
+    "refs": [
+      {
+        "at": "0x1fc4bdd",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10926",
+    "offset_hex": "0x1fc35c3",
+    "pointer_hex": "0x9fc35c3",
+    "original_en": "The machine is silent. The display\\nreads: TIME MACHINE. GATE: CLOSED.",
+    "translation_vi": "",
+    "byte_len": 69,
+    "refs": [
+      {
+        "at": "0x1fc4c1a",
+        "op": "loadpointer"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Area Zero (35.96)"
+    ]
+  },
+  {
+    "id": "D10927",
+    "offset_hex": "0x1fd2b51",
+    "pointer_hex": "0x9fd2b51",
+    "original_en": "Heh heh heh! Let's rock! Raise the\\nroof! Yo yo yo! Rock! Rock! Rock!\\lEverybody now!\\p…Looks like you don't get rock at\\nall… I'm a traveling DVD merchant.\\pI'm passing through Solaceon Town\\non business. Want to buy some\\ldiscs?\\pTotally rocking tunes!",
+    "translation_vi": "",
+    "byte_len": 246,
+    "refs": [
+      {
+        "at": "0x18080d5",
+        "op": "message"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10928",
+    "offset_hex": "0x1fd2c48",
+    "pointer_hex": "0x9fd2c48",
+    "original_en": "Want to buy some cake?",
+    "translation_vi": "",
+    "byte_len": 22,
+    "refs": [
+      {
+        "at": "0x1808099",
+        "op": "message"
+      },
+      {
+        "at": "0x180816f",
+        "op": "message"
+      },
+      {
+        "at": "0x18081a9",
+        "op": "message"
+      },
+      {
+        "at": "0x1808926",
+        "op": "message"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10929",
+    "offset_hex": "0x1fd2c5f",
+    "pointer_hex": "0x9fd2c5f",
+    "original_en": "Welcome! Care for some pastries?",
+    "translation_vi": "",
+    "byte_len": 32,
+    "refs": [
+      {
+        "at": "0x1808a13",
+        "op": "message"
+      },
+      {
+        "at": "0x1808a43",
+        "op": "message"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 210 (35.16)"
+    ]
+  },
+  {
+    "id": "D10930",
+    "offset_hex": "0x1fd2c80",
+    "pointer_hex": "0x9fd2c80",
+    "original_en": "Hey… hey… you over there, friend.\\nI've got rare Balls collected from\\lall over the world.\\pWant to take a look? Meeting like\\nthis must be fate. I travel the\\lworld all the time.",
+    "translation_vi": "",
+    "byte_len": 174,
+    "refs": [
+      {
+        "at": "0x1810cc2",
+        "op": "message"
+      },
+      {
+        "at": "0x1811087",
+        "op": "message"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10931",
+    "offset_hex": "0x1fd2d2f",
+    "pointer_hex": "0x9fd2d2f",
+    "original_en": "We meet again at last, [BUF01]…!\\nI'm so glad to see you once more.\\pBut… this is also the last time.\\nTake a look at all the rare Poké\\lBalls I have[F9D3]!",
+    "translation_vi": "",
+    "byte_len": 143,
+    "refs": [
+      {
+        "at": "0x18110a6",
+        "op": "message"
+      },
+      {
+        "at": "0x18111df",
+        "op": "message"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Littleroot Town (0.9)"
+    ]
+  },
+  {
+    "id": "D10932",
+    "offset_hex": "0x1fd2dbf",
+    "pointer_hex": "0x9fd2dbf",
+    "original_en": "I'm so moved! To mark the\\noccasion, let me give you\\lsomething that shows off your\\lachievement!",
+    "translation_vi": "",
+    "byte_len": 94,
+    "refs": [
+      {
+        "at": "0x181b75b",
+        "op": "message"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10933",
+    "offset_hex": "0x1fd2e38",
+    "pointer_hex": "0x9fd2e38",
+    "original_en": "[BUF01] received Poipole.",
+    "translation_vi": "",
+    "byte_len": 20,
+    "refs": [
+      {
+        "at": "0x183a6fa",
+        "op": "message"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Ultra Space (34.50)"
+    ]
+  },
+  {
+    "id": "D10934",
+    "offset_hex": "0x1fd2e4d",
+    "pointer_hex": "0x9fd2e4d",
+    "original_en": "Please choose the first Fossil to\\nhand over.",
+    "translation_vi": "",
+    "byte_len": 44,
+    "refs": [
+      {
+        "at": "0x18459f9",
+        "op": "message"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh City (37.74)"
+    ]
+  },
+  {
+    "id": "D10935",
+    "offset_hex": "0x1fd2e7a",
+    "pointer_hex": "0x9fd2e7a",
+    "original_en": "Grandma always said: making\\nsomething out of nothing was\\lbanned back on March 1, 2006.\\lThere's no [BUF02] in your Bag.",
+    "translation_vi": "",
+    "byte_len": 113,
+    "refs": [
+      {
+        "at": "0x1845c5e",
+        "op": "message"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh City (37.74)"
+    ]
+  },
+  {
+    "id": "D10936",
+    "offset_hex": "0x1fd2eec",
+    "pointer_hex": "0x9fd2eec",
+    "original_en": "The next tournament is being\\nprepared. Would you like to enter?",
+    "translation_vi": "",
+    "byte_len": 63,
+    "refs": [
+      {
+        "at": "0x184d469",
+        "op": "message"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10937",
+    "offset_hex": "0x1fd2f2c",
+    "pointer_hex": "0x9fd2f2c",
+    "original_en": "Elder Koga: Ready to begin round\\n[BUF02]? (If not, press B to go\\lback.)",
+    "translation_vi": "",
+    "byte_len": 66,
+    "refs": [
+      {
+        "at": "0x1881425",
+        "op": "message"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Koga's Village (35.85)"
+    ]
+  },
+  {
+    "id": "D10938",
+    "offset_hex": "0x1fd2f6f",
+    "pointer_hex": "0x9fd2f6f",
+    "original_en": "[BUF01] obtained Meloetta[F9D3]!",
+    "translation_vi": "",
+    "byte_len": 23,
+    "refs": [
+      {
+        "at": "0x18837fe",
+        "op": "message"
+      }
+    ],
+    "source": "walk",
+    "maps": [
+      "Hearthome City (37.100)"
+    ]
+  },
+  {
+    "id": "D10939",
+    "offset_hex": "0x1fd2f87",
+    "pointer_hex": "0x9fd2f87",
+    "original_en": "Ginkgo Guild Member: Sigh… With\\nVolo gone and Hisui struck by such\\ldisasters, our supplies have\\lalmost dried up…\\pStill, friend, come and see what\\nyou'd like.",
+    "translation_vi": "",
+    "byte_len": 157,
+    "refs": [
+      {
+        "at": "0x1896c19",
+        "op": "message"
+      },
+      {
+        "at": "0x189d2da",
+        "op": "message"
+      },
+      {
+        "at": "0x189d703",
+        "op": "message"
+      },
+      {
+        "at": "0x18a0442",
+        "op": "message"
+      },
+      {
+        "at": "0x18bec7d",
+        "op": "message"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10940",
+    "offset_hex": "0x1fd3025",
+    "pointer_hex": "0x9fd3025",
+    "original_en": "Ginkgo Guild Member: The land of\\nHisui is slowly recovering, so we\\lcan gather people and trade with\\lother regions.\\pThis time, our goal is to import\\nsome other kinds of Poké Balls!\\pFriend, come and see what you'd\\nlike.",
+    "translation_vi": "",
+    "byte_len": 217,
+    "refs": [
+      {
+        "at": "0x1896c2f",
+        "op": "message"
+      },
+      {
+        "at": "0x1897856",
+        "op": "message"
+      },
+      {
+        "at": "0x189d719",
+        "op": "message"
+      },
+      {
+        "at": "0x18a27aa",
+        "op": "message"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Hisui Region (37.103)"
+    ]
+  },
+  {
+    "id": "D10941",
+    "offset_hex": "0x1fd30ff",
+    "pointer_hex": "0x9fd30ff",
+    "original_en": "What would you like to trade for?",
+    "translation_vi": "",
+    "byte_len": 33,
+    "refs": [
+      {
+        "at": "0x18aef81",
+        "op": "message"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Eterna City (37.113)"
+    ]
+  },
+  {
+    "id": "D10942",
+    "offset_hex": "0x1fd3121",
+    "pointer_hex": "0x9fd3121",
+    "original_en": "[FC0105]Now then, take a look at what's on\\noffer.",
+    "translation_vi": "",
+    "byte_len": 44,
+    "refs": [
+      {
+        "at": "0x18bef7e",
+        "op": "message"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Sealed Chamber (24.72)"
+    ]
+  },
+  {
+    "id": "D10943",
+    "offset_hex": "0x1fd314e",
+    "pointer_hex": "0x9fd314e",
+    "original_en": "Y-you're this strong?! Why… when I\\neven used Z-Power!",
+    "translation_vi": "",
+    "byte_len": 53,
+    "refs": [
+      {
+        "at": "0x14a2489",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10944",
+    "offset_hex": "0x1fd3184",
+    "pointer_hex": "0x9fd3184",
+    "original_en": "Green: Your team is quite dazzling\\ntoo…\\pI lost!",
+    "translation_vi": "",
+    "byte_len": 47,
+    "refs": [
+      {
+        "at": "0x1800472",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18004a3",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180aec1",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180af75",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180b0f7",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180b1ba",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Lilycove City (13.2)"
+    ]
+  },
+  {
+    "id": "D10945",
+    "offset_hex": "0x1fd31b4",
+    "pointer_hex": "0x9fd31b4",
+    "original_en": "Silver: I've already become so\\nstrong…! How could I lose…!",
+    "translation_vi": "",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x18010a9",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10946",
+    "offset_hex": "0x1fd3311",
+    "pointer_hex": "0x9fd3311",
+    "original_en": "Oh, not bad, not bad. You have\\nsome skill. But you still have a\\llong way to go.",
+    "translation_vi": "",
+    "byte_len": 79,
+    "refs": [
+      {
+        "at": "0x18813e9",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Koga's Village (35.85)"
+    ]
+  },
+  {
+    "id": "D10947",
+    "offset_hex": "0x1fd3361",
+    "pointer_hex": "0x9fd3361",
+    "original_en": "I'd heard the rumors: your\\nstrength surpasses even a\\lChampion's!",
+    "translation_vi": "",
+    "byte_len": 64,
+    "refs": [
+      {
+        "at": "0x18032d5",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180a01b",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180b3d3",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10948",
+    "offset_hex": "0x1fd33a2",
+    "pointer_hex": "0x9fd33a2",
+    "original_en": "You must have been through\\ntraining even harsher than mine to\\lbe this strong!",
+    "translation_vi": "",
+    "byte_len": 77,
+    "refs": [
+      {
+        "at": "0x180bb31",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180d6a3",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x1811b92",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x1811bde",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Ever Grande City (0.8)"
+    ]
+  },
+  {
+    "id": "D10949",
+    "offset_hex": "0x1fd33f0",
+    "pointer_hex": "0x9fd33f0",
+    "original_en": "So this is the best of the Hoenn\\nregion…\\pYour skill is truly flawless.",
+    "translation_vi": "",
+    "byte_len": 70,
+    "refs": [
+      {
+        "at": "0x1803a55",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x1803c33",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180d663",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10950",
+    "offset_hex": "0x1fd3437",
+    "pointer_hex": "0x9fd3437",
+    "original_en": "Hilda: Sorry, sorry[F9D3]! I got carried\\naway… I'm sorry…!",
+    "translation_vi": "",
+    "byte_len": 54,
+    "refs": [
+      {
+        "at": "0x1803e11",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180466e",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x1809dfb",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180c0ac",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180e9e5",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180ea11",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 116 (0.31)",
+      "Celestic Town (36.10)"
+    ]
+  },
+  {
+    "id": "D10951",
+    "offset_hex": "0x1fd346e",
+    "pointer_hex": "0x9fd346e",
+    "original_en": "Serena: I'm Serena, a Trainer from\\nVaniville Town in Kalos.\\pMy dream is to become Kalos Queen,\\nand right now I'm traveling around\\lHoenn…\\pThere seems to be a beautiful\\nPokémon behind this door. If you\\lwant it, you'll have to beat me\\lfirst!",
+    "translation_vi": "",
+    "byte_len": 238,
+    "refs": [
+      {
+        "at": "0x180420f",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10952",
+    "offset_hex": "0x1fd355d",
+    "pointer_hex": "0x9fd355d",
+    "original_en": "Serena: Your Pokémon battle so\\ngracefully!",
+    "translation_vi": "",
+    "byte_len": 42,
+    "refs": [
+      {
+        "at": "0x1804052",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180407f",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x1804245",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18042fa",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x182c425",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18831e7",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Rustboro City (11.15)",
+      "Hearthome City (37.100)"
+    ]
+  },
+  {
+    "id": "D10953",
+    "offset_hex": "0x1fd3588",
+    "pointer_hex": "0x9fd3588",
+    "original_en": "N: Your forcing a battle on me was\\na surprise, but I never expected\\lsuch strength…!",
+    "translation_vi": "",
+    "byte_len": 83,
+    "refs": [
+      {
+        "at": "0x1804347",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x1890cb0",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10954",
+    "offset_hex": "0x1fd35dc",
+    "pointer_hex": "0x9fd35dc",
+    "original_en": "What?! That's impossible!",
+    "translation_vi": "",
+    "byte_len": 25,
+    "refs": [
+      {
+        "at": "0x18046e7",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Rainbow Castle (35.4)"
+    ]
+  },
+  {
+    "id": "D10955",
+    "offset_hex": "0x1fd35f6",
+    "pointer_hex": "0x9fd35f6",
+    "original_en": "……It's over. The world is still\\nbeing tainted by shortsighted\\lhumans…\\pand what hope remains is still\\nbeing fought over in the ugliest\\lway……",
+    "translation_vi": "",
+    "byte_len": 139,
+    "refs": [
+      {
+        "at": "0x1804823",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Rainbow Castle (35.4)"
+    ]
+  },
+  {
+    "id": "D10956",
+    "offset_hex": "0x1fd3682",
+    "pointer_hex": "0x9fd3682",
+    "original_en": "I hold the power of myth itself,\\nand still you pushed me this far…\\pVery well, I acknowledge you. So\\nthis is what a fruitless dream\\llooks like…",
+    "translation_vi": "",
+    "byte_len": 142,
+    "refs": [
+      {
+        "at": "0x1804a2f",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Rainbow Castle (35.4)"
+    ]
+  },
+  {
+    "id": "D10957",
+    "offset_hex": "0x1fd3711",
+    "pointer_hex": "0x9fd3711",
+    "original_en": "What?! I, Maxie, was caught off\\nguard?!",
+    "translation_vi": "",
+    "byte_len": 39,
+    "refs": [
+      {
+        "at": "0x1804cfe",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Rainbow Castle (35.4)"
+    ]
+  },
+  {
+    "id": "D10958",
+    "offset_hex": "0x1fd3739",
+    "pointer_hex": "0x9fd3739",
+    "original_en": "Then what was the meaning of all\\nthis?!",
+    "translation_vi": "",
+    "byte_len": 39,
+    "refs": [
+      {
+        "at": "0x1805310",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180a3bd",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x1859113",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Rainbow Castle (35.5)"
+    ]
+  },
+  {
+    "id": "D10959",
+    "offset_hex": "0x1fd3761",
+    "pointer_hex": "0x9fd3761",
+    "original_en": "Amazing[F9D3]! So you're the Hoenn\\nChampion[F9D3]!",
+    "translation_vi": "",
+    "byte_len": 42,
+    "refs": [
+      {
+        "at": "0x18059ca",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180651f",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10960",
+    "offset_hex": "0x1fd378c",
+    "pointer_hex": "0x9fd378c",
+    "original_en": "Phew… That was way too intense… I\\nhadn't even gotten fired up yet,\\land… I lost?",
+    "translation_vi": "",
+    "byte_len": 79,
+    "refs": [
+      {
+        "at": "0x180d6e3",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10961",
+    "offset_hex": "0x1fd37dc",
+    "pointer_hex": "0x9fd37dc",
+    "original_en": "You're about as strong as I am…?\\nYou're not me from another world,\\lare you…?\\pHeh heh, I mean… even your battle\\nstyle is just like mine…",
+    "translation_vi": "",
+    "byte_len": 135,
+    "refs": [
+      {
+        "at": "0x1805e12",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Mt. Silver (34.58)"
+    ]
+  },
+  {
+    "id": "D10962",
+    "offset_hex": "0x1fd3864",
+    "pointer_hex": "0x9fd3864",
+    "original_en": "You beat me?! How disrespectful to\\nyour big sis!",
+    "translation_vi": "",
+    "byte_len": 48,
+    "refs": [
+      {
+        "at": "0x1806179",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10963",
+    "offset_hex": "0x1fd3895",
+    "pointer_hex": "0x9fd3895",
+    "original_en": "I never knew Hoenn's Trainers were\\nall so strong!",
+    "translation_vi": "",
+    "byte_len": 49,
+    "refs": [
+      {
+        "at": "0x18065c8",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10964",
+    "offset_hex": "0x1fd38c7",
+    "pointer_hex": "0x9fd38c7",
+    "original_en": "The power of you and your Pokémon…\\nIt's beyond anything I imagined…!",
+    "translation_vi": "",
+    "byte_len": 68,
+    "refs": [
+      {
+        "at": "0x1806a1e",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10965",
+    "offset_hex": "0x1fd390c",
+    "pointer_hex": "0x9fd390c",
+    "original_en": "I… and Black Kyurem… actually\\nlost?",
+    "translation_vi": "",
+    "byte_len": 35,
+    "refs": [
+      {
+        "at": "0x18072f2",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10966",
+    "offset_hex": "0x1fd3930",
+    "pointer_hex": "0x9fd3930",
+    "original_en": "…Heh. My Pokémon are strong,\\naren't they? …Though to be honest,\\pthat might have been my limit just\\nnow…",
+    "translation_vi": "",
+    "byte_len": 103,
+    "refs": [
+      {
+        "at": "0x1808e65",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Solaceon Town (36.8)"
+    ]
+  },
+  {
+    "id": "D10967",
+    "offset_hex": "0x1fd3998",
+    "pointer_hex": "0x9fd3998",
+    "original_en": "What a dazzling show[F9D3] What a\\nperfect rhythm[F9D3] No problem[F9D3]!",
+    "translation_vi": "",
+    "byte_len": 60,
+    "refs": [
+      {
+        "at": "0x1809795",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18097d1",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x188324a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 210 (35.16)",
+      "Hearthome City (37.100)"
+    ]
+  },
+  {
+    "id": "D10968",
+    "offset_hex": "0x1fd39d5",
+    "pointer_hex": "0x9fd39d5",
+    "original_en": "How… can this be…?! I, the king of\\nthe gods… have lost…?!",
+    "translation_vi": "",
+    "byte_len": 57,
+    "refs": [
+      {
+        "at": "0x180c5c7",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x181086e",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Unown Ruins (34.12)"
+    ]
+  },
+  {
+    "id": "D10969",
+    "offset_hex": "0x1fd3a0f",
+    "pointer_hex": "0x9fd3a0f",
+    "original_en": "How can this be! I will never bow\\nto fate!\\pCan the future really not be\\nchanged…!",
+    "translation_vi": "",
+    "byte_len": 81,
+    "refs": [
+      {
+        "at": "0x180d73a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10970",
+    "offset_hex": "0x1fd3a61",
+    "pointer_hex": "0x9fd3a61",
+    "original_en": "You clearly don't get it. I was\\ngoing easy on you just now!",
+    "translation_vi": "",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x180ef8f",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x180f0f4",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10971",
+    "offset_hex": "0x1fd3a9d",
+    "pointer_hex": "0x9fd3a9d",
+    "original_en": "Heh heh, how rude to your big\\nsister[F9D3]!",
+    "translation_vi": "",
+    "byte_len": 39,
+    "refs": [
+      {
+        "at": "0x180f137",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10972",
+    "offset_hex": "0x1fd3ac5",
+    "pointer_hex": "0x9fd3ac5",
+    "original_en": "Excellent! That's the strength I\\nwas hoping for…!",
+    "translation_vi": "",
+    "byte_len": 49,
+    "refs": [
+      {
+        "at": "0x180fa2f",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10973",
+    "offset_hex": "0x1fd3af7",
+    "pointer_hex": "0x9fd3af7",
+    "original_en": "Hmph… I never expected such\\nstrength. It's been a long time\\lsince I battled in earnest.\\pI lost fair and square…",
+    "translation_vi": "",
+    "byte_len": 111,
+    "refs": [
+      {
+        "at": "0x181044b",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10974",
+    "offset_hex": "0x1fd3b67",
+    "pointer_hex": "0x9fd3b67",
+    "original_en": "……That's you, all right. So this\\nis your true strength……",
+    "translation_vi": "",
+    "byte_len": 56,
+    "refs": [
+      {
+        "at": "0x1811d6d",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Ever Grande City (0.8)"
+    ]
+  },
+  {
+    "id": "D10975",
+    "offset_hex": "0x1fd3ba0",
+    "pointer_hex": "0x9fd3ba0",
+    "original_en": "Chase: Yo-ho-ho! Super strong! You\\nremind me of Trace in our deciding\\lbattle in Kanto!",
+    "translation_vi": "",
+    "byte_len": 86,
+    "refs": [
+      {
+        "at": "0x182de0e",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Fortree City (0.4)"
+    ]
+  },
+  {
+    "id": "D10976",
+    "offset_hex": "0x1fd3bf7",
+    "pointer_hex": "0x9fd3bf7",
+    "original_en": "You barely passed. Keep working at\\nit!",
+    "translation_vi": "",
+    "byte_len": 38,
+    "refs": [
+      {
+        "at": "0x1831652",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18327ff",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x183725d",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10977",
+    "offset_hex": "0x1fd3c1e",
+    "pointer_hex": "0x9fd3c1e",
+    "original_en": "Looks like you've hit your limit.\\nLet's stop here[F9D3]",
+    "translation_vi": "",
+    "byte_len": 51,
+    "refs": [
+      {
+        "at": "0x183727b",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10978",
+    "offset_hex": "0x1fd3c52",
+    "pointer_hex": "0x9fd3c52",
+    "original_en": "Blue: Just as I thought! No wonder\\nyou became Champion…",
+    "translation_vi": "",
+    "byte_len": 55,
+    "refs": [
+      {
+        "at": "0x185029f",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10979",
+    "offset_hex": "0x1fd3c8a",
+    "pointer_hex": "0x9fd3c8a",
+    "original_en": "Alder: Well done! You truly are\\nwithout equal!",
+    "translation_vi": "",
+    "byte_len": 46,
+    "refs": [
+      {
+        "at": "0x1850f71",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10980",
+    "offset_hex": "0x1fd3cb9",
+    "pointer_hex": "0x9fd3cb9",
+    "original_en": "Diantha: The sight of a Trainer\\nand Pokémon with such noble\\lspirits…\\pmakes my heart tremble!",
+    "translation_vi": "",
+    "byte_len": 92,
+    "refs": [
+      {
+        "at": "0x185189e",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D10981",
+    "offset_hex": "0x1fd3d16",
+    "pointer_hex": "0x9fd3d16",
+    "original_en": "H-how can this be! My Pokémon,\\ntempered through endless\\ltraining!!",
+    "translation_vi": "",
+    "byte_len": 66,
+    "refs": [
+      {
+        "at": "0x186c235",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh City (37.82)"
+    ]
+  },
+  {
+    "id": "D10982",
+    "offset_hex": "0x1fd3d59",
+    "pointer_hex": "0x9fd3d59",
+    "original_en": "I lost… because you were simply\\ntoo strong!",
+    "translation_vi": "",
+    "byte_len": 43,
+    "refs": [
+      {
+        "at": "0x18a78b2",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Veilstone City (37.93)"
+    ]
+  },
+  {
+    "id": "D10983",
+    "offset_hex": "0x1fd3d85",
+    "pointer_hex": "0x9fd3d85",
+    "original_en": "Amazing! Just what I'd expect from\\nthe Champion I admire[F9E7]",
+    "translation_vi": "",
+    "byte_len": 58,
+    "refs": [
+      {
+        "at": "0x18a77b3",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Snowpoint City (37.90)"
+    ]
+  },
+  {
+    "id": "D10984",
+    "offset_hex": "0x1fd3dc0",
+    "pointer_hex": "0x9fd3dc0",
+    "original_en": "Your feelings and your Pokémon's\\nhearts caught fire in that one\\lbattle! What a splendid match!",
+    "translation_vi": "",
+    "byte_len": 94,
+    "refs": [
+      {
+        "at": "0x18a785d",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Sunyshore City (37.92)"
+    ]
+  },
+  {
+    "id": "D10985",
+    "offset_hex": "0x1fd3e1f",
+    "pointer_hex": "0x9fd3e1f",
+    "original_en": "Oho! What an incredible\\nchallenger!",
+    "translation_vi": "",
+    "byte_len": 35,
+    "refs": [
+      {
+        "at": "0x18720d5",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Hearthome City (37.85)"
+    ]
+  },
+  {
+    "id": "D10986",
+    "offset_hex": "0x1fd3e43",
+    "pointer_hex": "0x9fd3e43",
+    "original_en": "Oh, you've made it this far! Have\\nyou decided which door to pick?",
+    "translation_vi": "",
+    "byte_len": 65,
+    "refs": [
+      {
+        "at": "0x18722d6",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Hearthome City (37.85)"
+    ]
+  },
+  {
+    "id": "D10987",
+    "offset_hex": "0x1fd3e85",
+    "pointer_hex": "0x9fd3e85",
+    "original_en": "Oh? Ah!! You've passed the trial!!",
+    "translation_vi": "",
+    "byte_len": 34,
+    "refs": [
+      {
+        "at": "0x1881462",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Koga's Village (35.85)"
+    ]
+  },
+  {
+    "id": "D10988",
+    "offset_hex": "0x1fd3ea8",
+    "pointer_hex": "0x9fd3ea8",
+    "original_en": "Rosa: Our performances really\\nresonated[F9D3] Thanks, stranger[F9D3]",
+    "translation_vi": "",
+    "byte_len": 60,
+    "refs": [
+      {
+        "at": "0x188334a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Hearthome City (37.100)"
+    ]
+  },
+  {
+    "id": "D10989",
+    "offset_hex": "0x1fd3ee5",
+    "pointer_hex": "0x9fd3ee5",
+    "original_en": "[BUF06]: That's our teamwork for\\nyou[F9D3]! The performance went great!",
+    "translation_vi": "",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x18832cf",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Hearthome City (37.100)"
+    ]
+  },
+  {
+    "id": "D10990",
+    "offset_hex": "0x1fd3f24",
+    "pointer_hex": "0x9fd3f24",
+    "original_en": "Tch!",
+    "translation_vi": "",
+    "byte_len": 4,
+    "refs": [
+      {
+        "at": "0x18848d6",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 203 (36.18)"
+    ]
+  },
+  {
+    "id": "D10991",
+    "offset_hex": "0x1fd3f29",
+    "pointer_hex": "0x9fd3f29",
+    "original_en": "Wenyue: You want to battle us?\\pNot without two Pokémon, you\\ncan't. We'd be far too strong for\\lyou!",
+    "translation_vi": "",
+    "byte_len": 98,
+    "refs": [
+      {
+        "at": "0x1884ad7",
+        "op": "trainerbattle:not_enough_mons"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 204 (36.19)"
+    ]
+  },
+  {
+    "id": "D10992",
+    "offset_hex": "0x1fd3f8c",
+    "pointer_hex": "0x9fd3f8c",
+    "original_en": "Ah, I just can't connect with my\\nPokémon.",
+    "translation_vi": "",
+    "byte_len": 41,
+    "refs": [
+      {
+        "at": "0x18850cc",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 206 (36.22)"
+    ]
+  },
+  {
+    "id": "D10993",
+    "offset_hex": "0x1fd3fb6",
+    "pointer_hex": "0x9fd3fb6",
+    "original_en": "Want to battle? After this I'm\\nheading up the mountain to hunt\\lwith my friends!",
+    "translation_vi": "",
+    "byte_len": 79,
+    "refs": [
+      {
+        "at": "0x18852bc",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 207 (36.23)"
+    ]
+  },
+  {
+    "id": "D10994",
+    "offset_hex": "0x1fd4006",
+    "pointer_hex": "0x9fd4006",
+    "original_en": "Shion: You have to bring two\\nPokémon before we'll battle you!\\pJo'on: Because beating you means\\ndouble the payout!",
+    "translation_vi": "",
+    "byte_len": 113,
+    "refs": [
+      {
+        "at": "0x188567f",
+        "op": "trainerbattle:not_enough_mons"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 209 (36.25)"
+    ]
+  },
+  {
+    "id": "D10995",
+    "offset_hex": "0x1fd4078",
+    "pointer_hex": "0x9fd4078",
+    "original_en": "Every holiday makes me miss my\\nfamily twice as much. A wanderer\\lwho misses home should go back.",
+    "translation_vi": "",
+    "byte_len": 95,
+    "refs": [
+      {
+        "at": "0x1885882",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 209 (36.25)"
+    ]
+  },
+  {
+    "id": "D10996",
+    "offset_hex": "0x1fd40d8",
+    "pointer_hex": "0x9fd40d8",
+    "original_en": "Heiye: Want to join us? Baigu: Not\\nwithout two Pokémon, you can't!",
+    "translation_vi": "",
+    "byte_len": 66,
+    "refs": [
+      {
+        "at": "0x1885b1b",
+        "op": "trainerbattle:not_enough_mons"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 210 (36.26)"
+    ]
+  },
+  {
+    "id": "D10997",
+    "offset_hex": "0x1fd411b",
+    "pointer_hex": "0x9fd411b",
+    "original_en": "Aaaaaah!!! What have you doooone?\\nM-my… my Right Hand of the King!\\lAaaah!!!",
+    "translation_vi": "",
+    "byte_len": 75,
+    "refs": [
+      {
+        "at": "0x1886909",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 213 (36.32)"
+    ]
+  },
+  {
+    "id": "D10998",
+    "offset_hex": "0x1fd4167",
+    "pointer_hex": "0x9fd4167",
+    "original_en": "I came to the lake to play with my\\nbig sister!",
+    "translation_vi": "",
+    "byte_len": 46,
+    "refs": [
+      {
+        "at": "0x188771c",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 219 (36.38)"
+    ]
+  },
+  {
+    "id": "D10999",
+    "offset_hex": "0x1fd4196",
+    "pointer_hex": "0x9fd4196",
+    "original_en": "…What's with that look? I really\\nam a mage! It's not a phase!",
+    "translation_vi": "",
+    "byte_len": 61,
+    "refs": [
+      {
+        "at": "0x18877b9",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 220 (36.39)"
+    ]
+  },
+  {
+    "id": "D11000",
+    "offset_hex": "0x1fd41d4",
+    "pointer_hex": "0x9fd41d4",
+    "original_en": "Hah!",
+    "translation_vi": "",
+    "byte_len": 4,
+    "refs": [
+      {
+        "at": "0x1887839",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 220 (36.39)"
+    ]
+  },
+  {
+    "id": "D11001",
+    "offset_hex": "0x1fd41d9",
+    "pointer_hex": "0x9fd41d9",
+    "original_en": "My fish got away because of you!\\nMy bad mood just got even worse.",
+    "translation_vi": "",
+    "byte_len": 65,
+    "refs": [
+      {
+        "at": "0x1887d9e",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 221 (36.40)"
+    ]
+  },
+  {
+    "id": "D11002",
+    "offset_hex": "0x1fd421b",
+    "pointer_hex": "0x9fd421b",
+    "original_en": "Tch… You're far stronger than the\\nlocals around here.",
+    "translation_vi": "",
+    "byte_len": 53,
+    "refs": [
+      {
+        "at": "0x188873d",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh Gate (36.58)"
+    ]
+  },
+  {
+    "id": "D11003",
+    "offset_hex": "0x1fd4251",
+    "pointer_hex": "0x9fd4251",
+    "original_en": "D-d-darn it…! Is the power of the\\nMark of Courage not enough…!",
+    "translation_vi": "",
+    "byte_len": 62,
+    "refs": [
+      {
+        "at": "0x18887cd",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh Gate (36.58)"
+    ]
+  },
+  {
+    "id": "D11004",
+    "offset_hex": "0x1fd4290",
+    "pointer_hex": "0x9fd4290",
+    "original_en": "I haven't eaten anything in five\\nwhole minutes! Come on, eat it all\\lup, no leftovers!",
+    "translation_vi": "",
+    "byte_len": 85,
+    "refs": [
+      {
+        "at": "0x188887f",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh Gate (36.58)"
+    ]
+  },
+  {
+    "id": "D11005",
+    "offset_hex": "0x1fd42e6",
+    "pointer_hex": "0x9fd42e6",
+    "original_en": "Have the times changed? Or have we\\nstill not mastered the ancient\\lpower?",
+    "translation_vi": "",
+    "byte_len": 72,
+    "refs": [
+      {
+        "at": "0x1888920",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh Gate (36.59)"
+    ]
+  },
+  {
+    "id": "D11006",
+    "offset_hex": "0x1fd432f",
+    "pointer_hex": "0x9fd432f",
+    "original_en": "……Fine. You can have the Caterpie.\\nJust this once.",
+    "translation_vi": "",
+    "byte_len": 50,
+    "refs": [
+      {
+        "at": "0x1888aa0",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Eterna Forest (36.53)"
+    ]
+  },
+  {
+    "id": "D11007",
+    "offset_hex": "0x1fd4362",
+    "pointer_hex": "0x9fd4362",
+    "original_en": "Orga: I'm the head of the Eterna\\nForest Rangers, though for some\\lreason those girls have taken to\\lcalling us the Hero Club.\\pOh well. Rather than fret over\\nthat, how about a Pokémon battle?",
+    "translation_vi": "",
+    "byte_len": 188,
+    "refs": [
+      {
+        "at": "0x1888bec",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Eterna Forest (36.53)"
+    ]
+  },
+  {
+    "id": "D11008",
+    "offset_hex": "0x1fd441f",
+    "pointer_hex": "0x9fd441f",
+    "original_en": "Ah Jie: I'm Ah Jie. I hang out\\nhere a lot. Let me see how tough\\lyour Pokémon are!",
+    "translation_vi": "",
+    "byte_len": 81,
+    "refs": [
+      {
+        "at": "0x1888fd3",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Eterna Forest (36.53)"
+    ]
+  },
+  {
+    "id": "D11009",
+    "offset_hex": "0x1fd4471",
+    "pointer_hex": "0x9fd4471",
+    "original_en": "So you've grasped the “Moment of\\nIntent” too… Reaching that level\\lis no small feat.",
+    "translation_vi": "",
+    "byte_len": 83,
+    "refs": [
+      {
+        "at": "0x18894da",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Iron Island (36.68)"
+    ]
+  },
+  {
+    "id": "D11010",
+    "offset_hex": "0x1fd44c5",
+    "pointer_hex": "0x9fd44c5",
+    "original_en": "Ohhh yeeeeah[F9D3] Now kneel before me!",
+    "translation_vi": "",
+    "byte_len": 35,
+    "refs": [
+      {
+        "at": "0x1889678",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Iron Island (36.68)"
+    ]
+  },
+  {
+    "id": "D11011",
+    "offset_hex": "0x1fd44e9",
+    "pointer_hex": "0x9fd44e9",
+    "original_en": "Aaaaah! You've wounded me! Aaaaah!",
+    "translation_vi": "",
+    "byte_len": 34,
+    "refs": [
+      {
+        "at": "0x1889775",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Iron Island (36.68)"
+    ]
+  },
+  {
+    "id": "D11012",
+    "offset_hex": "0x1fd450c",
+    "pointer_hex": "0x9fd450c",
+    "original_en": "Do you know Lucario? A legendary\\ncreature with deep ties to it\\ldwells here…\\pThe pinnacle of the Steel and\\nFighting types… We're lucky enough\\lto challenge it here…!",
+    "translation_vi": "",
+    "byte_len": 163,
+    "refs": [
+      {
+        "at": "0x1889857",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Iron Island (36.69)"
+    ]
+  },
+  {
+    "id": "D11013",
+    "offset_hex": "0x1fd45b0",
+    "pointer_hex": "0x9fd45b0",
+    "original_en": "Anyway, you win… I have no choice\\nbut to let you pass…",
+    "translation_vi": "",
+    "byte_len": 54,
+    "refs": [
+      {
+        "at": "0x188995e",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Iron Island (36.69)"
+    ]
+  },
+  {
+    "id": "D11014",
+    "offset_hex": "0x1fd45e7",
+    "pointer_hex": "0x9fd45e7",
+    "original_en": "I've finally made it this far…\\nMom, Dad, wait for me!",
+    "translation_vi": "",
+    "byte_len": 53,
+    "refs": [
+      {
+        "at": "0x1889af3",
+        "op": "trainerbattle:intro"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Victory Road (36.72)"
+    ]
+  },
+  {
+    "id": "D11015",
+    "offset_hex": "0x1fd461d",
+    "pointer_hex": "0x9fd461d",
+    "original_en": "Hmph[F9D3]",
+    "translation_vi": "",
+    "byte_len": 6,
+    "refs": [
+      {
+        "at": "0x1889d5e",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Victory Road (36.73)"
+    ]
+  },
+  {
+    "id": "D11016",
+    "offset_hex": "0x1fd4624",
+    "pointer_hex": "0x9fd4624",
+    "original_en": "Hoshizora: If you only have one\\nPokémon, we can't battle you.\\pThat would just be bullying.",
+    "translation_vi": "",
+    "byte_len": 90,
+    "refs": [
+      {
+        "at": "0x1889ddb",
+        "op": "trainerbattle:not_enough_mons"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Victory Road (36.73)"
+    ]
+  },
+  {
+    "id": "D11017",
+    "offset_hex": "0x1fd467f",
+    "pointer_hex": "0x9fd467f",
+    "original_en": "Jiannanchun: If you only have one\\nPokémon, we can't battle you.\\pThat would just be bullying.",
+    "translation_vi": "",
+    "byte_len": 92,
+    "refs": [
+      {
+        "at": "0x188a15b",
+        "op": "trainerbattle:not_enough_mons"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Victory Road (36.72)"
+    ]
+  },
+  {
+    "id": "D11018",
+    "offset_hex": "0x1fd46dc",
+    "pointer_hex": "0x9fd46dc",
+    "original_en": "Waji: Oh, not bad, not bad. That\\nkid from Petalburg Woods has grown\\lthis much.",
+    "translation_vi": "",
+    "byte_len": 78,
+    "refs": [
+      {
+        "at": "0x188f755",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Steven's Island (35.8)"
+    ]
+  },
+  {
+    "id": "D11019",
+    "offset_hex": "0x1fd472b",
+    "pointer_hex": "0x9fd472b",
+    "original_en": "Brendan: Nice.",
+    "translation_vi": "",
+    "byte_len": 14,
+    "refs": [
+      {
+        "at": "0x188cad7",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x188cae3",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x188caef",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 101 (0.16)"
+    ]
+  },
+  {
+    "id": "D11020",
+    "offset_hex": "0x1fd473a",
+    "pointer_hex": "0x9fd473a",
+    "original_en": "May: Ah, that really was an\\nintense match.",
+    "translation_vi": "",
+    "byte_len": 42,
+    "refs": [
+      {
+        "at": "0x188cafb",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x188cb07",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x188cb13",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 101 (0.16)"
+    ]
+  },
+  {
+    "id": "D11021",
+    "offset_hex": "0x1fd4765",
+    "pointer_hex": "0x9fd4765",
+    "original_en": "No… It isn't over yet!!",
+    "translation_vi": "",
+    "byte_len": 23,
+    "refs": [
+      {
+        "at": "0x18932b6",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D11022",
+    "offset_hex": "0x1fd477d",
+    "pointer_hex": "0x9fd477d",
+    "original_en": "You're not only kind to Pokémon,\\nyou're dependable in battle too!\\lHow can you be so gentle and so\\lstrong…",
+    "translation_vi": "",
+    "byte_len": 105,
+    "refs": [
+      {
+        "at": "0x18a9e67",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18aa11a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Sandgem Town (37.2)"
+    ]
+  },
+  {
+    "id": "D11023",
+    "offset_hex": "0x1fd47e7",
+    "pointer_hex": "0x9fd47e7",
+    "original_en": "Watching you all fight together, I\\ncan't help feeling “Now that's\\lwhat partners are.”",
+    "translation_vi": "",
+    "byte_len": 85,
+    "refs": [
+      {
+        "at": "0x18aa3aa",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Twinleaf Town (37.1)"
+    ]
+  },
+  {
+    "id": "D11024",
+    "offset_hex": "0x1fd483d",
+    "pointer_hex": "0x9fd483d",
+    "original_en": "…You remind me of that Red guy.",
+    "translation_vi": "",
+    "byte_len": 31,
+    "refs": [
+      {
+        "at": "0x18aab44",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Jubilife City (37.109)"
+    ]
+  },
+  {
+    "id": "D11025",
+    "offset_hex": "0x1fd485d",
+    "pointer_hex": "0x9fd485d",
+    "original_en": "You're just as strong as they\\nsaid… Would you consider becoming\\lmy Pokémon[F9D3]",
+    "translation_vi": "",
+    "byte_len": 76,
+    "refs": [
+      {
+        "at": "0x18aad11",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Jubilife City (37.109)"
+    ]
+  },
+  {
+    "id": "D11026",
+    "offset_hex": "0x1fd48aa",
+    "pointer_hex": "0x9fd48aa",
+    "original_en": "The teamwork between you and your\\nPokémon is perfect. You really are\\lgood at making friends with\\lPokémon!",
+    "translation_vi": "",
+    "byte_len": 105,
+    "refs": [
+      {
+        "at": "0x18aaf2d",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Floaroma Town (37.110)"
+    ]
+  },
+  {
+    "id": "D11027",
+    "offset_hex": "0x1fd4914",
+    "pointer_hex": "0x9fd4914",
+    "original_en": "…Hmph. I lost, just as I expected.\\nBut this time it didn't feel so\\lbad.",
+    "translation_vi": "",
+    "byte_len": 71,
+    "refs": [
+      {
+        "at": "0x18ab11a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Floaroma Town (37.110)"
+    ]
+  },
+  {
+    "id": "D11028",
+    "offset_hex": "0x1fd495c",
+    "pointer_hex": "0x9fd495c",
+    "original_en": "I hope Trainers like you will keep\\nshowing everyone how people and\\lPokémon should live together.\\pHow to build a true bond, not a\\ntwisted, warped relationship.",
+    "translation_vi": "",
+    "byte_len": 158,
+    "refs": [
+      {
+        "at": "0x18ab35a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Floaroma Town (37.110)"
+    ]
+  },
+  {
+    "id": "D11029",
+    "offset_hex": "0x1fd49fb",
+    "pointer_hex": "0x9fd49fb",
+    "original_en": "Mm… I'm sure you can become as\\nstrong as Gold and Red! I promise!",
+    "translation_vi": "",
+    "byte_len": 65,
+    "refs": [
+      {
+        "at": "0x18ab6a3",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Floaroma Town (37.110)"
+    ]
+  },
+  {
+    "id": "D11030",
+    "offset_hex": "0x1fd4a3d",
+    "pointer_hex": "0x9fd4a3d",
+    "original_en": "Even without Musharna clearing my\\nhead for me, I can come up with\\lall kinds of tactics in a flash.\\lThis must be the thrill of\\lsparring with a rival!",
+    "translation_vi": "",
+    "byte_len": 148,
+    "refs": [
+      {
+        "at": "0x18ad05d",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18ad6ee",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Floaroma Town (37.111)"
+    ]
+  },
+  {
+    "id": "D11031",
+    "offset_hex": "0x1fd4ad2",
+    "pointer_hex": "0x9fd4ad2",
+    "original_en": "Every time I see you get stronger,\\nI feel I have to try harder too!\\pYou make people feel “I can't\\nlose.” You really are amazing!",
+    "translation_vi": "",
+    "byte_len": 128,
+    "refs": [
+      {
+        "at": "0x18ad2e3",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Floaroma Town (37.111)"
+    ]
+  },
+  {
+    "id": "D11032",
+    "offset_hex": "0x1fd4b53",
+    "pointer_hex": "0x9fd4b53",
+    "original_en": "I can feel it: the love for\\nPokémon pouring out of your whole\\lbody!",
+    "translation_vi": "",
+    "byte_len": 67,
+    "refs": [
+      {
+        "at": "0x18ad739",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Floaroma Town (37.111)"
+    ]
+  },
+  {
+    "id": "D11033",
+    "offset_hex": "0x1fd4b97",
+    "pointer_hex": "0x9fd4b97",
+    "original_en": "To think you'd break my combo with\\na strategy like that… I see.\\lImpressive!",
+    "translation_vi": "",
+    "byte_len": 75,
+    "refs": [
+      {
+        "at": "0x18ad9b2",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Floaroma Town (37.111)"
+    ]
+  },
+  {
+    "id": "D11034",
+    "offset_hex": "0x1fd4be3",
+    "pointer_hex": "0x9fd4be3",
+    "original_en": "With your skill, you might rule\\nthe Battle Subway in Unova!",
+    "translation_vi": "",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x18adb5c",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Floaroma Town (37.111)"
+    ]
+  },
+  {
+    "id": "D11035",
+    "offset_hex": "0x1fd4c1f",
+    "pointer_hex": "0x9fd4c1f",
+    "original_en": "Uwaaah! Your attacks hit harder\\nthan a steel Tyranitar!",
+    "translation_vi": "",
+    "byte_len": 55,
+    "refs": [
+      {
+        "at": "0x18ade11",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Floaroma Town (37.111)"
+    ]
+  },
+  {
+    "id": "D11036",
+    "offset_hex": "0x1fd4c57",
+    "pointer_hex": "0x9fd4c57",
+    "original_en": "I lost… You're just too strong!\\nBut I'll keep getting stronger\\ltoo!",
+    "translation_vi": "",
+    "byte_len": 67,
+    "refs": [
+      {
+        "at": "0x18ae10a",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Floaroma Town (37.111)"
+    ]
+  },
+  {
+    "id": "D11037",
+    "offset_hex": "0x1fd4c9b",
+    "pointer_hex": "0x9fd4c9b",
+    "original_en": "As expected of the ultimate\\nTrainer, [BUF01]. Your power\\lsurpasses even the Ultra Beasts!",
+    "translation_vi": "",
+    "byte_len": 84,
+    "refs": [
+      {
+        "at": "0x18ae293",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh City (37.112)"
+    ]
+  },
+  {
+    "id": "D11038",
+    "offset_hex": "0x1fd4cf0",
+    "pointer_hex": "0x9fd4cf0",
+    "original_en": "The power of the bond between\\npeople and Pokémon, each side\\lclashing with everything they\\lhave… Battling you was so much\\lfun!",
+    "translation_vi": "",
+    "byte_len": 125,
+    "refs": [
+      {
+        "at": "0x18ae4c3",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh City (37.112)"
+    ]
+  },
+  {
+    "id": "D11039",
+    "offset_hex": "0x1fd4d6e",
+    "pointer_hex": "0x9fd4d6e",
+    "original_en": "So this is your full power… You're\\nstrong…",
+    "translation_vi": "",
+    "byte_len": 42,
+    "refs": [
+      {
+        "at": "0x18ae6a6",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh City (37.112)"
+    ]
+  },
+  {
+    "id": "D11040",
+    "offset_hex": "0x1fd4d99",
+    "pointer_hex": "0x9fd4d99",
+    "original_en": "If you took on the island\\nchallenge too, the captains\\lwouldn't stand a chance against\\lyou!",
+    "translation_vi": "",
+    "byte_len": 90,
+    "refs": [
+      {
+        "at": "0x18ae8b0",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh City (37.112)"
+    ]
+  },
+  {
+    "id": "D11041",
+    "offset_hex": "0x1fd4df4",
+    "pointer_hex": "0x9fd4df4",
+    "original_en": "I can tell from how you battle\\nwhat kind of journey you've had.\\lHmph… I can't lose either…",
+    "translation_vi": "",
+    "byte_len": 90,
+    "refs": [
+      {
+        "at": "0x18aeaeb",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh City (37.112)"
+    ]
+  },
+  {
+    "id": "D11042",
+    "offset_hex": "0x1fd4e4f",
+    "pointer_hex": "0x9fd4e4f",
+    "original_en": "I lost, but it feels great! So\\nthis is what battling is…",
+    "translation_vi": "",
+    "byte_len": 56,
+    "refs": [
+      {
+        "at": "0x18aed42",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh City (37.112)"
+    ]
+  },
+  {
+    "id": "D11043",
+    "offset_hex": "0x1fd4e88",
+    "pointer_hex": "0x9fd4e88",
+    "original_en": "You're so strong! That's [BUF01]\\nfor you!",
+    "translation_vi": "",
+    "byte_len": 36,
+    "refs": [
+      {
+        "at": "0x18afa2a",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18afa69",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Eterna City (37.114)"
+    ]
+  },
+  {
+    "id": "D11044",
+    "offset_hex": "0x1fd4ead",
+    "pointer_hex": "0x9fd4ead",
+    "original_en": "That finishing blow was absolutely\\nmagnificent!",
+    "translation_vi": "",
+    "byte_len": 47,
+    "refs": [
+      {
+        "at": "0x18afe79",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Eterna City (37.114)"
+    ]
+  },
+  {
+    "id": "D11045",
+    "offset_hex": "0x1fd4edd",
+    "pointer_hex": "0x9fd4edd",
+    "original_en": "Strength even greater than\\nChampion Leon's…",
+    "translation_vi": "",
+    "byte_len": 43,
+    "refs": [
+      {
+        "at": "0x18b01b8",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b01f0",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b8825",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Sunyshore City (37.115)"
+    ]
+  },
+  {
+    "id": "D11046",
+    "offset_hex": "0x1fd4f09",
+    "pointer_hex": "0x9fd4f09",
+    "original_en": "Whoa… You're way too strong…",
+    "translation_vi": "",
+    "byte_len": 28,
+    "refs": [
+      {
+        "at": "0x18b0494",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b04cc",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b8878",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Sunyshore City (37.115)"
+    ]
+  },
+  {
+    "id": "D11047",
+    "offset_hex": "0x1fd4f26",
+    "pointer_hex": "0x9fd4f26",
+    "original_en": "Maybe I'm better suited to\\ncheering people on than battling?\\l…Just kidding[F9D3]",
+    "translation_vi": "",
+    "byte_len": 76,
+    "refs": [
+      {
+        "at": "0x18b076f",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Sunyshore City (37.115)"
+    ]
+  },
+  {
+    "id": "D11048",
+    "offset_hex": "0x1fd4f73",
+    "pointer_hex": "0x9fd4f73",
+    "original_en": "A battle style that's strong, yet\\nstill gentle… I think I'm starting\\lto understand what the Professor\\lmeant…",
+    "translation_vi": "",
+    "byte_len": 108,
+    "refs": [
+      {
+        "at": "0x18b0d19",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh City (37.116)",
+      "Ancient Retreat (37.120)"
+    ]
+  },
+  {
+    "id": "D11049",
+    "offset_hex": "0x1fd4fe0",
+    "pointer_hex": "0x9fd4fe0",
+    "original_en": "Your tactics are meticulous and\\nefficient, yet you battle with\\lsuch flair. Who on earth are you?",
+    "translation_vi": "",
+    "byte_len": 96,
+    "refs": [
+      {
+        "at": "0x18b13d1",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b1413",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Pastoria City (37.117)"
+    ]
+  },
+  {
+    "id": "D11050",
+    "offset_hex": "0x1fd5041",
+    "pointer_hex": "0x9fd5041",
+    "original_en": "Looks like I'll need a stronger\\nstrategy next time!",
+    "translation_vi": "",
+    "byte_len": 51,
+    "refs": [
+      {
+        "at": "0x18b1751",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b1793",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b1a9f",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Pastoria City (37.117)"
+    ]
+  },
+  {
+    "id": "D11051",
+    "offset_hex": "0x1fd5075",
+    "pointer_hex": "0x9fd5075",
+    "original_en": "My creations…",
+    "translation_vi": "",
+    "byte_len": 13,
+    "refs": [
+      {
+        "at": "0x18b24a3",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b24d7",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b254d",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b25a6",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b2c2f",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b2c63",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b2cb9",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b2d12",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b346b",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b3b96",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b3bca",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b3c1d",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b3c76",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b4436",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b446a",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b44bd",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b4519",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b4cdd",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b4d11",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b5e16",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b5e4a",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b66a5",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b66d9",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b88b3",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b88e7",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18c5e93",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18c5ec7",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Moonbow Dome (35.10)"
+    ]
+  },
+  {
+    "id": "D11052",
+    "offset_hex": "0x1fd5083",
+    "pointer_hex": "0x9fd5083",
+    "original_en": "It's not over yet…",
+    "translation_vi": "",
+    "byte_len": 18,
+    "refs": [
+      {
+        "at": "0x18b5607",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b5e9d",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18c5f41",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18c610e",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Moonbow Dome (35.10)"
+    ]
+  },
+  {
+    "id": "D11053",
+    "offset_hex": "0x1fd5096",
+    "pointer_hex": "0x9fd5096",
+    "original_en": "How can this be…",
+    "translation_vi": "",
+    "byte_len": 16,
+    "refs": [
+      {
+        "at": "0x18b5663",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b5ef2",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18b6781",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18c5f96",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Moonbow Dome (35.10)"
+    ]
+  },
+  {
+    "id": "D11054",
+    "offset_hex": "0x1fd50a7",
+    "pointer_hex": "0x9fd50a7",
+    "original_en": "Diantha: What a gorgeous,\\nbrilliant battle that was…",
+    "translation_vi": "",
+    "byte_len": 52,
+    "refs": [
+      {
+        "at": "0x18bc21b",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Eterna City (37.114)"
+    ]
+  },
+  {
+    "id": "D11055",
+    "offset_hex": "0x1fd50dc",
+    "pointer_hex": "0x9fd50dc",
+    "original_en": "Iris: Amazing… So this is the\\nstrength of Hoenn's Champion…",
+    "translation_vi": "",
+    "byte_len": 59,
+    "refs": [
+      {
+        "at": "0x18bc3e0",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Mt. Coronet (36.80)"
+    ]
+  },
+  {
+    "id": "D11056",
+    "offset_hex": "0x1fd5118",
+    "pointer_hex": "0x9fd5118",
+    "original_en": "Mm…! It's frustrating, but you\\nreally do know how to lead Pokémon\\lin battle!",
+    "translation_vi": "",
+    "byte_len": 76,
+    "refs": [
+      {
+        "at": "0x18bc59c",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Mt. Coronet (36.91)"
+    ]
+  },
+  {
+    "id": "D11057",
+    "offset_hex": "0x1fd5165",
+    "pointer_hex": "0x9fd5165",
+    "original_en": "Steven: I knew it. I wasn't wrong\\nabout you. You truly are a\\lremarkable Pokémon Trainer!",
+    "translation_vi": "",
+    "byte_len": 88,
+    "refs": [
+      {
+        "at": "0x18bc782",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Oreburgh Mine (36.61)"
+    ]
+  },
+  {
+    "id": "D11058",
+    "offset_hex": "0x1fd51be",
+    "pointer_hex": "0x9fd51be",
+    "original_en": "Alder: Impressive! In any age,\\nit's those who earnestly chase\\ltheir dreams who change the world.\\lThat's right! People just like\\lyou!!",
+    "translation_vi": "",
+    "byte_len": 133,
+    "refs": [
+      {
+        "at": "0x18bca93",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Icirrus Town (35.23)"
+    ]
+  },
+  {
+    "id": "D11059",
+    "offset_hex": "0x1fd5244",
+    "pointer_hex": "0x9fd5244",
+    "original_en": "I could feel the bond between you\\nand your Pokémon!",
+    "translation_vi": "",
+    "byte_len": 51,
+    "refs": [
+      {
+        "at": "0x18bdb79",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan"
+  },
+  {
+    "id": "D11060",
+    "offset_hex": "0x1fd5278",
+    "pointer_hex": "0x9fd5278",
+    "original_en": "Lingkong Yulu: Good, keep it up!",
+    "translation_vi": "",
+    "byte_len": 32,
+    "refs": [
+      {
+        "at": "0x18be5b6",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Steven's Island (35.8)"
+    ]
+  },
+  {
+    "id": "D11061",
+    "offset_hex": "0x1fd5299",
+    "pointer_hex": "0x9fd5299",
+    "original_en": "Cogita: Heh… I'd expect nothing\\nless of you…",
+    "translation_vi": "",
+    "byte_len": 44,
+    "refs": [
+      {
+        "at": "0x18c487d",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Ancient Retreat (37.120)"
+    ]
+  },
+  {
+    "id": "D11062",
+    "offset_hex": "0x1fd52c6",
+    "pointer_hex": "0x9fd52c6",
+    "original_en": "Rei: Mm… You're pretty strong…",
+    "translation_vi": "",
+    "byte_len": 30,
+    "refs": [
+      {
+        "at": "0x18c4243",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18c46b3",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18c48b7",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Ancient Retreat (37.120)"
+    ]
+  },
+  {
+    "id": "D11063",
+    "offset_hex": "0x1fd52e5",
+    "pointer_hex": "0x9fd52e5",
+    "original_en": "Akari: That last move was really\\nbeautiful!",
+    "translation_vi": "",
+    "byte_len": 43,
+    "refs": [
+      {
+        "at": "0x18c4272",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18c46e2",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18c48f1",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Ancient Retreat (37.120)"
+    ]
+  },
+  {
+    "id": "D11064",
+    "offset_hex": "0x1fd5311",
+    "pointer_hex": "0x9fd5311",
+    "original_en": "Adaman: Looks like there's one\\nmore name, besides Irida's, on the\\llist of people I can't go easy on.",
+    "translation_vi": "",
+    "byte_len": 100,
+    "refs": [
+      {
+        "at": "0x18c42a1",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18c4711",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18c492b",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Ancient Retreat (37.120)"
+    ]
+  },
+  {
+    "id": "D11065",
+    "offset_hex": "0x1fd5376",
+    "pointer_hex": "0x9fd5376",
+    "original_en": "Irida: Ooh… You're just too\\nstrong…",
+    "translation_vi": "",
+    "byte_len": 35,
+    "refs": [
+      {
+        "at": "0x18c4965",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Ancient Retreat (37.120)"
+    ]
+  },
+  {
+    "id": "D11066",
+    "offset_hex": "0x1fd539a",
+    "pointer_hex": "0x9fd539a",
+    "original_en": "Volo: …Hmph. I humbly admit\\ndefeat.",
+    "translation_vi": "",
+    "byte_len": 35,
+    "refs": [
+      {
+        "at": "0x18c4313",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18c4783",
+        "op": "trainerbattle:defeat"
+      },
+      {
+        "at": "0x18c49a5",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Ancient Retreat (37.120)"
+    ]
+  },
+  {
+    "id": "D11067",
+    "offset_hex": "0x1fd53be",
+    "pointer_hex": "0x9fd53be",
+    "original_en": "See? There really were only two\\nSteel types!",
+    "translation_vi": "",
+    "byte_len": 44,
+    "refs": [
+      {
+        "at": "0x18c5be1",
+        "op": "trainerbattle:defeat"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Steven's Island (35.8)"
+    ]
+  },
+  {
+    "id": "D11068",
+    "offset_hex": "0x1fd53eb",
+    "pointer_hex": "0x9fd53eb",
+    "original_en": "Welcome to Café Cabin[F9D3] Would you\\nlike some Moomoo Milk?",
+    "translation_vi": "",
+    "byte_len": 56,
+    "refs": [
+      {
+        "at": "0x1808117",
+        "op": "message"
+      },
+      {
+        "at": "0x1808a63",
+        "op": "message"
+      }
+    ],
+    "source": "scan+walk",
+    "maps": [
+      "Route 210 (35.16)"
+    ]
+  }
+]

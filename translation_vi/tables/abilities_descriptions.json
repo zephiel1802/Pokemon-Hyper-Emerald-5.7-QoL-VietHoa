@@ -1,0 +1,3847 @@
+[
+  {
+    "offset_hex": "0x31afac",
+    "pointer_hex": "0x831afac",
+    "abilities": [
+      "1 Stench"
+    ],
+    "original_en": "Helps repel wild Pokémon.",
+    "translation_vi": "Giúp xua đuổi Pokémon hoang dã.",
+    "byte_len": 25,
+    "pointer_at": [
+      "0x1a15ca4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00770",
+    "pointer_hex": "0x9d00770",
+    "abilities": [
+      "2 Drizzle"
+    ],
+    "original_en": "Summons rain upon entering\\nthe battle.",
+    "translation_vi": "Gọi mưa khi vào trận đấu.",
+    "byte_len": 38,
+    "pointer_at": [
+      "0x1a15ca8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00798",
+    "pointer_hex": "0x9d00798",
+    "abilities": [
+      "3 Speed Boost"
+    ],
+    "original_en": "This Pokémon's Speed is\\nboosted every turn.",
+    "translation_vi": "Tăng Tốc độ sau mỗi lượt.",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a15cac"
+    ]
+  },
+  {
+    "offset_hex": "0x1d007c5",
+    "pointer_hex": "0x9d007c5",
+    "abilities": [
+      "4 Battle Armor",
+      "260 Shell Armor"
+    ],
+    "original_en": "Immune to critical hits.",
+    "translation_vi": "Miễn nhiễm với đòn chí mạng.",
+    "byte_len": 24,
+    "pointer_at": [
+      "0x1a15cb0",
+      "0x1a160b0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d007e4",
+    "pointer_hex": "0x9d007e4",
+    "abilities": [
+      "5 Sturdy"
+    ],
+    "original_en": "Cannot be KO'd in 1-hit.",
+    "translation_vi": "Không bị hạ gục trong 1 đòn.",
+    "byte_len": 24,
+    "pointer_at": [
+      "0x1a15cb4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d007fe",
+    "pointer_hex": "0x9d007fe",
+    "abilities": [
+      "6 Damp"
+    ],
+    "original_en": "Negates explosion moves.",
+    "translation_vi": "Vô hiệu hóa các chiêu tự nổ.",
+    "byte_len": 24,
+    "pointer_at": [
+      "0x1a15cb8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00818",
+    "pointer_hex": "0x9d00818",
+    "abilities": [
+      "7 Limber"
+    ],
+    "original_en": "Can't be paralyzed.",
+    "translation_vi": "Không thể bị tê liệt.",
+    "byte_len": 19,
+    "pointer_at": [
+      "0x1a15cbc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0082d",
+    "pointer_hex": "0x9d0082d",
+    "abilities": [
+      "8 Sand Veil"
+    ],
+    "original_en": "Ups evasion in a sandstorm.",
+    "translation_vi": "Tăng né đòn trong bão cát.",
+    "byte_len": 27,
+    "pointer_at": [
+      "0x1a15cc0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0084a",
+    "pointer_hex": "0x9d0084a",
+    "abilities": [
+      "9 Static"
+    ],
+    "original_en": "May paralyze the foe if\\nit makes contact.",
+    "translation_vi": "Tiếp xúc có thể làm tê liệt đối thủ.",
+    "byte_len": 41,
+    "pointer_at": [
+      "0x1a15cc4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00875",
+    "pointer_hex": "0x9d00875",
+    "abilities": [
+      "10 Volt Absorb"
+    ],
+    "original_en": "Restores HP if hit by an\\nElectric-type move.",
+    "translation_vi": "Hồi HP khi trúng chiêu hệ Electric.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a15cc8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d008a3",
+    "pointer_hex": "0x9d008a3",
+    "abilities": [
+      "11 Water Absorb"
+    ],
+    "original_en": "Restores HP if hit by a\\nWater-type move.",
+    "translation_vi": "Hồi HP khi trúng chiêu hệ Water.",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a15ccc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d008cd",
+    "pointer_hex": "0x9d008cd",
+    "abilities": [
+      "12 Oblivious"
+    ],
+    "original_en": "Prevents attraction, taunt\\nand Intimidate.",
+    "translation_vi": "Ngăn mê hoặc, khiêu khích và Intimidate.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15cd0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d008f9",
+    "pointer_hex": "0x9d008f9",
+    "abilities": [
+      "13 Cloud Nine"
+    ],
+    "original_en": "Negates weather effects.",
+    "translation_vi": "Vô hiệu hóa hiệu ứng thời tiết.",
+    "byte_len": 24,
+    "pointer_at": [
+      "0x1a15cd4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00913",
+    "pointer_hex": "0x9d00913",
+    "abilities": [
+      "14 Compoundeyes"
+    ],
+    "original_en": "Boosts this Pokémon's\\naccuracy.",
+    "translation_vi": "Tăng độ chính xác cho bản thân.",
+    "byte_len": 31,
+    "pointer_at": [
+      "0x1a15cd8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00934",
+    "pointer_hex": "0x9d00934",
+    "abilities": [
+      "15 Insomnia",
+      "72 Vital Spirit"
+    ],
+    "original_en": "Can't fall asleep.",
+    "translation_vi": "Không thể chìm vào giấc ngủ.",
+    "byte_len": 18,
+    "pointer_at": [
+      "0x1a15cdc",
+      "0x1a15dc0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00948",
+    "pointer_hex": "0x9d00948",
+    "abilities": [
+      "16 Color Change"
+    ],
+    "original_en": "This Pokémon's type becomes\\nthat of the move used on it.",
+    "translation_vi": "Đổi sang hệ của chiêu vừa trúng phải.",
+    "byte_len": 56,
+    "pointer_at": [
+      "0x1a15ce0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00982",
+    "pointer_hex": "0x9d00982",
+    "abilities": [
+      "17 Immunity"
+    ],
+    "original_en": "Can't be poisoned.",
+    "translation_vi": "Không thể bị trúng độc.",
+    "byte_len": 18,
+    "pointer_at": [
+      "0x1a15ce4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00996",
+    "pointer_hex": "0x9d00996",
+    "abilities": [
+      "18 Flash Fire"
+    ],
+    "original_en": "Empowers own Fire moves if\\nhit by a Fire-type move.",
+    "translation_vi": "Tăng chiêu hệ Fire khi trúng đòn hệ Fire.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a15ce8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d009cb",
+    "pointer_hex": "0x9d009cb",
+    "abilities": [
+      "19 Shield Dust"
+    ],
+    "original_en": "Blocks the added effects\\nof attacks taken.",
+    "translation_vi": "Chặn hiệu ứng phụ từ đòn tấn công nhận vào.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15cec"
+    ]
+  },
+  {
+    "offset_hex": "0x1d009f7",
+    "pointer_hex": "0x9d009f7",
+    "abilities": [
+      "20 Own Tempo"
+    ],
+    "original_en": "Can't be confused.",
+    "translation_vi": "Không thể bị bối rối.",
+    "byte_len": 18,
+    "pointer_at": [
+      "0x1a15cf0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00a0b",
+    "pointer_hex": "0x9d00a0b",
+    "abilities": [
+      "21 Suction Cups"
+    ],
+    "original_en": "Negates all moves that\\nforce it to switch out.",
+    "translation_vi": "Vô hiệu chiêu bắt buộc đổi Pokémon.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a15cf4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00a3b",
+    "pointer_hex": "0x9d00a3b",
+    "abilities": [
+      "22 Intimidate"
+    ],
+    "original_en": "Lowers the Attack of foe(s)\\nwhen it enters the field.",
+    "translation_vi": "Giảm Tấn công của đối thủ khi vào sân.",
+    "byte_len": 53,
+    "pointer_at": [
+      "0x1a15cf8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00a72",
+    "pointer_hex": "0x9d00a72",
+    "abilities": [
+      "23 Shadow Tag",
+      "71 Arena Trap"
+    ],
+    "original_en": "Prevents foe(s) from\\nescaping.",
+    "translation_vi": "Ngăn đối thủ chạy trốn.",
+    "byte_len": 30,
+    "pointer_at": [
+      "0x1a15cfc",
+      "0x1a15dbc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00a92",
+    "pointer_hex": "0x9d00a92",
+    "abilities": [
+      "24 Rough Skin",
+      "160 Iron Barbs"
+    ],
+    "original_en": "Damages an attacker that\\nmakes contact.",
+    "translation_vi": "Gây sát thương khi đối thủ chạm vào.",
+    "byte_len": 39,
+    "pointer_at": [
+      "0x1a15d00",
+      "0x1a15f20"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00abb",
+    "pointer_hex": "0x9d00abb",
+    "abilities": [
+      "25 Wonder Guard"
+    ],
+    "original_en": "Only supereffective moves\\nhit this Pokémon.",
+    "translation_vi": "Chỉ trúng đòn siêu hiệu quả.",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a15d04"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00ae8",
+    "pointer_hex": "0x9d00ae8",
+    "abilities": [
+      "26 Levitate"
+    ],
+    "original_en": "Makes this Pokémon immune\\nto Ground-type moves.",
+    "translation_vi": "Miễn nhiễm với chiêu hệ Ground.",
+    "byte_len": 47,
+    "pointer_at": [
+      "0x1a15d08"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00b19",
+    "pointer_hex": "0x9d00b19",
+    "abilities": [
+      "27 Effect Spore"
+    ],
+    "original_en": "Contact may cause sleep,\\npoison or paralyze the foe.",
+    "translation_vi": "Tiếp xúc có thể gây ngủ, độc hoặc tê liệt.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a15d0c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00b4f",
+    "pointer_hex": "0x9d00b4f",
+    "abilities": [
+      "28 Synchronize"
+    ],
+    "original_en": "Copies paralyze, burn or\\npoison to the foe.",
+    "translation_vi": "Lây tê liệt, bỏng hoặc độc sang đối thủ.",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a15d10"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00b7c",
+    "pointer_hex": "0x9d00b7c",
+    "abilities": [
+      "29 Clear Body",
+      "285 White Smoke"
+    ],
+    "original_en": "Prevents other Pokémon\\nfrom lowering its stats.",
+    "translation_vi": "Ngăn đối thủ giảm chỉ số của bản thân.",
+    "byte_len": 47,
+    "pointer_at": [
+      "0x1a15d14",
+      "0x1a16114"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00bad",
+    "pointer_hex": "0x9d00bad",
+    "abilities": [
+      "30 Natural Cure"
+    ],
+    "original_en": "Cures own status problems\\nif it is switched out.",
+    "translation_vi": "Tự chữa trạng thái khi đổi ra ngoài.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a15d18"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00bdf",
+    "pointer_hex": "0x9d00bdf",
+    "abilities": [
+      "31 LightningRod"
+    ],
+    "original_en": "Draws in all Electric-type\\nmoves to boost its Sp. Atk.",
+    "translation_vi": "Hút chiêu hệ Electric để tăng Sp. Atk.",
+    "byte_len": 54,
+    "pointer_at": [
+      "0x1a15d1c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00c17",
+    "pointer_hex": "0x9d00c17",
+    "abilities": [
+      "32 Serene Grace"
+    ],
+    "original_en": "Boosts the % of its added\\neffects when attacking.",
+    "translation_vi": "Tăng tỉ lệ xuất hiện hiệu ứng phụ.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a15d20"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00c4a",
+    "pointer_hex": "0x9d00c4a",
+    "abilities": [
+      "33 Swift Swim"
+    ],
+    "original_en": "Doubles this Pokémon's\\nSpeed during rain.",
+    "translation_vi": "Nhân đôi Tốc độ khi trời mưa.",
+    "byte_len": 41,
+    "pointer_at": [
+      "0x1a15d24"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00c75",
+    "pointer_hex": "0x9d00c75",
+    "abilities": [
+      "34 Chlorophyll"
+    ],
+    "original_en": "Doubles this Pokémon's\\nSpeed during sunshine.",
+    "translation_vi": "Nhân đôi Tốc độ khi trời nắng.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15d28"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00ca4",
+    "pointer_hex": "0x9d00ca4",
+    "abilities": [
+      "35 Illuminate"
+    ],
+    "original_en": "Boosts encounter rate.",
+    "translation_vi": "Tăng tỉ lệ gặp Pokémon hoang dã.",
+    "byte_len": 22,
+    "pointer_at": [
+      "0x1a15d2c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00cbc",
+    "pointer_hex": "0x9d00cbc",
+    "abilities": [
+      "36 Trace"
+    ],
+    "original_en": "Copies an opposing\\nPokémon's ability.",
+    "translation_vi": "Sao chép đặc tính của đối thủ.",
+    "byte_len": 37,
+    "pointer_at": [
+      "0x1a15d30"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00ce3",
+    "pointer_hex": "0x9d00ce3",
+    "abilities": [
+      "37 Huge Power",
+      "293 Pure Power"
+    ],
+    "original_en": "Doubles this Pokémon's\\nAttack stat.",
+    "translation_vi": "Nhân đôi chỉ số Tấn công.",
+    "byte_len": 35,
+    "pointer_at": [
+      "0x1a15d34",
+      "0x1a16134"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00d08",
+    "pointer_hex": "0x9d00d08",
+    "abilities": [
+      "38 Poison Point"
+    ],
+    "original_en": "Contact with the Pokémon\\nmay poison the attacker.",
+    "translation_vi": "Tiếp xúc có thể làm đối thủ trúng độc.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a15d38"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00d3b",
+    "pointer_hex": "0x9d00d3b",
+    "abilities": [
+      "39 Inner Focus"
+    ],
+    "original_en": "The Pokémon can't be\\nflinched or Intimidated.",
+    "translation_vi": "Không bị nao núng hay dính Intimidate.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15d3c"
+    ]
+  },
+  {
+    "offset_hex": "0x3801a0",
+    "pointer_hex": "0x83801a0",
+    "abilities": [
+      "40 Magma Armor"
+    ],
+    "original_en": "This Pokémon can't be\\nfrozen.",
+    "translation_vi": "Không thể bị đóng băng.",
+    "byte_len": 29,
+    "pointer_at": [
+      "0x1a15d40"
+    ]
+  },
+  {
+    "offset_hex": "0x3801bf",
+    "pointer_hex": "0x83801bf",
+    "abilities": [
+      "41 Water Veil"
+    ],
+    "original_en": "This Pokémon can't be\\nburned.",
+    "translation_vi": "Không thể bị bỏng.",
+    "byte_len": 29,
+    "pointer_at": [
+      "0x1a15d44"
+    ]
+  },
+  {
+    "offset_hex": "0x3801de",
+    "pointer_hex": "0x83801de",
+    "abilities": [
+      "42 Magnet Pull"
+    ],
+    "original_en": "Prevents Steel-type\\nPokémon from escaping.",
+    "translation_vi": "Ngăn Pokémon hệ Steel chạy trốn.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15d48"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00d6a",
+    "pointer_hex": "0x9d00d6a",
+    "abilities": [
+      "43 Soundproof"
+    ],
+    "original_en": "Blocks sound-based moves.",
+    "translation_vi": "Chặn các chiêu thức âm thanh.",
+    "byte_len": 25,
+    "pointer_at": [
+      "0x1a15d4c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00d85",
+    "pointer_hex": "0x9d00d85",
+    "abilities": [
+      "44 Rain Dish"
+    ],
+    "original_en": "Restores 1/16 of its max HP\\nduring rain.",
+    "translation_vi": "Hồi một lượng HP khi trời mưa.",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a15d50"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00daf",
+    "pointer_hex": "0x9d00daf",
+    "abilities": [
+      "45 Sand Stream"
+    ],
+    "original_en": "Summons a sandstorm upon\\nentering the battle.",
+    "translation_vi": "Gọi bão cát khi vào trận đấu.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15d54"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00dde",
+    "pointer_hex": "0x9d00dde",
+    "abilities": [
+      "46 Pressure"
+    ],
+    "original_en": "Makes foe(s) use more PP\\nto move.",
+    "translation_vi": "Bắt đối thủ tốn nhiều PP hơn khi ra chiêu.",
+    "byte_len": 33,
+    "pointer_at": [
+      "0x1a15d58"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00e01",
+    "pointer_hex": "0x9d00e01",
+    "abilities": [
+      "47 Thick Fat"
+    ],
+    "original_en": "Boosts resistance to Fire-\\nand Ice-type moves.",
+    "translation_vi": "Tăng kháng chiêu hệ Fire và Ice.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a15d5c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00e31",
+    "pointer_hex": "0x9d00e31",
+    "abilities": [
+      "48 Early Bird"
+    ],
+    "original_en": "This Pokémon awakens twice\\nas fast from sleep.",
+    "translation_vi": "Thức giấc nhanh gấp đôi bình thường.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a15d60"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00e61",
+    "pointer_hex": "0x9d00e61",
+    "abilities": [
+      "49 Flame Body"
+    ],
+    "original_en": "Contact with this Pokémon\\nmay burn the attacker.",
+    "translation_vi": "Tiếp xúc có thể làm đối thủ bị bỏng.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a15d64"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00e93",
+    "pointer_hex": "0x9d00e93",
+    "abilities": [
+      "50 Run Away"
+    ],
+    "original_en": "Guarantees fleeing from\\nwild battles.",
+    "translation_vi": "Chắc chắn chạy trốn khỏi Pokémon hoang dã.",
+    "byte_len": 37,
+    "pointer_at": [
+      "0x1a15d68"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00eba",
+    "pointer_hex": "0x9d00eba",
+    "abilities": [
+      "51 Keen Eye"
+    ],
+    "original_en": "Prevents other Pokémon\\nfrom lowering its accuracy.",
+    "translation_vi": "Ngăn đối thủ làm giảm độ chính xác.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15d6c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00eee",
+    "pointer_hex": "0x9d00eee",
+    "abilities": [
+      "52 Hyper Cutter"
+    ],
+    "original_en": "Prevents other Pokémon\\nfrom lowering its Attack.",
+    "translation_vi": "Ngăn đối thủ làm giảm chỉ số Tấn công.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a15d70"
+    ]
+  },
+  {
+    "offset_hex": "0x38020a",
+    "pointer_hex": "0x838020a",
+    "abilities": [
+      "53 Pickup"
+    ],
+    "original_en": "This Pokémon may pick up\\nitems.",
+    "translation_vi": "Có thể nhặt được vật phẩm.",
+    "byte_len": 31,
+    "pointer_at": [
+      "0x1a15d74"
+    ]
+  },
+  {
+    "offset_hex": "0x38022b",
+    "pointer_hex": "0x838022b",
+    "abilities": [
+      "54 Truant"
+    ],
+    "original_en": "This Pokémon only moves\\nevery two turns.",
+    "translation_vi": "Chỉ hành động một lần mỗi hai lượt.",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a15d78"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00f20",
+    "pointer_hex": "0x9d00f20",
+    "abilities": [
+      "55 Hustle"
+    ],
+    "original_en": "Boosts its Attack, but\\nlowers accuracy.",
+    "translation_vi": "Tăng Tấn công nhưng giảm độ chính xác.",
+    "byte_len": 39,
+    "pointer_at": [
+      "0x1a15d7c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00f49",
+    "pointer_hex": "0x9d00f49",
+    "abilities": [
+      "56 Cute Charm"
+    ],
+    "original_en": "May infatuate attackers\\nthat make contact.",
+    "translation_vi": "Tiếp xúc có thể làm đối thủ si mê.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15d80"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00f75",
+    "pointer_hex": "0x9d00f75",
+    "abilities": [
+      "57 Plus"
+    ],
+    "original_en": "Boosts its Sp. Atk if an\\nally has Minus.",
+    "translation_vi": "Tăng Sp. Atk nếu đồng đội có Minus.",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a15d84"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00f9f",
+    "pointer_hex": "0x9d00f9f",
+    "abilities": [
+      "58 Minus"
+    ],
+    "original_en": "Boosts its Sp. Atk if an\\nally has Plus.",
+    "translation_vi": "Tăng Sp. Atk nếu đồng đội có Plus.",
+    "byte_len": 39,
+    "pointer_at": [
+      "0x1a15d88"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00fc8",
+    "pointer_hex": "0x9d00fc8",
+    "abilities": [
+      "59 Forecast"
+    ],
+    "original_en": "Changes form based on\\ncurrent weather.",
+    "translation_vi": "Đổi hình dạng tùy theo thời tiết.",
+    "byte_len": 38,
+    "pointer_at": [
+      "0x1a15d8c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d00ff0",
+    "pointer_hex": "0x9d00ff0",
+    "abilities": [
+      "60 Sticky Hold"
+    ],
+    "original_en": "Its held items can't be\\nstolen or removed.",
+    "translation_vi": "Không thể bị cướp hoặc tước vật phẩm.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15d90"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0101c",
+    "pointer_hex": "0x9d0101c",
+    "abilities": [
+      "61 Shed Skin"
+    ],
+    "original_en": "May cure own status problem\\nwhen a turn ends.",
+    "translation_vi": "Có thể tự chữa trạng thái cuối mỗi lượt.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15d94"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0104b",
+    "pointer_hex": "0x9d0104b",
+    "abilities": [
+      "62 Guts"
+    ],
+    "original_en": "Boosts its Attack if it\\nhas a status problem.",
+    "translation_vi": "Tăng Tấn công khi dính trạng thái xấu.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15d98"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0107a",
+    "pointer_hex": "0x9d0107a",
+    "abilities": [
+      "63 Marvel Scale"
+    ],
+    "original_en": "Boosts its Defense if it\\nhas a status problem.",
+    "translation_vi": "Tăng Phòng thủ khi dính trạng thái xấu.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a15d9c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d010aa",
+    "pointer_hex": "0x9d010aa",
+    "abilities": [
+      "64 Liquid Ooze"
+    ],
+    "original_en": "Damages attackers using\\ndrain moves on it.",
+    "translation_vi": "Gây hại cho kẻ dùng chiêu hút HP.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15da0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d010d6",
+    "pointer_hex": "0x9d010d6",
+    "abilities": [
+      "65 Overgrow"
+    ],
+    "original_en": "Boosts its Grass moves by\\n50% at 1/3 or less HP.",
+    "translation_vi": "Tăng sức mạnh chiêu hệ Grass khi lâm nguy.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a15da4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01108",
+    "pointer_hex": "0x9d01108",
+    "abilities": [
+      "66 Blaze"
+    ],
+    "original_en": "Boosts its Fire moves by\\n50% at 1/3 or less HP.",
+    "translation_vi": "Tăng sức mạnh chiêu hệ Fire khi lâm nguy.",
+    "byte_len": 47,
+    "pointer_at": [
+      "0x1a15da8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01139",
+    "pointer_hex": "0x9d01139",
+    "abilities": [
+      "67 Torrent"
+    ],
+    "original_en": "Boosts its Water moves by\\n50% at 1/3 or less HP.",
+    "translation_vi": "Tăng sức mạnh chiêu hệ Water khi lâm nguy.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a15dac"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0116b",
+    "pointer_hex": "0x9d0116b",
+    "abilities": [
+      "68 Swarm"
+    ],
+    "original_en": "Boosts its Bug moves by\\n50% at 1/3 or less HP.",
+    "translation_vi": "Tăng sức mạnh chiêu hệ Bug khi lâm nguy.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a15db0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0119b",
+    "pointer_hex": "0x9d0119b",
+    "abilities": [
+      "69 Rock Head"
+    ],
+    "original_en": "This Pokémon takes no\\nrecoil damage.",
+    "translation_vi": "Không bị tổn thương do phản lực.",
+    "byte_len": 36,
+    "pointer_at": [
+      "0x1a15db4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d011c1",
+    "pointer_hex": "0x9d011c1",
+    "abilities": [
+      "70 Drought"
+    ],
+    "original_en": "Summons sunlight upon\\nentering the battle.",
+    "translation_vi": "Gọi trời nắng gay gắt khi vào trận.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15db8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02adf",
+    "pointer_hex": "0x9d02adf",
+    "abilities": [
+      "73 Daunt.Shield"
+    ],
+    "original_en": "Boosts its Defense when\\nit enters the battle.",
+    "translation_vi": "Tăng Phòng thủ khi bước vào trận đấu.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15dc4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d029de",
+    "pointer_hex": "0x9d029de",
+    "abilities": [
+      "74 Misty Surge"
+    ],
+    "original_en": "Summons Misty Terrain\\nupon entering the battle.",
+    "translation_vi": "Tạo Misty Terrain khi vào trận đấu.",
+    "byte_len": 47,
+    "pointer_at": [
+      "0x1a15dc8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02a0f",
+    "pointer_hex": "0x9d02a0f",
+    "abilities": [
+      "75 Grassy Surge"
+    ],
+    "original_en": "Summons Grassy Terrain\\nupon entering the battle.",
+    "translation_vi": "Tạo Grassy Terrain khi vào trận đấu.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a15dcc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d029aa",
+    "pointer_hex": "0x9d029aa",
+    "abilities": [
+      "76 PsychicSurge"
+    ],
+    "original_en": "Summons Psychic Terrain\\nupon entering the battle.",
+    "translation_vi": "Tạo Psychic Terrain khi vào trận đấu.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a15dd0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0187f",
+    "pointer_hex": "0x9d0187f",
+    "abilities": [
+      "77 Filter",
+      "333 Solid Rock"
+    ],
+    "original_en": "“Super effective” moves\\ntaken deal 25% less damage.",
+    "translation_vi": "Giảm sát thương từ đòn siêu hiệu quả.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a15dd4",
+      "0x1a161d4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01e9e",
+    "pointer_hex": "0x9d01e9e",
+    "abilities": [
+      "78 Moxie"
+    ],
+    "original_en": "Boosts its Attack if it\\nmakes a foe faint.",
+    "translation_vi": "Tăng Tấn công khi hạ gục một đối thủ.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15dd8"
+    ]
+  },
+  {
+    "offset_hex": "0x3806eb",
+    "pointer_hex": "0x83806eb",
+    "abilities": [
+      "79 Sharpness"
+    ],
+    "original_en": "This Pokémon's slicing\\nmoves are boosted by 50%.",
+    "translation_vi": "Tăng 50% uy lực cho các chiêu chém cắt.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a15ddc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02063",
+    "pointer_hex": "0x9d02063",
+    "abilities": [
+      "80 Protean",
+      "336 Libero"
+    ],
+    "original_en": "Changes this Pokémon's type\\nto that of the move it uses.",
+    "translation_vi": "Đổi sang hệ của chiêu thức sắp dùng.",
+    "byte_len": 56,
+    "pointer_at": [
+      "0x1a15de0",
+      "0x1a161e0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0228d",
+    "pointer_hex": "0x9d0228d",
+    "abilities": [
+      "81 Gooey"
+    ],
+    "original_en": "Contact with this Pokémon\\nlowers the attacker's Speed.",
+    "translation_vi": "Tiếp xúc làm giảm Tốc độ kẻ tấn công.",
+    "byte_len": 54,
+    "pointer_at": [
+      "0x1a15de4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0245d",
+    "pointer_hex": "0x9d0245d",
+    "abilities": [
+      "82 Wimp Out",
+      "338 Emerg. Exit"
+    ],
+    "original_en": "Switches out when its HP\\ndrops to 50% or less.",
+    "translation_vi": "Tự rút lui khi HP còn từ 50% trở xuống.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a15de8",
+      "0x1a161e8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d028e4",
+    "pointer_hex": "0x9d028e4",
+    "abilities": [
+      "83 Receiver",
+      "339 AlchemyPower"
+    ],
+    "original_en": "Copies the ability of an\\nally that faints.",
+    "translation_vi": "Kế thừa đặc tính của đồng đội bị hạ gục.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15dec",
+      "0x1a161ec"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02bbd",
+    "pointer_hex": "0x9d02bbd",
+    "abilities": [
+      "84 Propel. Tail",
+      "340 Stalwart"
+    ],
+    "original_en": "Ignores moves and abilities\\nthat draw in moves.",
+    "translation_vi": "Bỏ qua chiêu và đặc tính có khả năng hút đòn.",
+    "byte_len": 47,
+    "pointer_at": [
+      "0x1a15df0",
+      "0x1a161f0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0144b",
+    "pointer_hex": "0x9d0144b",
+    "abilities": [
+      "85 Heatproof"
+    ],
+    "original_en": "Halves damage taken from\\nFire moves and burns.",
+    "translation_vi": "Giảm nửa sát thương từ chiêu hệ Fire và bỏng.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a15df4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0147b",
+    "pointer_hex": "0x9d0147b",
+    "abilities": [
+      "86 Simple"
+    ],
+    "original_en": "This Pokémon's stat\\nchanges are doubled.",
+    "translation_vi": "Nhân đôi mọi thay đổi về chỉ số.",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a15df8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d014a5",
+    "pointer_hex": "0x9d014a5",
+    "abilities": [
+      "87 Dry Skin"
+    ],
+    "original_en": "Sunlight causes damage.\\nRain and Water restore HP.",
+    "translation_vi": "Mất HP khi trời nắng, hồi HP khi mưa và dính nước.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15dfc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d014d9",
+    "pointer_hex": "0x9d014d9",
+    "abilities": [
+      "88 Download"
+    ],
+    "original_en": "Boosts its offense based\\non the foe's stats.",
+    "translation_vi": "Tăng chỉ số tấn công dựa theo đối thủ.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a15e00"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01507",
+    "pointer_hex": "0x9d01507",
+    "abilities": [
+      "89 Iron Fist"
+    ],
+    "original_en": "This Pokémon's punching\\nmoves are boosted.",
+    "translation_vi": "Tăng uy lực cho các chiêu thức đấm.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15e04"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01533",
+    "pointer_hex": "0x9d01533",
+    "abilities": [
+      "90 Poison Heal"
+    ],
+    "original_en": "Being poisoned restores HP\\ninstead of dealing damage.",
+    "translation_vi": "Hồi phục HP thay vì mất máu khi trúng độc.",
+    "byte_len": 53,
+    "pointer_at": [
+      "0x1a15e08"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0156a",
+    "pointer_hex": "0x9d0156a",
+    "abilities": [
+      "91 Adaptability"
+    ],
+    "original_en": "This Pokémon's STAB moves\\nare empowered.",
+    "translation_vi": "Gia tăng sức mạnh của chiêu cùng hệ.",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a15e0c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01594",
+    "pointer_hex": "0x9d01594",
+    "abilities": [
+      "92 Skill Link"
+    ],
+    "original_en": "Multi-hit moves used by it\\nalways hit maximum times.",
+    "translation_vi": "Chiêu đánh nhiều lần luôn đánh số lần tối đa.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a15e10"
+    ]
+  },
+  {
+    "offset_hex": "0x1d015ca",
+    "pointer_hex": "0x9d015ca",
+    "abilities": [
+      "93 Hydration"
+    ],
+    "original_en": "Cures its status problems\\nif its raining.",
+    "translation_vi": "Chữa lành trạng thái bất thường khi trời mưa.",
+    "byte_len": 41,
+    "pointer_at": [
+      "0x1a15e14"
+    ]
+  },
+  {
+    "offset_hex": "0x1d015f5",
+    "pointer_hex": "0x9d015f5",
+    "abilities": [
+      "94 Solar Power"
+    ],
+    "original_en": "Sun boosts its Sp. Atk, but\\nHP decreases every turn.",
+    "translation_vi": "Trời nắng tăng Sp. Atk nhưng mất HP mỗi lượt.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a15e18"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0162b",
+    "pointer_hex": "0x9d0162b",
+    "abilities": [
+      "95 Quick Feet"
+    ],
+    "original_en": "Boosts its Speed if it\\nhas a status problem.",
+    "translation_vi": "Tăng Tốc độ khi dính trạng thái xấu.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a15e1c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01659",
+    "pointer_hex": "0x9d01659",
+    "abilities": [
+      "96 Normalize"
+    ],
+    "original_en": "All its moves become Normal\\nand are boosted a bit.",
+    "translation_vi": "Mọi chiêu thành hệ Normal và tăng nhẹ uy lực.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15e20"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0168d",
+    "pointer_hex": "0x9d0168d",
+    "abilities": [
+      "97 Sniper"
+    ],
+    "original_en": "Its critical hit damage\\nis boosted by 50%.",
+    "translation_vi": "Tăng mạnh sát thương khi đánh trúng chí mạng.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15e24"
+    ]
+  },
+  {
+    "offset_hex": "0x1d016b9",
+    "pointer_hex": "0x9d016b9",
+    "abilities": [
+      "98 Magic Guard"
+    ],
+    "original_en": "This Pokémon is protected\\nfrom indirect damage.",
+    "translation_vi": "Bảo vệ khỏi sát thương gián tiếp.",
+    "byte_len": 47,
+    "pointer_at": [
+      "0x1a15e28"
+    ]
+  },
+  {
+    "offset_hex": "0x1d016ea",
+    "pointer_hex": "0x9d016ea",
+    "abilities": [
+      "99 No Guard"
+    ],
+    "original_en": "All moves (used and taken)\\nare sure to hit.",
+    "translation_vi": "Mọi chiêu thức tung ra và nhận vào đều trúng.",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a15e2c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01717",
+    "pointer_hex": "0x9d01717",
+    "abilities": [
+      "100 Stall"
+    ],
+    "original_en": "It always moves last.",
+    "translation_vi": "Luôn luôn hành động sau cùng.",
+    "byte_len": 21,
+    "pointer_at": [
+      "0x1a15e30"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0172e",
+    "pointer_hex": "0x9d0172e",
+    "abilities": [
+      "101 Technician"
+    ],
+    "original_en": "Boosts its moves of 60 or\\nless power by 50%.",
+    "translation_vi": "Tăng 50% uy lực cho chiêu có sức mạnh dưới 60.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a15e34"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0175c",
+    "pointer_hex": "0x9d0175c",
+    "abilities": [
+      "102 Leaf Guard"
+    ],
+    "original_en": "Sunlight protects it\\nfrom status problems.",
+    "translation_vi": "Trời nắng bảo vệ khỏi các trạng thái xấu.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15e38"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01788",
+    "pointer_hex": "0x9d01788",
+    "abilities": [
+      "103 Klutz"
+    ],
+    "original_en": "Can't use held items.",
+    "translation_vi": "Không thể dùng vật phẩm đang giữ.",
+    "byte_len": 21,
+    "pointer_at": [
+      "0x1a15e3c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0179f",
+    "pointer_hex": "0x9d0179f",
+    "abilities": [
+      "104 Mold Breaker",
+      "335 Teravolt",
+      "341 Turboblaze",
+      "360 MyceliumMght"
+    ],
+    "original_en": "Moves it uses ignore the\\ntarget's ability.",
+    "translation_vi": "Chiêu tung ra bỏ qua đặc tính của đối thủ.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15e40",
+      "0x1a161dc",
+      "0x1a161f4",
+      "0x1a16240"
+    ]
+  },
+  {
+    "offset_hex": "0x380255",
+    "pointer_hex": "0x8380255",
+    "abilities": [
+      "105 Super Luck"
+    ],
+    "original_en": "Moves it uses have boosted\\ncritical hit ratio.",
+    "translation_vi": "Tăng tỉ lệ đánh trúng đòn chí mạng.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a15e44"
+    ]
+  },
+  {
+    "offset_hex": "0x380285",
+    "pointer_hex": "0x8380285",
+    "abilities": [
+      "106 Aftermath"
+    ],
+    "original_en": "Damages an attacker that\\nlands the finishing blow.",
+    "translation_vi": "Gây sát thương lên kẻ tung đòn kết liễu.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15e48"
+    ]
+  },
+  {
+    "offset_hex": "0x1d017cb",
+    "pointer_hex": "0x9d017cb",
+    "abilities": [
+      "107 Anticipation"
+    ],
+    "original_en": "Senses a foe's super\\neffective moves.",
+    "translation_vi": "Cảm nhận được chiêu siêu hiệu quả của địch.",
+    "byte_len": 37,
+    "pointer_at": [
+      "0x1a15e4c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d017f2",
+    "pointer_hex": "0x9d017f2",
+    "abilities": [
+      "108 Forewarn"
+    ],
+    "original_en": "Tells one of the foe's\\nmoves upon entering.",
+    "translation_vi": "Nhận biết một chiêu của đối thủ khi vào trận.",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a15e50"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0181f",
+    "pointer_hex": "0x9d0181f",
+    "abilities": [
+      "109 Unaware"
+    ],
+    "original_en": "When attacking, ignores the\\ntarget's stat changes.",
+    "translation_vi": "Bỏ qua mọi thay đổi chỉ số của mục tiêu.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15e54"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01853",
+    "pointer_hex": "0x9d01853",
+    "abilities": [
+      "110 Tinted Lens"
+    ],
+    "original_en": "Boosts “not very effective”\\nmoves it uses.",
+    "translation_vi": "Tăng uy lực chiêu không mấy hiệu quả.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15e58"
+    ]
+  },
+  {
+    "offset_hex": "0x1d012bc",
+    "pointer_hex": "0x9d012bc",
+    "abilities": [
+      "111 Tangled Feet"
+    ],
+    "original_en": "Boosts its evasion by 50%\\nif it gets confused.",
+    "translation_vi": "Tăng 50% độ né đòn khi bị bối rối.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a15e5c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d018b4",
+    "pointer_hex": "0x9d018b4",
+    "abilities": [
+      "112 Slow Start"
+    ],
+    "original_en": "Its Attack and Speed are\\nhalved for 5 turns.",
+    "translation_vi": "Giảm nửa Tấn công và Tốc độ trong 5 lượt đầu.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a15e60"
+    ]
+  },
+  {
+    "offset_hex": "0x1d018e2",
+    "pointer_hex": "0x9d018e2",
+    "abilities": [
+      "113 Scrappy"
+    ],
+    "original_en": "Can hit Ghosts with Normal\\nand Fighting type moves.",
+    "translation_vi": "Chiêu Normal và Fighting đánh trúng hệ Ghost.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a15e64"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01917",
+    "pointer_hex": "0x9d01917",
+    "abilities": [
+      "114 Storm Drain"
+    ],
+    "original_en": "Draws in all Water-type\\nmoves to boost its Sp. Atk.",
+    "translation_vi": "Hút chiêu hệ Water để tăng Sp. Atk.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a15e68"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0194c",
+    "pointer_hex": "0x9d0194c",
+    "abilities": [
+      "115 Ice Body"
+    ],
+    "original_en": "Restores HP at the end of\\na turn, in hail.",
+    "translation_vi": "Hồi phục HP cuối mỗi lượt khi có mưa đá.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15e6c"
+    ]
+  },
+  {
+    "offset_hex": "0x380654",
+    "pointer_hex": "0x8380654",
+    "abilities": [
+      "116 Intrep.Sword"
+    ],
+    "original_en": "Boosts its Attack when\\nit enters the battle.",
+    "translation_vi": "Tăng Tấn công khi bước vào trận đấu.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a15e70"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01978",
+    "pointer_hex": "0x9d01978",
+    "abilities": [
+      "117 Snow Warning"
+    ],
+    "original_en": "Summons a hailstorm upon\\nentering the battle.",
+    "translation_vi": "Gọi bão tuyết khi bước vào trận đấu.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15e74"
+    ]
+  },
+  {
+    "offset_hex": "0x1d019a7",
+    "pointer_hex": "0x9d019a7",
+    "abilities": [
+      "118 Honey Gather"
+    ],
+    "original_en": "May gather Honey.",
+    "translation_vi": "Có thể thu thập được Honey.",
+    "byte_len": 17,
+    "pointer_at": [
+      "0x1a15e78"
+    ]
+  },
+  {
+    "offset_hex": "0x1d019ba",
+    "pointer_hex": "0x9d019ba",
+    "abilities": [
+      "119 Frisk"
+    ],
+    "original_en": "Upon entering, checks the\\nheld item of a foe.",
+    "translation_vi": "Phát hiện vật phẩm đối thủ đang giữ.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15e7c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d019e9",
+    "pointer_hex": "0x9d019e9",
+    "abilities": [
+      "120 Reckless"
+    ],
+    "original_en": "“Recoil” moves it uses\\nare empowered.",
+    "translation_vi": "Tăng sức mạnh cho các chiêu chịu phản lực.",
+    "byte_len": 37,
+    "pointer_at": [
+      "0x1a15e80"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01a10",
+    "pointer_hex": "0x9d01a10",
+    "abilities": [
+      "121 Multitype"
+    ],
+    "original_en": "This Pokémon's type changes\\nbased on held plate.",
+    "translation_vi": "Đổi hệ tùy theo phiến đá đang giữ.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a15e84"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01a42",
+    "pointer_hex": "0x9d01a42",
+    "abilities": [
+      "122 Flower Gift"
+    ],
+    "original_en": "Raises Atk and Sp. Def of\\nentire party in sunlight.",
+    "translation_vi": "Trời nắng tăng Tấn công và Sp. Def toàn đội.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a15e88"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01a77",
+    "pointer_hex": "0x9d01a77",
+    "abilities": [
+      "123 Bad Dreams"
+    ],
+    "original_en": "Damages foes that are\\nasleep.",
+    "translation_vi": "Gây sát thương lên đối thủ đang ngủ.",
+    "byte_len": 29,
+    "pointer_at": [
+      "0x1a15e8c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01a96",
+    "pointer_hex": "0x9d01a96",
+    "abilities": [
+      "124 Pickpocket"
+    ],
+    "original_en": "May steal the hold item of\\na foe that makes contact.",
+    "translation_vi": "Có thể cướp vật phẩm của kẻ chạm vào.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a15e90"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01acc",
+    "pointer_hex": "0x9d01acc",
+    "abilities": [
+      "125 Sheer Force"
+    ],
+    "original_en": "Removes added effects to\\nboost move damage by 30%.",
+    "translation_vi": "Bỏ hiệu ứng phụ để tăng 30% sát thương.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15e94"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01b00",
+    "pointer_hex": "0x9d01b00",
+    "abilities": [
+      "126 Contrary"
+    ],
+    "original_en": "Reverses any stat change\\naffecting this Pokémon.",
+    "translation_vi": "Đảo ngược mọi thay đổi chỉ số của bản thân.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a15e98"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01b32",
+    "pointer_hex": "0x9d01b32",
+    "abilities": [
+      "127 Unnerve"
+    ],
+    "original_en": "Makes opponents unable\\nto eat Berries.",
+    "translation_vi": "Khiến đối thủ không thể ăn quả Berry.",
+    "byte_len": 38,
+    "pointer_at": [
+      "0x1a15e9c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01b5a",
+    "pointer_hex": "0x9d01b5a",
+    "abilities": [
+      "128 Defiant"
+    ],
+    "original_en": "Boosts Attack sharply if\\none of its stats is lowered.",
+    "translation_vi": "Tăng mạnh Tấn công khi bị giảm chỉ số.",
+    "byte_len": 53,
+    "pointer_at": [
+      "0x1a15ea0"
+    ]
+  },
+  {
+    "offset_hex": "0x3802b9",
+    "pointer_hex": "0x83802b9",
+    "abilities": [
+      "129 Defeatist"
+    ],
+    "original_en": "Its Attack and Sp. Atk are\\nhalved if HP is 50% or less.",
+    "translation_vi": "Giảm nửa Tấn công và Sp. Atk khi còn dưới 50% HP.",
+    "byte_len": 55,
+    "pointer_at": [
+      "0x1a15ea4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01b91",
+    "pointer_hex": "0x9d01b91",
+    "abilities": [
+      "130 Cursed Body"
+    ],
+    "original_en": "30% chance to disable a\\nmove that damages it.",
+    "translation_vi": "Có 30% cơ hội phong ấn chiêu vừa đánh trúng.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15ea8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01bc0",
+    "pointer_hex": "0x9d01bc0",
+    "abilities": [
+      "131 Healer",
+      "387 Hospitality"
+    ],
+    "original_en": "30% chance of healing an\\nally's status problem.",
+    "translation_vi": "Có 30% cơ hội chữa trạng thái cho đồng đội.",
+    "byte_len": 47,
+    "pointer_at": [
+      "0x1a15eac",
+      "0x1a162ac"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01bf1",
+    "pointer_hex": "0x9d01bf1",
+    "abilities": [
+      "132 Friend Guard"
+    ],
+    "original_en": "Reduces damage done to\\nallies by 25%.",
+    "translation_vi": "Giảm 25% sát thương nhận vào cho đồng đội.",
+    "byte_len": 37,
+    "pointer_at": [
+      "0x1a15eb0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01c18",
+    "pointer_hex": "0x9d01c18",
+    "abilities": [
+      "133 Weak Armor"
+    ],
+    "original_en": "Contact moves taken lower\\nDef but sharply raise Speed.",
+    "translation_vi": "Bị đánh trúng giảm Def nhưng tăng mạnh Tốc độ.",
+    "byte_len": 54,
+    "pointer_at": [
+      "0x1a15eb4"
+    ]
+  },
+  {
+    "offset_hex": "0x3802f2",
+    "pointer_hex": "0x83802f2",
+    "abilities": [
+      "134 Heavy Metal"
+    ],
+    "original_en": "Doubles this Pokémon's\\nweight.",
+    "translation_vi": "Nhân đôi trọng lượng bản thân.",
+    "byte_len": 30,
+    "pointer_at": [
+      "0x1a15eb8"
+    ]
+  },
+  {
+    "offset_hex": "0x380312",
+    "pointer_hex": "0x8380312",
+    "abilities": [
+      "135 Light Metal"
+    ],
+    "original_en": "Halves this Pokémon's\\nweight.",
+    "translation_vi": "Giảm một nửa trọng lượng bản thân.",
+    "byte_len": 29,
+    "pointer_at": [
+      "0x1a15ebc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01c50",
+    "pointer_hex": "0x9d01c50",
+    "abilities": [
+      "136 Multiscale",
+      "231 ShadowShield"
+    ],
+    "original_en": "Halves the damage it takes\\nit if is full HP.",
+    "translation_vi": "Giảm một nửa sát thương nhận vào khi đầy HP.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a15ec0",
+      "0x1a1603c"
+    ]
+  },
+  {
+    "offset_hex": "0x380331",
+    "pointer_hex": "0x8380331",
+    "abilities": [
+      "137 Toxic Boost"
+    ],
+    "original_en": "Empowers its physical moves\\nif it is poisoned.",
+    "translation_vi": "Tăng mạnh chiêu vật lý khi bị nhiễm độc.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a15ec4"
+    ]
+  },
+  {
+    "offset_hex": "0x380361",
+    "pointer_hex": "0x8380361",
+    "abilities": [
+      "138 Flare Boost"
+    ],
+    "original_en": "Empowers its special moves\\nif it is burned.",
+    "translation_vi": "Tăng mạnh chiêu đặc biệt khi bị bỏng.",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a15ec8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01c7e",
+    "pointer_hex": "0x9d01c7e",
+    "abilities": [
+      "139 Harvest"
+    ],
+    "original_en": "May recover a Berry it used\\nat the end of each turn.",
+    "translation_vi": "Có thể phục hồi quả Berry đã dùng cuối lượt.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a15ecc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01cb4",
+    "pointer_hex": "0x9d01cb4",
+    "abilities": [
+      "140 Telepathy"
+    ],
+    "original_en": "Evades damage done by\\nallied moves.",
+    "translation_vi": "Miễn nhiễm sát thương từ chiêu của đồng đội.",
+    "byte_len": 35,
+    "pointer_at": [
+      "0x1a15ed0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01cd9",
+    "pointer_hex": "0x9d01cd9",
+    "abilities": [
+      "141 Moody"
+    ],
+    "original_en": "After each turn, raises a\\nstat and lowers another.",
+    "translation_vi": "Cuối mỗi lượt, tăng một chỉ số và giảm một chỉ số.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15ed4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01d0d",
+    "pointer_hex": "0x9d01d0d",
+    "abilities": [
+      "142 Overcoat"
+    ],
+    "original_en": "Protects this Pokémon from\\nspores/powder and weather.",
+    "translation_vi": "Chống đỡ bột bào tử và ảnh hưởng thời tiết.",
+    "byte_len": 53,
+    "pointer_at": [
+      "0x1a15ed8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d011ed",
+    "pointer_hex": "0x9d011ed",
+    "abilities": [
+      "143 Poison Touch",
+      "399 Toxic Chain"
+    ],
+    "original_en": "If its move makes contact,\\nthe foe may be poisoned.",
+    "translation_vi": "Đòn đánh tiếp xúc có thể làm đối thủ trúng độc.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a15edc",
+      "0x1a162dc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01d44",
+    "pointer_hex": "0x9d01d44",
+    "abilities": [
+      "144 Regenerator"
+    ],
+    "original_en": "This Pokémon recovers HP\\nwhen it is switched out.",
+    "translation_vi": "Hồi phục lại một phần HP khi đổi ra ngoài.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a15ee0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01d77",
+    "pointer_hex": "0x9d01d77",
+    "abilities": [
+      "145 Big Pecks"
+    ],
+    "original_en": "This Pokémon's Defense\\ncan't be lowered by others.",
+    "translation_vi": "Ngăn đối thủ làm giảm chỉ số Phòng thủ.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15ee4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01dab",
+    "pointer_hex": "0x9d01dab",
+    "abilities": [
+      "146 Sand Rush"
+    ],
+    "original_en": "Doubles this Pokémon's\\nSpeed in a sandstorm.",
+    "translation_vi": "Nhân đôi Tốc độ trong bão cát.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a15ee8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01dd9",
+    "pointer_hex": "0x9d01dd9",
+    "abilities": [
+      "147 Wonder Skin"
+    ],
+    "original_en": "Status moves used on it\\nhave 50% accuracy.",
+    "translation_vi": "Chiêu trạng thái nhắm vào chỉ có 50% chính xác.",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a15eec"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01e05",
+    "pointer_hex": "0x9d01e05",
+    "abilities": [
+      "148 Analytic"
+    ],
+    "original_en": "Its moves get a 30% boost\\nif it moves last.",
+    "translation_vi": "Tăng 30% uy lực chiêu nếu hành động sau cùng.",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a15ef0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01e32",
+    "pointer_hex": "0x9d01e32",
+    "abilities": [
+      "149 Illusion"
+    ],
+    "original_en": "Enters the battle disguised\\nas the last party Pokémon.",
+    "translation_vi": "Ngụy trang thành Pokémon cuối đội khi vào sân.",
+    "byte_len": 54,
+    "pointer_at": [
+      "0x1a15ef4"
+    ]
+  },
+  {
+    "offset_hex": "0x38038e",
+    "pointer_hex": "0x838038e",
+    "abilities": [
+      "150 Imposter"
+    ],
+    "original_en": "Transforms itself into\\nthe Pokémon it faces.",
+    "translation_vi": "Biến hình thành Pokémon đối diện khi vào sân.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a15ef8"
+    ]
+  },
+  {
+    "offset_hex": "0x3803bc",
+    "pointer_hex": "0x83803bc",
+    "abilities": [
+      "151 Infiltrator"
+    ],
+    "original_en": "When attacking, ignores\\nbarriers and substitute.",
+    "translation_vi": "Tấn công xuyên màn chắn và thế thân.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a15efc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01e6a",
+    "pointer_hex": "0x9d01e6a",
+    "abilities": [
+      "152 Mummy"
+    ],
+    "original_en": "If a foe makes contact,\\nits ability becomes Mummy.",
+    "translation_vi": "Kẻ chạm vào sẽ bị biến đặc tính thành Mummy.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15f00"
+    ]
+  },
+  {
+    "offset_hex": "0x1d012ec",
+    "pointer_hex": "0x9d012ec",
+    "abilities": [
+      "153 Motor Drive"
+    ],
+    "original_en": "Raises its Speed if targeted\\nby an Electric move.",
+    "translation_vi": "Tăng Tốc độ khi trúng chiêu hệ Electric.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a15f04"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01eca",
+    "pointer_hex": "0x9d01eca",
+    "abilities": [
+      "154 Justified"
+    ],
+    "original_en": "Its Attack is boosted if it\\nis hit by a Dark-type move.",
+    "translation_vi": "Tăng Tấn công khi trúng chiêu hệ Dark.",
+    "byte_len": 55,
+    "pointer_at": [
+      "0x1a15f08"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01f03",
+    "pointer_hex": "0x9d01f03",
+    "abilities": [
+      "155 Rattled"
+    ],
+    "original_en": "Boosts its Speed if hit by\\nBug, Ghost or Dark moves.",
+    "translation_vi": "Tăng Tốc độ khi trúng đòn Bug, Ghost hoặc Dark.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a15f0c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01f39",
+    "pointer_hex": "0x9d01f39",
+    "abilities": [
+      "156 Magic Bounce"
+    ],
+    "original_en": "Reflects status moves\\nback at the attacker.",
+    "translation_vi": "Phản lại các chiêu trạng thái về phía đối thủ.",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a15f10"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01f66",
+    "pointer_hex": "0x9d01f66",
+    "abilities": [
+      "157 Sap Sipper"
+    ],
+    "original_en": "If targeted by a Grass move,\\nits Attack is boosted.",
+    "translation_vi": "Hút chiêu hệ Grass để tăng Tấn công.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a15f14"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01f9b",
+    "pointer_hex": "0x9d01f9b",
+    "abilities": [
+      "158 Prankster"
+    ],
+    "original_en": "Its status moves have\\nincreased priority.",
+    "translation_vi": "Tăng độ ưu tiên cho các chiêu trạng thái.",
+    "byte_len": 41,
+    "pointer_at": [
+      "0x1a15f18"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01fc6",
+    "pointer_hex": "0x9d01fc6",
+    "abilities": [
+      "159 Sand Force"
+    ],
+    "original_en": "Boosts its Ground, Rock and\\nSteel moves in a sandstorm.",
+    "translation_vi": "Bão cát tăng uy lực chiêu Ground, Rock, Steel.",
+    "byte_len": 55,
+    "pointer_at": [
+      "0x1a15f1c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01fff",
+    "pointer_hex": "0x9d01fff",
+    "abilities": [
+      "161 Zen Mode"
+    ],
+    "original_en": "Changes the Pokémon's form\\nat 50% or less HP.",
+    "translation_vi": "Chuyển dạng khi HP còn từ 50% trở xuống.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15f24"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01222",
+    "pointer_hex": "0x9d01222",
+    "abilities": [
+      "162 Victory Star"
+    ],
+    "original_en": "In battle, grants 10% bonus\\naccuracy to itself and ally.",
+    "translation_vi": "Tăng 10% độ chính xác cho bản thân và bạn đấu.",
+    "byte_len": 56,
+    "pointer_at": [
+      "0x1a15f28"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0131f",
+    "pointer_hex": "0x9d0131f",
+    "abilities": [
+      "163 Rivalry"
+    ],
+    "original_en": "Raises or lowers damage\\nbased on the foe's gender.",
+    "translation_vi": "Tăng hoặc giảm sát thương tùy giới tính địch.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15f2c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02976",
+    "pointer_hex": "0x9d02976",
+    "abilities": [
+      "164 Elect. Surge"
+    ],
+    "original_en": "Summons Electric Terrain\\nupon entering the battle.",
+    "translation_vi": "Tạo Electric Terrain khi bước vào trận đấu.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15f30"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0202e",
+    "pointer_hex": "0x9d0202e",
+    "abilities": [
+      "165 Aroma Veil"
+    ],
+    "original_en": "Protects allies from being\\nlimited in move choices.",
+    "translation_vi": "Bảo vệ đồng đội khỏi bị giới hạn dùng chiêu.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a15f34"
+    ]
+  },
+  {
+    "offset_hex": "0x3803ee",
+    "pointer_hex": "0x83803ee",
+    "abilities": [
+      "166 Flower Veil"
+    ],
+    "original_en": "Prevents Grass-type allies\\nfrom having stats lowered.",
+    "translation_vi": "Ngăn đồng đội hệ Grass bị giảm chỉ số.",
+    "byte_len": 53,
+    "pointer_at": [
+      "0x1a15f38"
+    ]
+  },
+  {
+    "offset_hex": "0x380425",
+    "pointer_hex": "0x8380425",
+    "abilities": [
+      "167 Cheek Pouch"
+    ],
+    "original_en": "HP is restored as well when\\nthis Pokémon eats a Berry.",
+    "translation_vi": "Hồi thêm HP khi ăn một quả Berry.",
+    "byte_len": 54,
+    "pointer_at": [
+      "0x1a15f3c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01353",
+    "pointer_hex": "0x9d01353",
+    "abilities": [
+      "168 Steadfast"
+    ],
+    "original_en": "Its Speed is boosted every\\ntime it flinches.",
+    "translation_vi": "Tăng Tốc độ mỗi khi bị nao núng.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a15f40"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0209d",
+    "pointer_hex": "0x9d0209d",
+    "abilities": [
+      "169 Fur Coat"
+    ],
+    "original_en": "Halves the physical damage\\nthis Pokémon takes.",
+    "translation_vi": "Giảm một nửa sát thương vật lý nhận vào.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a15f44"
+    ]
+  },
+  {
+    "offset_hex": "0x1d020cd",
+    "pointer_hex": "0x9d020cd",
+    "abilities": [
+      "170 Magician"
+    ],
+    "original_en": "Steals the held item of a\\nfoe it deals damage to.",
+    "translation_vi": "Cướp vật phẩm của kẻ vừa bị gây sát thương.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a15f48"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02100",
+    "pointer_hex": "0x9d02100",
+    "abilities": [
+      "171 Bulletproof"
+    ],
+    "original_en": "Protects this Pokémon from\\nball and bomb moves.",
+    "translation_vi": "Chặn các chiêu dạng cầu đạn và bom nổ.",
+    "byte_len": 47,
+    "pointer_at": [
+      "0x1a15f4c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02131",
+    "pointer_hex": "0x9d02131",
+    "abilities": [
+      "172 Competitive"
+    ],
+    "original_en": "Its Sp. Atk is boosted when\\nany of its stats is lowered.",
+    "translation_vi": "Tăng Sp. Atk khi có chỉ số bị đối thủ giảm.",
+    "byte_len": 56,
+    "pointer_at": [
+      "0x1a15f50"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0216b",
+    "pointer_hex": "0x9d0216b",
+    "abilities": [
+      "173 Strong Jaw"
+    ],
+    "original_en": "This Pokémon's bite\\nmoves are boosted.",
+    "translation_vi": "Tăng sức mạnh cho các chiêu thức cắn.",
+    "byte_len": 38,
+    "pointer_at": [
+      "0x1a15f54"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02193",
+    "pointer_hex": "0x9d02193",
+    "abilities": [
+      "174 Refrigerate"
+    ],
+    "original_en": "Its Normal moves become Ice\\ntype and are boosted a bit.",
+    "translation_vi": "Đổi chiêu Normal sang Ice và tăng nhẹ uy lực.",
+    "byte_len": 55,
+    "pointer_at": [
+      "0x1a15f58"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0125c",
+    "pointer_hex": "0x9d0125c",
+    "abilities": [
+      "175 Sweet Veil"
+    ],
+    "original_en": "Protects itself and its ally\\nfrom falling asleep.",
+    "translation_vi": "Bảo vệ bản thân và đồng đội khỏi buồn ngủ.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a15f5c"
+    ]
+  },
+  {
+    "offset_hex": "0x38045d",
+    "pointer_hex": "0x838045d",
+    "abilities": [
+      "176 StanceChange"
+    ],
+    "original_en": "Switches forme when it\\nuses a damaging move.",
+    "translation_vi": "Đổi hình thái khi dùng chiêu gây sát thương.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a15f60"
+    ]
+  },
+  {
+    "offset_hex": "0x38048b",
+    "pointer_hex": "0x838048b",
+    "abilities": [
+      "177 Gale Wings"
+    ],
+    "original_en": "While at full HP, its Flying-\\ntype moves have priority.",
+    "translation_vi": "Khi đầy HP, chiêu hệ Flying được ưu tiên trước.",
+    "byte_len": 55,
+    "pointer_at": [
+      "0x1a15f64"
+    ]
+  },
+  {
+    "offset_hex": "0x1d021cc",
+    "pointer_hex": "0x9d021cc",
+    "abilities": [
+      "178 MegaLauncher"
+    ],
+    "original_en": "Powers up this Pokémon's\\npulse moves.",
+    "translation_vi": "Tăng sức mạnh cho các chiêu thức dạng sóng.",
+    "byte_len": 37,
+    "pointer_at": [
+      "0x1a15f68"
+    ]
+  },
+  {
+    "offset_hex": "0x3804c4",
+    "pointer_hex": "0x83804c4",
+    "abilities": [
+      "179 Grass Pelt"
+    ],
+    "original_en": "This Pokémon's Defense is\\nboosted in Grassy Terrain.",
+    "translation_vi": "Tăng Phòng thủ khi đứng trong Grassy Terrain.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a15f6c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d021f3",
+    "pointer_hex": "0x9d021f3",
+    "abilities": [
+      "180 Symbiosis"
+    ],
+    "original_en": "Passes held item to an ally\\nthat has used its item.",
+    "translation_vi": "Chuyển vật phẩm cho đồng đội vừa dùng hết đồ.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a15f70"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02228",
+    "pointer_hex": "0x9d02228",
+    "abilities": [
+      "181 Tough Claws"
+    ],
+    "original_en": "Powers up its moves that\\nmake direct contact.",
+    "translation_vi": "Tăng uy lực cho các chiêu thức chạm trực tiếp.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15f74"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02257",
+    "pointer_hex": "0x9d02257",
+    "abilities": [
+      "182 Pixilate"
+    ],
+    "original_en": "Its Normal moves become\\nFairy and are boosted a bit.",
+    "translation_vi": "Đổi chiêu Normal sang Fairy và tăng nhẹ uy lực.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a15f78"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01381",
+    "pointer_hex": "0x9d01381",
+    "abilities": [
+      "183 Snow Cloak"
+    ],
+    "original_en": "This Pokémon has boosted\\nevasion in a hailstorm.",
+    "translation_vi": "Tăng độ né đòn khi có bão tuyết.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a15f7c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d022c5",
+    "pointer_hex": "0x9d022c5",
+    "abilities": [
+      "184 Aerilate"
+    ],
+    "original_en": "Its Normal moves become\\nFlying and are boosted a bit.",
+    "translation_vi": "Đổi chiêu Normal sang Flying và tăng nhẹ uy lực.",
+    "byte_len": 53,
+    "pointer_at": [
+      "0x1a15f80"
+    ]
+  },
+  {
+    "offset_hex": "0x1d022fc",
+    "pointer_hex": "0x9d022fc",
+    "abilities": [
+      "185 ParentalBond"
+    ],
+    "original_en": "Its moves strike twice.\\nSecond hit deals 25%.",
+    "translation_vi": "Tấn công 2 lần; đòn thứ hai gây 25% sát thương.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15f84"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0232b",
+    "pointer_hex": "0x9d0232b",
+    "abilities": [
+      "186 Dark Aura"
+    ],
+    "original_en": "Boosts the Dark-type moves\\nof all Pokémon by 33%.",
+    "translation_vi": "Tăng 33% uy lực chiêu hệ Dark của mọi Pokémon.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a15f88"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0235e",
+    "pointer_hex": "0x9d0235e",
+    "abilities": [
+      "187 Fairy Aura"
+    ],
+    "original_en": "Boosts the Fairy-type moves\\nof all Pokémon by 33%.",
+    "translation_vi": "Tăng 33% uy lực chiêu Fairy của mọi Pokémon.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15f8c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02392",
+    "pointer_hex": "0x9d02392",
+    "abilities": [
+      "188 Aura Break"
+    ],
+    "original_en": "Reverses the effects of\\nthe “Aura” abilities.",
+    "translation_vi": "Đảo ngược hiệu ứng của các đặc tính Aura.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15f90"
+    ]
+  },
+  {
+    "offset_hex": "0x1d023c1",
+    "pointer_hex": "0x9d023c1",
+    "abilities": [
+      "189 Primord. Sea"
+    ],
+    "original_en": "Summons heavy rain that\\nnullifies Fire-type moves.",
+    "translation_vi": "Gọi mưa bão làm vô hiệu hóa chiêu hệ Fire.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15f94"
+    ]
+  },
+  {
+    "offset_hex": "0x1d023f5",
+    "pointer_hex": "0x9d023f5",
+    "abilities": [
+      "190 DesolateLand"
+    ],
+    "original_en": "Summons harsh sun that\\nnullifies Water-type moves.",
+    "translation_vi": "Gọi nắng gắt làm vô hiệu hóa chiêu hệ Water.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15f98"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02429",
+    "pointer_hex": "0x9d02429",
+    "abilities": [
+      "191 Delta Stream"
+    ],
+    "original_en": "Changes weather to nullify\\nFlying-type weaknesses.",
+    "translation_vi": "Đổi thời tiết để xóa bỏ điểm yếu hệ Flying.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15f9c"
+    ]
+  },
+  {
+    "offset_hex": "0x3804fa",
+    "pointer_hex": "0x83804fa",
+    "abilities": [
+      "192 Stamina"
+    ],
+    "original_en": "When this Pokémon is hit,\\nits Defense rises.",
+    "translation_vi": "Tăng Phòng thủ mỗi khi bị trúng đòn.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a15fa0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d013b3",
+    "pointer_hex": "0x9d013b3",
+    "abilities": [
+      "193 Gluttony"
+    ],
+    "original_en": "Consumes “low HP” Berries\\nat half HP instead.",
+    "translation_vi": "Ăn Berry sớm hơn khi HP còn dưới 50%.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15fa4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02f4c",
+    "pointer_hex": "0x9d02f4c",
+    "abilities": [
+      "194 Dragon's Maw"
+    ],
+    "original_en": "This Pokémon's Dragon\\nmoves are boosted by 50%.",
+    "translation_vi": "Tăng 50% uy lực chiêu thức hệ Dragon.",
+    "byte_len": 47,
+    "pointer_at": [
+      "0x1a15fa8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0248d",
+    "pointer_hex": "0x9d0248d",
+    "abilities": [
+      "195 W.Compaction"
+    ],
+    "original_en": "Sharply boosts its Defense\\nif hit by a Water-type move.",
+    "translation_vi": "Tăng mạnh Phòng thủ khi trúng chiêu hệ Water.",
+    "byte_len": 55,
+    "pointer_at": [
+      "0x1a15fac"
+    ]
+  },
+  {
+    "offset_hex": "0x1d024c6",
+    "pointer_hex": "0x9d024c6",
+    "abilities": [
+      "196 Merciless"
+    ],
+    "original_en": "Its moves will critical hit\\nif the target is poisoned.",
+    "translation_vi": "Luôn đánh chí mạng nếu mục tiêu bị trúng độc.",
+    "byte_len": 54,
+    "pointer_at": [
+      "0x1a15fb0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d024fe",
+    "pointer_hex": "0x9d024fe",
+    "abilities": [
+      "197 Shields Down"
+    ],
+    "original_en": "Changes form it its HP\\nis 50% or less.",
+    "translation_vi": "Thay đổi hình dạng khi HP còn dưới 50%.",
+    "byte_len": 38,
+    "pointer_at": [
+      "0x1a15fb4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02526",
+    "pointer_hex": "0x9d02526",
+    "abilities": [
+      "198 Stakeout"
+    ],
+    "original_en": "If the target was switched\\nin, the move power doubles.",
+    "translation_vi": "Gấp đôi sát thương nếu đối thủ vừa đổi ra sân.",
+    "byte_len": 54,
+    "pointer_at": [
+      "0x1a15fb8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0255e",
+    "pointer_hex": "0x9d0255e",
+    "abilities": [
+      "199 Water Bubble"
+    ],
+    "original_en": "Can't be burned and halves\\nFire-type damage taken.",
+    "translation_vi": "Không bị bỏng và giảm nửa sát thương hệ Fire.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a15fbc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02592",
+    "pointer_hex": "0x9d02592",
+    "abilities": [
+      "200 Steelworker"
+    ],
+    "original_en": "This Pokémon's Steel-type\\nmoves are boosted by 50%.",
+    "translation_vi": "Tăng 50% uy lực cho chiêu thức hệ Steel.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a15fc0"
+    ]
+  },
+  {
+    "offset_hex": "0x380528",
+    "pointer_hex": "0x8380528",
+    "abilities": [
+      "201 Berserk"
+    ],
+    "original_en": "If it falls below half HP,\\nits Sp. Attack is boosted.",
+    "translation_vi": "Tăng Sp. Atk khi HP tụt xuống dưới một nửa.",
+    "byte_len": 53,
+    "pointer_at": [
+      "0x1a15fc4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d025c7",
+    "pointer_hex": "0x9d025c7",
+    "abilities": [
+      "202 Slush Rush"
+    ],
+    "original_en": "Doubles this Pokémon's\\nSpeed during a hailstorm.",
+    "translation_vi": "Nhân đôi Tốc độ khi có bão tuyết.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a15fc8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d025f9",
+    "pointer_hex": "0x9d025f9",
+    "abilities": [
+      "203 Long Reach"
+    ],
+    "original_en": "This Pokémon's moves\\nnever make contact.",
+    "translation_vi": "Các chiêu thức không bao giờ chạm trực tiếp.",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a15fcc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02623",
+    "pointer_hex": "0x9d02623",
+    "abilities": [
+      "204 Liquid Voice"
+    ],
+    "original_en": "This Pokémon's sound moves\\nbecome Water-type moves.",
+    "translation_vi": "Mọi chiêu thức âm thanh trở thành hệ Water.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a15fd0"
+    ]
+  },
+  {
+    "offset_hex": "0x38055f",
+    "pointer_hex": "0x838055f",
+    "abilities": [
+      "205 Triage"
+    ],
+    "original_en": "This Pokémon's healing\\nmoves have priority.",
+    "translation_vi": "Các chiêu thức hồi máu được ưu tiên đi trước.",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a15fd4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02658",
+    "pointer_hex": "0x9d02658",
+    "abilities": [
+      "206 Galvanize"
+    ],
+    "original_en": "Its Normal moves become\\nElectric & are boosted a bit.",
+    "translation_vi": "Đổi chiêu Normal sang Electric, tăng nhẹ uy lực.",
+    "byte_len": 53,
+    "pointer_at": [
+      "0x1a15fd8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0268f",
+    "pointer_hex": "0x9d0268f",
+    "abilities": [
+      "207 Surge Surfer"
+    ],
+    "original_en": "Its Speed is doubled\\nin Electric Terrain.",
+    "translation_vi": "Nhân đôi Tốc độ trong Electric Terrain.",
+    "byte_len": 41,
+    "pointer_at": [
+      "0x1a15fdc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d026ba",
+    "pointer_hex": "0x9d026ba",
+    "abilities": [
+      "208 Schooling"
+    ],
+    "original_en": "Form changes if level 20\\nor higher, and above 25% HP.",
+    "translation_vi": "Đổi dạng nếu cấp từ 20 và còn trên 25% HP.",
+    "byte_len": 53,
+    "pointer_at": [
+      "0x1a15fe0"
+    ]
+  },
+  {
+    "offset_hex": "0x38058c",
+    "pointer_hex": "0x838058c",
+    "abilities": [
+      "209 Disguise"
+    ],
+    "original_en": "Once per battle, protects\\nthis Pokémon from an attack.",
+    "translation_vi": "Đỡ hoàn toàn 1 đòn đánh mỗi trận đấu.",
+    "byte_len": 54,
+    "pointer_at": [
+      "0x1a15fe4"
+    ]
+  },
+  {
+    "offset_hex": "0x3805c4",
+    "pointer_hex": "0x83805c4",
+    "abilities": [
+      "210 Battle Bond"
+    ],
+    "original_en": "Changes form upon\\nknocking out a foe.",
+    "translation_vi": "Biến đổi hình thái khi hạ gục một đối thủ.",
+    "byte_len": 37,
+    "pointer_at": [
+      "0x1a15fe8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d026f1",
+    "pointer_hex": "0x9d026f1",
+    "abilities": [
+      "211 P. Construct"
+    ],
+    "original_en": "Changes to complete forme\\nwhen HP falls below half.",
+    "translation_vi": "Chuyển sang dạng hoàn chỉnh khi dưới nửa HP.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a15fec"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02726",
+    "pointer_hex": "0x9d02726",
+    "abilities": [
+      "212 Corrosion"
+    ],
+    "original_en": "Can inflict poison on\\nPoison and Steel types.",
+    "translation_vi": "Có thể đầu độc cả hệ Poison và Steel.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a15ff0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02755",
+    "pointer_hex": "0x9d02755",
+    "abilities": [
+      "213 Comatose"
+    ],
+    "original_en": "Acts as if it is always in\\na sleeping state.",
+    "translation_vi": "Luôn trong trạng thái như đang ngủ say.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a15ff4"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02783",
+    "pointer_hex": "0x9d02783",
+    "abilities": [
+      "214 Que. Majesty",
+      "219 Dazzling"
+    ],
+    "original_en": "Prevents foes from using\\npriority moves.",
+    "translation_vi": "Ngăn chặn đối thủ tung các chiêu ưu tiên.",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a15ff8",
+      "0x1a1600c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d027ad",
+    "pointer_hex": "0x9d027ad",
+    "abilities": [
+      "215 Innards Out"
+    ],
+    "original_en": "Deals damage to a foe that\\nfaints it, equal to HP lost.",
+    "translation_vi": "Gây sát thương bằng lượng HP mất cho kẻ hạ gục.",
+    "byte_len": 55,
+    "pointer_at": [
+      "0x1a15ffc"
+    ]
+  },
+  {
+    "offset_hex": "0x1d027e6",
+    "pointer_hex": "0x9d027e6",
+    "abilities": [
+      "216 Dancer"
+    ],
+    "original_en": "Copies and uses any dance\\nmove before its own move.",
+    "translation_vi": "Bắt chước điệu nhảy của đối thủ trước khi đánh.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a16000"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0281b",
+    "pointer_hex": "0x9d0281b",
+    "abilities": [
+      "217 Battery"
+    ],
+    "original_en": "Boosts any special move\\nused by its ally by 30%.",
+    "translation_vi": "Tăng 30% uy lực chiêu đặc biệt của đồng đội.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a16004"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0284d",
+    "pointer_hex": "0x9d0284d",
+    "abilities": [
+      "218 Fluffy"
+    ],
+    "original_en": "Takes 50% physical damage\\nbut double Fire damage.",
+    "translation_vi": "Giảm nửa đòn vật lý nhưng nhận gấp đôi đòn Fire.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a16008"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02880",
+    "pointer_hex": "0x9d02880",
+    "abilities": [
+      "220 Soul-Heart"
+    ],
+    "original_en": "Its Sp. Atk rises every time\\nanother Pokémon faints.",
+    "translation_vi": "Tăng Sp. Atk mỗi khi có Pokémon bị hạ gục.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a16010"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02f17",
+    "pointer_hex": "0x9d02f17",
+    "abilities": [
+      "221 Cur.Medicine"
+    ],
+    "original_en": "Upon entering, resets all\\nstat changes of its ally.",
+    "translation_vi": "Xóa mọi thay đổi chỉ số của đồng đội khi vào.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a16014"
+    ]
+  },
+  {
+    "offset_hex": "0x1d013e2",
+    "pointer_hex": "0x9d013e2",
+    "abilities": [
+      "222 Anger Point"
+    ],
+    "original_en": "If it takes a critical hit,\\nits Attack is maximized.",
+    "translation_vi": "Tăng tối đa Tấn công khi dính đòn chí mạng.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a16018"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02fe5",
+    "pointer_hex": "0x9d02fe5",
+    "abilities": [
+      "223 As One"
+    ],
+    "original_en": "Combines Unnerve and the\\n“Neigh”'s effects.",
+    "translation_vi": "Kết hợp hiệu ứng Unnerve và đặc tính Neigh.",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a1601c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02910",
+    "pointer_hex": "0x9d02910",
+    "abilities": [
+      "224 Beast Boost"
+    ],
+    "original_en": "Highest stat is boosted\\nevery time it KO's a foe.",
+    "translation_vi": "Tăng chỉ số cao nhất mỗi khi hạ gục đối thủ.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a16020"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02943",
+    "pointer_hex": "0x9d02943",
+    "abilities": [
+      "225 RKS System"
+    ],
+    "original_en": "This Pokémon's type changes\\nbased on held memory.",
+    "translation_vi": "Đổi hệ tùy theo bộ nhớ Memory đang giữ.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a16024"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02e8b",
+    "pointer_hex": "0x9d02e8b",
+    "abilities": [
+      "226 Pastel Veil"
+    ],
+    "original_en": "While present, allies\\ncan't be poisoned.",
+    "translation_vi": "Bảo vệ đồng đội không bị trúng độc khi ra sân.",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a16028"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02eb5",
+    "pointer_hex": "0x9d02eb5",
+    "abilities": [
+      "227 HungerSwitch"
+    ],
+    "original_en": "Changes form at the end\\nof each turn.",
+    "translation_vi": "Đổi hình thái vào cuối mỗi lượt thi đấu.",
+    "byte_len": 37,
+    "pointer_at": [
+      "0x1a1602c"
+    ]
+  },
+  {
+    "offset_hex": "0x380682",
+    "pointer_hex": "0x8380682",
+    "abilities": [
+      "228 Quick Draw"
+    ],
+    "original_en": "When attacking, there's a\\n30% chance it moves first.",
+    "translation_vi": "Có 30% cơ hội được ra tay trước khi tấn công.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a16030"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02edc",
+    "pointer_hex": "0x9d02edc",
+    "abilities": [
+      "229 Unseen Fist"
+    ],
+    "original_en": "Ignores “Protect” if it hits\\nthe foe with a contact move.",
+    "translation_vi": "Đòn tiếp xúc xuyên qua chiêu bảo vệ đối thủ.",
+    "byte_len": 57,
+    "pointer_at": [
+      "0x1a16034"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02b0e",
+    "pointer_hex": "0x9d02b0e",
+    "abilities": [
+      "230 F Metal Body"
+    ],
+    "original_en": "Its stats can't be lowered\\nby other moves or abilities.",
+    "translation_vi": "Không bị giảm chỉ số bởi chiêu hay đặc tính khác.",
+    "byte_len": 55,
+    "pointer_at": [
+      "0x1a16038"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02a42",
+    "pointer_hex": "0x9d02a42",
+    "abilities": [
+      "232 Prism Armor"
+    ],
+    "original_en": "Super effective moves it\\ntakes deal 25% less damage.",
+    "translation_vi": "Giảm 25% sát thương từ đòn siêu hiệu quả.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a16040"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02a78",
+    "pointer_hex": "0x9d02a78",
+    "abilities": [
+      "233 Neuroforce"
+    ],
+    "original_en": "Supereffective moves it uses\\nreceive a 25% boost.",
+    "translation_vi": "Tăng 25% sát thương khi đánh siêu hiệu quả.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a16044"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02aab",
+    "pointer_hex": "0x9d02aab",
+    "abilities": [
+      "234 Gor. Tactics"
+    ],
+    "original_en": "Boosts its Attack by 50%\\nbut allows only one move.",
+    "translation_vi": "Tăng 50% Tấn công nhưng chỉ được dùng 1 chiêu.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a16048"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02e55",
+    "pointer_hex": "0x9d02e55",
+    "abilities": [
+      "235 Neutral. Gas"
+    ],
+    "original_en": "Nullifies all other abilities\\nwhile it is in battle.",
+    "translation_vi": "Vô hiệu hóa mọi đặc tính khác khi có mặt.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a1604c"
+    ]
+  },
+  {
+    "offset_hex": "0x3806b8",
+    "pointer_hex": "0x83806b8",
+    "abilities": [
+      "236 Transistor"
+    ],
+    "original_en": "This Pokémon's Electric\\nmoves are boosted by 50%.",
+    "translation_vi": "Tăng 50% uy lực cho các chiêu hệ Electric.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a16050"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02b4c",
+    "pointer_hex": "0x9d02b4c",
+    "abilities": [
+      "237 Ball Fetch"
+    ],
+    "original_en": "If it has no held item, may\\nrecover a failed Poké Ball.",
+    "translation_vi": "Nhặt lại quả Poké Ball bị ném hụt đầu tiên.",
+    "byte_len": 55,
+    "pointer_at": [
+      "0x1a16054"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02b85",
+    "pointer_hex": "0x9d02b85",
+    "abilities": [
+      "238 Cotton Down"
+    ],
+    "original_en": "Lowers all other Pokémon's\\nSpeed if this takes damage.",
+    "translation_vi": "Bị trúng đòn làm giảm Tốc độ của mọi Pokémon khác.",
+    "byte_len": 54,
+    "pointer_at": [
+      "0x1a16058"
+    ]
+  },
+  {
+    "offset_hex": "0x1d01418",
+    "pointer_hex": "0x9d01418",
+    "abilities": [
+      "239 Unburden"
+    ],
+    "original_en": "Doubles Speed upon using\\nor losing its held item.",
+    "translation_vi": "Nhân đôi Tốc độ khi dùng hết hoặc mất đồ.",
+    "byte_len": 49,
+    "pointer_at": [
+      "0x1a1605c"
+    ]
+  },
+  {
+    "offset_hex": "0x3805eb",
+    "pointer_hex": "0x83805eb",
+    "abilities": [
+      "240 Mirror Armor"
+    ],
+    "original_en": "Reflects stat-lowering\\neffects back at the foe.",
+    "translation_vi": "Phản lại mọi hiệu ứng giảm chỉ số về đối thủ.",
+    "byte_len": 47,
+    "pointer_at": [
+      "0x1a16060"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02bee",
+    "pointer_hex": "0x9d02bee",
+    "abilities": [
+      "241 Gulp Missile"
+    ],
+    "original_en": "Finds prey when it\\nuses Surf or Dive.",
+    "translation_vi": "Bắt lấy con mồi mỗi khi dùng Surf hoặc Dive.",
+    "byte_len": 37,
+    "pointer_at": [
+      "0x1a16064"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02faf",
+    "pointer_hex": "0x9d02faf",
+    "abilities": [
+      "242 Grim Neigh"
+    ],
+    "original_en": "Getting a takedown boosts\\nthis Pokémon's Sp. Attack.",
+    "translation_vi": "Tăng Sp. Atk mỗi khi hạ gục một đối thủ.",
+    "byte_len": 52,
+    "pointer_at": [
+      "0x1a16068"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02c15",
+    "pointer_hex": "0x9d02c15",
+    "abilities": [
+      "243 Steam Engine"
+    ],
+    "original_en": "If hit by Fire or Water,\\nits Speed is maximized.",
+    "translation_vi": "Tăng tối đa Tốc độ khi trúng đòn Fire hoặc Water.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a1606c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02c47",
+    "pointer_hex": "0x9d02c47",
+    "abilities": [
+      "244 Punk Rock"
+    ],
+    "original_en": "Its sound moves are boosted\\nand takes 50% sound damage.",
+    "translation_vi": "Tăng uy lực và giảm nửa sát thương từ âm thanh.",
+    "byte_len": 55,
+    "pointer_at": [
+      "0x1a16070"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02c80",
+    "pointer_hex": "0x9d02c80",
+    "abilities": [
+      "245 Sand Spit"
+    ],
+    "original_en": "Summons a sandstorm if it\\nis hit by an attack.",
+    "translation_vi": "Tạo bão cát khi bị trúng phải một đòn đánh.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a16074"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02cb0",
+    "pointer_hex": "0x9d02cb0",
+    "abilities": [
+      "246 Ice Scales"
+    ],
+    "original_en": "Halves all special damage\\nthis Pokémon takes.",
+    "translation_vi": "Giảm một nửa mọi sát thương đặc biệt nhận vào.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a16078"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02cdf",
+    "pointer_hex": "0x9d02cdf",
+    "abilities": [
+      "247 Ripen"
+    ],
+    "original_en": "Ripens held Berries and\\ndoubles their effects.",
+    "translation_vi": "Làm chín Berry đang giữ và nhân đôi hiệu quả.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a1607c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02d0f",
+    "pointer_hex": "0x9d02d0f",
+    "abilities": [
+      "248 Ice Face"
+    ],
+    "original_en": "Protects 1 physical hit.\\nHail restores protection.",
+    "translation_vi": "Đỡ 1 đòn vật lý; hồi lại khi có mưa đá.",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a16080"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02d43",
+    "pointer_hex": "0x9d02d43",
+    "abilities": [
+      "249 Power Spot"
+    ],
+    "original_en": "Moves its ally uses have\\n30% increased power.",
+    "translation_vi": "Tăng 30% sức mạnh chiêu thức cho đồng đội.",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a16084"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02d72",
+    "pointer_hex": "0x9d02d72",
+    "abilities": [
+      "250 Mimicry"
+    ],
+    "original_en": "Changes type based on\\nactive Terrain.",
+    "translation_vi": "Đổi hệ tùy theo địa hình Terrain đang có.",
+    "byte_len": 37,
+    "pointer_at": [
+      "0x1a16088"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02d99",
+    "pointer_hex": "0x9d02d99",
+    "abilities": [
+      "251 Scr. Cleaner"
+    ],
+    "original_en": "Removes all screens and\\nbarriers when it enters.",
+    "translation_vi": "Xóa bỏ mọi màn chắn bảo vệ khi ra sân.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a1608c"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02dcb",
+    "pointer_hex": "0x9d02dcb",
+    "abilities": [
+      "252 SteelySpirit"
+    ],
+    "original_en": "Boosts the Steel-type\\nmoves of itself and its ally.",
+    "translation_vi": "Tăng sức mạnh chiêu hệ Steel cho cả đội.",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a16090"
+    ]
+  },
+  {
+    "offset_hex": "0x38061c",
+    "pointer_hex": "0x838061c",
+    "abilities": [
+      "253 Perish Body"
+    ],
+    "original_en": "If a foe makes contact, both\\nPokémon faint in 3 turns.",
+    "translation_vi": "Đối thủ chạm vào khiến cả hai gục sau 3 lượt.",
+    "byte_len": 54,
+    "pointer_at": [
+      "0x1a16094"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02e00",
+    "pointer_hex": "0x9d02e00",
+    "abilities": [
+      "254 Wander. Soul"
+    ],
+    "original_en": "Swaps abilities with a foe\\nthat makes contact.",
+    "translation_vi": "Hoán đổi đặc tính với kẻ chạm vào mình.",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a16098"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35609",
+    "pointer_hex": "0x9e35609",
+    "abilities": [
+      "257 Lingr. Aroma"
+    ],
+    "original_en": "Contact changes the\\nattacker's Ability.",
+    "translation_vi": "",
+    "byte_len": 39,
+    "pointer_at": [
+      "0x1a160a4"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35631",
+    "pointer_hex": "0x9e35631",
+    "abilities": [
+      "258 Seed Sower"
+    ],
+    "original_en": "Turns the ground into\\nGrassy Terrain when hit.",
+    "translation_vi": "",
+    "byte_len": 46,
+    "pointer_at": [
+      "0x1a160a8"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35660",
+    "pointer_hex": "0x9e35660",
+    "abilities": [
+      "259 ThermalExch."
+    ],
+    "original_en": "Fire moves up Attack.\\nCannot be burned.",
+    "translation_vi": "",
+    "byte_len": 39,
+    "pointer_at": [
+      "0x1a160ac"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35688",
+    "pointer_hex": "0x9e35688",
+    "abilities": [
+      "261 Anger Shell"
+    ],
+    "original_en": "Below half HP: offense up,\\ndefense down.",
+    "translation_vi": "",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a160b4"
+    ]
+  },
+  {
+    "offset_hex": "0x1e356b1",
+    "pointer_hex": "0x9e356b1",
+    "abilities": [
+      "262 PurifyngSalt"
+    ],
+    "original_en": "Prevents status. Halves\\nGhost-type damage.",
+    "translation_vi": "",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a160b8"
+    ]
+  },
+  {
+    "offset_hex": "0x1e356dc",
+    "pointer_hex": "0x9e356dc",
+    "abilities": [
+      "263 WellBakedBdy"
+    ],
+    "original_en": "Fire moves boost its\\nDefense instead.",
+    "translation_vi": "",
+    "byte_len": 37,
+    "pointer_at": [
+      "0x1a160bc"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35702",
+    "pointer_hex": "0x9e35702",
+    "abilities": [
+      "264 Wind Rider"
+    ],
+    "original_en": "Wind moves and Tailwind\\nboost its Attack.",
+    "translation_vi": "",
+    "byte_len": 41,
+    "pointer_at": [
+      "0x1a160c0"
+    ]
+  },
+  {
+    "offset_hex": "0x1e3572c",
+    "pointer_hex": "0x9e3572c",
+    "abilities": [
+      "265 Guard Dog"
+    ],
+    "original_en": "Intimidate ups its Attack.\\nCannot be forced out.",
+    "translation_vi": "",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a160c4"
+    ]
+  },
+  {
+    "offset_hex": "0x1e3575d",
+    "pointer_hex": "0x9e3575d",
+    "abilities": [
+      "266 RockyPayload"
+    ],
+    "original_en": "Powers up Rock-type\\nmoves.",
+    "translation_vi": "",
+    "byte_len": 26,
+    "pointer_at": [
+      "0x1a160c8"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35778",
+    "pointer_hex": "0x9e35778",
+    "abilities": [
+      "267 Wind Power"
+    ],
+    "original_en": "A wind move charges it:\\nits next Electric move.",
+    "translation_vi": "",
+    "byte_len": 47,
+    "pointer_at": [
+      "0x1a160cc"
+    ]
+  },
+  {
+    "offset_hex": "0x1e357a8",
+    "pointer_hex": "0x9e357a8",
+    "abilities": [
+      "268 Zero to Hero"
+    ],
+    "original_en": "Turns into its Hero Form\\nwhen switched out.",
+    "translation_vi": "",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a160d0"
+    ]
+  },
+  {
+    "offset_hex": "0x1d0128f",
+    "pointer_hex": "0x9d0128f",
+    "abilities": [
+      "269 Air Lock"
+    ],
+    "original_en": "Eliminates weather effects\\nwhile in battle.",
+    "translation_vi": "Xóa bỏ hoàn toàn mọi ảnh hưởng của thời tiết.",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a160d4"
+    ]
+  },
+  {
+    "offset_hex": "0x1e357d4",
+    "pointer_hex": "0x9e357d4",
+    "abilities": [
+      "270 Commander"
+    ],
+    "original_en": "Goes inside an ally\\nDondozo's mouth.",
+    "translation_vi": "",
+    "byte_len": 36,
+    "pointer_at": [
+      "0x1a160d8"
+    ]
+  },
+  {
+    "offset_hex": "0x1e357f9",
+    "pointer_hex": "0x9e357f9",
+    "abilities": [
+      "271 Electromorph"
+    ],
+    "original_en": "Getting hit charges it:\\nits next Electric move.",
+    "translation_vi": "",
+    "byte_len": 47,
+    "pointer_at": [
+      "0x1a160dc"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35829",
+    "pointer_hex": "0x9e35829",
+    "abilities": [
+      "272 Protosynth."
+    ],
+    "original_en": "Harsh sunlight or Booster\\nEnergy ups its best stat.",
+    "translation_vi": "",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a160e0"
+    ]
+  },
+  {
+    "offset_hex": "0x1e3585d",
+    "pointer_hex": "0x9e3585d",
+    "abilities": [
+      "273 Quark Drive"
+    ],
+    "original_en": "Electric Terrain or Booster\\nEnergy ups its best stat.",
+    "translation_vi": "",
+    "byte_len": 53,
+    "pointer_at": [
+      "0x1a160e4"
+    ]
+  },
+  {
+    "offset_hex": "0xba380c",
+    "pointer_hex": "0x8ba380c",
+    "abilities": [
+      "274 Burning Soul"
+    ],
+    "original_en": "Full HP: Fire moves get +1\\npriority. Also [FC0105]Flash Fire[FC010F].",
+    "translation_vi": "Đầy HP: chiêu Fire được +1 ưu tiên; kèm [FC0105]Flash Fire[FC010F].",
+    "byte_len": 59,
+    "pointer_at": [
+      "0x1a160e8"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35893",
+    "pointer_hex": "0x9e35893",
+    "abilities": [
+      "275 Good as Gold"
+    ],
+    "original_en": "Not affected by other\\nPokémon's status moves.",
+    "translation_vi": "",
+    "byte_len": 45,
+    "pointer_at": [
+      "0x1a160ec"
+    ]
+  },
+  {
+    "offset_hex": "0x1e358c1",
+    "pointer_hex": "0x9e358c1",
+    "abilities": [
+      "276 VesselOfRuin"
+    ],
+    "original_en": "Lowers the Sp. Atk of all\\nother Pokémon.",
+    "translation_vi": "",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a160f0"
+    ]
+  },
+  {
+    "offset_hex": "0x1e358ea",
+    "pointer_hex": "0x9e358ea",
+    "abilities": [
+      "277 SwordOfRuin"
+    ],
+    "original_en": "Lowers the Defense of all\\nother Pokémon.",
+    "translation_vi": "",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a160f4"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35913",
+    "pointer_hex": "0x9e35913",
+    "abilities": [
+      "278 Tablets Ruin"
+    ],
+    "original_en": "Lowers the Attack of all\\nother Pokémon.",
+    "translation_vi": "",
+    "byte_len": 39,
+    "pointer_at": [
+      "0x1a160f8"
+    ]
+  },
+  {
+    "offset_hex": "0x1e3593b",
+    "pointer_hex": "0x9e3593b",
+    "abilities": [
+      "279 BeadsOfRuin"
+    ],
+    "original_en": "Lowers the Sp. Def of all\\nother Pokémon.",
+    "translation_vi": "",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a160fc"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35964",
+    "pointer_hex": "0x9e35964",
+    "abilities": [
+      "280 Orich. Pulse"
+    ],
+    "original_en": "Turns the sunlight harsh.\\nIn sun, its moves hit harder.",
+    "translation_vi": "",
+    "byte_len": 55,
+    "pointer_at": [
+      "0x1a16100"
+    ]
+  },
+  {
+    "offset_hex": "0x1e3599c",
+    "pointer_hex": "0x9e3599c",
+    "abilities": [
+      "281 HadronEngine"
+    ],
+    "original_en": "Sets Electric Terrain. On\\nit, its moves hit harder.",
+    "translation_vi": "",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a16104"
+    ]
+  },
+  {
+    "offset_hex": "0x1e359d0",
+    "pointer_hex": "0x9e359d0",
+    "abilities": [
+      "282 Opportunist"
+    ],
+    "original_en": "Copies the stat boosts\\nits foes get.",
+    "translation_vi": "",
+    "byte_len": 36,
+    "pointer_at": [
+      "0x1a16108"
+    ]
+  },
+  {
+    "offset_hex": "0x1e359f5",
+    "pointer_hex": "0x9e359f5",
+    "abilities": [
+      "283 Cud Chew"
+    ],
+    "original_en": "Eats a used Berry again\\nat the next turn's end.",
+    "translation_vi": "",
+    "byte_len": 47,
+    "pointer_at": [
+      "0x1a1610c"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35a25",
+    "pointer_hex": "0x9e35a25",
+    "abilities": [
+      "284 SupremeOvlrd"
+    ],
+    "original_en": "Stronger for each ally\\nthat has fainted.",
+    "translation_vi": "",
+    "byte_len": 40,
+    "pointer_at": [
+      "0x1a16110"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35a4e",
+    "pointer_hex": "0x9e35a4e",
+    "abilities": [
+      "286 Costar"
+    ],
+    "original_en": "Copies its ally's stat\\nchanges on entering.",
+    "translation_vi": "",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a16118"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35a7a",
+    "pointer_hex": "0x9e35a7a",
+    "abilities": [
+      "287 Toxic Debris"
+    ],
+    "original_en": "Physical hits scatter\\nToxic Spikes.",
+    "translation_vi": "",
+    "byte_len": 35,
+    "pointer_at": [
+      "0x1a1611c"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35a9e",
+    "pointer_hex": "0x9e35a9e",
+    "abilities": [
+      "288 Armor Tail"
+    ],
+    "original_en": "Foes cannot use priority\\nmoves on its side.",
+    "translation_vi": "",
+    "byte_len": 43,
+    "pointer_at": [
+      "0x1a16120"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35aca",
+    "pointer_hex": "0x9e35aca",
+    "abilities": [
+      "289 Earth Eater"
+    ],
+    "original_en": "Ground moves restore\\nits HP instead.",
+    "translation_vi": "",
+    "byte_len": 36,
+    "pointer_at": [
+      "0x1a16124"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35aef",
+    "pointer_hex": "0x9e35aef",
+    "abilities": [
+      "290 MyceliumMght"
+    ],
+    "original_en": "Status moves go last but\\nignore Abilities.",
+    "translation_vi": "",
+    "byte_len": 42,
+    "pointer_at": [
+      "0x1a16128"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35b1a",
+    "pointer_hex": "0x9e35b1a",
+    "abilities": [
+      "291 Toxic Chain"
+    ],
+    "original_en": "Its hits may badly\\npoison the target.",
+    "translation_vi": "",
+    "byte_len": 37,
+    "pointer_at": [
+      "0x1a1612c"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35b40",
+    "pointer_hex": "0x9e35b40",
+    "abilities": [
+      "292 SuprswtSyrup"
+    ],
+    "original_en": "Lowers the foes' evasion\\nthe first time it enters.",
+    "translation_vi": "",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a16130"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35b73",
+    "pointer_hex": "0x9e35b73",
+    "abilities": [
+      "294 Hospitality"
+    ],
+    "original_en": "Restores its ally's HP\\nwhen it enters.",
+    "translation_vi": "",
+    "byte_len": 38,
+    "pointer_at": [
+      "0x1a16138"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35b9a",
+    "pointer_hex": "0x9e35b9a",
+    "abilities": [
+      "295 Mind's Eye"
+    ],
+    "original_en": "Ignores evasion. Hits\\nGhosts with Normal/Fighting.",
+    "translation_vi": "",
+    "byte_len": 50,
+    "pointer_at": [
+      "0x1a1613c"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35bcd",
+    "pointer_hex": "0x9e35bcd",
+    "abilities": [
+      "296 EmbodyAspect"
+    ],
+    "original_en": "The mask's power ups\\none of its stats.",
+    "translation_vi": "",
+    "byte_len": 38,
+    "pointer_at": [
+      "0x1a16140"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35bf4",
+    "pointer_hex": "0x9e35bf4",
+    "abilities": [
+      "297 Tera Shift"
+    ],
+    "original_en": "Turns into its Terastal\\nForm on entering.",
+    "translation_vi": "",
+    "byte_len": 41,
+    "pointer_at": [
+      "0x1a16144"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35c1e",
+    "pointer_hex": "0x9e35c1e",
+    "abilities": [
+      "298 Tera Shell"
+    ],
+    "original_en": "At full HP, every hit is\\nnot very effective.",
+    "translation_vi": "",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a16148"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35c4b",
+    "pointer_hex": "0x9e35c4b",
+    "abilities": [
+      "299 TeraformZero"
+    ],
+    "original_en": "Removes all weather and\\nterrain.",
+    "translation_vi": "",
+    "byte_len": 32,
+    "pointer_at": [
+      "0x1a1614c"
+    ]
+  },
+  {
+    "offset_hex": "0x1e35c6c",
+    "pointer_hex": "0x9e35c6c",
+    "abilities": [
+      "300 P. Puppeteer"
+    ],
+    "original_en": "Those it poisons become\\nconfused as well.",
+    "translation_vi": "",
+    "byte_len": 41,
+    "pointer_at": [
+      "0x1a16150"
+    ]
+  },
+  {
+    "offset_hex": "0x1a10001",
+    "pointer_hex": "0x9a10001",
+    "abilities": [
+      "326 Orich. Pulse"
+    ],
+    "original_en": "Turns the sunlight harsh.\\nIn sun, Attack is up 33%.",
+    "translation_vi": "",
+    "byte_len": 51,
+    "pointer_at": [
+      "0x1a161b8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d02f7d",
+    "pointer_hex": "0x9d02f7d",
+    "abilities": [
+      "334 Chill. Neigh"
+    ],
+    "original_en": "Getting a takedown boosts\\nthis Pokémon's Attack.",
+    "translation_vi": "Tăng Tấn công mỗi khi hạ gục một đối thủ.",
+    "byte_len": 48,
+    "pointer_at": [
+      "0x1a161d8"
+    ]
+  },
+  {
+    "offset_hex": "0x1d028b6",
+    "pointer_hex": "0x9d028b6",
+    "abilities": [
+      "337 TanglingHair"
+    ],
+    "original_en": "Contact with it lowers\\nthe attacker's Speed.",
+    "translation_vi": "Kẻ chạm vào sẽ bị giảm chỉ số Tốc độ.",
+    "byte_len": 44,
+    "pointer_at": [
+      "0x1a161e4"
+    ]
+  }
+]
